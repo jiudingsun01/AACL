@@ -89,11 +89,9 @@ Yuansheng Ni \\
 
 \input{sections/01_introduction.tex}
 \input{sections/02_relatedwork.tex}
-%\input{sections/03_instruction_robustness.tex}
-\input{sections/04_data.tex}
-\input{sections/05_experiment.tex}
-\input{sections/06_improvement.tex}
-\input{sections/07_conclusion}
+\input{sections/03_data.tex}
+\input{sections/04_experiment.tex}
+\input{sections/05_conclusion}
 
 
 \section{Preamble}
@@ -115,70 +113,7 @@ where \verb|<dim>| is replaced with a length. Do not set this length smaller tha
 
 Footnotes are inserted with the \verb|\footnote| command.\footnote{This is a footnote.}
 
-\subsection{Tables and figures}
 
-See Table~\ref{tab:accents} for an example of a table and its caption.
-\textbf{Do not override the default caption sizes.}
-
-\begin{table}
-  \centering
-  \begin{tabular}{lc}
-    \hline
-    \textbf{Command} & \textbf{Output} \\
-    \hline
-    \verb|{\"a}|     & {\"a}           \\
-    \verb|{\^e}|     & {\^e}           \\
-    \verb|{\`i}|     & {\`i}           \\
-    \verb|{\.I}|     & {\.I}           \\
-    \verb|{\o}|      & {\o}            \\
-    \verb|{\'u}|     & {\'u}           \\
-    \verb|{\aa}|     & {\aa}           \\\hline
-  \end{tabular}
-  \begin{tabular}{lc}
-    \hline
-    \textbf{Command} & \textbf{Output} \\
-    \hline
-    \verb|{\c c}|    & {\c c}          \\
-    \verb|{\u g}|    & {\u g}          \\
-    \verb|{\l}|      & {\l}            \\
-    \verb|{\~n}|     & {\~n}           \\
-    \verb|{\H o}|    & {\H o}          \\
-    \verb|{\v r}|    & {\v r}          \\
-    \verb|{\ss}|     & {\ss}           \\
-    \hline
-  \end{tabular}
-  \caption{Example commands for accented characters, to be used in, \emph{e.g.}, Bib\TeX{} entries.}
-  \label{tab:accents}
-\end{table}
-
-\subsection{Hyperlinks}
-
-Users of older versions of \LaTeX{} may encounter the following error during compilation:
-\begin{quote}
-  \tt\verb|\pdfendlink| ended up in different nesting level than \verb|\pdfstartlink|.
-\end{quote}
-This happens when pdf\LaTeX{} is used and a citation splits across a page boundary. The best way to fix this is to upgrade \LaTeX{} to 2018-12-01 or later.
-
-\subsection{Citations}
-
-\begin{table*}
-  \centering
-  \begin{tabular}{lll}
-    \hline
-    \textbf{Output}           & \textbf{natbib command} & \textbf{Old ACL-style command} \\
-    \hline
-    \citep{Gusfield:97}       & \verb|\citep|           & \verb|\cite|                   \\
-    \citealp{Gusfield:97}     & \verb|\citealp|         & no equivalent                  \\
-    \citet{Gusfield:97}       & \verb|\citet|           & \verb|\newcite|                \\
-    \citeyearpar{Gusfield:97} & \verb|\citeyearpar|     & \verb|\shortcite|              \\
-    \hline
-  \end{tabular}
-  \caption{\label{citation-guide}
-    Citation commands supported by the style file.
-    The style is based on the natbib package and supports all natbib citation commands.
-    It also supports commands defined in previous ACL style files for compatibility.
-  }
-\end{table*}
 
 Table~\ref{citation-guide} shows the syntax supported by the style files.
 We encourage you to use the natbib styles.
@@ -211,15 +146,6 @@ Please see Section~\ref{sec:bibtex} for information on preparing Bib\TeX{} files
 \subsection{Appendices}
 
 Use \verb|\appendix| before any appendix section to switch the section numbering over to letters. See Appendix~\ref{sec:appendix} for an example.
-
-\section{Bib\TeX{} Files}
-\label{sec:bibtex}
-
-Unicode cannot be used in Bib\TeX{} entries, and some ways of typing special characters can disrupt Bib\TeX's alphabetization. The recommended way of typing special characters is shown in Table~\ref{tab:accents}.
-
-Please ensure that Bib\TeX{} records contain DOIs or URLs when possible, and for all the ACL materials that you reference.
-Use the \verb|doi| field for DOIs and the \verb|url| field for URLs.
-If a Bib\TeX{} entry has a URL or DOI field, the paper title in the references section will appear as a hyperlink to the paper, using the hyperref \LaTeX{} package.
 
 \section*{Acknowledgements}
 

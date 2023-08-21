@@ -26,6 +26,7 @@ Alpaca，Vicuna，WizardLM 以及traditional task-oridented
 
 Instruction Dataset包含模型直接学习的指令
 Unobserved Instructions是模型训练过程中未直接学习但可能遇到的指令
+Unseen Task（分QA和RE）
 Unseen Instructions则是模型在训练过程中完全未遇到，需要模型具有高度泛化能力才能处理的指令。
 
 问题：
@@ -41,6 +42,7 @@ Unseen Instructions则是模型在训练过程中完全未遇到，需要模型�
     主要贡献如下： We perform a comprehensive and indepth analysis of the robustness of xxx模型
 2 Related Work
 3 Instruction Datasets
+Unseen Task（分QA和RE）
 3.1 Unseen Datasets
 	介绍unseen instruction和unseen task的数据集？
 3.2 Evaluation Benchmarks

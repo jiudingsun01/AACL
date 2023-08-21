@@ -1,0 +1,435 @@
+\section{Evaluating the Robustness of Instruction-tuned LLMs}
+
+\subsection{Models and Data}
+
+We conduct experiments with model variants trained over three instruction collections (these provide \emph{observed} task instructions): P3 \cite{sanh2021multitask}, Flan-2022 \cite{chung2022scaling}, and Alpaca \cite{alpaca}.
+%For each model and associated published instruction collection, we manually perused entire collection and pick the 
+To facilitate our analyses, we manually identified all instructions that correspond to (a) multiple-choice question answering (QA), (b) binary classification (BC), or tasks that demand ``yes'' or ``no'' responses, and (c) multi-class classification (MC), which requires classifying inputs into a finite set of categories.
+
+To evaluate model robustness with respect to instruction phrasings we use two benchmarks: \textsc{MMLU} \cite{hendrycks2020measuring} and \textsc{Big-Bench Lite} (\textsc{BBL}) \cite{srivastava2022beyond} along with the acquired set of novel instructions described in Section \ref{section:new-instructions}.
+%We evaluate all tasks with multi-choice grading with logit scores to keep a fair comparison. 
+We include all 57 tasks from \textsc{MMLU}, and 14 of 24 tasks from \textsc{BBL}.
+From the latter we exclude two tasks that rely on generation metrics, four that use exact-match, and four that contain tokens unrecognized by the T5 and/or LLaMa tokenizer (e.g., inputs are emojis in one task).
+
+%2 tasks with NLG metric, 4 tasks with exact-match metric, and 4 tasks containing T5/LLaMa unrecognized tokens were removed from evaluation.
+%For unobserved instruction, we follow the procedure in section 3.2 to collect task-specific instructions for each task that we are evaluating. 
+%For observed instruction, we classify all tasks into three categories: 
+%We group observed instructions under three categories corresponding to task types (which imply particular output formats): (1) Multiple-choice QA, i.e., tasks that entail selecting an answer to a question from a finite set of options;
+%that present themselves as questions with choices. 
+%(2) Multi-class classification, which requires classifying inputs into a finite set of categories; and (3) Binary classification, or tasks that demand ``yes'' or ``no'' responses. 
+
+\begin{table*}[h]
+  \small
+  \centering
+  \begin{tabular}{c l}
+    \toprule
+    \multirow{3}{*}{\textsc{QA}} & In this task, you are given a multiple-choice question and you have to pick the                                                                                                                              \\
+                                 & correct option. Answer with option indexes (i.e., "A", "B", "C", and "D").                                                                                                                                   \\
+                                 & Q: \textcolor{ForestGreen}{\{question\}} A. \textcolor{MidnightBlue}{\{choiceA\}} B. \textcolor{MidnightBlue}{\{choiceB\}} C. \textcolor{MidnightBlue}{\{choiceC\}} D. \textcolor{MidnightBlue}{\{choiceD\}} \\
+    \midrule
+    \multirow{1}{*}{\textsc{MC}} & Pick one category for the following text. The options are - \textcolor{MidnightBlue}{\{options\}} \textcolor{ForestGreen}{\{text\}}                                                                          % \\
+    %& \textcolor{ForestGreen}{\{text\}} \\
+    \\
+    \midrule
+    \multirow{2}{*}{\textsc{BC}} & \textcolor{ForestGreen}{\{paragraph\}} Choose your answer: According to the above paragraph, the                                                                                                             \\
+                                 & question "\textcolor{ForestGreen}{\{question\}}" is "\textcolor{MidnightBlue}{\{response\}}"?                                                                                                                \\
+    \bottomrule
+  \end{tabular}
+  \caption{Examples of observed instructions we collected for three general types of tasks.}
+  \label{table:instruction-examples}
+\end{table*}
+
+We use the same instructions for all tasks in the same category, taken from the published instruction tuning datasets associated with each model.
+These instructions are general, e.g., in the case of classification they request that the model consider an example with respect to categorization criteria and label space provided by the instance, and select an appropriate category (examples in Table \ref{table:instruction-examples}).
+One can ``mix-and-match'' such instructions so long as they are appropriate for the task type.
+
+
+%this means there will be cases where we use an ``incorrect'' instruction for a particular dataset, i.e., instructing the model to select an answer on a basis that is in fact irrelevant to the task being considered (but such that the elicited output format will be correct).
+%This may degrade the performance of ``observed'' instructions, as compared to results which might be obtained if one manually aligned instructions to datasets within benchmarks. 
+%We made this analysis decision to avoid biasing results by inflating the performance of ``observed'' instructions; we are interested in how robust instruction-tuned LLMs are
+
+
+
+%3) Binary-classification: tasks that require the answer 'yes' or 'no'. 
+%To avoid subjective bias, we use the same instructions for all tasks in the same category. They are collected from the published instruction tuning dataset for each model.
+
+\begin{table}%[h]
+  \centering
+  \small
+  \begin{tabular}[t]{l l c c c}
+    \multicolumn{5}{c}{\textsc{Observed Instructions}}         \\
+    \toprule
+    %& \textsc{MMLU} & \multicolumn{3}{c}{\textsc{BBL}} \\
+    %& \multicolumn{3}{c}{\textsc{MMLU}} & \multicolumn{1}{c}{\textsc{BBL}} \\
+    \emph{Instruction Type} & \multicolumn{2}{c}{QA} & MC & BC \\
+    Flan                    & \multicolumn{2}{c}{50} & 35 & 18 \\
+    Alpaca                  & \multicolumn{2}{c}{20} & 20 & 11 \\
+    P3                      & \multicolumn{2}{c}{13} & 8  & 7  \\
+  \end{tabular}
+  \quad
+  \begin{tabular}[t]{l l|c|c|c}
+    \multicolumn{5}{c}{\textsc{Unobserved Instructions}}                     \\
+    \toprule
+    Number of tasks       & \multicolumn{2}{c}{1}  & \multicolumn{2}{c}{14}  \\
+    Instructions per task & \multicolumn{2}{c}{20} & \multicolumn{2}{c}{10}  \\
+    \hline
+    Total instructions    & \multicolumn{2}{c}{20} & \multicolumn{2}{c}{140} \\
+  \end{tabular}
+
+  \caption{Counts of instruction phrasings (unobserved and observed) we use for evaluations.}
+  \label{tab:data_stat}
+\end{table}
+
+
+\begin{comment}
+\begin{table}[h]
+  \centering
+  \begin{tabular}{l l|c|c|c}
+    \multicolumn{5}{c}{\textsc{Unobserved Instructions}}                                         \\
+    \toprule
+    %\hline
+                          & \multicolumn{2}{c}{\textsc{MMLU}} & \multicolumn{2}{c}{\textsc{BBL}} \\
+    Number of tasks       & \multicolumn{2}{c}{1}             & \multicolumn{2}{c}{12}           \\
+    Instructions per task & \multicolumn{2}{c}{20}            & \multicolumn{2}{c}{20}           \\
+    \hline
+    Total instructions    & \multicolumn{2}{c}{20}            & \multicolumn{2}{c}{120}          \\
+  \end{tabular}
+  \begin{tabular}{c c|c|c|c}
+    \multicolumn{5}{c}{\textsc{Observed Instructions}}                                  \\
+    \toprule
+    %\hline
+                     & \textsc{MMLU}            & \multicolumn{3}{c}{\textsc{BBL}}      \\
+    \hline
+    Instruction Type & \multicolumn{2}{|c|}{QA} & MC                               & BC \\
+    Flan             & \multicolumn{2}{|c|}{50} & 20                               & 18 \\
+    Alpaca           & \multicolumn{2}{|c|}{20} & 20                               & 11 \\
+    P3               & \multicolumn{2}{|c|}{13} & 8                                & 7  \\
+  \end{tabular}
+  \caption{Counts of instruction phrasings (unobserved and observed) we use for evaluations.}%The numbers of observed and unobserved instructions that we used for each model that we evaluate}
+  \label{tab:data_stat}
+\end{table}
+\end{comment}
+
+%Hence,
+\begin{comment}
+Formally, for each dataset/task $\mathcal{D}^i$, we have a set of unobserved instructions $\mathcal{I}_{\text{unb}}^{i}$ and a set of observed instructions $\mathcal{I}_{\text{obs}}^{i}$.
+We perform inference using these instructions over each dataset and calculate aggregate statistics (average accuracies and standard deviations) for performance achieved using $\mathcal{I}_{\text{unb}}^{i}$ and $\mathcal{I}_{\text{obs}}^{i}$.
+\end{comment}
+%For each individual instruction, we apply it to the dataset and run the inference. 
+%We compute and report the average accuracy and standard deviation of all the instructions in the set as the final result for that dataset. 
+
+\subsection{Results}
+\label{section:main-analysis-results}
+
+We present the main aggregated analysis results in Figure \ref{fig:main-results} and Table \ref{tab:main_result}.
+The take-away here is that using instructions unobserved in training---but manually composed for the task at hand and so semantically appropriate---leads to considerable degradation in performance: On average, unobserved instructions reduce accuracy by over five points across models considered.
+Table \ref{tab:main_result} reports results disaggregated by task type; we observe that classification tasks are most harmed by use of novel instructions.
+We provide additional, more granular (dataset-level) results in the Appendix.
+
+\begin{figure}[htbp]
+  \centering
+  \begin{subfigure}{0.475\textwidth}
+    %\includegraphics[width=\textwidth]{images/updated_plot.pdf}
+    \caption{Average zero-shot performance over all tasks when using observed and unobserved instructions.}
+    \label{fig:main-results-main_results}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}{0.475\textwidth}
+    %\includegraphics[width=\textwidth]{images/scaling_plot_larger.pdf}
+    \caption{Performances of Flan-T5 using observed and unobserved instructions as a function of model size.}
+    \label{fig:main_scaling_reesults}
+  \end{subfigure}
+  \caption{Using novel but valid instructions at test time (phrasings unobserved in training) consistently degrades the performance of instruction-tuned LLMs (a). Scale does not necessarily fix this (b).}
+  \label{fig:main-results}
+\end{figure}
+
+\begin{comment}
+\begin{figure}
+  \centering
+  \includegraphics[width=14.4cm]{images/main_results_v4.pdf}
+  \caption{Average performance across tasks between observed and unobserved instructions.}
+  \label{fig:main_results}
+\end{figure}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=14.4cm]{images/main_scaling_results_v1.pdf}
+  \caption{}
+  \label{fig:main_scaling_results}
+\end{figure}
+\end{comment}
+
+
+\begin{table*}[h]
+  \small
+  \centering
+  \begin{tabular}{l c c c c c}
+    \toprule
+    \multirow{2}{*}{\textbf{Model}}               & \textsc{MMLU}                           & \textsc{BBL-QA}                         & \textsc{BBL-BC}                    & \textsc{BBL-MC}                    & \textbf{Overall}                  \\ [0.5ex]
+                                                  & Avg. \ \ Std.                           & Avg. \ \ Std.                           & Avg. \ \ Std.                      & Avg. \ \ Std.                      & Avg. \ \ Std.                     \\
+    \hline
+    \rule{0pt}{12pt} Flan-T5-3B                   &                                         &                                         &                                    &                                                                        \\
+    \hspace{0.25cm} \textsc{Observed}             & $\textbf{48.1} \ \ (\pm 0.3)$           & $\textbf{59.0} \ \ (\pm 2.1)$           & $\textbf{66.5} \ \ (\pm 3.8)$      & $\textbf{55.6} \ \ (\pm 0.7)$      & $\textbf{57.3} \ \ (\pm 1.7)$     \\
+    \hspace{0.25cm} \textsc{Unobserved}           & $47.5 \ \ (\pm 0.9)$                    & $56.0 \ \ (\pm 7.3)$                    & $61.1 \ \ (\pm 6.9)$               & $52.1 \ \ (\pm 5.4)$               & $54.2 \ \ (\pm 5.1)$              \\
+    \hspace{0.25cm} \textbf{Performance $\Delta$} & \textcolor{red}{$\downarrow 0.6$}       & \textcolor{red}{$\downarrow 3.0$}       & \textcolor{red}{$\downarrow 5.5$}  & \textcolor{red}{$\downarrow 3.5$}  & \textcolor{red}{$\downarrow 3.1$} \\
+    %\hline 
+    \rule{0pt}{12pt} Alpaca-7B                    &                                         &                                         &                                    &                                                                        \\
+    \hspace{0.25cm} \textsc{Observed}             & $\textbf{41.9} \ \ (\pm 0.6)$           & $\textbf{48.6} \ \ (\pm 2.8)$           & $\textbf{53.8} \ \ (\pm 3.4)$      & $\textbf{32.1} \ \ (\pm 2.2)$      & $\textbf{44.1} \ \ (\pm 2.3)$     \\
+    \hspace{0.25cm} \textsc{Unobserved}           & $39.7 \ \ (\pm 2.2)$                    & $45.3 \ \ (\pm 6.5)$                    & $52.4 \ \ (\pm 6.5)$               & $16.4 \ \ (\pm 3.5)$               & $38.5 \ \ (\pm 4.7)$              \\
+    \hspace{0.25cm} \textbf{Performance $\Delta$} & \textcolor{red}{$\downarrow 2.2$}       & \textcolor{red}{$\downarrow 3.3$}       & \textcolor{red}{$\downarrow 1.4$}  & \textcolor{red}{$\downarrow 15.7$} & \textcolor{red}{$\downarrow 5.6$} \\
+    %\hline 
+    \rule{0pt}{12pt} T0++ 11B                     &                                         &                                         &                                    &                                                                        \\
+    \hspace{0.25cm} \textsc{Observed}             & $48.3 \ \ (\pm 0.9)$                    & $54.1 \ \ (\pm 4.1)$                    & $\textbf{66.1} \ \ (\pm 2.1)$      & $\textbf{42.0} \ \ (\pm 2.1)$      & $\textbf{52.6} \ \ (\pm 2.3)$     \\
+    \hspace{0.25cm} \textsc{Unobserved}           & $\textbf{48.5} \ \ (\pm 0.9)$           & $\textbf{54.7} \ \ (\pm 3.7)$           & $54.7 \ \ (\pm 4.3)$               & $41.4 \ \ (\pm 2.4)$               & $49.8 \ \ (\pm 2.8)$              \\
+    \hspace{0.25cm} \textbf{Performance $\Delta$} & \textcolor{ForestGreen}{$\uparrow 0.2$} & \textcolor{ForestGreen}{$\uparrow 0.7$} & \textcolor{red}{$\downarrow 11.4$} & \textcolor{red}{$\downarrow 0.6$}  & \textcolor{red}{$\downarrow 2.8$} \\
+    %\hline 
+    \rule{0pt}{12pt} Flan-T5-11B                  &                                         &                                         &                                    &                                                                        \\
+    \hspace{0.25cm} \textsc{Observed}             & $\textbf{53.2} \ \ (\pm0.2)$            & $\textbf{67.9} \ \ (\pm1.8)$            & $\textbf{65.6} \ \ (\pm6.0)$       & $\textbf{58.7} \ \ (\pm0.5)$       & $\textbf{61.4} \ \ (\pm2.1)$      \\
+    \hspace{0.25cm} \textsc{Unobserved}           & $52.7 \ \ (\pm0.8)$                     & $64.6 \ \ (\pm8.5)$                     & $63.6 \ \ (\pm6.1)$                & $55.9 \ \ (\pm5.5)$                & $59.2 \ \ (\pm5.2)$               \\
+    \hspace{0.25cm} \textbf{Performance $\Delta$} & \textcolor{red}{$\downarrow 0.5$}       & \textcolor{red}{$\downarrow 3.4$}       & \textcolor{red}{$\downarrow 2.0$}  & \textcolor{red}{$\downarrow 2.8$}  & \textcolor{red}{$\downarrow 2.2$} \\
+    %\hline
+    \rule{0pt}{12pt} Alpaca-13B                   &                                         &                                         &                                    &                                                                        \\
+    \hspace{0.25cm} \textsc{Observed}             & $\textbf{47.8} \ \ (\pm 0.5)$           & $\textbf{53.9} \ \ (\pm 2.2)$           & $\textbf{57.9} \ \ (\pm 4.8)$      & $\textbf{36.7} \ \ (\pm 1.8)$      & $\textbf{49.1} \ \ (\pm 2.3)$     \\
+    \hspace{0.25cm} \textsc{Unobserved}           & $47.0 \ \ (\pm 0.8)$                    & $51.7 \ \ (\pm 5.7)$                    & $54.1 \ \ (\pm 5.6)$               & $22.7 \ \ (\pm 7.5)$               & $43.9 \ \ (\pm 14.0)$             \\
+    \hspace{0.25cm} \textbf{Performance $\Delta$} & \textcolor{red}{$\downarrow 0.9$}       & \textcolor{red}{$\downarrow 2.2$}       & \textcolor{red}{$\downarrow 3.8$}  & \textcolor{red}{$\downarrow 14.0$} & \textcolor{red}{$\downarrow 5.2$} \\
+    \bottomrule
+  \end{tabular}
+  \vspace{0.25cm}
+  \caption{Results using observed and unobserved instructions across benchmark tasks (grouped by type). Performance degrades---sometimes by 10+ points---when one uses (\textsc{unobserved}) instructions, suggesting that instruction-tuned models are not particularly robust. BC, MC, and QA stand for binary classification, multi-class classification, and question answering, respectively.} %The overall performance of instruction-tuned models with observed and unobserved data. \textsc{MC} stands for multiple classification, and \textsc{BC} stands for binary classification.}
+  \label{tab:main_result}
+\end{table*}
+
+\subsection{A Closer Look at Instruction Robustness}
+\label{section:closer-look}
+
+Above we used general instructions requesting the model to perform tasks (Table \ref{table:instruction-examples}).
+%to avoid data contamination due to researcher bias. 
+Here we delve further into the performance degradation observed when using novel instructions. % that results from using unobserved instructions at inference time, 
+We report a curious result highlighting the degree to which models rely on having previously observed instructions: Incorrect but observed instructions outperform appropriate but unobserved instructions (Figure \ref{fig:adversarial}).
+%degree to which these models depend on having observed an instruction given at inference time. 
+
+We come to this observation by evaluating the performance of Flan-T5-XXL (11B) using six instruction types over seven datasets from \textsc{Big-Bench}. %, following the same protocol as in \ref{section:main-analysis-results}, 
+%we evaluate the performance of Flan-T5-XXL (11B) with six different instruction types. %under six different settings. 
+In particular, this includes (variants of) two instructions \emph{observed} in training:
+\textbf{Closest} is the instruction from the most similar task in the instruction-tuning set; \textbf{Incorrect} is an observed instruction for a \emph{completely different} and inappropriate task (but which has the same desired output format, e.g., classification)---intuitively these should not yield the desired behavior; \textbf{Negated} is the same as \textbf{closest}, but we negate the instruction to indicate that it should \emph{not} perform the task.
+%to reverse the instruction.
+
+
+For \emph{unobserved} instructions, we consider:
+\textbf{Task designer}, the instruction (task prefix) provided by the author of the task in \textsc{Big-Bench}, and;
+\textbf{Newly collected}, or the novel instructions collected from NLP graduate students, described above.
+As a control for reference, we also consider \textbf{Nonsensical}, which is a random ``instruction'' completely irrelevant to any task.
+
+
+\begin{comment}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=140mm]{images/adversarial_w_examples_cropped.pdf}
+  \caption{Caption}
+  \label{fig:adversarial}
+\end{figure}
+\end{comment}
+
+\begin{figure}
+  \centering
+  %\includegraphics[scale=0.335]{images/adversarial.pdf}
+  \caption{{\bf \emph{Incorrect} but observed instructions perform better on average than \emph{correct} but unobserved instructions}. We report averages over benchmarks, but show example instructions on the right for a specific, illustrative task. We provide all instructions in the Appendix.}
+  \vspace{-0.5em}
+  \label{fig:adversarial}
+\end{figure}
+
+Figure \ref{fig:adversarial} reports average results for these variants.
+Consistent with our findings, using instructions unobserved in training degrades performance.
+Strikingly, here we also find that using an \emph{inappropriate but observed} instruction outperforms using \emph{appropriate but unobserved} instructions.
+This indicates that instruction-tuned models---or at least modestly sized ones we have evaluated here---may in some way overrely on having observed instructions in training, and do not generalize to new instructions and phrasings as we might hope. We provide all the instructions and results in the Appendix.
+%generalize somewhat poorly to new instructions, compared to their performance when used with instructions seen in training.
+%That observed but incorrect instructions fare better than unobserved but correct instructions illustrates this point. 
+
+
+%The result shows that in most of cases, the observed instructions outperform the unobserved ones by a large margin. More surprisingly, the incorrect, observed instructions - being semantically distracting to the actual task - have comparable performance with the unobserved instruction, which is semantically accurate but not trained before.
+
+
+% Specifically, we ... % TODO
+%Here, to provide a closer look at the gap between the performance of observed and unobserved instructions, we conduct a more specific experiment that tests the  
+
+\begin{comment}
+\begin{table}[h]
+  \centering
+  \begin{tabular}{l c}
+    \toprule
+    Settings             & \textbf{Avg. Acc.} \\ [0.5ex]
+    \hline
+    Task Designer        & 45.2               \\
+    Unobserved           & 44.1               \\
+    \hline
+    Observed - Correct   & \textbf{50.5}      \\
+    Observed - Incorrect & 47.2               \\
+    Observed - Negated   & 43.7               \\
+    \hline
+    Random Text          & 35.9               \\
+    \bottomrule
+  \end{tabular}
+  \caption{Results on 7 Datasets from \textsc{Big-Bench} with different instruction settings.}
+  \label{tab:my_label}
+\end{table}
+\end{comment}
+
+\subsection{Scaling}
+
+%Due to the limited accessibility of LLMs instruction-tuning collections, we are not able to evaluate the instruction robustness of 
+Does instruction robustness begin to emerge as a function of scale?
+To attempt to answer this, we repeated all experiments from Table \ref{tab:main_result} with Flan-T5 model sizes ranging from small (80M parameters) to XXL (11B).
+We observe in Figure \ref{fig:main_scaling_reesults} that the disparity between results achieved with observed versus unobserved instructions \textbf{does not} seem to decrease with model scale, at least up to this point.
+That said, massive models (175B+) may offer greater robustness.
+However, we reiterate that much of the excitement about instruction tuning is the possibility that this technique appears to allow much smaller models to achieve results competitive with massive alternatives.
+%the scalability of the issue that we have discovered, we took Flan-T5, the instruction-tuned model with the largest size variation, by repeating all the experiments in \ref{tab:main_result} from Flan-T5-Small (80M) to Flan-T5-XXL (11B). The performance gap on both \textsc{MMLU} and \textsc{BBL} is not decreased as the model scales exponentially.
+
+
+\subsection{Robustness with Semantic Distance}
+\label{section:mmlu_variance}
+%Results Not So Variable on MMLU?}
+
+One observation in \ref{section:main-analysis-results} is that performance on \textsc{MMLU} is less affected by using unobserved instructions.
+%seems to suffer less from the O.O.D. instructions. 
+\textsc{MMLU} is a benchmark with 57 QA tasks about different knowledge domains; these tasks all share a similar form of input-output (question, four choices $\rightarrow$ answer).
+During instruction collection, we treated all tasks in \textsc{MMLU} as a general QA task and asked NLP researchers to write general QA instructions.
+%to give instructions that can apply to all the questions. Hence, these "meta" 
+As a result, we hypothesize that these instructions are comparatively similar to the observed instructions, and this in turn explains the relative robustness in this case.
+% that we collected for evaluation. Therefore, the degradation of the performance is relatively light.
+
+We empirically verify this in Figure \ref{fig:embeddings} and Table \ref{table:distances}. For each instance (instruction plus example), we extract the representation at the penultimate layer for the first decoded token. %To visualize the distribution of instances with observed and unobserved instructions, w
+We use tSNE \cite{van2008visualizing} to visualize these representations of observed and unobserved instructions over instances in \textsc{MMLU} and \textsc{BBL}.
+Figure \ref{fig:embeddings} shows that in the case of \textsc{MMLU} the unobserved instructions we collected are quite similar to the observed, while there is a greater separation between unobserved and observed instructions in \textsc{BBL}.
+We also provide a numerical measurement of this phenomonen in Table \ref{table:distances}.
+We report the average $\ell$2 distance between representations of unobserved instructions and those of their nearest observed counterparts.
+We see that \textsc{MMLU} unobserved instructions are, on average, closer to the nearest observed instruction; this correlates with the lower observed performance drop.
+These findings are in line with the hypothesis that the unobserved instructions for \textsc{MMLU} are more similar to the observed instructions for this dataset, and this likely explains the apparent robustness in this case. %We report analogous results for all datasets in the Appendix.
+%we provide a numerical measurement of what the plot is indicating. For each unobserved instruction, we match it with the closest observed instruction by the average L2 distance across all the examples that we sampled. We compute the average distances and accuracy degradation with all the observed and unobserved instructions pairs.
+%, we show that the instructions we collected for MMLU and BBL have an astonishing difference. In MMLU, the instances with observed instruction and unobserved instruction are less distinguishable, whereas in BBL, the two clusters are clearly separated in the latent space.
+
+%To verify our hypothesis, propose a method to measure the distributional difference between observed and unobserved instructions. 
+
+\begin{figure}[h]
+  \centering
+  %\includegraphics[scale=0.255]{images/exp_emb_plot_300_cropped.pdf}
+  \caption{tSNE plots of representations for the first decoded tokens of 300 randomly sampled examples from \textsc{MMLU} and \textsc{BBL} with Flan-T5 (XXL). Embeddings of observed and unobserved instructions for \textsc{MMLU} are similar, while for \textsc{BBL} they are quite different. This result holds across most but not all models considered: See the \ref{section:embeddings} for visualizations over all models.}%The pattern of the tSNE plot is not an absolute metric and varies from model to model based on the embedding size. However, most of the examples we visualize show similar patterns as demonstrated, and we report all of the visualizations in the Appendix.}
+  \label{fig:embeddings}
+\end{figure}
+
+
+\begin{comment}
+\begin{table}[h]
+  \small
+  \centering
+  \begin{tabular}{l l l}
+    \toprule
+    \textbf{Dataset}                 & \textbf{Avg. $\ell$2} ($\ell$2) & \textbf{Avg. $\Delta$ Accuracy} (\%) \\
+    \midrule
+    \textsc{MMLU}                    & \textbf{19.8}                   & -\textbf{1.5}\%                      \\
+    \midrule
+    \textsc{Novel Concepts}          & 22.0                            & -3.1\%                               \\
+    \textsc{StrangeQA}               & 55.3                            & -5.5\%                               \\
+    \textsc{Language Identification} & 59.0                            & -11.3\%                              \\
+    \bottomrule
+  \end{tabular}
+  \caption{Average distances and accuracy degradations (as \%) on three datasets in \textsc{BBL}.}
+  \label{table:distances}
+\end{table}
+\end{comment}
+
+%The result shows that the accuracy degradation for using unobserved instructions is highly correlated with the similarity between the instructions used and the instruction trained. 
+
+We plot mean performance degradation (as \%) as a function of average similarity between the similarity of the first decoded tokens (following \emph{unobserved} instructions) and the same for the \emph{most similar} \emph{observed} instruction.
+The negative slope implies the intuitive relationship: Instructions that are dissimilar (in terms of model representations) tend to result in poorer performance.  However, the relationship is relatively weak, yielding an intercept estimate of -0.8 and a slope of -0.2 ($p=$0.08).
+
+
+\begin{figure}[h]
+  \begin{floatrow}
+    \floatbox{figure}[.5\textwidth][\FBheight][t]{
+      \centering
+      %\includegraphics[scale=0.45]{images/reg_cropped.pdf}
+    }
+    {
+      \caption{Plots of average degradations in performance versus the semantic distance while using unobserved instructions.}
+      \label{fig:perf-dist-reg}
+    }
+    % \label{fig:perf-dist-reg}
+    \floatbox{table}[.5\textwidth][\FBheight][t]{
+      \vspace{-30pt}
+      \begin{tabular}{l l l}
+        \toprule
+        \textbf{Dataset} & \textbf{Avg.} $\Delta\ell$2 & \textbf{Avg. $\Delta$ Acc.} \\
+        \midrule
+        \textsc{MMLU}    & \textbf{19.8}               & -\textbf{0.5}               \\
+        \midrule
+        \textsc{BBL-QA}  & 37.9                        & -3.4                        \\
+        \textsc{BBL-BC}  & 25.3                        & -2.0                        \\
+        \textsc{BBL-MC}  & 26.1                        & -2.8                        \\
+        \bottomrule
+      \end{tabular}
+    }
+    {
+      \caption{Average degradations in performance for four categories. It could be seen that \textsc{MMLU} has minimal average distance, which indicates a smaller distribution shift, and hence leads to the smallest degradation}
+      \label{table:distances}
+    }
+  \end{floatrow}
+\end{figure}
+
+\begin{comment}
+\caption{Average degradations in performance observed when using instructions unobserved training as a function of the similarity between (a) the representation induced by the model for a given instruction, and, (b) the same for the \emph{nearest} observed instruction. This is for Flan-T5 (XXL). We use representations for the first token following the instruction, extracted from the penultimate layer in the network.}
+\end{comment}
+
+\vspace{-0.5em}
+\subsection{Robustness Under In-Context Learning (ICL)}
+
+
+Previous study \cite{gu2023robustness} has shown that the LLMs are less sensitive to prompt / instruction variation when few-shot examples are provided in context.
+While we are focused on zero-shot capabilities, for completeness, we re-ran all experiments in a few-shot setting.
+%Although this is not the focus of our work, we have conducted all of our previous experiments equally under few-shot settings. 
+We report these results in the \ref{section:icl_robustness}. The main finding is that while some discrepancy remains, in general ICL \textbf{slightly} decreases the sensitivity of models to the use of unobserved instructions.
+This is intuitive, given that the examples themselves likely imply the desired task and may affect the distribution.
+
+\begin{figure}
+  \centering
+  %\includegraphics[scale=0.17]{images/icl_full.pdf}
+  \caption{The performance degradation when using unobserved instruction at \textsc{BBL} and \textsc{MMLU} with Flan-T5-XXL. We plot the accuracy degradation of all the unobserved instructions compared with the average accuracy of the observed ones. It could be seen that under one-shot in-context learning, the model is slightly more robust as the performance difference converges closer to 0}
+  \label{fig:icl}
+\end{figure}
+
+\begin{comment}
+\begin{figure*}[h]
+  \begin{floatrow}
+    \floatbox{figure}[.5\textwidth][\FBheight][t]{
+      \centering
+      \includegraphics[scale=0.16]{images/icl.pdf}
+      \label{fig:perf-dist-reg}
+    }
+    {
+      \caption{Plots of average degradations in performance versus the semantic distance while using unobserved instructions.}
+    }
+    % \label{fig:perf-dist-reg}
+    \floatbox{table}[.5\textwidth][\FBheight][t]{
+      \vspace{-10pt}
+      \begin{tabular}{l c c c}
+        \toprule
+        \textbf{Dataset}     & \textbf{0-shot} & \textbf{1-shot} & $\Delta$ \textbf{Acc.} \\
+        \midrule
+        \textsc{Small (80M)} & 22.0            & -3.1            & -                      \\
+        \textsc{Small (80M)} & 55.3            & -5.5            & -                      \\
+        \textsc{Small (80M)} & 59.0            & -11.3           & -                      \\
+        \textsc{Small (80M)} & 59.0            & -11.3           & -                      \\
+        \textsc{Small (80M)} & 59.0            & -11.3           & -                      \\
+        \bottomrule
+      \end{tabular}
+      \label{table:icl_improvement}
+    }
+    {
+      \caption{Average degradations in performance for four categories. It could be seen that \textsc{MMLU} has the minimal distance and hence yields the least degradation}
+    }
+  \end{floatrow}
+\end{figure*}
+\end{comment}
+
+
+
