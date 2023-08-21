@@ -13,25 +13,16 @@ Our findings are:
 3) size -> 
 
 
-对FLAN-T5 3b, 11b，Alpaca 7b, Vicuna 7b, WizardLM 7b模型在a,b,c,d数据集（分为unseen instruction和unseen task）上测试
+对FLAN-T5 3b, 11b，Alpaca 7b, Vicuna 7b, WizardLM 7b模型在TACRED，RETACRED，TACREV，SemEval数据集（分为unseen instruction和unseen task）上测试，P,Recall,F1
  
 Alpaca，Vicuna，WizardLM 以及traditional task-oridented 
 
-"Observed Instructions/Unobserved Instructions"和"Observed Tasks/Unobserved Tasks"主要强调的是模型在训练阶段是否遇到过某个指令或任务。
-
-然而，"Unseen Instructions"和"Unseen Tasks"不仅仅是在训练阶段模型未接触过的指令或任务，它们还包括了在实际使用中可能让模型遇到的全新的指令或任务。这意味着那些指令或任务不仅在训练数据中未出现过，而且在概念或功能上与训练任务不同，可能需要模型进行更高级别的推理和泛化。
-
-简单来说，"Unseen Instructions/Tasks"比"Unobserved Instructions/Tasks"更强调模型的泛化能力，而"Unobserved Instructions/Tasks"更注重模型对训练数据的学习能力。
-
-
 Instruction Dataset包含模型直接学习的指令
 Unobserved Instructions是模型训练过程中未直接学习但可能遇到的指令
+
 Unseen Task（分QA和RE）
 Unseen Instructions则是模型在训练过程中完全未遇到，需要模型具有高度泛化能力才能处理的指令。
-
-问题：
-
-提高鲁棒性做不做
+Zero-shot 模型需要在没有看过任何特定任务样本的情况下，直接对任务作出预测
 
 框架
 
@@ -40,9 +31,20 @@ Unseen Instructions则是模型在训练过程中完全未遇到，需要模型�
     B. 说明所使用的不同模型：FLAN-T5 3b, 11b，Alpaca 7b, Vicuna 7b, WizardLM 7b
     C. 概述研究主题：unseen instruction和unseen task上的鲁棒性
     主要贡献如下： We perform a comprehensive and indepth analysis of the robustness of xxx模型
+
 2 Related Work
+
+
 3 Instruction Datasets
-Unseen Task（分QA和RE）
+TACRED，RETACRED，TACREV，SemEval数据集
+
+只有REtask，reformulate 成QA
+
+
+Unseen Task （分QA和RE）,
+
+QA和RE，再测试instruction的robustness
+
 3.1 Unseen Datasets
 	介绍unseen instruction和unseen task的数据集？
 3.2 Evaluation Benchmarks
