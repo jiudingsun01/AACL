@@ -1,0 +1,101 @@
+
+Instruction-tuned LLMs对于 unseen Instructions 以及 unseen tasks的鲁棒性。
+With four real-world relation extraction dataset as case studies, we comprehensively evaluate the two series of instruction-following large language models tuned on 1) open-domain instructions and 2) task-oriented instructions.
+
+Our findings are: 
+
+
+
+1) robustness
+
+2) performance
+
+3) size -> 
+
+
+对FLAN-T5 3b, 11b，Alpaca 7b, Vicuna 7b, WizardLM 7b模型在a,b,c,d数据集（分为unseen instruction和unseen task）上测试
+ 
+Alpaca，Vicuna，WizardLM 以及traditional task-oridented 
+
+
+框架
+
+1 Introduction
+    A. 介绍研究的背景和目的
+    B. 说明所使用的不同模型：FLAN-T5 3b, 11b，Alpaca 7b, Vicuna 7b, WizardLM 7b
+    C. 概述研究主题：unseen instruction和unseen task上的鲁棒性
+2 Related Work
+3 Instruction Datasets
+	介绍unseen instruction和unseen task的数据集？
+3.1 Evaluation Benchmarks
+	我们在两个大型测试基准上评估了一组指令调优模型：
+
+4 Evaluating the Robustness of Instruction-tuned LLMs
+4.1 Models and Data
+    A. 细节化介绍所使用的模型
+        i. FLAN-T5 3b, 11b
+        ii. Alpaca 7b
+        iii. Vicuna 7b
+        iv. WizardLM 7b
+    B. 介绍抽样或构建unseen instruction 和 unseen task的方法
+    C. 描述评估模型鲁棒性的准则和指标
+    	鲁棒性测试主要是用来检测模型在处理未见过的数据或情况时的稳定性和可靠性。
+
+		1. 建立鲁棒性测试场景：选择或构建包含未见过的指令（unseen instructions）和任务（unseen tasks）的数据集，这些数据集应该与原本训练数据的分布有所差别。
+
+		2. 运行模型：使用上述数据集，运行经过指令微调的模型，检测模型在处理未见过的指令和任务时的表现。
+
+		3. 评估指标：选择适合的评估指标来量化模型的表现，例如准确率、召回率、F1分数等。
+
+		4. 做出预测并结对结果：模型对测试集进行预测后，将预测结果和真实结果进行对比，以此来评估模型的表现。
+
+		5. 干扰测试：可以额外添加一些干扰测试，如：增加噪音，改变输入顺序等，看模型是否能保持稳定的输出。
+
+		6. 安全性和隐私性测试：如果适用的话，还可以进行安全性和隐私性的鲁棒性测试，看模型是否受到对抗性攻击的影响，或者是否可能泄露敏感信息。
+
+		7. 统计和分析：收集和分析测试结果，找出模型在哪些方面表现出了良好的鲁棒性，以及哪些方面的鲁棒性需要进一步提升。
+
+三、 实验设计
+    A. 确定实验条件：箅述模型是如何被训练去应对unseen instruction的
+    B. 设计测试unseen instruction的实验，概述预期结果
+    C. 设计测试unseen task的实验，概述预期结果
+
+四、 结果和分析
+    A. 展示和解读每个模型对unseen instruction反应的实验结果
+    B. 展示和解读每个模型对unseen task反应的实验结果
+    C. 对比和分析各模型在实验中的表现
+    D. 分析影响模型鲁棒性的可能因素
+
+五、深入讨论
+    A. 讨论这些结果对模型设计和优化的启示和意义
+    B. 讨论这些结果对理解和改善模型泛化能力的价值
+    C. 提出未来研究方向和改进点
+
+六、结论
+    A. 对主要发现和结论进行总结
+    B. 对于模型的unseen instructions和unseen tasks上的鲁棒性研究的数据进行综合性评价。
+
+00 abstract
+  \emph{Instruction fine-tuning} has recently emerged as a promising approach for improving the zero-shot capabilities of Large Language Models (LLMs) on new tasks.  
+This technique has shown particular strength in improving the performance of modestly sized LLMs, sometimes inducing performance competitive with much larger model variants.
+In this paper we 主要讨论  How can we make them more robust to such natural language variation? 
+To answer the former, we collect a set of 319 instructions manually written by NLP practitioners for over 80 unique tasks included in widely used benchmarks, and we evaluate the variance and average performance of these instructions as compared to instruction phrasings observed during instruction fine-tuning. 
+We find that using novel (unobserved) but appropriate instruction phrasings consistently degrades model performance, sometimes substantially so. Further, such natural instructions yield a wide variance in downstream performance, despite their semantic equivalence. 
+Put another way, instruction-tuned models are not especially robust to instruction re-phrasings. 
+We propose a simple method to mitigate this issue by introducing ``soft prompt'' embedding parameters and optimizing these to maximize the similarity between representations of semantically equivalent instructions. We show that this method consistently improves the robustness of instruction-tuned models. \footnote{The code and instructions are publicly available at: \url{https://github.com/jiudingsun01/InstructionEval}}
+
+Content:
+The focus is on the robustness of instruction-tuned Large Language Models (LLMs) to unseen instructions and unseen tasks.  We conducted an exploration on four models including Alpaca, Vicuna, WizardLM, and Traditional Task-oriented Models using real-world relation extraction datasets as case studies.  We carried out a comprehensive evaluation of these instruction-following large language models which have been tuned based on open-domain instructions and task-oriented instructions.  The central discussion is on how to enhance their robustness to natural language variation.  We observed that xxxx  This consistently improves the robustness of the instruction-tuned models.
+
+Instruction-tuned LLMs对于unseen Instructions 和tasks的鲁棒性影响。通过四个real-world relation
+extraciton数据集为case studies，我们全面评估了两种经过调校的大型语言模型系列：一种是针对"开放领域(open-domain)指令"调校的，另一种是针对"特定任务(task-oriented)指令"调校的。
+
+
+01 Introduction
+
+In this work
+we investigate how robust instruction-tuned models are. More specifically, we ask: How sensitive are
+instruction-tuned LMs to shifts in instruction phrasings at test time? This is particularly important
+given that the primary motivation of instruction tuning is to facilitate zero-shot adaptation via natural
+language instruction: If models are overly sensitive to the particular phrasing of a task instruction it
+may greatly limit their utility in practice
