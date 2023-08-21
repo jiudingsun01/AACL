@@ -1,0 +1,105 @@
+\section{Introduction}
+
+\begin{figure}[h]
+  \centering
+  %\includegraphics[width=140mm]{images/fig1-redux.pdf}
+  \caption{How well do models trained on instruction-tuning datasets generalize to novel instructions (unobserved in training)? Our analysis suggests that they do not do so very well. Above we show a case where pairing an example with an observed instruction yields the correct output, while providing a distinct but semantically equivalent instruction produces an incorrect response.
+    We propose and evaluate a simple method that improves this.}
+  %Flan \cite{chung2022scaling} is a meta-dataset comprising a total of 1.8k tasks. We ask: How well do models trained on this collection of instructions generalize to novel instructions and tasks (unobserved in training), and how can we improve their ability to do so?} %We study how far can the models tuned with such instruction collection be generalized into other unobserved instructions and tasks.}
+  \label{fig:main_fig}
+\end{figure}
+
+
+Large Language Models (LLMs) have come to dominate NLP, in part because they enable zero- and few-shot adaptation to new tasks via \emph{prompting} \cite{brown2020language, chowdhery2022palm, hoffmann2022training, zeng2022glm}.
+Recent work has demonstrated the promise of fine-tuning such models with natural language instructions.
+Such \emph{instruction-tuning} improves LLM performance in zero- and few-shot settings, sometimes dramatically, especially for ``mid-sized'' models \cite{chung2022scaling, ouyang2022training}.
+For example, on some benchmarks the instruction-tuned Flan-T5-XL (3B parameters) \cite{chung2022scaling} outperforms GPT-3 (175B), despite being dramatically smaller.
+Furthermore, LLaMa-7B \cite{touvron2023llama}---after being fine-tuned on large-scale corpora on the Alpaca \cite{alpaca} instruction set---outperforms GPT-3 across a range of NLP benchmarks.
+%How does instruction-tuning work? Several efforts have investigated
+
+These empirical successes have motivated efforts to curate instruction-augmented task collections for meta-learning \cite{wang2022benchmarking, wei2021finetuned, wei2021finetuned}, and research into improving instruction-tuning \cite{longpre2023flan, xu2022multiinstruct, sanh2021multitask}. %Nonetheless, it is not clear how far the ability gained from instruction tuning 
+In this work we investigate how robust instruction-tuned models are.
+%can be generalized to domains, tasks, and instructions that are \textbf{\textit{unobserved}} during instruction fine-tuning. In this work, we investigate the \emph{robustness} of instructions. 
+More specifically, we ask: How sensitive are instruction-tuned LMs to shifts in instruction phrasings at test time?
+This is particularly important given that the primary motivation of instruction tuning is to facilitate zero-shot adaptation via natural language instruction: If models are overly sensitive to the particular phrasing of a task instruction it may greatly limit their utility in practice.
+
+%the shifts of instruction and task distribution from the training stage?
+
+
+
+Prior work---reviewed at length in Section \ref{section:related-work}---has established that LLMs do not seem to intuitively ``understand'' prompts \cite{webson2021prompt,jang2023can, zhang2023aligning}, but these efforts did not consider instruction-tuned models specifically.
+Recent, contemporaneous work to ours \cite{gu2023robustness} investigated the robustness of instruction-tuned models, and found that instruction-tuned T5 \cite{raffel2020exploring} is robust to instruction perturbations in few-shot settings, but less so in zero-shot application.
+We contribute a more in-depth analysis of this phenomena across a much wider set of instruction-tuned models and benchmarks.
+We also introduce and evaluate a method for improving the robustness of such models, with promising results.
+% by imposing an objective encouraging LLMs to induce similar representations for semantically equivalent instructions.
+
+%To address this research question, 
+More specifically, we collect a relatively large set of task instructions manually composed by NLP researchers; these are valid instructions but distinct from those found in the Flan collection.
+%\textbf{\textit{unobserved}} during instruction fine-tuning. 
+We then assess the performance of LLMs fine-tuned on the Flan collection instruction set when given these novel instructions on two benchmarks: \textsc{MMLU} \cite{hendrycks2020measuring} and \textsc{BBL} \cite{srivastava2022beyond}.
+%We perform inferences on MMLU \cite{hendrycks2020measuring} and BBL \cite{srivastava2022beyond} with LMs that are instruction-tuned with the Flan collection. 
+%It is observed that there is an 
+We find that using novel instructions in zero-shot application degrades accuracy considerably (Figure \ref{fig:main_fig} illustrates this).
+For example, comparing the performance of Flan-T5 XXL when using (a) instructions that were seen in training to (b) semantically equivalent but unobserved in training, we observe a 6.9 point drop in absolute performance on average across large benchmarks.
+
+Our {\bf main contributions} are summarized as follows. (1) We perform a comprehensive and in-depth analysis of the robustness of instruction-tuned LLMs across three ``families'' of such models (Flan-T5 \cite{wei2021finetuned}, Alpaca \cite{alpaca}, and T0 \cite{sanh2021multitask}) using large benchmarks \cite{hendrycks2020measuring,srivastava2022beyond}.
+For this we collect a large set of new task instructions manually composed by researchers in NLP; we will release this dataset to facilitate additional work on instruction robustness. We observe substantial performance degradation when using ``novel'' (unseen in training) instructions.
+(2) We propose a simple method to improve robustness by imposing an objective encouraging LLMs to induce similar representations for semantically equivalent instructions.
+We find that this consistently improves the performance realized when using novel but appropriate task instructions.
+
+
+%when using semantically appropriate instructions that were ufor Flan-T5-11B we observe an average accuracy degradation across
+% $\textbf{4.93}$/$\textbf{2.34}$ while instructing the language model (Flan-T5-11B) with paraphrased instructions and manually written instructions on MMLU and $\textbf{3.74}$/$\textbf{15.29}$ on BBL. Additionally, we discover that on completely unobserved tasks, the instructions written by domain experts are even outperformed by observed instructions that are completely unrelated.
+
+% TODO add note about adversarial result and then the soft propmting method; maybe also something about distances of represntations etc
+
+%We discovered that in most cases, this gap in performance between observed instructions and unobserved instructions is rapidly narrowing down after an example (one-shot) is provided. By observing the distance over LMs' latent space, we discovered that in-context learning drags the distribution of instructions closer and hence increases the robustness of LMs significantly. To validate this discovery, we ...
+
+
+\begin{comment}
+The most current Large Language Models (LLMs), such as PaLM \cite{chowdhery2022palm}, Chinchilla \cite{hoffmann2022training}, and GLM-130B \cite{zeng2022glm}, have achieved remarkable performance on many NLP tasks and their downstream applications.
+These LLMs are known for their strong generalizability and in-context learning brought by the emergent ability.
+It has been recently discovered that further fine-tuning these models with instructions yields even better zero-shot and few-shot performance on unseen tasks \cite{chung2022scaling, ouyang2022training}.
+This procedure is commonly referred to as instruction fine-tuning.
+With instruction tuning, models like Flan-T5-XXL can even outperform its counterpart GPT-3, which is 16 times larger in size \cite{chung2022scaling}.
+\end{comment}
+
+\begin{comment}
+Consequently, many have carried out research on the efficacy of instruction fine-tuning \cite{longpre2023flan, xu2022multiinstruct, sanh2021multitask} and constructed open-source resources for multitask fine-tuning with instructions \cite{wang2022benchmarking, wei2021finetuned, wei2021finetuned}. Adequate evidence shows that instruction fine-tuning could significantly unlock the knowledge-understanding capability of LMs from pre-training and further enhance its generalizability. However, the robustness and sensitivity of this new paradigm have not been sufficiently studied.
+\end{comment}
+
+%In this paper, we ...
+
+\begin{comment}
+\paragraph{How robust are instruction-tuned LLMs?}
+
+%The surge of downstream applications has raised awareness of the other important aspects of instruction-tuned language models besides best performances. 
+Instruction-tuning has shown promise in improving zero-shot performance of LLMs, especially for comparatively small models \cite{alpaca,longpre2023flan,sanh2021multitask}.
+Indeed, careful instruction-tuning of ``smaller'' models like T5-XL (3B parameters) can result in zero-shot performance that is competitive with---or even better than---much larger models \cite{longpre2023flan}.
+Realizing such functionality with modestly sized models is an important and timely research goal, and instruction-tuning has emerged as a promising means to this end.
+
+The promise of such models lies in their ability to perform novel tasks specified via natural language instructions.
+It is therefore important that models are robust to variations in instruction phrasings: Semantically equiavelent instructions should yield comparable results.
+However, we find that instruction-tuned LLMs are (sometimes very) sensitive to changes in phrasings, with novel instructions (i.e., instructions unobserved in training) leading to substantially degraded performance.
+
+%For a specific task, a \textbf{robust} model, after instruction-tuning, ought to perform equally well when given two semantically equivalent instructions
+\end{comment}
+\begin{comment}
+\begin{figure}%[h]
+  \centering
+  \includegraphics[scale=0.45]{images/data_cropped.pdf}
+  \caption{To evaluate the generalization capabilities of LLMs on unobserved instruction and tasks, we collect additional instruction templates in two ways: (1) Automatically paraphrasing from the original Flan collection, and (2) Enlisting NLP researchers to manually compose instructions for tasks. In total, we collected 1206 instruction templates which we use to evaluate the robustness of instruction-tuned models.}
+  %In total, we collected a set of 1206 instruction templates to compare with the performance of instructions observed during training }
+  \label{fig:data}
+\end{figure}
+\end{comment}
+
+\begin{comment}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[scale=0.5]{images/robustness_cropped.pdf}
+  \caption{In this example, the observed instruction is the \textit{Task 1286} from NIV2 \cite{wang2022benchmarking} using \textit{Template 6}, while the unobserved instruction shown was composed by an NLP practitioner specifically for MMLU \cite{hendrycks2020measuring}. The model fails in this latter case, despite the instruction being valid.}
+  \label{fig:my_label}
+\end{figure}
+\end{comment}

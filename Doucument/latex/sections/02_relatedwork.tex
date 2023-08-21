@@ -1,0 +1,55 @@
+\section{Related Work}
+\label{section:related-work}
+
+\paragraph{Multitask learning and instruction-tuning}
+
+%Before the instruction era, previous works of multi-task fine-tuning focused on bettering the model's NLU ability by unifying several downstream tasks into one and fine-tuning over the unified corpus 
+%Prior to the introduction of \emph{instruction-tuning}, 
+Training a single text-to-text model capable of providing responses to arbitrary queries has been an aspiration in NLP for at least half a decade. 
+%pre-dates the current wave of LLMs and modern prompting and instructing strategies. 
+%Prior to modern prompting and instructing strategies, 
+For example, prior to modern prompting and instructing strategies, there were efforts to unify disparate tasks by reframing them as instances of general \emph{question answering} \cite{mccann2018natural, khashabi2020unifiedqa, keskar2019unifying}. 
+%After that, many contemporary works carry out meta-dataset resources for multi-task tuning with instructions to unlock the hidden knowledge learned through large-scale unsupervised learning, the representative works are: Flan 2021 collection \cite{wei2021finetuned}, Natural Instructions \cite{mishra2021cross} and T0 \cite{sanh2021multitask}. 
+More recent efforts have focussed on compiling and fine-tuning LLMs on corpora comprising diverse tasks with associated natural language instructions \cite{wei2021finetuned,mishra2021cross,sanh2021multitask}; we refer to this strategy as instruction-tuning. 
+One example of this is {\tt Super-NaturalInstructions} \cite{wang2022benchmarking}, which compiles over 1600 tasks and enriches these with both instructions and negative examples. %to enrich the instruction collection. On top of that, t
+Similarly, the recently released OPT-IML Bench \cite{iyer2022opt} comprises 2000 NLP tasks. %covering a range of categories.
+The Flan 2022 task collection \cite{longpre2023flan} additionally features \emph{Chain-of-Thought} (CoT) style ``reasoning'' chains in instruction templates; the authors show that including these (as well as zero-shot examples and ``input inversions'') during instruction fine-tuning yields improvements on held-out tasks. 
+%he new Flan collection further incorporates Chain-of-Thought (CoT) reasoning into the instruction templates and shows that it benefits instruction fine-tuning. 
+
+These meta-resources---collections of instructions, tasks, and samples---have facilitated the training of instruction-tuned model families such as Flan-T5, Flan-PaLM \cite{chung2022scaling}, and OPT-IML \cite{iyer2022opt}.\footnote{Somewhat confusingly, in the case of FLAN and OPT, the corpora (i.e., benchmarks comprising tasks and instructions) and LLMs fine-tuned using them are both referred to with the associated acronym as prefix: For instance, Flan-T5 denotes a T5 \cite{raffel2020exploring} variant fine-tuned with the Flan collection.}
+Results have been encouraging; fine-tuning LLMs to follow instructions provides clear and consistent gains across models, and, perhaps most exciting, enables relatively ``small'' ($\sim$10B) LLMs to achieve near SOTA performance comparable to massive ($\sim$175B) models \cite{alpaca}. 
+This has motivated interest in characterizing how instructions help models, and developing techniques to further improve instruction-tuning; we review recent efforts related to these two research threads below. 
+
+%Subsequently, with all these resources available many instruction-tuned models like Flan-T5, Flan-PaLM \cite{chung2022scaling}, and OPT-IML \cite{iyer2022opt} are trained and achieved state-of-the-art performance on many downstream tasks.
+\paragraph{Evaluating prompting and instruction capabilities}
+%Inherited from the prompt learning paradigm, many works aim to evaluate the hidden mechanism of instruction tuning and its potential flaws. 
+Instructions may be seen as a special sort of model prompting, which a few recent efforts have critically evaluated. 
+For example, Webson and Pavlick ask whether models meaningfully ``understand'' prompts \cite{webson2021prompt}, finding that they largely do not: %looks at the choices of prompt for inference over instruction fine-tuned model and found that the 
+Performance is often unaffected when irrelevant and misleading prompts are provided. 
+In follow up work, Jang \emph{et al.}
+\cite{jang2023can} evaluates performance on negated prompts, observing an ``inverse-scaling'' phenomenon in which larger models perform worse in this case.
+%studies the negated prompt and found that it inversely scaled with the size of the model. 
+
+Other work has attempted to characterize how and when \emph{in-context learning} (ICL)---i.e., including a few examples in prompts---works \cite{min2022rethinking,wang2023large,dai2022can,akyurek2022learning,yu2022alert}. 
+ICL is a form of prompting orthogonal to the present effort, as we are primarily interested in the zero-shot adaptability of instruction-tuned LLMs.
+
+%With respect to instruction tuned models specifically, Yu \emph{et al.} \cite{yu2022alert} show that instruction tuning enhances zero-shot performance of the model at the cost of harming its ability to follow various instructions. 
+%\cite{min2022rethinking} examine the performance of instruction-tuned models on classification tasks and discover that altering the label space in the instruction has a marginal impact on the performance.
+
+In work contemporaneous to ours, Gu \emph{et al.} \cite{gu2023robustness} investigated how robust instruction-tuned models are to instruction perturbations (e.g., dropping words) and paraphrasings. 
+They found that models are relatively robust when given examples (i.e., in few-shot settings), but quite sensitive when used zero-shot; this is qualitatively in line with our findings.
+Our work differs in important way from this coincident research: (1) We provide a much more comprehensive analysis of robustness; Gu \emph{et al.} considered \emph{only} T5 instruction-tuned on a single instruction dataset, whereas we evaluate three LLMs (and different sizes of each) using five instruction tuning datasets, and we evaluate using over 80 test tasks in all (Gu \emph{et al.} considered only 12). (2) We propose and evaluate a new approach to \emph{improving} the robustness of instruction-tuned models; Gu \emph{et al.} offered no mechanism to improve robustness. 
+
+
+\paragraph{Improving instruction-tuning}
+%Most of the works aim to improve the performance of instruction-tuned models are focusing on two threads. 
+Past work has also sought to improve instruction-tuning in various ways.
+One means to do so is to instruction tune based on human feedback \cite{ouyang2022training, glaese2022improving, bai2022training, nakano2021webgpt, zhang2023wisdom}. 
+This tends to improve open-ended model responses but degrade performance on downstream tasks. %improves the model's open-ended task performance at the cost of NLP tasks performance degradation. 
+Another strategy is to leverage existing resources to automatically generate instruction-tuning datasets at scale. 
+For example, Wang \emph{et al.} \cite{wang2022self} use LLMs to generate instructions, inputs, and outputs and use these to improve their own instruction-following capabilities. 
+%improves the instruction-following capabilities of LLMs by bootstrapping their own generations to train the model.
+In a similarly meta vein, Zhou and colleagues \cite{zhou2022large}  propose using LLMs to engineer prompts. 
+%regards instructions as program to perform text-to-structure generation with LLM. 
+Finally, Ye \emph{et al.} \cite{ye2022guess} propose ``flipping'' the standard task by tasking LLMs with generating \emph{instructions}, given an input and label. 
+%trains the LM to produce instructions given the input and labels. 
