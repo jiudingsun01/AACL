@@ -97,20 +97,6 @@ smaller models to achieve results competitive with massive alternatives.
 参考文献
 
 
-四、 结果和分析
-    A. 展示和解读每个模型对unseen instruction反应的实验结果
-    B. 展示和解读每个模型对unseen task反应的实验结果
-    C. 对比和分析各模型在实验中的表现
-    D. 分析影响模型鲁棒性的可能因素
-
-五、深入讨论
-    A. 讨论这些结果对模型设计和优化的启示和意义
-    B. 讨论这些结果对理解和改善模型泛化能力的价值
-    C. 提出未来研究方向和改进点
-
-六、结论
-    A. 对主要发现和结论进行总结
-    B. 对于模型的unseen instructions和unseen tasks上的鲁棒性研究的数据进行综合性评价。
 
 00 abstract
   \emph{Instruction fine-tuning} has recently emerged as a promising approach for improving the zero-shot capabilities of Large Language Models (LLMs) on new tasks.  
