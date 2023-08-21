@@ -17,6 +17,20 @@ Our findings are:
  
 Alpaca，Vicuna，WizardLM 以及traditional task-oridented 
 
+"Observed Instructions/Unobserved Instructions"和"Observed Tasks/Unobserved Tasks"主要强调的是模型在训练阶段是否遇到过某个指令或任务。
+
+然而，"Unseen Instructions"和"Unseen Tasks"不仅仅是在训练阶段模型未接触过的指令或任务，它们还包括了在实际使用中可能让模型遇到的全新的指令或任务。这意味着那些指令或任务不仅在训练数据中未出现过，而且在概念或功能上与训练任务不同，可能需要模型进行更高级别的推理和泛化。
+
+简单来说，"Unseen Instructions/Tasks"比"Unobserved Instructions/Tasks"更强调模型的泛化能力，而"Unobserved Instructions/Tasks"更注重模型对训练数据的学习能力。
+
+
+Instruction Dataset包含模型直接学习的指令
+Unobserved Instructions是模型训练过程中未直接学习但可能遇到的指令
+Unseen Instructions则是模型在训练过程中完全未遇到，需要模型具有高度泛化能力才能处理的指令。
+
+问题：
+
+提高鲁棒性做不做
 
 框架
 
@@ -24,41 +38,64 @@ Alpaca，Vicuna，WizardLM 以及traditional task-oridented
     A. 介绍研究的背景和目的
     B. 说明所使用的不同模型：FLAN-T5 3b, 11b，Alpaca 7b, Vicuna 7b, WizardLM 7b
     C. 概述研究主题：unseen instruction和unseen task上的鲁棒性
+    主要贡献如下： We perform a comprehensive and indepth analysis of the robustness of xxx模型
 2 Related Work
 3 Instruction Datasets
+3.1 Unseen Datasets
 	介绍unseen instruction和unseen task的数据集？
-3.1 Evaluation Benchmarks
+3.2 Evaluation Benchmarks
 	我们在两个大型测试基准上评估了一组指令调优模型：
 
 4 Evaluating the Robustness of Instruction-tuned LLMs
 4.1 Models and Data
-    A. 细节化介绍所使用的模型
-        i. FLAN-T5 3b, 11b
-        ii. Alpaca 7b
-        iii. Vicuna 7b
-        iv. WizardLM 7b
-    B. 介绍抽样或构建unseen instruction 和 unseen task的方法
-    C. 描述评估模型鲁棒性的准则和指标
-    	鲁棒性测试主要是用来检测模型在处理未见过的数据或情况时的稳定性和可靠性。
+我们针对xx指令集合进行实验，这x个集合分别训练了... ...（简单介绍各指令集合，主要是seen/oberved的instructions）
 
-		1. 建立鲁棒性测试场景：选择或构建包含未见过的指令（unseen instructions）和任务（unseen tasks）的数据集，这些数据集应该与原本训练数据的分布有所差别。
+To evaluate model robustness with respect to instruction phrasings we use two benchmarks:... ...（介绍benchmarks）
 
-		2. 运行模型：使用上述数据集，运行经过指令微调的模型，检测模型在处理未见过的指令和任务时的表现。
+Table 1 Examples of observed instructions we collected for three general types of tasks.（只做QA还是？）
 
-		3. 评估指标：选择适合的评估指标来量化模型的表现，例如准确率、召回率、F1分数等。
+We use the same instructions for all tasks in the same category, taken from the published instruction
+tuning datasets associated with each model. These instructions are general, e.g., in the case of
+classification they request that the model consider an example with respect to categorization criteria
+and label space provided by the instance, and select an appropriate category (examples in Table 1).
+One can “mix-and-match” such instructions so long as they are appropriate for the task type.
 
-		4. 做出预测并结对结果：模型对测试集进行预测后，将预测结果和真实结果进行对比，以此来评估模型的表现。
+4.2 Result（基本照抄）
+	We present the main aggregated analysis results in Figure 2 and Table 3. The take-away here is
+that using instructions unobserved in training—but manually composed for the task at hand and so
+semantically appropriate—leads to considerable degradation in performance: On average, unobserved
+instructions reduce accuracy by over five points across models considered. Table 3 reports results
+disaggregated by task type; we observe that classification tasks are most harmed by use of novel
+instructions. We provide additional, more granular (dataset-level) results in the Appendix.
 
-		5. 干扰测试：可以额外添加一些干扰测试，如：增加噪音，改变输入顺序等，看模型是否能保持稳定的输出。
+4.3 A Closer Look at Instruction Robustness
+	Above we used general instructions requesting the model to perform tasks (Table 1). Here we delve
+further into the performance degradation observed when using novel instructions. We report a curious
+result highlighting the degree to which models rely on having previously observed instructions:
+Incorrect but observed instructions outperform appropriate but unobserved instructions (Figure 3).做一下Incorrect但observed的instruction表现和appropriate but unobserved表现对比，出一个对比的大表**
 
-		6. 安全性和隐私性测试：如果适用的话，还可以进行安全性和隐私性的鲁棒性测试，看模型是否受到对抗性攻击的影响，或者是否可能泄露敏感信息。
+挑其中一两个结果做分析
 
-		7. 统计和分析：收集和分析测试结果，找出模型在哪些方面表现出了良好的鲁棒性，以及哪些方面的鲁棒性需要进一步提升。
+4.4 Scaling
+	Does instruction robustness begin to emerge as a function of scale?To attempt to answer this, we
+repeated all experiments from Table 3 with Flan-T5 model sizes ranging from small (80M parameters)
+to XXL (11B).We observe in Figure 2b that the disparity between results achieved with observed
+versus unobserved instructions does not seem to decrease with model scale, at least up to this point.
+That said, massive models (175B+) may offer greater robustness. However, we reiterate that much of
+the excitement about instruction tuning is the possibility that this technique appears to allow much
+smaller models to achieve results competitive with massive alternatives.
+同样的实验重跑一遍测下规模的影响，出对比图，大概率结论和他提供的相同，不会随着规模增大而减小
 
-三、 实验设计
-    A. 确定实验条件：箅述模型是如何被训练去应对unseen instruction的
-    B. 设计测试unseen instruction的实验，概述预期结果
-    C. 设计测试unseen task的实验，概述预期结果
+4.5 Robustness with Semantic Distance不知道做不做
+
+4.6到后面的内容不做，不搞对齐
+
+5 Conclusions
+
+6 Limitations
+
+参考文献
+
 
 四、 结果和分析
     A. 展示和解读每个模型对unseen instruction反应的实验结果
