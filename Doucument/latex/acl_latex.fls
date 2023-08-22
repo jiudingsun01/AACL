@@ -632,14 +632,8 @@ INPUT c:/Code/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/Code/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/Code/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/Code/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
-INPUT ./acl_latex.out
-INPUT ./acl_latex.out
-INPUT acl_latex.out
-INPUT acl_latex.out
-OUTPUT acl_latex.pdf
-INPUT ./acl_latex.out
-INPUT ./acl_latex.out
 OUTPUT acl_latex.out
+OUTPUT acl_latex.pdf
 INPUT c:/Code/texlive/2023/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 INPUT c:/Code/texlive/2023/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 INPUT c:/Code/texlive/2023/texmf-dist/tex/latex/microtype/mt-ptm.cfg

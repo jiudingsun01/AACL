@@ -1,5 +1,9 @@
 \section{Instruction Datasets}
-
+We evaluate our methods on four RE datasets:
+(1) TACRED~\cite{Zhang2017TACRED},
+(2) RETACRED~\cite{Stoica2021RETACRED},
+(3) TACREV~\cite{Alt2020TACREV}, and
+(4) SemEval 2010 Task 8 (SemEval for brevity)~\cite{Iris2010SemEval}.
 \subsection{Evaluation Benchmarks}
 
 %We perform the evaluation of instruction-tuned models 
@@ -13,7 +17,7 @@ consider the \textsc{Big-Bench Lite} subset, and we include only QA, multi-class
 \label{section:new-instructions}
 
 We aim to evaluate instruction-tuned models when they are provided instructions which are semantically equivalent to, but superficially different from, those with which they were trained.
-To this end, we enlist NLP researchers (graduate students) to compose novel instructions for the tasks considered; these particular instruction phrasings were therefore \emph{unobserved} during instruction fine-tuning. 
+To this end, we enlist NLP researchers (graduate students) to compose novel instructions for the tasks considered; these particular instruction phrasings were therefore \emph{unobserved} during instruction fine-tuning.
 
 %For each instruction-tuned language model we  we collect a set of instructions unobserved to the model by expert annotation, and we collect a set of instructions observed during training from the original instruction-tuning collection.
 
@@ -23,12 +27,12 @@ To this end, we enlist NLP researchers (graduate students) to compose novel inst
 
 %We perform large-scale crowd-sourcing from 
 More specifically, we recruited 36 NLP graduate students working in NLP.
-All had at least some experience with instruction-tuned models and the downstream tasks included in the evaluation benchmarks. 
-For each of the 18 tasks in \textsc{BBL} and all tasks in \textsc{MMLU}, we asked 12 graduate students to write one (distinct) instruction they would use for zero-shot inference with an instruction-tuned model. 
+All had at least some experience with instruction-tuned models and the downstream tasks included in the evaluation benchmarks.
+For each of the 18 tasks in \textsc{BBL} and all tasks in \textsc{MMLU}, we asked 12 graduate students to write one (distinct) instruction they would use for zero-shot inference with an instruction-tuned model.
 %To ensure fairness, the information on models is omitted to avoid having priors to fit the pattern of the specific model. 
 %The detailed instruction collection process can be seen in Appendix A.
-We provide details on this instruction collection process in Appendix A. 
-We will release all 319 instructions acquired for this work to ensure the reproducibility of this work and to facilitate further research on instruction-tuned model robustness. 
+We provide details on this instruction collection process in Appendix A.
+We will release all 319 instructions acquired for this work to ensure the reproducibility of this work and to facilitate further research on instruction-tuned model robustness.
 % We treat 57 tasks of MMLU as a whole (general QA template). Don't know how to make the word clearer
 
 %\subsubsection{Observed Instruction}

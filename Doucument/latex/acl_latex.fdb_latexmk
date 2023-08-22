@@ -1,21 +1,21 @@
 # Fdb version 4
-["bibtex acl_latex"] 1692630381 "acl_latex.aux" "acl_latex.bbl" "acl_latex" 1692630384 0
+["bibtex acl_latex"] 0 "acl_latex.aux" "acl_latex.bbl" "acl_latex" 0 -1
   "./acl_natbib.bst" 1692630140 47709 d9d0ab22329e3318a3d1b2ae6abaab62 ""
   "./anthology.bib" 1690304915 97 d4c3b066b549574677d13e524534d2d4 ""
   "./custom.bib" 1690304915 2071 0b966569afb5acbb6dca5a75fec7e92c ""
-  "acl_latex.aux" 1692630382 18908 ad34b7b6b802aa4a28b21e0edb5f192a "pdflatex"
+  "acl_latex.aux" 1692664307 19082 72de6216a5422695423f184c5c5d5f62 "pdflatex"
   (generated)
   "acl_latex.bbl"
   "acl_latex.blg"
   (rewritten before read)
-["pdflatex"] 1692630381 "c:/Users/64944/Desktop/Work/AACL/Doucument/latex/acl_latex.tex" "acl_latex.pdf" "acl_latex" 1692630384 0
+["pdflatex"] 1692664306 "c:/Users/64944/Desktop/Work/AACL/Doucument/latex/acl_latex.tex" "acl_latex.pdf" "acl_latex" 1692664308 2
   "acl.sty" 1690304915 11481 4837c729fca458698cef434178315dfa ""
-  "acl_latex.aux" 1692630382 18908 ad34b7b6b802aa4a28b21e0edb5f192a "pdflatex"
-  "acl_latex.bbl" 1692630381 1116 5ee8b375800f69f1a097f23a2151d851 "bibtex acl_latex"
-  "acl_latex.mtc" 1692630382 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "acl_latex.mtc0" 1692630382 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "acl_latex.out" 1692630382 3213 0713c0b39b23f890eeddfa5576f21b99 "pdflatex"
-  "acl_latex.tex" 1692630378 5944 e8324f8fe7cefeb6b2792e942682cc9c ""
+  "acl_latex.aux" 1692664307 19082 72de6216a5422695423f184c5c5d5f62 "pdflatex"
+  "acl_latex.bbl" 1692647672 1116 5ee8b375800f69f1a097f23a2151d851 "bibtex acl_latex"
+  "acl_latex.mtc" 1692664307 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "acl_latex.mtc0" 1692664307 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "acl_latex.out" 1692664307 3213 0713c0b39b23f890eeddfa5576f21b99 "pdflatex"
+  "acl_latex.tex" 1692655984 5974 a30781507bed08ac7ba82abd37ccb1e8 ""
   "c:/Code/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1692221099 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/Code/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1692221574 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/Code/texlive/2023/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1692220757 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -390,12 +390,12 @@
   "c:/Code/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1692225598 4687035 07e6ed170d810de0c9dbcf841668ab28 ""
   "c:/Code/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1692225740 8172777 201d9b9c8c1a3a8d9c955fe1e344af5a ""
   "c:/Code/texlive/2023/texmf.cnf" 1692225580 713 e69b156964470283e0530f5060668171 ""
-  "c:/Users/64944/Desktop/Work/AACL/Doucument/latex/acl_latex.tex" 1692630378 5944 e8324f8fe7cefeb6b2792e942682cc9c ""
+  "c:/Users/64944/Desktop/Work/AACL/Doucument/latex/acl_latex.tex" 1692655984 5974 a30781507bed08ac7ba82abd37ccb1e8 ""
   "sections/01_introduction.tex" 1692596884 11210 72d726bc2e7b954ddac4434559afb568 ""
   "sections/02_relatedwork.tex" 1688863116 7788 164d29c0b0b1b03e6afe6d3b29da10c9 ""
-  "sections/03_data.tex" 1688863116 2993 3dedd4eb1aaa33d34799a94f40b69b5e ""
+  "sections/03_data.tex" 1692647668 3214 9656209e1fdce96610a44c4dbc605388 ""
   "sections/04_experiment.tex" 1692630233 33022 53600815efb86afb79cb27bf22d2107d ""
-  "sections/05_conclusion.tex" 1688863116 2893 a1117627167455ed475c9998654af792 ""
+  "sections/05_conclusion.tex" 1692664302 2902 f8f918a1fff65b9f2de32059dea734cf ""
   (generated)
   "acl_latex.aux"
   "acl_latex.log"
@@ -405,5 +405,3 @@
   "acl_latex.out"
   "acl_latex.pdf"
   (rewritten before read)
-  "acl_latex.mtc"
-  "acl_latex.mtc0"
