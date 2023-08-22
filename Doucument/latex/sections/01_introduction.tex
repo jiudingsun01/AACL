@@ -42,6 +42,11 @@ We then assess the performance of LLMs fine-tuned on the Flan collection instruc
 We find that using novel instructions in zero-shot application degrades accuracy considerably (Figure \ref{fig:main_fig} illustrates this).
 For example, comparing the performance of Flan-T5 XXL when using (a) instructions that were seen in training to (b) semantically equivalent but unobserved in training, we observe a 6.9 point drop in absolute performance on average across large benchmarks.
 
+We thoroughly analyze the robustness of instruction-tuned LLMs across three model "families" in a comprehensive and detailed manner.
+
+The detailed contributions of this paper are as follows:
+
+
 Our {\bf main contributions} are summarized as follows. (1) We perform a comprehensive and in-depth analysis of the robustness of instruction-tuned LLMs across three ``families'' of such models (Flan-T5 \cite{wei2021finetuned}, Alpaca \cite{alpaca}, and T0 \cite{sanh2021multitask}) using large benchmarks \cite{hendrycks2020measuring,srivastava2022beyond}.
 For this we collect a large set of new task instructions manually composed by researchers in NLP; we will release this dataset to facilitate additional work on instruction robustness. We observe substantial performance degradation when using ``novel'' (unseen in training) instructions.
 (2) We propose a simple method to improve robustness by imposing an objective encouraging LLMs to induce similar representations for semantically equivalent instructions.
