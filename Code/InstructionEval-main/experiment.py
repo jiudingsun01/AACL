@@ -113,6 +113,22 @@ DATASET2CONFIGS = {
         "./data/benchmark_tasks/epistemic_reasoning",
         "./configs/Adv/epistemic_reasoning.py",
     ),
+    "RETACRED_QA": (
+        "../Data/RETACRED",
+        "./configs/8.25/all_qa.py"
+    ),
+    "semeval_QA": (
+        "../Data/semeval",
+        "./configs/8.25/all_qa.py"
+    ),
+    "TACRED_QA": (
+        "../Data/TACRED",
+        "./configs/8.25/all_qa.py"
+    ),
+    "TACREV_QA": (
+        "../Data/TACREV",
+        "./configs/8.25/all_qa.py"
+    ),
 }
 
 
@@ -133,13 +149,15 @@ class Experiment:
         if precision == "bf16":
             torch.set_float32_matmul_precision("high")
         fabric_precision, precision = precisions_dict[precision]
-        self.model = ModelClass.from_pretrained(model_name_or_path, torch_dtype=precision)
+        # self.model = ModelClass.from_pretrained(
+        #     model_name_or_path, torch_dtype=precision)
         self.tokenizer = TokenizerClass.from_pretrained(model_name_or_path)
         strategy = "ddp" if len(devices) > 1 else "auto"
-        self.fabric = Fabric(accelerator="cuda", devices=devices, precision=fabric_precision, strategy=strategy)
+        self.fabric = Fabric(accelerator="cuda", devices=devices,
+                             precision=fabric_precision, strategy=strategy)
         self.fabric.launch()
-        self.model.eval()
-        self.model = self.fabric.setup(self.model)
+        # self.model.eval()
+        # self.model = self.fabric.setup(self.model)
         self._tasks = []
         self.fabric.barrier()
 
@@ -165,18 +183,19 @@ class Experiment:
         })
 
     def add_tasks_by_name(self,
-            task_name: str,
-            output_dir: str,
-            batch_size: str,
-            instruction: str,
-            shot_count: str,
-            eval_by_logit: bool
-    ) -> None:
+                          task_name: str,
+                          output_dir: str,
+                          batch_size: str,
+                          instruction: str,
+                          shot_count: str,
+                          eval_by_logit: bool
+                          ) -> None:
         if task_name not in DATASET2CONFIGS.keys():
             raise ValueError("Task name not found")
         else:
             input_dir, config_dir = DATASET2CONFIGS[task_name]
-            self.add_tasks(input_dir, output_dir, config_dir, batch_size, instruction, shot_count, eval_by_logit)
+            self.add_tasks(input_dir, output_dir, config_dir,
+                           batch_size, instruction, shot_count, eval_by_logit)
 
     def inference(self):
 
@@ -185,7 +204,8 @@ class Experiment:
             # self.tokenizer = AutoTokenizer.from_pretrained(self.model_name_or_path)
 
             print("Inference on Task {}/{}...".format(i, len(self._tasks)))
-            input_dir, output_dir, config_dir, batch_size, instruction, shot_count, eval_by_logits = list(task.values())
+            input_dir, output_dir, config_dir, batch_size, instruction, shot_count, eval_by_logits = list(
+                task.values())
             if not os.path.exists(output_dir):
                 os.makedirs(output_dir, exist_ok=True)
             # try:
@@ -193,7 +213,9 @@ class Experiment:
             config = importlib.util.module_from_spec(spec)
             spec.loader.exec_module(config)
             print("Loading datasets")
-            test_set = config.load_data(input_dir, instruction, shot_count, eval_by_logits, self.tokenizer)
+            test_set = config.load_data(
+                input_dir, instruction, shot_count, eval_by_logits, self.tokenizer)
+            print(f"1.test_set={test_set[0]}")
             example = test_set[0]["input_text"]
             """except Exception:
                 print(instruction)
@@ -205,23 +227,30 @@ class Experiment:
             test_set = self.fabric.setup_dataloaders(test_set)
             self.fabric.barrier()
 
-            metric = LogitsMetric(self.fabric) if eval_by_logits else OutputMetric()
+            metric = LogitsMetric(
+                self.fabric) if eval_by_logits else OutputMetric()
 
             all_classes, all_gold_classes = [], []
             all_pred, all_gold = [], []
             with torch.no_grad():
                 for batch in tqdm(test_set):
                     input_ids, attention_mask, labels, label_cls, label_spaces_ids, sample_to = batch.values()
+                    # print(f"attention_mask={attention_mask}")
+                    # exit()
                     inputs = {
                         "input_ids": input_ids,
                         "attention_mask": attention_mask,
                         "max_new_tokens": 32
                     }
-                    outputs = self.model.generate(**inputs, return_dict_in_generate=True, output_scores=True)
+
+                    outputs = self.model.generate(
+                        **inputs, return_dict_in_generate=True, output_scores=True)
                     scores = outputs.scores
                     logits = torch.stack(scores, dim=1)
                     if eval_by_logits:
-                        classes = metric.classify(logits, label_spaces_ids, sample_to)
+                        classes = metric.classify(
+                            logits, label_spaces_ids, sample_to)
+                        print("{logits}")
                         all_classes.extend(classes.cpu().numpy())
                         all_gold_classes.extend(label_cls.cpu().numpy())
 
@@ -229,13 +258,18 @@ class Experiment:
                     all_pred.extend(pred_ids.cpu().numpy())
                     all_gold.extend(labels.cpu().numpy())
 
-            assert len(all_pred) == len(all_gold) and len(all_classes) == len(all_gold_classes)
-            preds = self.tokenizer.batch_decode(all_pred, skip_special_tokens=True, clean_up_tokenization_spaces=False)
-            golds = self.tokenizer.batch_decode(all_gold, skip_special_tokens=True, clean_up_tokenization_spaces=False)
+            assert len(all_pred) == len(all_gold) and len(
+                all_classes) == len(all_gold_classes)
+            preds = self.tokenizer.batch_decode(
+                all_pred, skip_special_tokens=True, clean_up_tokenization_spaces=False)
+            golds = self.tokenizer.batch_decode(
+                all_gold, skip_special_tokens=True, clean_up_tokenization_spaces=False)
 
-            output_file = "output.txt" if self.fabric.world_size == 1 else "output_{}.txt".format(self.fabric.local_rank)
-            golden_file = "golden.txt" if self.fabric.world_size == 1 else "golden_{}.txt".format(self.fabric.local_rank)
-
+            output_file = "output.txt" if self.fabric.world_size == 1 else "output_{}.txt".format(
+                self.fabric.local_rank)
+            golden_file = "golden.txt" if self.fabric.world_size == 1 else "golden_{}.txt".format(
+                self.fabric.local_rank)
+            # 写文件
             with open(os.path.join(output_dir, output_file), "w") as f:
                 for n, pred in enumerate(preds):
                     f.write(str(n) + "\t" + pred + "\n")
@@ -254,7 +288,8 @@ class Experiment:
                         f.write(str(n) + "\t" + str(cls) + "\n")
                     f.close()
 
-            correct, total = metric(all_classes, all_gold_classes) if eval_by_logits else metric(preds, golds)
+            correct, total = metric(
+                all_classes, all_gold_classes) if eval_by_logits else metric(preds, golds)
             self.fabric.barrier()
             if self.fabric.world_size > 1:
                 correct = self.fabric.all_reduce(correct, reduce_op="sum")
@@ -278,7 +313,7 @@ class Experiment:
                 with open(os.path.join(output_dir, "info.json"), "w") as f:
                     json.dump(info_dict, f)
                     f.close()
-            
+
         print("Done!")
 
 
@@ -286,12 +321,14 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name_or_path', required=True)
     parser.add_argument('--tasks_dir', required=True)
-    parser.add_argument('--precision', default="fp16", choices=["fp16", "fp32", "bf16"], type=str)
+    parser.add_argument('--precision', default="fp16",
+                        choices=["fp16", "fp32", "bf16"], type=str)
     parser.add_argument('--devices', default=[0], type=int, nargs="+")
 
     args = parser.parse_args()
 
-    experiment = Experiment(args.model_name_or_path, devices=args.devices, precision=args.precision)
+    experiment = Experiment(args.model_name_or_path,
+                            devices=args.devices, precision=args.precision)
     print("tasks_dir is: {}".format(args.tasks_dir))
     tasks_args = json.load(open(args.tasks_dir, "r"))
     for args in tasks_args:
@@ -302,17 +339,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-

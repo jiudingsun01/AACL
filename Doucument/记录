@@ -11,7 +11,7 @@ Our findings are:
 2) performance
 
 3) size -> 
-
+Flan-T5-3B Alpaca-7B Vicuna-7B T0++ 11B Flan-T5-11B WizardLM-13B 
 
 对FLAN-T5 3b, 11b，Alpaca 7b, Vicuna 7b, WizardLM 7b模型在TACRED，RETACRED，TACREV，SemEval数据集（分为unseen instruction和unseen task）上测试，P,Recall,F1
  
@@ -25,37 +25,38 @@ QA Seen
 Unseen Instructions则是模型在训练过程中完全未遇到，需要模型具有高度泛化能力才能处理的指令。
 Zero-shot 模型需要在没有看过任何特定任务样本的情况下，直接对任务作出预测
 
+1. 探索模型对于Unseen tasks(RE)和Seen tasks(QA)的应对paraphrase的鲁棒性，把datasets里的QA和RE拿出来分别修改instructions(paraphrase)在所有模型上跑一遍，对比性能变化
+2. 分别做zero-shot和few-shot，观察in context learning是否能改善模型鲁棒性
+3. 用Flan-T5验证模型的scaling(small～XXL)能否改善模型鲁棒性
+
+
 框架
+
+评估LLM对Instruction的鲁棒性
 
 1 Introduction
     A. 介绍研究的背景和目的
-    B. 说明所使用的不同模型：FLAN-T5-Small, Base, Large, 3B, 11B，Alpaca 7B, Vicuna 7B, WizardLM 7B
-    C. 概述研究主题：unseen instruction和unseen task上的鲁棒性
+    B. 说明所使用的不同模型：FLAN-T5-Small, Base, Large, 3B, 11B，Alpaca 7B, Vicuna 7B, WizardLM-13B, T0pp-11B
+    C. 概述研究主题：unseen instruction和unseen Instruction上的鲁棒性
     主要贡献如下： We perform a comprehensive and indepth analysis of the robustness of xxx模型
 
 2 Related Work
 
-3 Methodology
-
-
-
-4 Evaluating the Robustness of Instruction-tuned LLMs
-4.1 DataSets
+3 Evaluating the Robustness
+3.1 DataSets and Models
 TACRED，RETACRED，TACREV，SemEval数据集
 
 只有REtask，reformulate 成QA
+
+
+
+四个数据集分别包含Unseen tasks(RE)和Seen tasks(QA)，我们分别在四个数据集上使用六个模型对其进行了测试，全面评估了LLM对 unseen 和 unseen Instruction中Instruction的鲁棒性
 
 
 Unseen Task （分QA和RE）,
 
 QA和RE，再测试instruction的robustness
 
-3.1 Unseen Datasets
-	介绍unseen instruction和unseen task的数据集？
-3.2 Evaluation Benchmarks
-	我们在两个大型测试基准上评估了一组指令调优模型：
-
-4.2 Models
 我们针对xx指令集合进行实验，这x个集合分别训练了... ...（简单介绍各指令集合，主要是seen/oberved的instructions）
 
 To evaluate model robustness with respect to instruction phrasings we use two benchmarks:... ...（介绍benchmarks）
@@ -68,7 +69,7 @@ classification they request that the model consider an example with respect to c
 and label space provided by the instance, and select an appropriate category (examples in Table 1).
 One can “mix-and-match” such instructions so long as they are appropriate for the task type.
 
-4.3 Result（基本照抄）
+3.2 Result（基本照抄）
 	We present the main aggregated analysis results in Figure 2 and Table 3. The take-away here is
 that using instructions unobserved in training—but manually composed for the task at hand and so
 semantically appropriate—leads to considerable degradation in performance: On average, unobserved
@@ -76,7 +77,7 @@ instructions reduce accuracy by over five points across models considered. Table
 disaggregated by task type; we observe that classification tasks are most harmed by use of novel
 instructions. We provide additional, more granular (dataset-level) results in the Appendix.
 
-4.4 A Closer Look at Instruction Robustness
+3.3 A Closer Look at Instruction Robustness
 	Above we used general instructions requesting the model to perform tasks (Table 1). Here we delve
 further into the performance degradation observed when using novel instructions. We report a curious
 result highlighting the degree to which models rely on having previously observed instructions:
@@ -84,7 +85,7 @@ Incorrect but observed instructions outperform appropriate but unobserved instru
 
 挑其中一两个结果做分析
 
-4.4 Scaling
+3.4 Scaling
 	Does instruction robustness begin to emerge as a function of scale?To attempt to answer this, we
 repeated all experiments from Table 3 with Flan-T5 model sizes ranging from small (80M parameters)
 to XXL (11B).We observe in Figure 2b that the disparity between results achieved with observed
@@ -94,7 +95,7 @@ the excitement about instruction tuning is the possibility that this technique a
 smaller models to achieve results competitive with massive alternatives.
 同样的实验重跑一遍测下规模的影响，出对比图，大概率结论和他提供的相同，不会随着规模增大而减小
 
-4.5 Shot
+4 Shot
 做一下Zero-shot, One-shot, Few shot，
 
 5 Conclusions
