@@ -10,7 +10,6 @@ import torch
 import json
 import time
 import os
-from sklearn.metrics import precision_recall_fscore_support
 
 precisions_dict = {
     "fp16": (16, torch.float16),
@@ -23,6 +22,97 @@ DATASET2CONFIGS = {
     # data_dir, config_dir
     "MMLU_General": ("./data/MMLU", "./configs/MMLU/general.py",),
     "MMLU_Specific": ("./data/MMLU", "./configs/MMLU/specific.py",),
+    "BBQ_Lite": (
+        "./data/benchmark_tasks/bbq_lite_json",
+        "./configs/BBH/multiple_choice/bbq_lite.py",
+    ),
+    "Code_Line_Description": (
+        "./data/benchmark_tasks/code_line_description",
+        "./configs/BBH/multiple_choice/code_line_description.py",
+    ),
+    "Logical_Deduction": (
+        "./data/benchmark_tasks/logical_deduction",
+        "./configs/BBH/multiple_choice/logical_deduction.py",
+    ),
+    "Play_Dialog": (
+        "./data/benchmark_tasks/play_dialog_same_or_different",
+        "./configs/BBH/binary_classification/play_dialog_same_or_different.py",),
+    "Vitaminc_Fact_Verification": (
+        "./data/benchmark_tasks/vitaminc_fact_verification",
+        "./configs/BBH/classification/vitaminc_fact_verification.py",
+    ),
+    "StrategyQA": (
+        "./data/benchmark_tasks/strategyqa",
+        "./configs/BBH/binary_classification/strategy_qa.py",
+    ),
+    "Strange_Stories": (
+        "./data/benchmark_tasks/strange_stories",
+        "./configs/BBH/binary_classification/strange_stories.py",
+    ),
+    "Language_Identification": (
+        "./data/benchmark_tasks/language_identification",
+        "./configs/BBH/classification/language_identification.py",
+    ),
+    "Language_Identification_Paraphrased": (
+        "./data/benchmark_tasks/language_identification",
+        "./configs/Paraphrase/language_identification.py",
+    ),
+    "Language_Identification_Adversial": (
+        "./data/benchmark_tasks/language_identification",
+        "./configs/Adv/language_identification.py",
+    ),
+    "Known_Unknowns": (
+        "./data/benchmark_tasks/known_unknowns",
+        "./configs/BBH/multiple_choice/known_unknowns.py",
+    ),
+    "Hindu_Knowledge": (
+        "./data/benchmark_tasks/hindu_knowledge",
+        "./configs/BBH/multiple_choice/hindu_knowledge.py",
+    ),
+    "Novel_Concepts": (
+        "./data/benchmark_tasks/novel_concepts",
+        "./configs/BBH/multiple_choice/novel_concepts.py",
+    ),
+    "Winowhy": (
+        "./data/benchmark_tasks/winowhy",
+        "./configs/BBH/binary_classification/winowhy.py",
+    ),
+    "Intent_Recognition": (
+        "./data/benchmark_tasks/intent_recognition",
+        "./configs/Adv/intent_recognition.py",
+    ),
+    "Logic_Grid_Puzzle": (
+        "./data/benchmark_tasks/logic_grid_puzzle",
+        "./configs/BBH/multiple_choice/logic_grid_puzzle.py",
+    ),
+    "Conceptual_Combinations": (
+        "./data/benchmark_tasks/conceptual_combinations",
+        "./configs/BBH/multiple_choice/conceptual_combinations.py",
+    ),
+    "Conceptual_Combinations_Adversarial": (
+        "./data/benchmark_tasks/conceptual_combinations",
+        "./configs/Adv/conceptual_combinations.py",
+    ),
+    "Empirical_Judgments": (
+        "./data/benchmark_tasks/empirical_judgments",
+        "./configs/Adv/empirical_judgments.py",
+    ),
+    "Crash_Blossom": (
+        "./data/benchmark_tasks/crash_blossom",
+        "./configs/Adv/crash_blossom.py",
+    ),
+    "Common_Morpheme": (
+        "./data/benchmark_tasks/common_morpheme",
+        "./configs/Adv/common_morpheme.py",
+    ),
+    "Logical_Sequence": (
+        "./data/benchmark_tasks/logical_sequence",
+        "./configs/Adv/logical_sequence.py",
+    ),
+    "Epistemic_Reasoning": (
+        "./data/benchmark_tasks/epistemic_reasoning",
+        "./configs/Adv/epistemic_reasoning.py",
+    ),
     "RETACRED_QA": (
         "../Data/RETACRED",
         "./configs/8.25/all_qa.py"
@@ -39,22 +129,6 @@ DATASET2CONFIGS = {
         "../Data/TACREV",
         "./configs/8.25/all_qa.py"
     ),
-    "RETACRED_RE": (
-        "../Data/RETACRED",
-        "./configs/8.25/all_re.py"
-    ),
-    "semeval_RE": (
-        "../Data/semeval",
-        "./configs/8.25/all_re.py"
-    ),
-    "TACRED_RE": (
-        "../Data/TACRED",
-        "./configs/8.25/all_re.py"
-    ),
-    "TACREV_RE": (
-        "../Data/TACREV",
-        "./configs/8.25/all_re.py"
-    ),
 }
 
 
@@ -64,8 +138,6 @@ class Experiment:
 
         if "alpaca" in model_name_or_path:
             ModelClass, TokenizerClass = AutoModelForCausalLM, LlamaTokenizer
-        elif "vicuna" in model_name_or_path or "WizardLM" in model_name_or_path:
-            ModelClass, TokenizerClass = AutoModelForCausalLM, AutoTokenizer
         else:
             ModelClass, TokenizerClass = AutoModelForSeq2SeqLM, AutoTokenizer
 
@@ -77,19 +149,15 @@ class Experiment:
         if precision == "bf16":
             torch.set_float32_matmul_precision("high")
         fabric_precision, precision = precisions_dict[precision]
-
         self.model = ModelClass.from_pretrained(
             model_name_or_path, torch_dtype=precision)
-
         self.tokenizer = TokenizerClass.from_pretrained(model_name_or_path)
         strategy = "ddp" if len(devices) > 1 else "auto"
         self.fabric = Fabric(accelerator="cuda", devices=devices,
                              precision=fabric_precision, strategy=strategy)
         self.fabric.launch()
-
         self.model.eval()
         self.model = self.fabric.setup(self.model)
-
         self._tasks = []
         self.fabric.barrier()
 
@@ -164,14 +232,9 @@ class Experiment:
 
             all_classes, all_gold_classes = [], []
             all_pred, all_gold = [], []
-            idx = 0
             with torch.no_grad():
                 for batch in tqdm(test_set):
-
                     input_ids, attention_mask, labels, label_cls, label_spaces_ids, sample_to = batch.values()
-                    choose_AB = False
-                    if self.tokenizer.decode(labels.tolist()[0])[0] == '?':
-                        choose_AB = True
                     # print(f"attention_mask={attention_mask}")
                     # exit()
                     inputs = {
@@ -187,7 +250,7 @@ class Experiment:
                     if eval_by_logits:
                         classes = metric.classify(
                             logits, label_spaces_ids, sample_to)
-                        # print("{logits}")
+                        print("{logits}")
                         all_classes.extend(classes.cpu().numpy())
                         all_gold_classes.extend(label_cls.cpu().numpy())
 
@@ -202,43 +265,56 @@ class Experiment:
             golds = self.tokenizer.batch_decode(
                 all_gold, skip_special_tokens=True, clean_up_tokenization_spaces=False)
 
-            for i in range(len(preds)):
-                preds[i] = preds[i].replace(".", "")
-                # print(len(preds[i]))
-                if golds[i] == '?' and (preds[i][0] == 'A' or preds[i][0] == 'B'):
-                    preds[i] = preds[i].replace(preds[i][0], "?")
-                #     print(f"change:{preds[i]}")
-                # if i < 5:
-                #     print(preds)
-                # else:
-                #     exit()
-
-            label_verbalizer = set(golds)
-            all_labels = {
-                label for label in label_verbalizer if label != "no_relation"}
-            precision, recall, f1, support = precision_recall_fscore_support(y_pred=preds, y_true=golds,
-                                                                             labels=list(all_labels), average='micro')
-            dataset_folder_name = os.path.basename(os.path.normpath(input_dir))
-            config_file_dir = os.path.basename(os.path.normpath(config_dir))
-            output_file = "output_{}_{}_{}.txt".format(dataset_folder_name.split('/')[-1], config_file_dir.split('.')[-2][-2:], self.model_name_or_path.split(
-                '/')[-1])
-            golden_file = "golden_{}_{}_{}.txt".format(dataset_folder_name.split('/')[-1], config_file_dir.split('.')[-2][-2:], self.model_name_or_path.split(
-                '/')[-1])
-
-            with open(os.path.join(output_dir, "result.txt"), "a") as r:
-                r.write("{}_{}_{}\nPrecision: {}\tRecall: {}\tF1 Score: {}\n\n\n".format(dataset_folder_name.split('/')[-1], config_file_dir.split('.')[-2][-2:], self.model_name_or_path.split(
-                    '/')[-1], precision, recall, f1))
+            output_file = "output.txt" if self.fabric.world_size == 1 else "output_{}.txt".format(
+                self.fabric.local_rank)
+            golden_file = "golden.txt" if self.fabric.world_size == 1 else "golden_{}.txt".format(
+                self.fabric.local_rank)
+            
             # 写文件
             with open(os.path.join(output_dir, output_file), "w") as f:
-
                 for n, pred in enumerate(preds):
                     f.write(str(n) + "\t" + pred + "\n")
                 f.close()
-            f.close()
+
             with open(os.path.join(output_dir, golden_file), "w") as f:
                 for n, gold in enumerate(golds):
                     f.write(str(n) + "\t" + gold + "\n")
                 f.close()
+
+            if eval_by_logits:
+                class_file = "classes.txt" if self.fabric.world_size == 1 else "classes_{}.txt".format(
+                    self.fabric.local_rank)
+                with open(os.path.join(output_dir, class_file), "w") as f:
+                    for n, cls in enumerate(all_classes):
+                        f.write(str(n) + "\t" + str(cls) + "\n")
+                    f.close()
+
+            correct, total = metric(
+                all_classes, all_gold_classes) if eval_by_logits else metric(preds, golds)
+            self.fabric.barrier()
+            if self.fabric.world_size > 1:
+                correct = self.fabric.all_reduce(correct, reduce_op="sum")
+                total = self.fabric.all_reduce(total, reduce_op="sum")
+
+            accuracy = correct.float() / total.float()
+            accuracy = accuracy.cpu().item()
+
+            if self.fabric.global_rank in [0, -1]:
+                print("The Accuracy is {}".format(accuracy))
+                time_ = time.strftime("%Y-%m-%d-%H:%M:%S", time.localtime())
+
+                info_dict = {
+                    "time": time_,
+                    "performance": accuracy,
+                    "example": example,
+                    "instruction": instruction,
+                    "shots": shot_count,
+                    "eval_by_logits": eval_by_logits
+                }
+                with open(os.path.join(output_dir, "info.json"), "w") as f:
+                    json.dump(info_dict, f)
+                    f.close()
+
         print("Done!")
 
 

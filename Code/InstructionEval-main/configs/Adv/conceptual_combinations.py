@@ -28,18 +28,11 @@ def load_data(input_dir, instruction, shot_count, eval_by_logits, tokenizer):
         items.extend(new_items)
         examples.extend(new_examples)
 
-    print(f"item={items}")
     test_set = Dataset.from_list(items)
     preprocessor = ConceptualCombinationPreprocessor(instruction, examples, eval_by_logits, input_dir)
     preprocess = preprocessor.processor
 
     test_set = test_set.map(preprocess, remove_columns=["question", "options", "answer"], num_proc=mp.cpu_count())
-
-    for key in test_set[1].keys():
-        print(f"key={key}\nvalue={test_set[0][key]}\ntype={type(test_set[0][key])}")
-        print("\n")
-
-    # exit()
     return test_set
 
 
