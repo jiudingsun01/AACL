@@ -1,0 +1,35 @@
+import pandas as pd
+import os
+import re
+import ast
+input_dir = '.'
+items, examples = [], []
+pattern = r".*QA4RE\.csv"
+files = [f for f in os.listdir(input_dir) if os.path.isfile(
+    os.path.join(input_dir, f)) and re.match(pattern, f)]
+print(f"{files}")
+tar_keys = ['input_text', 'output_text', 'label_space', 'label_verbalizer', 'verbalized_label']
+src_keys = ['input_prompt', 'correct_template_indexes', 'all_indexes', 'index2rel', 'verbalized_label']
+del_keys = ['Unnamed: 0', 'id', 'label', 'ent1_type', 'ent2_type', 'ent1', 'ent2',
+            'sents', 'masked_sents', 'final_input_prompts',
+            'test_ready_prompts', 'predictions', 'uncalibrated_predictions',
+            'gpt3_output_predictions', 'cost', 'time',
+            'rel_predictions']
+for f in files:
+    df = pd.read_csv(os.path.join(input_dir, f), sep='\t')
+    for index, row in df.iterrows():
+        row_dict = row.to_dict()
+        for i in range(len(tar_keys)):
+            row_dict[tar_keys[i]] = row_dict.pop(src_keys[i])
+        row_dict['input_text'] = row_dict['input_text'].replace(
+            "\n", " ").replace(r'`', r"'")
+        row_dict['output_text'] = row_dict['output_text'].replace(
+            "[", "").replace("]", "").replace(",", "").replace("'", "").replace(" ", "")
+        row_dict['label_space'] = ast.literal_eval(row_dict['label_space'])
+        for key in del_keys:
+            if key in row_dict:
+                del row_dict[key]
+        items.append(row_dict)
+
+# Save to csv
+pd.DataFrame(items).to_csv('TACRED-QA.csv', index=False)

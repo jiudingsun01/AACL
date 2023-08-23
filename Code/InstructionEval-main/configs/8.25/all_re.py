@@ -31,9 +31,9 @@ def load_data(input_dir, instruction, shot_count, eval_by_logits, tokenizer):
             # select keys to delete
             first_row = df.iloc[0].to_dict()
             del_keys = list(first_row.keys())
-            for key in not_to_del_keys:
-                if key in del_keys:
-                    del_keys.remove(key)
+
+            for key in src_keys:
+                del_keys.remove(key)
 
             for i in range(len(tar_keys)):
                 row_dict[tar_keys[i]] = row_dict.pop(src_keys[i])
@@ -41,15 +41,18 @@ def load_data(input_dir, instruction, shot_count, eval_by_logits, tokenizer):
             row_dict['input_text'] = row_dict['input_text'].replace(
                 "\n", " ").replace(r'`', r"'")
             row_dict['output_text'] = row_dict['output_text'].replace(
-                "[", "").replace("]", "").replace(",", "").replace("'", "").replace(" ", "")
+                "[", "").replace("]", "").replace("'", "").replace(" ", "")
             row_dict['label_space'] = ast.literal_eval(row_dict['label_space'])
+
             # row_dict['input_text']=repr(row_dict['input_text'])
             for key in del_keys:
                 del row_dict[key]
+            items.append(row_dict)
 
-            # only single choose
-            if len(row_dict['output_text']) == 1:
-                items.append(row_dict)
+    if instruction is not None:
+        for v in items:
+            v['input_text'] = v['input_text'].replace(
+                "Given a Sentence, and two Entities within the Sentence, classify the relationship between the two Entities based on the provided Sentence. All possible Relationships are listed below:", instruction, 1)
 
     test_set = Dataset.from_list(items)
 
