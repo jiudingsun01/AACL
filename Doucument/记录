@@ -34,9 +34,12 @@ Zero-shot 模型需要在没有看过任何特定任务样本的情况下，直�
 
 评估LLM对Instruction的鲁棒性
 
+处理后的数据集包括Unseen task和seen task，Unseen task下为RE Instructions，seen task下为QA Instructions。
+我们的目标是评估LLMs在对于unseen和seen task下的RE和QA Instructions 的鲁棒性，促进Fine-tuned LLMs鲁棒性相关工作的进一步研究。
+
 1 Introduction
     A. 介绍研究的背景和目的
-    B. 说明所使用的不同模型：FLAN-T5-Small, Base, Large, 3B, 11B，Alpaca 7B, Vicuna 7B, WizardLM-13B, T0pp-11B
+    B. 说明所使用的不同模型：Flan-T5-3B Alpaca-7B Vicuna-7B T0++ 11B Flan-T5-11B WizardLM-13B 
     C. 概述研究主题：unseen instruction和unseen Instruction上的鲁棒性
     主要贡献如下： We perform a comprehensive and indepth analysis of the robustness of xxx模型
 
@@ -44,32 +47,22 @@ Zero-shot 模型需要在没有看过任何特定任务样本的情况下，直�
 
 3 Evaluating the Robustness
 3.1 DataSets and Models
-TACRED，RETACRED，TACREV，SemEval数据集
+我们选取了TACRED，RETACRED，TACREV，SemEval这四个RE数据集，每个RE数据集都已经reformulate对应QA（cite Kai Zhang），分别包含一个Instructions。为了更好的对Instructions的鲁棒性进行评估，我们对于QA和RE数据集上的Instruction人工进行重写，在保证diverse的基础上分别新增了三个Instruction。
 
-只有REtask，reformulate 成QA
+Table 1 
 
+经过处理后的TACRED，RETACRED，TACREV，SemEval数据集分别包含4个QA和RE的Instructions，对应seen和unseen两个task。在数据集中，我们对同一task的所有任务使用相同的Instructions，这些指令是通用的，例如在QA的情况下，要求模型在给定sentence和choice的情况下完成对选项的判断Which option can be inferred from the given Sentence（参见表格1的例子）。
 
-
-四个数据集分别包含Unseen tasks(RE)和Seen tasks(QA)，我们分别在四个数据集上使用六个模型对其进行了测试，全面评估了LLM对 unseen 和 unseen Instruction中Instruction的鲁棒性
-
-
-Unseen Task （分QA和RE）,
-
-QA和RE，再测试instruction的robustness
-
-我们针对xx指令集合进行实验，这x个集合分别训练了... ...（简单介绍各指令集合，主要是seen/oberved的instructions）
-
-To evaluate model robustness with respect to instruction phrasings we use two benchmarks:... ...（介绍benchmarks）
-
-Table 1 Examples of observed instructions we collected for three general types of tasks.（只做QA还是？）
-
-We use the same instructions for all tasks in the same category, taken from the published instruction
-tuning datasets associated with each model. These instructions are general, e.g., in the case of
-classification they request that the model consider an example with respect to categorization criteria
-and label space provided by the instance, and select an appropriate category (examples in Table 1).
-One can “mix-and-match” such instructions so long as they are appropriate for the task type.
+完成数据集准备后，我们分别对Flan-T5-3B Alpaca-7B Vicuna-7B T0++ 11B Flan-T5-11B WizardLM-13B这六个Fine-tuned LLMs全面评估了QA、RE Instruction的鲁棒性。
 
 3.2 Result（基本照抄）
+
+图2 在测试中使用unseen task下的RE Instructions会降低Fine-tuned LLMs的性能（a）, 规模大小不一定能解决这个问题(b)
+(a)使用seen和unseen task下的Instructions时，模型的平均zero-shot性能(b)使用seen和unseen task下的Instructions时，不同模型大小的Flan-T5性能表现
+
+
+
+我们在图2和表3
 	We present the main aggregated analysis results in Figure 2 and Table 3. The take-away here is
 that using instructions unobserved in training—but manually composed for the task at hand and so
 semantically appropriate—leads to considerable degradation in performance: On average, unobserved
@@ -77,11 +70,16 @@ instructions reduce accuracy by over five points across models considered. Table
 disaggregated by task type; we observe that classification tasks are most harmed by use of novel
 instructions. We provide additional, more granular (dataset-level) results in the Appendix.
 
-3.3 A Closer Look at Instruction Robustness
+
+3.3 A Closer Look at Instruction Robustness 再说
 	Above we used general instructions requesting the model to perform tasks (Table 1). Here we delve
 further into the performance degradation observed when using novel instructions. We report a curious
 result highlighting the degree to which models rely on having previously observed instructions:
 Incorrect but observed instructions outperform appropriate but unobserved instructions (Figure 3).做一下Incorrect但observed的instruction表现和appropriate but unobserved表现对比，出一个对比的大表**
+
+
+
+
 
 挑其中一两个结果做分析
 
