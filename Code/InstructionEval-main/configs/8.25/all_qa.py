@@ -27,6 +27,9 @@ def load_data(input_dir, instruction, shot_count, eval_by_logits, tokenizer):
 
     not_to_del_keys = ['input_prompt',
                        'correct_template_indexes', 'all_indexes']
+
+    labelSpace = set()
+
     for f in files:
         # print(f"file={f}")
         df = pd.read_csv(os.path.join(input_dir, f), sep='\t')
@@ -48,6 +51,10 @@ def load_data(input_dir, instruction, shot_count, eval_by_logits, tokenizer):
             row_dict['output_text'] = row_dict['output_text'].replace(
                 "[", "").replace("]", "").replace(",", "").replace("'", "").replace(" ", "")
             row_dict['label_space'] = ast.literal_eval(row_dict['label_space'])
+
+            for item in row_dict['label_space']:
+                labelSpace.add(item)
+
             # row_dict['input_text']=repr(row_dict['input_text'])
             for key in del_keys:
                 del row_dict[key]
@@ -65,6 +72,13 @@ def load_data(input_dir, instruction, shot_count, eval_by_logits, tokenizer):
             else:
                 items.append(row_dict)
     # pd.DataFrame(items).to_csv('test.csv', index=False)
+
+    generated_space = list()
+    for item in labelSpace:
+        generated_space.append(item)
+
+    for row in items:
+        row['label_space'] = generated_space
 
     if instruction is not None:
         for v in items:

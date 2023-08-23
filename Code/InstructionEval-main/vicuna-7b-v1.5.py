@@ -35,7 +35,7 @@ if __name__ == "__main__":
         experiment.add_tasks_by_name(
             task_name="RETACRED_QA",
             output_dir="./vicuna-7b-v1.5/",
-            batch_size="1",
+            batch_size="8",
             instruction=Ins_QA[i],
             shot_count="0",
             eval_by_logit=True,
@@ -43,7 +43,7 @@ if __name__ == "__main__":
         experiment.add_tasks_by_name(
             task_name="semeval_QA",
             output_dir="./vicuna-7b-v1.5/",
-            batch_size="1",
+            batch_size="8",
             instruction=Ins_QA[i],
             shot_count="0",
             eval_by_logit=True,
@@ -51,7 +51,7 @@ if __name__ == "__main__":
         experiment.add_tasks_by_name(
             task_name="TACRED_QA",
             output_dir="./vicuna-7b-v1.5/",
-            batch_size="1",
+            batch_size="8",
             instruction=Ins_QA[i],
             shot_count="0",
             eval_by_logit=True,
@@ -59,7 +59,7 @@ if __name__ == "__main__":
         experiment.add_tasks_by_name(
             task_name="TACREV_QA",
             output_dir="./vicuna-7b-v1.5/",
-            batch_size="1",
+            batch_size="8",
             instruction=Ins_QA[i],
             shot_count="0",
             eval_by_logit=True,
@@ -69,7 +69,7 @@ if __name__ == "__main__":
     #     experiment.add_tasks_by_name(
     #         task_name="RETACRED_RE",
     #         output_dir="./vicuna-7b-v1.5/",
-    #         batch_size="1",
+    #         batch_size="8",
     #         instruction=Ins_RE[i],
     #         shot_count="0",
     #         eval_by_logit=True,
@@ -77,7 +77,7 @@ if __name__ == "__main__":
     #     experiment.add_tasks_by_name(
     #         task_name="semeval_RE",
     #         output_dir="./vicuna-7b-v1.5/",
-    #         batch_size="1",
+    #         batch_size="8",
     #         instruction=Ins_RE[i],
     #         shot_count="0",
     #         eval_by_logit=True,
@@ -85,7 +85,7 @@ if __name__ == "__main__":
     #     experiment.add_tasks_by_name(
     #         task_name="TACRED_RE",
     #         output_dir="./vicuna-7b-v1.5/",
-    #         batch_size="1",
+    #         batch_size="8",
     #         instruction=Ins_RE[i],
     #         shot_count="0",
     #         eval_by_logit=True,
@@ -93,7 +93,7 @@ if __name__ == "__main__":
     #     experiment.add_tasks_by_name(
     #         task_name="TACREV_RE",
     #         output_dir="./vicuna-7b-v1.5/",
-    #         batch_size="1",
+    #         batch_size="8",
     #         instruction=Ins_RE[i],
     #         shot_count="0",
     #         eval_by_logit=True,
