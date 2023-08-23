@@ -31,20 +31,20 @@ if __name__ == "__main__":
     #     shot_count="0",
     #     eval_by_logit=True,
     # )
-    # experiment.add_tasks_by_name(
-    #     task_name="TACRED_QA",
-    #     output_dir="./test/",
-    #     batch_size="1",
-    #     instruction=None,
-    #     shot_count="0",
-    #     eval_by_logit=True,
-    # )
     experiment.add_tasks_by_name(
-        task_name="TACREV_QA",
+        task_name="TACRED_QA",
         output_dir="./test/",
         batch_size="1",
         instruction=None,
         shot_count="0",
         eval_by_logit=True,
     )
+    # experiment.add_tasks_by_name(
+    #     task_name="TACREV_QA",
+    #     output_dir="./test/",
+    #     batch_size="1",
+    #     instruction=None,
+    #     shot_count="0",
+    #     eval_by_logit=True,
+    # )
     experiment.inference()
