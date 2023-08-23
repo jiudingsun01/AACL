@@ -52,9 +52,6 @@ def load_data(input_dir, instruction, shot_count, eval_by_logits, tokenizer):
                 "[", "").replace("]", "").replace(",", "").replace("'", "").replace(" ", "")
             row_dict['label_space'] = ast.literal_eval(row_dict['label_space'])
 
-            for item in row_dict['label_space']:
-                labelSpace.add(item)
-
             # row_dict['input_text']=repr(row_dict['input_text'])
             for key in del_keys:
                 del row_dict[key]
@@ -68,9 +65,11 @@ def load_data(input_dir, instruction, shot_count, eval_by_logits, tokenizer):
                 # ? as AB
                 row_dict['label_space'].append('?')
                 row_dict['output_text'] = '?'
-                items.append(row_dict)
-            else:
-                items.append(row_dict)
+
+            for item in row_dict['label_space']:
+                labelSpace.add(item)
+
+            items.append(row_dict)
     # pd.DataFrame(items).to_csv('test.csv', index=False)
 
     generated_space = list()
