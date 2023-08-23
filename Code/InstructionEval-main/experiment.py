@@ -149,15 +149,15 @@ class Experiment:
         if precision == "bf16":
             torch.set_float32_matmul_precision("high")
         fabric_precision, precision = precisions_dict[precision]
-        # self.model = ModelClass.from_pretrained(
-        #     model_name_or_path, torch_dtype=precision)
+        self.model = ModelClass.from_pretrained(
+            model_name_or_path, torch_dtype=precision)
         self.tokenizer = TokenizerClass.from_pretrained(model_name_or_path)
         strategy = "ddp" if len(devices) > 1 else "auto"
         self.fabric = Fabric(accelerator="cuda", devices=devices,
                              precision=fabric_precision, strategy=strategy)
         self.fabric.launch()
-        # self.model.eval()
-        # self.model = self.fabric.setup(self.model)
+        self.model.eval()
+        self.model = self.fabric.setup(self.model)
         self._tasks = []
         self.fabric.barrier()
 
@@ -269,6 +269,7 @@ class Experiment:
                 self.fabric.local_rank)
             golden_file = "golden.txt" if self.fabric.world_size == 1 else "golden_{}.txt".format(
                 self.fabric.local_rank)
+            
             # 写文件
             with open(os.path.join(output_dir, output_file), "w") as f:
                 for n, pred in enumerate(preds):

@@ -17,15 +17,15 @@ def load_data(input_dir, instruction, shot_count, eval_by_logits, tokenizer):
         os.path.join(input_dir, f)) and re.match(pattern, f)]
     print(f"{files}")
     # get final_input_prompts, all_indexes, correct_template_indexes
-    tar_keys = ['input_text', 'output_text', 'label_space']
-    src_keys = ['input_prompt', 'correct_template_indexes', 'all_indexes']
+    tar_keys = ['input_text', 'output_text', 'label_space', 'verbalized_label', 'label_verbalizer']
+    src_keys = ['input_prompt', 'correct_template_indexes', 'all_indexes', 'verbalized_label', 'index2rel']
     del_keys = ['Unnamed: 0', 'id', 'label', 'ent1_type', 'ent2_type', 'ent1', 'ent2',
-                'sents', 'masked_sents', 'verbalized_label', 'final_input_prompts', 'index2rel',
+                'sents', 'masked_sents', 'final_input_prompts',
                 'test_ready_prompts', 'predictions', 'uncalibrated_predictions',
                 'gpt3_output_predictions', 'cost', 'time',
                 'rel_predictions']
 
-    not_to_del_keys = ['input_prompt', 'correct_template_indexes', 'all_indexes']
+    not_to_del_keys = ['input_prompt', 'correct_template_indexes', 'all_indexes', 'verbalized_label', 'index2rel']
     for f in files:
         # print(f"file={f}")
         df = pd.read_csv(os.path.join(input_dir, f), sep='\t')
