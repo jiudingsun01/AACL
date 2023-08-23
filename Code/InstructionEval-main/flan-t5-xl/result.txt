@@ -1,0 +1,86 @@
+RETACRED_qa_flan-t5-xl
+Precision: 0.6615054787994283	Recall: 0.6549528301886792	F1 Score: 0.6582128466461247
+
+semeval_qa_flan-t5-xl
+Precision: 0.38438880706921946	Recall: 0.2088	F1 Score: 0.27060653188180406
+---------
+RETACRED_qa_flan-t5-xl
+Precision: 0.7166	Recall: 0.7166	F1 Score: 0.7166
+
+
+semeval_qa_flan-t5-xl
+Precision: 0.3674	Recall: 0.3674	F1 Score: 0.3674
+
+
+TACRED_qa_flan-t5-xl
+Precision: 0.724	Recall: 0.724	F1 Score: 0.724
+
+
+TACREV_qa_flan-t5-xl
+Precision: 0.75	Recall: 0.75	F1 Score: 0.75
+
+
+RETACRED_qa_flan-t5-xl
+Precision: 0.6978	Recall: 0.6978	F1 Score: 0.6978
+
+
+semeval_qa_flan-t5-xl
+Precision: 0.3902	Recall: 0.3902	F1 Score: 0.39019999999999994
+
+
+TACRED_qa_flan-t5-xl
+Precision: 0.662	Recall: 0.662	F1 Score: 0.662
+
+
+TACREV_qa_flan-t5-xl
+Precision: 0.674	Recall: 0.674	F1 Score: 0.674
+
+
+RETACRED_qa_flan-t5-xl
+Precision: 0.6718	Recall: 0.6718	F1 Score: 0.6718
+
+
+semeval_qa_flan-t5-xl
+Precision: 0.37	Recall: 0.37	F1 Score: 0.37
+
+
+TACRED_qa_flan-t5-xl
+Precision: 0.667	Recall: 0.667	F1 Score: 0.667
+
+
+TACREV_qa_flan-t5-xl
+Precision: 0.665	Recall: 0.665	F1 Score: 0.665
+
+
+RETACRED_qa_flan-t5-xl
+Precision: 0.7054	Recall: 0.7054	F1 Score: 0.7054
+
+
+semeval_qa_flan-t5-xl
+Precision: 0.3862	Recall: 0.3862	F1 Score: 0.3862
+
+
+TACRED_qa_flan-t5-xl
+Precision: 0.683	Recall: 0.683	F1 Score: 0.683
+
+
+TACREV_qa_flan-t5-xl
+Precision: 0.7	Recall: 0.7	F1 Score: 0.7
+
+
+-----------------Instruction: None -----------------
+-----------------Instruction: Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below. -----------------
+-----------------Instruction: You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided. -----------------
+-----------------Instruction: The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below. -----------------
+-----------------Instruction: None -----------------
+-----------------Instruction: Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below. -----------------
+-----------------Instruction: You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided. -----------------
+-----------------Instruction: The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below. -----------------
+RETACRED_re_flan-t5-xl
+Precision: 0.541647701411015	Recall: 0.5421412300683371	F1 Score: 0.5418943533697633
+
+
+-----------------Instruction: None -----------------
+-----------------Instruction: Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below. -----------------
+-----------------Instruction: You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided. -----------------
+-----------------Instruction: The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below. -----------------
