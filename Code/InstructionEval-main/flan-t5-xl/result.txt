@@ -1,9 +1,5 @@
-RETACRED_qa_flan-t5-xl
-Precision: 0.6615054787994283	Recall: 0.6549528301886792	F1 Score: 0.6582128466461247
+-----------------QA Instruction: 0 -----------------
 
-semeval_qa_flan-t5-xl
-Precision: 0.38438880706921946	Recall: 0.2088	F1 Score: 0.27060653188180406
----------
 RETACRED_qa_flan-t5-xl
 Precision: 0.7166	Recall: 0.7166	F1 Score: 0.7166
 
@@ -19,6 +15,7 @@ Precision: 0.724	Recall: 0.724	F1 Score: 0.724
 TACREV_qa_flan-t5-xl
 Precision: 0.75	Recall: 0.75	F1 Score: 0.75
 
+-----------------QA Instruction: 1 -----------------
 
 RETACRED_qa_flan-t5-xl
 Precision: 0.6978	Recall: 0.6978	F1 Score: 0.6978
@@ -35,6 +32,7 @@ Precision: 0.662	Recall: 0.662	F1 Score: 0.662
 TACREV_qa_flan-t5-xl
 Precision: 0.674	Recall: 0.674	F1 Score: 0.674
 
+-----------------QA Instruction: 2 -----------------
 
 RETACRED_qa_flan-t5-xl
 Precision: 0.6718	Recall: 0.6718	F1 Score: 0.6718
@@ -51,6 +49,7 @@ Precision: 0.667	Recall: 0.667	F1 Score: 0.667
 TACREV_qa_flan-t5-xl
 Precision: 0.665	Recall: 0.665	F1 Score: 0.665
 
+-----------------QA Instruction: 3 -----------------
 
 RETACRED_qa_flan-t5-xl
 Precision: 0.7054	Recall: 0.7054	F1 Score: 0.7054
@@ -67,20 +66,72 @@ Precision: 0.683	Recall: 0.683	F1 Score: 0.683
 TACREV_qa_flan-t5-xl
 Precision: 0.7	Recall: 0.7	F1 Score: 0.7
 
+-----------------RE Instruction: 0 -----------------
 
------------------Instruction: None -----------------
------------------Instruction: Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below. -----------------
------------------Instruction: You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided. -----------------
------------------Instruction: The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below. -----------------
------------------Instruction: None -----------------
------------------Instruction: Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below. -----------------
------------------Instruction: You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided. -----------------
------------------Instruction: The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below. -----------------
 RETACRED_re_flan-t5-xl
-Precision: 0.541647701411015	Recall: 0.5421412300683371	F1 Score: 0.5418943533697633
+Precision: 0.5422727272727272	Recall: 0.543507972665148	F1 Score: 0.5428896473265074
 
 
------------------Instruction: None -----------------
------------------Instruction: Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below. -----------------
------------------Instruction: You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided. -----------------
------------------Instruction: The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below. -----------------
+semeval_re_flan-t5-xl
+Precision: 0.30561122244488975	Recall: 0.305	F1 Score: 0.30530530530530525
+
+
+TACRED_re_flan-t5-xl
+Precision: 0.4940828402366864	Recall: 0.7136752136752137	F1 Score: 0.583916083916084
+
+
+TACREV_re_flan-t5-xl
+Precision: 0.4943502824858757	Recall: 0.7954545454545454	F1 Score: 0.6097560975609757
+
+-----------------RE Instruction: 1 -----------------
+
+RETACRED_re_flan-t5-xl
+Precision: 0.46849196001738375	Recall: 0.4911161731207289	F1 Score: 0.4795373665480427
+
+
+semeval_re_flan-t5-xl
+Precision: 0.301440329218107	Recall: 0.293	F1 Score: 0.2971602434077079
+
+
+TACRED_re_flan-t5-xl
+Precision: 0.43112244897959184	Recall: 0.7222222222222222	F1 Score: 0.5399361022364217
+
+
+TACREV_re_flan-t5-xl
+Precision: 0.4213075060532688	Recall: 0.7909090909090909	F1 Score: 0.5497630331753554
+
+-----------------RE Instruction: 2 -----------------
+
+RETACRED_re_flan-t5-xl
+Precision: 0.49137931034482757	Recall: 0.49339407744874714	F1 Score: 0.49238463287110706
+
+
+semeval_re_flan-t5-xl
+Precision: 0.32663316582914576	Recall: 0.325	F1 Score: 0.32581453634085217
+
+
+TACRED_re_flan-t5-xl
+Precision: 0.47701149425287354	Recall: 0.7094017094017094	F1 Score: 0.570446735395189
+
+
+TACREV_re_flan-t5-xl
+Precision: 0.4535809018567639	Recall: 0.7772727272727272	F1 Score: 0.5728643216080402
+
+-----------------RE Instruction: 3 -----------------
+
+RETACRED_re_flan-t5-xl
+Precision: 0.48295454545454547	Recall: 0.5421412300683371	F1 Score: 0.5108392358875296
+
+
+semeval_re_flan-t5-xl
+Precision: 0.3319959879638917	Recall: 0.331	F1 Score: 0.33149724586880325
+
+
+TACRED_re_flan-t5-xl
+Precision: 0.4207920792079208	Recall: 0.7264957264957265	F1 Score: 0.5329153605015674
+
+
+TACREV_re_flan-t5-xl
+Precision: 0.40930232558139534	Recall: 0.8	F1 Score: 0.5415384615384616
+
+

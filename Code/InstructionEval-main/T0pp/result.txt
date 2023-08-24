@@ -1,3 +1,5 @@
+-----------------QA Instruction: 0 -----------------
+
 RETACRED_qa_T0pp
 Precision: 0.3942	Recall: 0.3942	F1 Score: 0.3942
 
@@ -13,6 +15,7 @@ Precision: 0.379	Recall: 0.379	F1 Score: 0.37899999999999995
 TACREV_qa_T0pp
 Precision: 0.356	Recall: 0.356	F1 Score: 0.356
 
+-----------------QA Instruction: 1 -----------------
 
 RETACRED_qa_T0pp
 Precision: 0.3708	Recall: 0.3708	F1 Score: 0.3708000000000001
@@ -29,6 +32,7 @@ Precision: 0.36	Recall: 0.36	F1 Score: 0.36
 TACREV_qa_T0pp
 Precision: 0.338	Recall: 0.338	F1 Score: 0.338
 
+-----------------QA Instruction: 2 -----------------
 
 RETACRED_qa_T0pp
 Precision: 0.3806	Recall: 0.3806	F1 Score: 0.3806
@@ -45,6 +49,7 @@ Precision: 0.364	Recall: 0.364	F1 Score: 0.364
 TACREV_qa_T0pp
 Precision: 0.342	Recall: 0.342	F1 Score: 0.342
 
+-----------------QA Instruction: 3 -----------------
 
 RETACRED_qa_T0pp
 Precision: 0.3876	Recall: 0.3876	F1 Score: 0.3876
@@ -60,5 +65,73 @@ Precision: 0.38	Recall: 0.38	F1 Score: 0.38
 
 TACREV_qa_T0pp
 Precision: 0.366	Recall: 0.366	F1 Score: 0.366
+
+-----------------RE Instruction: 0 -----------------
+
+RETACRED_re_T0pp
+Precision: 0.28753026634382567	Recall: 0.4328018223234624	F1 Score: 0.34551736679396255
+
+
+semeval_re_T0pp
+Precision: 0.19517795637198623	Recall: 0.17	F1 Score: 0.1817210048102619
+
+
+TACRED_re_T0pp
+Precision: 0.2013888888888889	Recall: 0.49572649572649574	F1 Score: 0.28641975308641976
+
+
+TACREV_re_T0pp
+Precision: 0.19170984455958548	Recall: 0.5045454545454545	F1 Score: 0.2778473091364205
+
+-----------------RE Instruction: 1 -----------------
+
+RETACRED_re_T0pp
+Precision: 0.2772157021448806	Recall: 0.3120728929384966	F1 Score: 0.2936133733390484
+
+
+semeval_re_T0pp
+Precision: 0.20698924731182797	Recall: 0.154	F1 Score: 0.17660550458715596
+
+
+TACRED_re_T0pp
+Precision: 0.19651741293532338	Recall: 0.33760683760683763	F1 Score: 0.24842767295597482
+
+
+TACREV_re_T0pp
+Precision: 0.17206982543640897	Recall: 0.31363636363636366	F1 Score: 0.2222222222222222
+
+-----------------RE Instruction: 2 -----------------
+
+RETACRED_re_T0pp
+Precision: 0.25451092117758783	Recall: 0.3662870159453303	F1 Score: 0.3003361972357116
+
+
+semeval_re_T0pp
+Precision: 0.1878048780487805	Recall: 0.154	F1 Score: 0.16923076923076924
+
+
+TACRED_re_T0pp
+Precision: 0.2012072434607646	Recall: 0.42735042735042733	F1 Score: 0.27359781121751026
+
+
+TACREV_re_T0pp
+Precision: 0.1889763779527559	Recall: 0.43636363636363634	F1 Score: 0.2637362637362637
+
+-----------------RE Instruction: 3 -----------------
+
+RETACRED_re_T0pp
+Precision: 0.275670372792675	Recall: 0.3840546697038724	F1 Score: 0.3209594517418618
+
+
+semeval_re_T0pp
+Precision: 0.2045728038507822	Recall: 0.17	F1 Score: 0.1856908793009285
+
+
+TACRED_re_T0pp
+Precision: 0.2028688524590164	Recall: 0.4230769230769231	F1 Score: 0.27423822714681445
+
+
+TACREV_re_T0pp
+Precision: 0.1900990099009901	Recall: 0.43636363636363634	F1 Score: 0.26482758620689656
 
 

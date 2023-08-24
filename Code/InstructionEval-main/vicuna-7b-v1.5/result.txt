@@ -2,3 +2,67 @@
 -----------------Instruction: Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below. -----------------
 -----------------Instruction: You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided. -----------------
 -----------------Instruction: The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below. -----------------
+-----------------Instruction: None -----------------
+-----------------Instruction: Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below. -----------------
+-----------------Instruction: You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided. -----------------
+-----------------Instruction: The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below. -----------------
+-----------------Instruction: None -----------------
+-----------------Instruction: Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below. -----------------
+-----------------Instruction: You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided. -----------------
+-----------------Instruction: The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below. -----------------
+-----------------Instruction: None -----------------
+-----------------Instruction: Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below. -----------------
+-----------------Instruction: You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided. -----------------
+-----------------Instruction: The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below. -----------------
+RETACRED_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+semeval_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+TACRED_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+TACREV_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+RETACRED_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+semeval_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+TACRED_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+TACREV_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+RETACRED_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+semeval_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+TACRED_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+TACREV_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+
+RETACRED_qa_vicuna-7b-v1.5
+Precision: 0.0	Recall: 0.0	F1 Score: 0.0
+
+

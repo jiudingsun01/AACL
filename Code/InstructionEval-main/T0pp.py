@@ -29,39 +29,38 @@ if __name__ == "__main__":
               "You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided.", "The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below."]
 
     for i in range(len(Ins_QA)):
-        experiment.add_tasks_by_name(
-            task_name="RETACRED_QA",
-            output_dir="./T0pp/",
-            batch_size="8",
-            instruction=Ins_QA[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
-        experiment.add_tasks_by_name(
-            task_name="semeval_QA",
-            output_dir="./T0pp/",
-            batch_size="8",
-            instruction=Ins_QA[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
-        experiment.add_tasks_by_name(
-            task_name="TACRED_QA",
-            output_dir="./T0pp/",
-            batch_size="8",
-            instruction=Ins_QA[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
-        experiment.add_tasks_by_name(
-            task_name="TACREV_QA",
-            output_dir="./T0pp/",
-            batch_size="8",
-            instruction=Ins_QA[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
-
+      experiment.add_tasks_by_name(
+          task_name="RETACRED_QA",
+          output_dir="./T0pp/",
+          batch_size="2",
+          instruction=Ins_QA[i],
+          shot_count="0",
+          eval_by_logit=True,
+      )
+      experiment.add_tasks_by_name(
+          task_name="semeval_QA",
+          output_dir="./T0pp/",
+          batch_size="2",
+          instruction=Ins_QA[i],
+          shot_count="0",
+          eval_by_logit=True,
+      )
+      experiment.add_tasks_by_name(
+          task_name="TACRED_QA",
+          output_dir="./T0pp/",
+          batch_size="2",
+          instruction=Ins_QA[i],
+          shot_count="0",
+          eval_by_logit=True,
+      )
+      experiment.add_tasks_by_name(
+          task_name="TACREV_QA",
+          output_dir="./T0pp/",
+          batch_size="2",
+          instruction=Ins_QA[i],
+          shot_count="0",
+          eval_by_logit=True,
+      )
     for i in range(len(Ins_RE)):
         experiment.add_tasks_by_name(
             task_name="RETACRED_RE",

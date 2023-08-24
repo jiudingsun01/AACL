@@ -80,7 +80,6 @@ class Experiment:
 
         self.model = ModelClass.from_pretrained(
             model_name_or_path, torch_dtype=precision)
-
         self.tokenizer = TokenizerClass.from_pretrained(model_name_or_path)
         strategy = "ddp" if len(devices) > 1 else "auto"
         self.fabric = Fabric(accelerator="cuda", devices=devices,

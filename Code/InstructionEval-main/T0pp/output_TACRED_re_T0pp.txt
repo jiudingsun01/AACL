@@ -1,0 +1,5000 @@
+0	no_relation
+1	Pauliina Miettinen is a defender and goalkeeper for Finaland
+2	org:top_members/employees
+3	org:member_of
+4	per:siblings
+5	Amanda Knox is 22 
+6	per:country_of_birth
+7	per:children
+8	org:subsidiaries
+9	Xie Caiping was sentenced to 18 years in prison on charges of running illegal gambling dens and drug dealing 
+10	per:cities_of_residence
+11	per:country_of_birth
+12	org:founded_by
+13	employee_of
+14	per:siblings
+15	per:alternate_names
+16	org:website
+17	Her grandmother is a veteran Scientologist 
+18	no_relation
+19	org:members
+20	org:subsidiaries
+21	per:spouse
+22	per:stateorprovince_of_residence
+23	org:members
+24	per:cause_of_death
+25	org:members
+26	org:number_of_employees/members
+27	per:country_of_birth
+28	org:subsidiaries
+29	no_relation
+30	per:city_of_death
+31	per:date_of_birth
+32	per:spouse
+33	org:city_of_headquarters
+34	per:date_of_birth
+35	per:schools_attended
+36	org:political/religious_affiliation
+37	per:country_of_death
+38	org:founded
+39	per:stateorprovince_of_birth
+40	per:city_of_birth
+41	org:dissolved
+42	her -lrb- american -rrb- roommate -lrb- british -rrb-
+43	No_relation
+44	org:top_members/employees
+45	org:members
+46	per:siblings
+47	per:age
+48	per:country_of_birth
+49	per:children
+50	no_relation
+51	per:charges
+52	per:cities_of_residence
+53	per:origin
+54	org:founded_by
+55	employee_of
+56	per:siblings
+57	org:website
+58	he is a muslim
+59	org:subsidiaries
+60	org:subsidiaries
+61	per:siblings
+62	per:stateorprovince_of_death
+63	org:member_of
+64	cause of death
+65	org:member_of
+66	no_relation
+67	no_relation
+68	per:city_of_death
+69	per:spouse
+70	org:city_of_headquarters
+71	she was listed in stable condition last week
+72	employee_of
+73	org:founded
+74	designer is a person
+75	architect -lrb- profession -rrb-
+76	org:top_members/employees
+77	no_relation
+78	per:children
+79	per:age
+80	no_relation
+81	per:children
+82	org:members
+83	Wen is charged with bribery 
+84	per:cities_of_residence
+85	per:origin
+86	org:founded_by
+87	no_relation
+88	per:siblings
+89	per:religion
+90	org:subsidiaries
+91	org:subsidiaries
+92	per:spouse
+93	per:stateorprovince_of_residence
+94	per:cause_of_death
+95	org:stateorprovince_of_headquarters
+96	per:spouse
+97	org:city_of_headquarters
+98	per:date_of_death
+99	org:founded
+100	no_relation
+101	no_relation
+102	org:top_members/employees
+103	no_relation
+104	per:parents
+105	she was 19
+106	per:country_of_residence
+107	org:subsidiaries
+108	per:charges
+109	per:cities_of_residence
+110	per:country_of_birth
+111	org:founded_by
+112	no_relation
+113	per:siblings
+114	per:religion
+115	org:subsidiaries
+116	per:spouse
+117	per:stateorprovince_of_birth
+118	per:cause_of_death
+119	org:stateorprovince_of_headquarters
+120	per:spouse
+121	no_relation
+122	no_relation
+123	no_relation
+124	Wen Qiang was the former director of the Chongqing Municipal Judicial Bureau 
+125	org:top_members/employees
+126	no_relation
+127	per:parents
+128	per:age
+129	per:country_of_birth
+130	no_relation
+131	per:charges
+132	per:cities_of_residence
+133	no_relation
+134	org:founded_by
+135	no_relation
+136	no_relation
+137	per:spouse
+138	no_relation
+139	per:origin
+140	she was an art teacher
+141	no_relation
+142	no_relation
+143	per:children
+144	Jamie Leigh Jones , now 22 , says that after she was raped by multiple men at a KBR camp in the Green Zone
+145	per:country_of_birth
+146	org:subsidiaries
+147	per:charges
+148	in detention in Port-au-Prince
+149	per:origin
+150	no_relation
+151	per:stateorprovince_of_residence
+152	org:city_of_headquarters
+153	no_relation
+154	minister , street general
+155	no_relation
+156	no_relation
+157	per:age
+158	per:countries_of_residence
+159	org:members
+160	per:charges
+161	per:cities_of_residence
+162	per:origin
+163	employee of
+164	per:children
+165	kidnapping
+166	org:founded_by
+167	per:age
+168	per:country_of_residence
+169	org:subsidiaries
+170	no_relation
+171	per:origin
+172	employee_of
+173	no_relation
+174	Analyst is Ahmed Rashid 
+175	org:top_members/employees
+176	Samudio is 25 years old 
+177	per:country_of_birth
+178	org:members
+179	per:city_of_death
+180	per:origin
+181	employee of
+182	no_relation
+183	Youssoufou Bamba is Ouattara 's new ambassador
+184	org:top_members/employees
+185	daughter of the late civil rights attorney william kunstler
+186	per:country_of_birth
+187	org:members
+188	per:cities_of_residence
+189	no_relation
+190	no_relation
+191	Entity 1 : Vladimir Ladyzhenskiy Entity 2 : wrestler
+192	org:top_members/employees
+193	per:age
+194	org:members
+195	per:cities_of_residence
+196	employee of
+197	org:founded
+198	no_relation
+199	org:top_members/employees
+200	Mark Fisher , 19-year-old
+201	org:members
+202	no_relation
+203	employee of
+204	per:other_family
+205	Tracy Barker had sued US contractor KBR Inc , its former parent company Halliburton and several affiliates in May 2007 , claiming she
+206	no_relation
+207	per:age
+208	org:subsidiaries
+209	no_relation
+210	employee of
+211	org:top_members/employees
+212	brother-in-law
+213	org:top_members/employees
+214	org:members
+215	employee_of
+216	per:spouse
+217	Mark Fisher is the new chief executive
+218	org:top_members/employees
+219	no_relation
+220	no_relation
+221	His guard shared his cell phone with her 
+222	org:top_members/employees
+223	employee_of
+224	Pressure in the primary oxygen bottles was increased to 1430 PSIA from 1020 PSIA
+225	Andrew E Lange is a physicist 
+226	org:top_members/employees
+227	per:employee_of
+228	no_relation
+229	Wen Qiang was the deputy director of Chongqing 's public security department
+230	org:top_members/employees
+231	employee of
+232	no_relation
+233	no_relation
+234	org:top_members/employees
+235	no_relation
+236	Charles Ble Goude is Laurent Gbagbo 's lieutenant
+237	org:top_members/employees
+238	no_relation
+239	lieutenant
+240	org:top_members/employees
+241	org:stateorprovince_of_headquarters
+242	detained in an internal investigation
+243	no_relation
+244	per:spouse
+245	former lawmaker
+246	org:top_members/employees
+247	per:spouse
+248	journalist
+249	no_relation
+250	spokeswoman
+251	per:parents
+252	President
+253	per:spouse
+254	minister is a person
+255	per:siblings
+256	no_relation
+257	per:spouse
+258	director
+259	per:spouse
+260	captain and chen tao
+261	no_relation
+262	Assaf Ramon was a pilot 
+263	per:spouse
+264	coach
+265	per:spouse
+266	minister and street general
+267	org:number_of_employees/members
+268	no_relation
+269	org:member_of
+270	no_relation
+271	no_relation
+272	no_relation
+273	org:founded
+274	no_relation
+275	Almost all of those whose arrests we have ordered are related to the fugitive boss
+276	Hagemo said the investigator wanted names of people who told her it was okay to get pregnant
+277	per:spouse
+278	no_relation
+279	per:spouse
+280	Vagni was held for months
+281	org:founded
+282	employee of
+283	per:cities_of_residence
+284	no_relation
+285	no_relation
+286	no_relation
+287	per:spouse
+288	per:cities_of_residence
+289	org:top_members/employees
+290	no_relation
+291	org:top_members/employees
+292	per:spouse
+293	no_relation
+294	no_relation
+295	no_relation
+296	no_relation
+297	no_relation
+298	no_relation
+299	per:other_family
+300	no_relation
+301	per:country_of_birth
+302	no_relation
+303	per:employee_of
+304	director of fabris
+305	no_relation
+306	per:age
+307	org:subsidiaries
+308	no_relation
+309	org:organizer
+310	no_relation
+311	They seized Vagni and two other Red Cross workers in Jolo in January although the two others were released separately in April
+312	no_relation
+313	per:spouse
+314	org:alternate_names
+315	no_relation
+316	no_relation
+317	org:founded
+318	Criticism
+319	no_relation
+320	her and one
+321	org:member_of
+322	no_relation
+323	per:other_family
+324	no_relation
+325	no_relation
+326	no_relation
+327	org:founded
+328	per:spouse
+329	per:spouse
+330	once
+331	org:dissolved
+332	per:spouse
+333	per:spouse
+334	no_relation
+335	org:members
+336	per:country_of_death
+337	no_relation
+338	no_relation
+339	no_relation
+340	per:employee_of
+341	no_relation
+342	per:age
+343	no_relation
+344	per:spouse
+345	per:siblings
+346	no_relation
+347	no_relation
+348	per:city_of_death
+349	no_relation
+350	org:members
+351	no_relation
+352	per:parents
+353	per:spouse
+354	no_relation
+355	no_relation
+356	no_relation
+357	distance
+358	previously
+359	per:spouse
+360	no_relation
+361	He met a female chemical engineer 
+362	per:spouse
+363	per:spouse
+364	she was five months pregnant
+365	per:spouse
+366	No_relation
+367	no_relation
+368	per:other_family
+369	no_relation
+370	org:number_of_employees/members
+371	per:country_of_birth
+372	per:parents
+373	per:parents
+374	no_relation
+375	no_relation
+376	org:founded
+377	no_relation
+378	medals won by the organization
+379	no_relation
+380	org:dissolved
+381	His wife
+382	org:founded_by
+383	org:founded
+384	no_relation
+385	per:parents
+386	no_relation
+387	org:members
+388	per:charges
+389	org:top_members/employees
+390	no_relation
+391	per:siblings
+392	per:spouse
+393	per:spouse
+394	no_relation
+395	no_relation
+396	per:other_family
+397	he is one of the three
+398	no_relation
+399	no_relation
+400	no_relation
+401	no_relation
+402	per:parents
+403	no_relation
+404	org:members
+405	no_relation
+406	per:siblings
+407	no_relation
+408	no_relation
+409	org:member_of
+410	Xie Caiping rebuked by judge
+411	per:siblings
+412	no_relation
+413	per:spouse
+414	per:spouse
+415	no_relation
+416	per:spouse
+417	no_relation
+418	per:pet
+419	no_relation
+420	no_relation
+421	His was a detective in Times Square 
+422	no_relation
+423	no_relation
+424	Lessons and Examples from Implementation
+425	no_relation
+426	per:siblings
+427	per:country_of_birth
+428	no_relation
+429	no_relation
+430	no_relation
+431	no_relation
+432	per:cities_of_residence
+433	recently
+434	org:members
+435	per:siblings
+436	no_relation
+437	no_relation
+438	per:employee_of
+439	per:spouse
+440	Matteo Messina Denaro
+441	no_relation
+442	no_relation
+443	no_relation
+444	org:members
+445	per:age
+446	per:spouse
+447	no_relation
+448	per:spouse
+449	no_relation
+450	no_relation
+451	org:founded_by
+452	no_relation
+453	no_relation
+454	per:spouse
+455	org:founded_by
+456	per:spouse
+457	org:top_members/employees
+458	no_relation
+459	his
+460	no_relation
+461	per:siblings
+462	no_relation
+463	Cement producer Semen Gresik lost 38 percent to 12,800
+464	per:religion
+465	per:alternate_names
+466	He was a store detective in Times Square 
+467	no_relation
+468	no_relation
+469	no_relation
+470	per:spouse
+471	no_relation
+472	per:siblings
+473	per:spouse
+474	no_relation
+475	org:subsidiaries
+476	Tribal Law and Order Act
+477	no_relation
+478	no_relation
+479	org:founded
+480	per:age
+481	no_relation
+482	per:country_of_birth
+483	no_relation
+484	no_relation
+485	org:number_of_employees/members
+486	org:members
+487	per:spouse
+488	org:founded_by
+489	no_relation
+490	per:siblings
+491	org:founded
+492	per:siblings
+493	per:spouse
+494	no_relation
+495	no_relation
+496	per:other_family
+497	per:siblings
+498	per:siblings
+499	past
+500	no_relation
+501	per:spouse
+502	org:founded
+503	no_relation
+504	no_relation
+505	cousin
+506	per:siblings
+507	per:origin
+508	per:age
+509	no_relation
+510	per:siblings
+511	no_relation
+512	no_relation
+513	no_relation
+514	per:sponse
+515	per:spouse
+516	no_relation
+517	org:members
+518	per:parents
+519	per:parents
+520	no_relation
+521	employee of
+522	org:members
+523	org:founded_by
+524	no_relation
+525	no_relation
+526	no_relation
+527	no_relation
+528	no_relation
+529	no_relation
+530	no_relation
+531	no_relation
+532	He formed his own company , TAU , for a while , sold part to Trimble , left Trimble to start a GPS
+533	cause of death
+534	no_relation
+535	no_relation
+536	no_relation
+537	no_relation
+538	org:founded_by
+539	no_relation
+540	org:number_of_employees/members
+541	per:spouse
+542	per:parents
+543	org:members
+544	per:siblings
+545	Matteo Messina Denaro is a mobster 
+546	no_relation
+547	no_relation
+548	org:founded
+549	org:number_of_employees/members
+550	per:country_of_birth
+551	no_relation
+552	per:spouse
+553	attorney said her family 's case should be treated like a workers ' compensation claim
+554	per:spouse
+555	No_relation
+556	once defiant wen
+557	per:spouse
+558	dishonest
+559	per:spouse
+560	per:spouse
+561	per:spouse
+562	per:other_family
+563	per:siblings
+564	no_relation
+565	org:members
+566	no_relation
+567	no_relation
+568	his two handguns
+569	His son is a Scientologist 
+570	no_relation
+571	org:founded
+572	per:siblings
+573	no_relation
+574	no_relation
+575	per:police
+576	no_relation
+577	per:spouse
+578	per:siblings
+579	no_relation
+580	org:number_of_employees/members
+581	no_relation
+582	per:spouse
+583	per:age
+584	no_relation
+585	per:other_family
+586	org:city_of_headquarters
+587	per:parents
+588	no_relation
+589	He was hell-bent on committing this act , and no one was going to stop him 
+590	no_relation
+591	no_relation
+592	per:other_family
+593	no_relation
+594	org:members
+595	org:members
+596	per:siblings
+597	per:spouse
+598	no_relation
+599	per:parents
+600	per:other_family
+601	Prophet is a religious figure
+602	Norris Church Mailer is married to Boxer 
+603	Mark Fisher is a theatre director 
+604	no_relation
+605	per:employee_of
+606	org:top_members/employees
+607	Wen raped a student after getting her drunk
+608	no_relation
+609	no_relation
+610	org:top_members/employees
+611	per:spouse
+612	per:religion
+613	per:spouse
+614	org:city_of_headquarters
+615	per:siblings
+616	org:top_members/employees
+617	no_relation
+618	no_relation
+619	per:nanny
+620	no_relation
+621	org:top_members/employees
+622	no_relation
+623	org:founded_by
+624	org:member_of
+625	per:date_of_birth
+626	no_relation
+627	No_relation
+628	no_relation
+629	org:members
+630	per:employee_of
+631	no_relation
+632	org:top_members/employees
+633	per:spouse
+634	no_relation
+635	no_relation
+636	per:age
+637	no_relation
+638	org:subsidiaries
+639	per:spouse
+640	no_relation
+641	a half
+642	no_relation
+643	org:members
+644	no_relation
+645	Shares in Countrywide plunged 1498 percent to 1810 dollars around 1540 GMT as investors panicked over the latest sign that the crisis is widen
+646	org:founded
+647	per:date_of_death
+648	org:founded
+649	per:spouse
+650	per:spouse
+651	no_relation
+652	per:spouse
+653	Pacific Asia Travel Association is a travel association
+654	no_relation
+655	no_relation
+656	director
+657	per:city_of_death
+658	org:members
+659	no_relation
+660	no_relation
+661	no_relation
+662	no_relation
+663	no_relation
+664	org:member_of
+665	no_relation
+666	no_relation
+667	per:parents
+668	no_relation
+669	no_relation
+670	no_relation
+671	no_relation
+672	no_relation
+673	per:siblings
+674	no_relation
+675	no_relation
+676	after
+677	per:siblings
+678	Fees for longer flights will climb from 80 yuan ( US$ 1070 , euro7 40 ) to 100 yu
+679	no_relation
+680	org:members
+681	org:subsidiaries
+682	org:founded
+683	no_relation
+684	Xie Caiping was sentenced to 18 years in prison on Tuesday 
+685	per:siblings
+686	per:spouse
+687	org:members
+688	no_relation
+689	per:cities_of_residence
+690	Online retailers such as Amazon are useful for wide-distribution barware : shakers from Rösle ; Alessi and W
+691	no_relation
+692	no_relation
+693	org:members
+694	Mark Fisher was shot five times 
+695	mother of
+696	org:members
+697	no_relation
+698	no_relation
+699	no_relation
+700	no_relation
+701	no_relation
+702	per:charges
+703	per:cities_of_residence
+704	no_relation
+705	no_relation
+706	per:spouse
+707	per:other_family
+708	per:stateorprovince_of_birth
+709	no_relation
+710	per:siblings
+711	low
+712	no_relation
+713	no_relation
+714	per:spouse
+715	per:siblings
+716	per:spouse
+717	no_relation
+718	no_relation
+719	per:spouse
+720	no_relation
+721	no_relation
+722	no_relation
+723	no_relation
+724	no_relation
+725	per:stateorprovince_of_birth
+726	no_relation
+727	no_relation
+728	per:siblings
+729	per:spouse
+730	no_relation
+731	org:members
+732	org:subsidiaries
+733	no_relation
+734	new year motivation
+735	org:subsidiaries
+736	she is high on drugs
+737	org:number_of_employees/members
+738	no_relation
+739	no_relation
+740	he has done a lot of great research on 9/11
+741	no_relation
+742	no_relation
+743	org:number_of_employees/members
+744	on Tuesday , organized crime boss Xie Caiping , labeled the '' godmother of the underworld ''
+745	per:origin
+746	org:shareholders
+747	Her brother-in-law served as a top Chongqing police official for 16 years
+748	org:alternate_names
+749	Mark Fisher will be promoted to Senior Vice President
+750	per:siblings
+751	Judge Bernard Saint-Vil had Wednesday freed the other eight Americans without bail and they returned to the United States , but he ordered Laura Sils
+752	org:members
+753	no_relation
+754	he is helping members of Cuba 's Jewish community use the Internet to stay in contact with each other
+755	per:spouse
+756	a second cousin to the now-iconic '' bird kettle '' Graves designed for Alessi
+757	org:number_of_employees/members
+758	per:age
+759	per:siblings
+760	no_relation
+761	executive
+762	no_relation
+763	no_relation
+764	per:parents
+765	per:charges
+766	no_relation
+767	per:siblings
+768	no_relation
+769	days took her to get approval to make a phone call
+770	no_relation
+771	no_relation
+772	no_relation
+773	org:founded
+774	no_relation
+775	org:parents
+776	per:spouse
+777	per:parents
+778	she was raped in iraq
+779	no_relation
+780	per:parents
+781	no_relation
+782	no_relation
+783	per:spouse
+784	his team got one of the biggest prizes in cosmology
+785	org:top_members/employees
+786	no_relation
+787	per:siblings
+788	no_relation
+789	speaker
+790	no_relation
+791	no_relation
+792	employee_of
+793	no_relation
+794	org:top_members/employees
+795	org:members
+796	org:members
+797	org:founded_by
+798	org:members
+799	org:founded
+800	no_relation
+801	one of the 3 finalist in the Adobe MAX Awards for the RIA category
+802	org:members
+803	CEO is the president of Helen Keller International
+804	per:spouse
+805	per:other_family
+806	per:date_of_birth
+807	no_relation
+808	no_relation
+809	no_relation
+810	org:political/religious_affiliation
+811	no_relation
+812	no_relation
+813	org:top_members/employees
+814	per:spouse
+815	org:top_members/employees
+816	no_relation
+817	no_relation
+818	no_relation
+819	per:other_family
+820	his underwent more than four hours of surgery to repair multiple fractures to his legs wednesday
+821	no_relation
+822	per:age
+823	Entity 1 is a location
+824	org:founded_by
+825	no_relation
+826	Laura Silsby is being questioned by the judge 
+827	per:spouse
+828	no_relation
+829	org:website
+830	org:member_of
+831	per:siblings
+832	no_relation
+833	org:members
+834	per:employee_of
+835	per:siblings
+836	per:parents
+837	Ilan is the only soldier of 21 who agreed to have his name published , after he was interviewed by psychologist Nofer Ishai-K
+838	org:member_of
+839	org:members
+840	journalist , religion
+841	org:founded_by
+842	no_relation
+843	per:employee_of
+844	per:friend
+845	no_relation
+846	per:siblings
+847	org:founded
+848	no_relation
+849	per:spouse
+850	no_relation
+851	org:founded
+852	no_relation
+853	per:spouse
+854	per:spouse
+855	no_relation
+856	no_relation
+857	per:spouse
+858	per:spouse
+859	On June 16 , New Fabris was declared bankrupt 
+860	no_relation
+861	no_relation
+862	not enough information
+863	no_relation
+864	no_relation
+865	No_relation
+866	per:siblings
+867	no_relation
+868	Sicilian is the name of the region
+869	org:subsidiaries
+870	per:country_of_birth
+871	per:spouse
+872	org:members
+873	before
+874	no_relation
+875	no_relation
+876	per:cities_of_residence
+877	no_relation
+878	no_relation
+879	employee_of
+880	per:parents
+881	no_relation
+882	he and blyskal took a three-day trip together on Scientology 's cruise ship
+883	per:spouse
+884	per:spouse
+885	no_relation
+886	per:spouse
+887	no_relation
+888	org:members
+889	org:top_members/employees
+890	org:number_of_employees/members
+891	org:top_members/employees
+892	no_relation
+893	org:subsidiaries
+894	no_relation
+895	no_relation
+896	org:members
+897	medals won by the organization
+898	org:subsidiaries
+899	no_relation
+900	per:spouse
+901	per:spouse
+902	No_relation
+903	per:spouse
+904	per:date_of_birth
+905	per:cities_of_residence
+906	per:spouse
+907	per:cities_of_residence
+908	no_relation
+909	per:spouse
+910	no_relation
+911	one of our clients
+912	If she joined , she could live her dream , she could be an auditor
+913	per:other_family
+914	no_relation
+915	no_relation
+916	His visits to a therapist were eventually covered by the city of Stamford after police and union officials became involved on his behalf , said Sg
+917	no_relation
+918	where she is held
+919	no_relation
+920	no_relation
+921	no_relation
+922	per:spouse
+923	no_relation
+924	no_relation
+925	no_relation
+926	org:founded
+927	per:siblings
+928	no_relation
+929	She reported her supervisor abusing her and the Iraqi women
+930	Sarah Kunstler is a lawyer 
+931	per:country_of_birth
+932	org:top_members/employees
+933	per:spouse
+934	no_relation
+935	no_relation
+936	no_relation
+937	per:spouse
+938	He is a chef 
+939	org:founded
+940	no_relation
+941	no_relation
+942	per:spouse
+943	per:country_of_birth
+944	no_relation
+945	per:spouse
+946	per:age
+947	no_relation
+948	per:age
+949	per:siblings
+950	no_relation
+951	no_relation
+952	no_relation
+953	org:top_members/employees
+954	no_relation
+955	per:country_of_birth
+956	per:employee_of
+957	per:spouse
+958	org:member_of
+959	no_relation
+960	no_relation
+961	no_relation
+962	Alessi has received three times the orders it had expected before the launch 
+963	org:founded
+964	per:spouse
+965	no_relation
+966	one of the many members of the board of directors of pda
+967	per:religion
+968	no_relation
+969	no_relation
+970	per:business
+971	org:number_of_employees/members
+972	per:spouse
+973	org:members
+974	no_relation
+975	no_relation
+976	per:spouse
+977	org:founded
+978	per:spouse
+979	no_relation
+980	no_relation
+981	no_relation
+982	no_relation
+983	captain is a goalkeeper
+984	no_relation
+985	he died
+986	no_relation
+987	per:date_of_death
+988	org:top_members/employees
+989	per:siblings
+990	org:members
+991	no_relation
+992	no_relation
+993	no_relation
+994	org:founded
+995	per:siblings
+996	org:subsidiaries
+997	org:founded
+998	This year 's mart , which organized jointly by PATA and the Ministry of Culture and Tourism of Indonesia , also sees 4,294
+999	per:date_of_birth
+1000	no_relation
+1001	Pauliina Miettinen is a defender and goalkeeper for Finaland
+1002	org:top_members/employees
+1003	org:member_of
+1004	per:siblings
+1005	Amanda Knox is 22 
+1006	per:country_of_birth
+1007	per:children
+1008	org:subsidiaries
+1009	Xie Caiping was sentenced to 18 years in prison on charges of running illegal gambling dens and drug dealing 
+1010	per:cities_of_residence
+1011	per:country_of_birth
+1012	org:founded_by
+1013	employee_of
+1014	per:siblings
+1015	per:alternate_names
+1016	org:website
+1017	Her grandmother is a veteran Scientologist 
+1018	no_relation
+1019	org:members
+1020	org:subsidiaries
+1021	per:spouse
+1022	per:stateorprovince_of_residence
+1023	org:members
+1024	per:cause_of_death
+1025	org:members
+1026	org:number_of_employees/members
+1027	per:country_of_birth
+1028	org:subsidiaries
+1029	no_relation
+1030	per:city_of_death
+1031	per:date_of_birth
+1032	per:spouse
+1033	org:city_of_headquarters
+1034	per:date_of_birth
+1035	per:schools_attended
+1036	org:political/religious_affiliation
+1037	per:country_of_death
+1038	org:founded
+1039	per:stateorprovince_of_birth
+1040	per:city_of_birth
+1041	org:dissolved
+1042	her -lrb- american -rrb- roommate -lrb- british -rrb-
+1043	No_relation
+1044	org:top_members/employees
+1045	org:members
+1046	per:siblings
+1047	per:age
+1048	per:country_of_birth
+1049	per:children
+1050	no_relation
+1051	per:charges
+1052	per:cities_of_residence
+1053	per:origin
+1054	org:founded_by
+1055	employee_of
+1056	per:siblings
+1057	org:website
+1058	he is a muslim
+1059	org:subsidiaries
+1060	org:subsidiaries
+1061	per:siblings
+1062	per:stateorprovince_of_death
+1063	org:member_of
+1064	cause of death
+1065	org:member_of
+1066	no_relation
+1067	no_relation
+1068	per:city_of_death
+1069	per:spouse
+1070	org:city_of_headquarters
+1071	she was listed in stable condition last week
+1072	employee_of
+1073	org:founded
+1074	designer is a person
+1075	architect -lrb- profession -rrb-
+1076	org:top_members/employees
+1077	no_relation
+1078	per:children
+1079	per:age
+1080	no_relation
+1081	per:children
+1082	org:members
+1083	Wen is charged with bribery 
+1084	per:cities_of_residence
+1085	per:origin
+1086	org:founded_by
+1087	no_relation
+1088	per:siblings
+1089	per:religion
+1090	org:subsidiaries
+1091	org:subsidiaries
+1092	per:spouse
+1093	per:stateorprovince_of_residence
+1094	per:cause_of_death
+1095	org:stateorprovince_of_headquarters
+1096	per:spouse
+1097	org:city_of_headquarters
+1098	per:date_of_death
+1099	org:founded
+1100	no_relation
+1101	no_relation
+1102	org:top_members/employees
+1103	no_relation
+1104	per:parents
+1105	she was 19
+1106	per:country_of_residence
+1107	org:subsidiaries
+1108	per:charges
+1109	per:cities_of_residence
+1110	per:country_of_birth
+1111	org:founded_by
+1112	no_relation
+1113	per:siblings
+1114	per:religion
+1115	org:subsidiaries
+1116	per:spouse
+1117	per:stateorprovince_of_birth
+1118	per:cause_of_death
+1119	org:stateorprovince_of_headquarters
+1120	per:spouse
+1121	no_relation
+1122	no_relation
+1123	no_relation
+1124	Wen Qiang was the former director of the Chongqing Municipal Judicial Bureau 
+1125	org:top_members/employees
+1126	no_relation
+1127	per:parents
+1128	per:age
+1129	per:country_of_birth
+1130	no_relation
+1131	per:charges
+1132	per:cities_of_residence
+1133	no_relation
+1134	org:founded_by
+1135	no_relation
+1136	no_relation
+1137	per:spouse
+1138	no_relation
+1139	per:origin
+1140	she was an art teacher
+1141	no_relation
+1142	no_relation
+1143	per:children
+1144	Jamie Leigh Jones , now 22 , says that after she was raped by multiple men at a KBR camp in the Green Zone
+1145	per:country_of_birth
+1146	org:subsidiaries
+1147	per:charges
+1148	in detention in Port-au-Prince
+1149	per:origin
+1150	no_relation
+1151	per:stateorprovince_of_residence
+1152	org:city_of_headquarters
+1153	no_relation
+1154	minister , street general
+1155	no_relation
+1156	no_relation
+1157	per:age
+1158	per:countries_of_residence
+1159	org:members
+1160	per:charges
+1161	per:cities_of_residence
+1162	per:origin
+1163	employee of
+1164	per:children
+1165	kidnapping
+1166	org:founded_by
+1167	per:age
+1168	per:country_of_residence
+1169	org:subsidiaries
+1170	no_relation
+1171	per:origin
+1172	employee_of
+1173	no_relation
+1174	Analyst is Ahmed Rashid 
+1175	org:top_members/employees
+1176	Samudio is 25 years old 
+1177	per:country_of_birth
+1178	org:members
+1179	per:city_of_death
+1180	per:origin
+1181	employee of
+1182	no_relation
+1183	Youssoufou Bamba is Ouattara 's new ambassador
+1184	org:top_members/employees
+1185	daughter of the late civil rights attorney william kunstler
+1186	per:country_of_birth
+1187	org:members
+1188	per:cities_of_residence
+1189	no_relation
+1190	no_relation
+1191	Entity 1 : Vladimir Ladyzhenskiy Entity 2 : wrestler
+1192	org:top_members/employees
+1193	per:age
+1194	org:members
+1195	per:cities_of_residence
+1196	employee of
+1197	org:founded
+1198	no_relation
+1199	org:top_members/employees
+1200	Mark Fisher , 19-year-old
+1201	org:members
+1202	no_relation
+1203	employee of
+1204	per:other_family
+1205	Tracy Barker had sued US contractor KBR Inc , its former parent company Halliburton and several affiliates in May 2007 , claiming she
+1206	no_relation
+1207	per:age
+1208	org:subsidiaries
+1209	no_relation
+1210	employee of
+1211	org:top_members/employees
+1212	brother-in-law
+1213	org:top_members/employees
+1214	org:members
+1215	employee_of
+1216	per:spouse
+1217	Mark Fisher is the new chief executive
+1218	org:top_members/employees
+1219	no_relation
+1220	no_relation
+1221	His guard shared his cell phone with her 
+1222	org:top_members/employees
+1223	employee_of
+1224	Pressure in the primary oxygen bottles was increased to 1430 PSIA from 1020 PSIA
+1225	Andrew E Lange is a physicist 
+1226	org:top_members/employees
+1227	per:employee_of
+1228	no_relation
+1229	Wen Qiang was the deputy director of Chongqing 's public security department
+1230	org:top_members/employees
+1231	employee of
+1232	no_relation
+1233	no_relation
+1234	org:top_members/employees
+1235	no_relation
+1236	Charles Ble Goude is Laurent Gbagbo 's lieutenant
+1237	org:top_members/employees
+1238	no_relation
+1239	lieutenant
+1240	org:top_members/employees
+1241	org:stateorprovince_of_headquarters
+1242	detained in an internal investigation
+1243	no_relation
+1244	per:spouse
+1245	former lawmaker
+1246	org:top_members/employees
+1247	per:spouse
+1248	journalist
+1249	no_relation
+1250	spokeswoman
+1251	per:parents
+1252	President
+1253	per:spouse
+1254	minister is a person
+1255	per:siblings
+1256	no_relation
+1257	per:spouse
+1258	director
+1259	per:spouse
+1260	captain and chen tao
+1261	no_relation
+1262	Assaf Ramon was a pilot 
+1263	per:spouse
+1264	coach
+1265	per:spouse
+1266	minister and street general
+1267	org:number_of_employees/members
+1268	no_relation
+1269	org:member_of
+1270	no_relation
+1271	no_relation
+1272	no_relation
+1273	org:founded
+1274	no_relation
+1275	Almost all of those whose arrests we have ordered are related to the fugitive boss
+1276	Hagemo said the investigator wanted names of people who told her it was okay to get pregnant
+1277	per:spouse
+1278	no_relation
+1279	per:spouse
+1280	Vagni was held for months
+1281	org:founded
+1282	employee of
+1283	per:cities_of_residence
+1284	no_relation
+1285	no_relation
+1286	no_relation
+1287	per:spouse
+1288	per:cities_of_residence
+1289	org:top_members/employees
+1290	no_relation
+1291	org:top_members/employees
+1292	per:spouse
+1293	no_relation
+1294	no_relation
+1295	no_relation
+1296	no_relation
+1297	no_relation
+1298	no_relation
+1299	per:other_family
+1300	no_relation
+1301	per:country_of_birth
+1302	no_relation
+1303	per:employee_of
+1304	director of fabris
+1305	no_relation
+1306	per:age
+1307	org:subsidiaries
+1308	no_relation
+1309	org:organizer
+1310	no_relation
+1311	They seized Vagni and two other Red Cross workers in Jolo in January although the two others were released separately in April
+1312	no_relation
+1313	per:spouse
+1314	org:alternate_names
+1315	no_relation
+1316	no_relation
+1317	org:founded
+1318	Criticism
+1319	no_relation
+1320	her and one
+1321	org:member_of
+1322	no_relation
+1323	per:other_family
+1324	no_relation
+1325	no_relation
+1326	no_relation
+1327	org:founded
+1328	per:spouse
+1329	per:spouse
+1330	once
+1331	org:dissolved
+1332	per:spouse
+1333	per:spouse
+1334	no_relation
+1335	org:members
+1336	per:country_of_death
+1337	no_relation
+1338	no_relation
+1339	no_relation
+1340	per:employee_of
+1341	no_relation
+1342	per:age
+1343	no_relation
+1344	per:spouse
+1345	per:siblings
+1346	no_relation
+1347	no_relation
+1348	per:city_of_death
+1349	no_relation
+1350	org:members
+1351	no_relation
+1352	per:parents
+1353	per:spouse
+1354	no_relation
+1355	no_relation
+1356	no_relation
+1357	distance
+1358	previously
+1359	per:spouse
+1360	no_relation
+1361	He met a female chemical engineer 
+1362	per:spouse
+1363	per:spouse
+1364	she was five months pregnant
+1365	per:spouse
+1366	No_relation
+1367	no_relation
+1368	per:other_family
+1369	no_relation
+1370	org:number_of_employees/members
+1371	per:country_of_birth
+1372	per:parents
+1373	per:parents
+1374	no_relation
+1375	no_relation
+1376	org:founded
+1377	no_relation
+1378	medals won by the organization
+1379	no_relation
+1380	org:dissolved
+1381	His wife
+1382	org:founded_by
+1383	org:founded
+1384	no_relation
+1385	per:parents
+1386	no_relation
+1387	org:members
+1388	per:charges
+1389	org:top_members/employees
+1390	no_relation
+1391	per:siblings
+1392	per:spouse
+1393	per:spouse
+1394	no_relation
+1395	no_relation
+1396	per:other_family
+1397	he is one of the three
+1398	no_relation
+1399	no_relation
+1400	no_relation
+1401	no_relation
+1402	per:parents
+1403	no_relation
+1404	org:members
+1405	no_relation
+1406	per:siblings
+1407	no_relation
+1408	no_relation
+1409	org:member_of
+1410	Xie Caiping rebuked by judge
+1411	per:siblings
+1412	no_relation
+1413	per:spouse
+1414	per:spouse
+1415	no_relation
+1416	per:spouse
+1417	no_relation
+1418	per:pet
+1419	no_relation
+1420	no_relation
+1421	His was a detective in Times Square 
+1422	no_relation
+1423	no_relation
+1424	Lessons and Examples from Implementation
+1425	no_relation
+1426	per:siblings
+1427	per:country_of_birth
+1428	no_relation
+1429	no_relation
+1430	no_relation
+1431	no_relation
+1432	per:cities_of_residence
+1433	recently
+1434	org:members
+1435	per:siblings
+1436	no_relation
+1437	no_relation
+1438	per:employee_of
+1439	per:spouse
+1440	Matteo Messina Denaro
+1441	no_relation
+1442	no_relation
+1443	no_relation
+1444	org:members
+1445	per:age
+1446	per:spouse
+1447	no_relation
+1448	per:spouse
+1449	no_relation
+1450	no_relation
+1451	org:founded_by
+1452	no_relation
+1453	no_relation
+1454	per:spouse
+1455	org:founded_by
+1456	per:spouse
+1457	org:top_members/employees
+1458	no_relation
+1459	his
+1460	no_relation
+1461	per:siblings
+1462	no_relation
+1463	Cement producer Semen Gresik lost 38 percent to 12,800
+1464	per:religion
+1465	per:alternate_names
+1466	He was a store detective in Times Square 
+1467	no_relation
+1468	no_relation
+1469	no_relation
+1470	per:spouse
+1471	no_relation
+1472	per:siblings
+1473	per:spouse
+1474	no_relation
+1475	org:subsidiaries
+1476	Tribal Law and Order Act
+1477	no_relation
+1478	no_relation
+1479	org:founded
+1480	per:age
+1481	no_relation
+1482	per:country_of_birth
+1483	no_relation
+1484	no_relation
+1485	org:number_of_employees/members
+1486	org:members
+1487	per:spouse
+1488	org:founded_by
+1489	no_relation
+1490	per:siblings
+1491	org:founded
+1492	per:siblings
+1493	per:spouse
+1494	no_relation
+1495	no_relation
+1496	per:other_family
+1497	per:siblings
+1498	per:siblings
+1499	past
+1500	no_relation
+1501	per:spouse
+1502	org:founded
+1503	no_relation
+1504	no_relation
+1505	cousin
+1506	per:siblings
+1507	per:origin
+1508	per:age
+1509	no_relation
+1510	per:siblings
+1511	no_relation
+1512	no_relation
+1513	no_relation
+1514	per:sponse
+1515	per:spouse
+1516	no_relation
+1517	org:members
+1518	per:parents
+1519	per:parents
+1520	no_relation
+1521	employee of
+1522	org:members
+1523	org:founded_by
+1524	no_relation
+1525	no_relation
+1526	no_relation
+1527	no_relation
+1528	no_relation
+1529	no_relation
+1530	no_relation
+1531	no_relation
+1532	He formed his own company , TAU , for a while , sold part to Trimble , left Trimble to start a GPS
+1533	cause of death
+1534	no_relation
+1535	no_relation
+1536	no_relation
+1537	no_relation
+1538	org:founded_by
+1539	no_relation
+1540	org:number_of_employees/members
+1541	per:spouse
+1542	per:parents
+1543	org:members
+1544	per:siblings
+1545	Matteo Messina Denaro is a mobster 
+1546	no_relation
+1547	no_relation
+1548	org:founded
+1549	org:number_of_employees/members
+1550	per:country_of_birth
+1551	no_relation
+1552	per:spouse
+1553	attorney said her family 's case should be treated like a workers ' compensation claim
+1554	per:spouse
+1555	No_relation
+1556	once defiant wen
+1557	per:spouse
+1558	dishonest
+1559	per:spouse
+1560	per:spouse
+1561	per:spouse
+1562	per:other_family
+1563	per:siblings
+1564	no_relation
+1565	org:members
+1566	no_relation
+1567	no_relation
+1568	his two handguns
+1569	His son is a Scientologist 
+1570	no_relation
+1571	org:founded
+1572	per:siblings
+1573	no_relation
+1574	no_relation
+1575	per:police
+1576	no_relation
+1577	per:spouse
+1578	per:siblings
+1579	no_relation
+1580	org:number_of_employees/members
+1581	no_relation
+1582	per:spouse
+1583	per:age
+1584	no_relation
+1585	per:other_family
+1586	org:city_of_headquarters
+1587	per:parents
+1588	no_relation
+1589	He was hell-bent on committing this act , and no one was going to stop him 
+1590	no_relation
+1591	no_relation
+1592	per:other_family
+1593	no_relation
+1594	org:members
+1595	org:members
+1596	per:siblings
+1597	per:spouse
+1598	no_relation
+1599	per:parents
+1600	per:other_family
+1601	Prophet is a religious figure
+1602	Norris Church Mailer is married to Boxer 
+1603	Mark Fisher is a theatre director 
+1604	no_relation
+1605	per:employee_of
+1606	org:top_members/employees
+1607	Wen raped a student after getting her drunk
+1608	no_relation
+1609	no_relation
+1610	org:top_members/employees
+1611	per:spouse
+1612	per:religion
+1613	per:spouse
+1614	org:city_of_headquarters
+1615	per:siblings
+1616	org:top_members/employees
+1617	no_relation
+1618	no_relation
+1619	per:nanny
+1620	no_relation
+1621	org:top_members/employees
+1622	no_relation
+1623	org:founded_by
+1624	org:member_of
+1625	per:date_of_birth
+1626	no_relation
+1627	No_relation
+1628	no_relation
+1629	org:members
+1630	per:employee_of
+1631	no_relation
+1632	org:top_members/employees
+1633	per:spouse
+1634	no_relation
+1635	no_relation
+1636	per:age
+1637	no_relation
+1638	org:subsidiaries
+1639	per:spouse
+1640	no_relation
+1641	a half
+1642	no_relation
+1643	org:members
+1644	no_relation
+1645	Shares in Countrywide plunged 1498 percent to 1810 dollars around 1540 GMT as investors panicked over the latest sign that the crisis is widen
+1646	org:founded
+1647	per:date_of_death
+1648	org:founded
+1649	per:spouse
+1650	per:spouse
+1651	no_relation
+1652	per:spouse
+1653	Pacific Asia Travel Association is a travel association
+1654	no_relation
+1655	no_relation
+1656	director
+1657	per:city_of_death
+1658	org:members
+1659	no_relation
+1660	no_relation
+1661	no_relation
+1662	no_relation
+1663	no_relation
+1664	org:member_of
+1665	no_relation
+1666	no_relation
+1667	per:parents
+1668	no_relation
+1669	no_relation
+1670	no_relation
+1671	no_relation
+1672	no_relation
+1673	per:siblings
+1674	no_relation
+1675	no_relation
+1676	after
+1677	per:siblings
+1678	Fees for longer flights will climb from 80 yuan ( US$ 1070 , euro7 40 ) to 100 yu
+1679	no_relation
+1680	org:members
+1681	org:subsidiaries
+1682	org:founded
+1683	no_relation
+1684	Xie Caiping was sentenced to 18 years in prison on Tuesday 
+1685	per:siblings
+1686	per:spouse
+1687	org:members
+1688	no_relation
+1689	per:cities_of_residence
+1690	Online retailers such as Amazon are useful for wide-distribution barware : shakers from Rösle ; Alessi and W
+1691	no_relation
+1692	no_relation
+1693	org:members
+1694	Mark Fisher was shot five times 
+1695	mother of
+1696	org:members
+1697	no_relation
+1698	no_relation
+1699	no_relation
+1700	no_relation
+1701	no_relation
+1702	per:charges
+1703	per:cities_of_residence
+1704	no_relation
+1705	no_relation
+1706	per:spouse
+1707	per:other_family
+1708	per:stateorprovince_of_birth
+1709	no_relation
+1710	per:siblings
+1711	low
+1712	no_relation
+1713	no_relation
+1714	per:spouse
+1715	per:siblings
+1716	per:spouse
+1717	no_relation
+1718	no_relation
+1719	per:spouse
+1720	no_relation
+1721	no_relation
+1722	no_relation
+1723	no_relation
+1724	no_relation
+1725	per:stateorprovince_of_birth
+1726	no_relation
+1727	no_relation
+1728	per:siblings
+1729	per:spouse
+1730	no_relation
+1731	org:members
+1732	org:subsidiaries
+1733	no_relation
+1734	new year motivation
+1735	org:subsidiaries
+1736	she is high on drugs
+1737	org:number_of_employees/members
+1738	no_relation
+1739	no_relation
+1740	he has done a lot of great research on 9/11
+1741	no_relation
+1742	no_relation
+1743	org:number_of_employees/members
+1744	on Tuesday , organized crime boss Xie Caiping , labeled the '' godmother of the underworld ''
+1745	per:origin
+1746	org:shareholders
+1747	Her brother-in-law served as a top Chongqing police official for 16 years
+1748	org:alternate_names
+1749	Mark Fisher will be promoted to Senior Vice President
+1750	per:siblings
+1751	Judge Bernard Saint-Vil had Wednesday freed the other eight Americans without bail and they returned to the United States , but he ordered Laura Sils
+1752	org:members
+1753	no_relation
+1754	he is helping members of Cuba 's Jewish community use the Internet to stay in contact with each other
+1755	per:spouse
+1756	a second cousin to the now-iconic '' bird kettle '' Graves designed for Alessi
+1757	org:number_of_employees/members
+1758	per:age
+1759	per:siblings
+1760	no_relation
+1761	executive
+1762	no_relation
+1763	no_relation
+1764	per:parents
+1765	per:charges
+1766	no_relation
+1767	per:siblings
+1768	no_relation
+1769	days took her to get approval to make a phone call
+1770	no_relation
+1771	no_relation
+1772	no_relation
+1773	org:founded
+1774	no_relation
+1775	org:parents
+1776	per:spouse
+1777	per:parents
+1778	she was raped in iraq
+1779	no_relation
+1780	per:parents
+1781	no_relation
+1782	no_relation
+1783	per:spouse
+1784	his team got one of the biggest prizes in cosmology
+1785	org:top_members/employees
+1786	no_relation
+1787	per:siblings
+1788	no_relation
+1789	speaker
+1790	no_relation
+1791	no_relation
+1792	employee_of
+1793	no_relation
+1794	org:top_members/employees
+1795	org:members
+1796	org:members
+1797	org:founded_by
+1798	org:members
+1799	org:founded
+1800	no_relation
+1801	one of the 3 finalist in the Adobe MAX Awards for the RIA category
+1802	org:members
+1803	CEO is the president of Helen Keller International
+1804	per:spouse
+1805	per:other_family
+1806	per:date_of_birth
+1807	no_relation
+1808	no_relation
+1809	no_relation
+1810	org:political/religious_affiliation
+1811	no_relation
+1812	no_relation
+1813	org:top_members/employees
+1814	per:spouse
+1815	org:top_members/employees
+1816	no_relation
+1817	no_relation
+1818	no_relation
+1819	per:other_family
+1820	his underwent more than four hours of surgery to repair multiple fractures to his legs wednesday
+1821	no_relation
+1822	per:age
+1823	Entity 1 is a location
+1824	org:founded_by
+1825	no_relation
+1826	Laura Silsby is being questioned by the judge 
+1827	per:spouse
+1828	no_relation
+1829	org:website
+1830	org:member_of
+1831	per:siblings
+1832	no_relation
+1833	org:members
+1834	per:employee_of
+1835	per:siblings
+1836	per:parents
+1837	Ilan is the only soldier of 21 who agreed to have his name published , after he was interviewed by psychologist Nofer Ishai-K
+1838	org:member_of
+1839	org:members
+1840	journalist , religion
+1841	org:founded_by
+1842	no_relation
+1843	per:employee_of
+1844	per:friend
+1845	no_relation
+1846	per:siblings
+1847	org:founded
+1848	no_relation
+1849	per:spouse
+1850	no_relation
+1851	org:founded
+1852	no_relation
+1853	per:spouse
+1854	per:spouse
+1855	no_relation
+1856	no_relation
+1857	per:spouse
+1858	per:spouse
+1859	On June 16 , New Fabris was declared bankrupt 
+1860	no_relation
+1861	no_relation
+1862	not enough information
+1863	no_relation
+1864	no_relation
+1865	No_relation
+1866	per:siblings
+1867	no_relation
+1868	Sicilian is the name of the region
+1869	org:subsidiaries
+1870	per:country_of_birth
+1871	per:spouse
+1872	org:members
+1873	before
+1874	no_relation
+1875	no_relation
+1876	per:cities_of_residence
+1877	no_relation
+1878	no_relation
+1879	employee_of
+1880	per:parents
+1881	no_relation
+1882	he and blyskal took a three-day trip together on Scientology 's cruise ship
+1883	per:spouse
+1884	per:spouse
+1885	no_relation
+1886	per:spouse
+1887	no_relation
+1888	org:members
+1889	org:top_members/employees
+1890	org:number_of_employees/members
+1891	org:top_members/employees
+1892	no_relation
+1893	org:subsidiaries
+1894	no_relation
+1895	no_relation
+1896	org:members
+1897	medals won by the organization
+1898	org:subsidiaries
+1899	no_relation
+1900	per:spouse
+1901	per:spouse
+1902	No_relation
+1903	per:spouse
+1904	per:date_of_birth
+1905	per:cities_of_residence
+1906	per:spouse
+1907	per:cities_of_residence
+1908	no_relation
+1909	per:spouse
+1910	no_relation
+1911	one of our clients
+1912	If she joined , she could live her dream , she could be an auditor
+1913	per:other_family
+1914	no_relation
+1915	no_relation
+1916	His visits to a therapist were eventually covered by the city of Stamford after police and union officials became involved on his behalf , said Sg
+1917	no_relation
+1918	where she is held
+1919	no_relation
+1920	no_relation
+1921	no_relation
+1922	per:spouse
+1923	no_relation
+1924	no_relation
+1925	no_relation
+1926	org:founded
+1927	per:siblings
+1928	no_relation
+1929	She reported her supervisor abusing her and the Iraqi women
+1930	Sarah Kunstler is a lawyer 
+1931	per:country_of_birth
+1932	org:top_members/employees
+1933	per:spouse
+1934	no_relation
+1935	no_relation
+1936	no_relation
+1937	per:spouse
+1938	He is a chef 
+1939	org:founded
+1940	no_relation
+1941	no_relation
+1942	per:spouse
+1943	per:country_of_birth
+1944	no_relation
+1945	per:spouse
+1946	per:age
+1947	no_relation
+1948	per:age
+1949	per:siblings
+1950	no_relation
+1951	no_relation
+1952	no_relation
+1953	org:top_members/employees
+1954	no_relation
+1955	per:country_of_birth
+1956	per:employee_of
+1957	per:spouse
+1958	org:member_of
+1959	no_relation
+1960	no_relation
+1961	no_relation
+1962	Alessi has received three times the orders it had expected before the launch 
+1963	org:founded
+1964	per:spouse
+1965	no_relation
+1966	one of the many members of the board of directors of pda
+1967	per:religion
+1968	no_relation
+1969	no_relation
+1970	per:business
+1971	org:number_of_employees/members
+1972	per:spouse
+1973	org:members
+1974	no_relation
+1975	no_relation
+1976	per:spouse
+1977	org:founded
+1978	per:spouse
+1979	no_relation
+1980	no_relation
+1981	no_relation
+1982	no_relation
+1983	captain is a goalkeeper
+1984	no_relation
+1985	he died
+1986	no_relation
+1987	per:date_of_death
+1988	org:top_members/employees
+1989	per:siblings
+1990	org:members
+1991	no_relation
+1992	no_relation
+1993	no_relation
+1994	org:founded
+1995	per:siblings
+1996	org:subsidiaries
+1997	org:founded
+1998	This year 's mart , which organized jointly by PATA and the Ministry of Culture and Tourism of Indonesia , also sees 4,294
+1999	per:date_of_birth
+2000	no_relation
+2001	Pauliina Miettinen is a defender and goalkeeper for Finaland
+2002	org:top_members/employees
+2003	org:member_of
+2004	per:siblings
+2005	Amanda Knox is 22 
+2006	per:country_of_birth
+2007	per:children
+2008	org:subsidiaries
+2009	Xie Caiping was sentenced to 18 years in prison on charges of running illegal gambling dens and drug dealing 
+2010	per:cities_of_residence
+2011	per:country_of_birth
+2012	org:founded_by
+2013	employee_of
+2014	per:siblings
+2015	per:alternate_names
+2016	org:website
+2017	Her grandmother is a veteran Scientologist 
+2018	no_relation
+2019	org:members
+2020	org:subsidiaries
+2021	per:spouse
+2022	per:stateorprovince_of_residence
+2023	org:members
+2024	per:cause_of_death
+2025	org:members
+2026	org:number_of_employees/members
+2027	per:country_of_birth
+2028	org:subsidiaries
+2029	no_relation
+2030	per:city_of_death
+2031	per:date_of_birth
+2032	per:spouse
+2033	org:city_of_headquarters
+2034	per:date_of_birth
+2035	per:schools_attended
+2036	org:political/religious_affiliation
+2037	per:country_of_death
+2038	org:founded
+2039	per:stateorprovince_of_birth
+2040	per:city_of_birth
+2041	org:dissolved
+2042	her -lrb- american -rrb- roommate -lrb- british -rrb-
+2043	No_relation
+2044	org:top_members/employees
+2045	org:members
+2046	per:siblings
+2047	per:age
+2048	per:country_of_birth
+2049	per:children
+2050	no_relation
+2051	per:charges
+2052	per:cities_of_residence
+2053	per:origin
+2054	org:founded_by
+2055	employee_of
+2056	per:siblings
+2057	org:website
+2058	he is a muslim
+2059	org:subsidiaries
+2060	org:subsidiaries
+2061	per:siblings
+2062	per:stateorprovince_of_death
+2063	org:member_of
+2064	cause of death
+2065	org:member_of
+2066	no_relation
+2067	no_relation
+2068	per:city_of_death
+2069	per:spouse
+2070	org:city_of_headquarters
+2071	she was listed in stable condition last week
+2072	employee_of
+2073	org:founded
+2074	designer is a person
+2075	architect -lrb- profession -rrb-
+2076	org:top_members/employees
+2077	no_relation
+2078	per:children
+2079	per:age
+2080	no_relation
+2081	per:children
+2082	org:members
+2083	Wen is charged with bribery 
+2084	per:cities_of_residence
+2085	per:origin
+2086	org:founded_by
+2087	no_relation
+2088	per:siblings
+2089	per:religion
+2090	org:subsidiaries
+2091	org:subsidiaries
+2092	per:spouse
+2093	per:stateorprovince_of_residence
+2094	per:cause_of_death
+2095	org:stateorprovince_of_headquarters
+2096	per:spouse
+2097	org:city_of_headquarters
+2098	per:date_of_death
+2099	org:founded
+2100	no_relation
+2101	no_relation
+2102	org:top_members/employees
+2103	no_relation
+2104	per:parents
+2105	she was 19
+2106	per:country_of_residence
+2107	org:subsidiaries
+2108	per:charges
+2109	per:cities_of_residence
+2110	per:country_of_birth
+2111	org:founded_by
+2112	no_relation
+2113	per:siblings
+2114	per:religion
+2115	org:subsidiaries
+2116	per:spouse
+2117	per:stateorprovince_of_birth
+2118	per:cause_of_death
+2119	org:stateorprovince_of_headquarters
+2120	per:spouse
+2121	no_relation
+2122	no_relation
+2123	no_relation
+2124	Wen Qiang was the former director of the Chongqing Municipal Judicial Bureau 
+2125	org:top_members/employees
+2126	no_relation
+2127	per:parents
+2128	per:age
+2129	per:country_of_birth
+2130	no_relation
+2131	per:charges
+2132	per:cities_of_residence
+2133	no_relation
+2134	org:founded_by
+2135	no_relation
+2136	no_relation
+2137	per:spouse
+2138	no_relation
+2139	per:origin
+2140	she was an art teacher
+2141	no_relation
+2142	no_relation
+2143	per:children
+2144	Jamie Leigh Jones , now 22 , says that after she was raped by multiple men at a KBR camp in the Green Zone
+2145	per:country_of_birth
+2146	org:subsidiaries
+2147	per:charges
+2148	in detention in Port-au-Prince
+2149	per:origin
+2150	no_relation
+2151	per:stateorprovince_of_residence
+2152	org:city_of_headquarters
+2153	no_relation
+2154	minister , street general
+2155	no_relation
+2156	no_relation
+2157	per:age
+2158	per:countries_of_residence
+2159	org:members
+2160	per:charges
+2161	per:cities_of_residence
+2162	per:origin
+2163	employee of
+2164	per:children
+2165	kidnapping
+2166	org:founded_by
+2167	per:age
+2168	per:country_of_residence
+2169	org:subsidiaries
+2170	no_relation
+2171	per:origin
+2172	employee_of
+2173	no_relation
+2174	Analyst is Ahmed Rashid 
+2175	org:top_members/employees
+2176	Samudio is 25 years old 
+2177	per:country_of_birth
+2178	org:members
+2179	per:city_of_death
+2180	per:origin
+2181	employee of
+2182	no_relation
+2183	Youssoufou Bamba is Ouattara 's new ambassador
+2184	org:top_members/employees
+2185	daughter of the late civil rights attorney william kunstler
+2186	per:country_of_birth
+2187	org:members
+2188	per:cities_of_residence
+2189	no_relation
+2190	no_relation
+2191	Entity 1 : Vladimir Ladyzhenskiy Entity 2 : wrestler
+2192	org:top_members/employees
+2193	per:age
+2194	org:members
+2195	per:cities_of_residence
+2196	employee of
+2197	org:founded
+2198	no_relation
+2199	org:top_members/employees
+2200	Mark Fisher , 19-year-old
+2201	org:members
+2202	no_relation
+2203	employee of
+2204	per:other_family
+2205	Tracy Barker had sued US contractor KBR Inc , its former parent company Halliburton and several affiliates in May 2007 , claiming she
+2206	no_relation
+2207	per:age
+2208	org:subsidiaries
+2209	no_relation
+2210	employee of
+2211	org:top_members/employees
+2212	brother-in-law
+2213	org:top_members/employees
+2214	org:members
+2215	employee_of
+2216	per:spouse
+2217	Mark Fisher is the new chief executive
+2218	org:top_members/employees
+2219	no_relation
+2220	no_relation
+2221	His guard shared his cell phone with her 
+2222	org:top_members/employees
+2223	employee_of
+2224	Pressure in the primary oxygen bottles was increased to 1430 PSIA from 1020 PSIA
+2225	Andrew E Lange is a physicist 
+2226	org:top_members/employees
+2227	per:employee_of
+2228	no_relation
+2229	Wen Qiang was the deputy director of Chongqing 's public security department
+2230	org:top_members/employees
+2231	employee of
+2232	no_relation
+2233	no_relation
+2234	org:top_members/employees
+2235	no_relation
+2236	Charles Ble Goude is Laurent Gbagbo 's lieutenant
+2237	org:top_members/employees
+2238	no_relation
+2239	lieutenant
+2240	org:top_members/employees
+2241	org:stateorprovince_of_headquarters
+2242	detained in an internal investigation
+2243	no_relation
+2244	per:spouse
+2245	former lawmaker
+2246	org:top_members/employees
+2247	per:spouse
+2248	journalist
+2249	no_relation
+2250	spokeswoman
+2251	per:parents
+2252	President
+2253	per:spouse
+2254	minister is a person
+2255	per:siblings
+2256	no_relation
+2257	per:spouse
+2258	director
+2259	per:spouse
+2260	captain and chen tao
+2261	no_relation
+2262	Assaf Ramon was a pilot 
+2263	per:spouse
+2264	coach
+2265	per:spouse
+2266	minister and street general
+2267	org:number_of_employees/members
+2268	no_relation
+2269	org:member_of
+2270	no_relation
+2271	no_relation
+2272	no_relation
+2273	org:founded
+2274	no_relation
+2275	Almost all of those whose arrests we have ordered are related to the fugitive boss
+2276	Hagemo said the investigator wanted names of people who told her it was okay to get pregnant
+2277	per:spouse
+2278	no_relation
+2279	per:spouse
+2280	Vagni was held for months
+2281	org:founded
+2282	employee of
+2283	per:cities_of_residence
+2284	no_relation
+2285	no_relation
+2286	no_relation
+2287	per:spouse
+2288	per:cities_of_residence
+2289	org:top_members/employees
+2290	no_relation
+2291	org:top_members/employees
+2292	per:spouse
+2293	no_relation
+2294	no_relation
+2295	no_relation
+2296	no_relation
+2297	no_relation
+2298	no_relation
+2299	per:other_family
+2300	no_relation
+2301	per:country_of_birth
+2302	no_relation
+2303	per:employee_of
+2304	director of fabris
+2305	no_relation
+2306	per:age
+2307	org:subsidiaries
+2308	no_relation
+2309	org:organizer
+2310	no_relation
+2311	They seized Vagni and two other Red Cross workers in Jolo in January although the two others were released separately in April
+2312	no_relation
+2313	per:spouse
+2314	org:alternate_names
+2315	no_relation
+2316	no_relation
+2317	org:founded
+2318	Criticism
+2319	no_relation
+2320	her and one
+2321	org:member_of
+2322	no_relation
+2323	per:other_family
+2324	no_relation
+2325	no_relation
+2326	no_relation
+2327	org:founded
+2328	per:spouse
+2329	per:spouse
+2330	once
+2331	org:dissolved
+2332	per:spouse
+2333	per:spouse
+2334	no_relation
+2335	org:members
+2336	per:country_of_death
+2337	no_relation
+2338	no_relation
+2339	no_relation
+2340	per:employee_of
+2341	no_relation
+2342	per:age
+2343	no_relation
+2344	per:spouse
+2345	per:siblings
+2346	no_relation
+2347	no_relation
+2348	per:city_of_death
+2349	no_relation
+2350	org:members
+2351	no_relation
+2352	per:parents
+2353	per:spouse
+2354	no_relation
+2355	no_relation
+2356	no_relation
+2357	distance
+2358	previously
+2359	per:spouse
+2360	no_relation
+2361	He met a female chemical engineer 
+2362	per:spouse
+2363	per:spouse
+2364	she was five months pregnant
+2365	per:spouse
+2366	No_relation
+2367	no_relation
+2368	per:other_family
+2369	no_relation
+2370	org:number_of_employees/members
+2371	per:country_of_birth
+2372	per:parents
+2373	per:parents
+2374	no_relation
+2375	no_relation
+2376	org:founded
+2377	no_relation
+2378	medals won by the organization
+2379	no_relation
+2380	org:dissolved
+2381	His wife
+2382	org:founded_by
+2383	org:founded
+2384	no_relation
+2385	per:parents
+2386	no_relation
+2387	org:members
+2388	per:charges
+2389	org:top_members/employees
+2390	no_relation
+2391	per:siblings
+2392	per:spouse
+2393	per:spouse
+2394	no_relation
+2395	no_relation
+2396	per:other_family
+2397	he is one of the three
+2398	no_relation
+2399	no_relation
+2400	no_relation
+2401	no_relation
+2402	per:parents
+2403	no_relation
+2404	org:members
+2405	no_relation
+2406	per:siblings
+2407	no_relation
+2408	no_relation
+2409	org:member_of
+2410	Xie Caiping rebuked by judge
+2411	per:siblings
+2412	no_relation
+2413	per:spouse
+2414	per:spouse
+2415	no_relation
+2416	per:spouse
+2417	no_relation
+2418	per:pet
+2419	no_relation
+2420	no_relation
+2421	His was a detective in Times Square 
+2422	no_relation
+2423	no_relation
+2424	Lessons and Examples from Implementation
+2425	no_relation
+2426	per:siblings
+2427	per:country_of_birth
+2428	no_relation
+2429	no_relation
+2430	no_relation
+2431	no_relation
+2432	per:cities_of_residence
+2433	recently
+2434	org:members
+2435	per:siblings
+2436	no_relation
+2437	no_relation
+2438	per:employee_of
+2439	per:spouse
+2440	Matteo Messina Denaro
+2441	no_relation
+2442	no_relation
+2443	no_relation
+2444	org:members
+2445	per:age
+2446	per:spouse
+2447	no_relation
+2448	per:spouse
+2449	no_relation
+2450	no_relation
+2451	org:founded_by
+2452	no_relation
+2453	no_relation
+2454	per:spouse
+2455	org:founded_by
+2456	per:spouse
+2457	org:top_members/employees
+2458	no_relation
+2459	his
+2460	no_relation
+2461	per:siblings
+2462	no_relation
+2463	Cement producer Semen Gresik lost 38 percent to 12,800
+2464	per:religion
+2465	per:alternate_names
+2466	He was a store detective in Times Square 
+2467	no_relation
+2468	no_relation
+2469	no_relation
+2470	per:spouse
+2471	no_relation
+2472	per:siblings
+2473	per:spouse
+2474	no_relation
+2475	org:subsidiaries
+2476	Tribal Law and Order Act
+2477	no_relation
+2478	no_relation
+2479	org:founded
+2480	per:age
+2481	no_relation
+2482	per:country_of_birth
+2483	no_relation
+2484	no_relation
+2485	org:number_of_employees/members
+2486	org:members
+2487	per:spouse
+2488	org:founded_by
+2489	no_relation
+2490	per:siblings
+2491	org:founded
+2492	per:siblings
+2493	per:spouse
+2494	no_relation
+2495	no_relation
+2496	per:other_family
+2497	per:siblings
+2498	per:siblings
+2499	past
+2500	no_relation
+2501	per:spouse
+2502	org:founded
+2503	no_relation
+2504	no_relation
+2505	cousin
+2506	per:siblings
+2507	per:origin
+2508	per:age
+2509	no_relation
+2510	per:siblings
+2511	no_relation
+2512	no_relation
+2513	no_relation
+2514	per:sponse
+2515	per:spouse
+2516	no_relation
+2517	org:members
+2518	per:parents
+2519	per:parents
+2520	no_relation
+2521	employee of
+2522	org:members
+2523	org:founded_by
+2524	no_relation
+2525	no_relation
+2526	no_relation
+2527	no_relation
+2528	no_relation
+2529	no_relation
+2530	no_relation
+2531	no_relation
+2532	He formed his own company , TAU , for a while , sold part to Trimble , left Trimble to start a GPS
+2533	cause of death
+2534	no_relation
+2535	no_relation
+2536	no_relation
+2537	no_relation
+2538	org:founded_by
+2539	no_relation
+2540	org:number_of_employees/members
+2541	per:spouse
+2542	per:parents
+2543	org:members
+2544	per:siblings
+2545	Matteo Messina Denaro is a mobster 
+2546	no_relation
+2547	no_relation
+2548	org:founded
+2549	org:number_of_employees/members
+2550	per:country_of_birth
+2551	no_relation
+2552	per:spouse
+2553	attorney said her family 's case should be treated like a workers ' compensation claim
+2554	per:spouse
+2555	No_relation
+2556	once defiant wen
+2557	per:spouse
+2558	dishonest
+2559	per:spouse
+2560	per:spouse
+2561	per:spouse
+2562	per:other_family
+2563	per:siblings
+2564	no_relation
+2565	org:members
+2566	no_relation
+2567	no_relation
+2568	his two handguns
+2569	His son is a Scientologist 
+2570	no_relation
+2571	org:founded
+2572	per:siblings
+2573	no_relation
+2574	no_relation
+2575	per:police
+2576	no_relation
+2577	per:spouse
+2578	per:siblings
+2579	no_relation
+2580	org:number_of_employees/members
+2581	no_relation
+2582	per:spouse
+2583	per:age
+2584	no_relation
+2585	per:other_family
+2586	org:city_of_headquarters
+2587	per:parents
+2588	no_relation
+2589	He was hell-bent on committing this act , and no one was going to stop him 
+2590	no_relation
+2591	no_relation
+2592	per:other_family
+2593	no_relation
+2594	org:members
+2595	org:members
+2596	per:siblings
+2597	per:spouse
+2598	no_relation
+2599	per:parents
+2600	per:other_family
+2601	Prophet is a religious figure
+2602	Norris Church Mailer is married to Boxer 
+2603	Mark Fisher is a theatre director 
+2604	no_relation
+2605	per:employee_of
+2606	org:top_members/employees
+2607	Wen raped a student after getting her drunk
+2608	no_relation
+2609	no_relation
+2610	org:top_members/employees
+2611	per:spouse
+2612	per:religion
+2613	per:spouse
+2614	org:city_of_headquarters
+2615	per:siblings
+2616	org:top_members/employees
+2617	no_relation
+2618	no_relation
+2619	per:nanny
+2620	no_relation
+2621	org:top_members/employees
+2622	no_relation
+2623	org:founded_by
+2624	org:member_of
+2625	per:date_of_birth
+2626	no_relation
+2627	No_relation
+2628	no_relation
+2629	org:members
+2630	per:employee_of
+2631	no_relation
+2632	org:top_members/employees
+2633	per:spouse
+2634	no_relation
+2635	no_relation
+2636	per:age
+2637	no_relation
+2638	org:subsidiaries
+2639	per:spouse
+2640	no_relation
+2641	a half
+2642	no_relation
+2643	org:members
+2644	no_relation
+2645	Shares in Countrywide plunged 1498 percent to 1810 dollars around 1540 GMT as investors panicked over the latest sign that the crisis is widen
+2646	org:founded
+2647	per:date_of_death
+2648	org:founded
+2649	per:spouse
+2650	per:spouse
+2651	no_relation
+2652	per:spouse
+2653	Pacific Asia Travel Association is a travel association
+2654	no_relation
+2655	no_relation
+2656	director
+2657	per:city_of_death
+2658	org:members
+2659	no_relation
+2660	no_relation
+2661	no_relation
+2662	no_relation
+2663	no_relation
+2664	org:member_of
+2665	no_relation
+2666	no_relation
+2667	per:parents
+2668	no_relation
+2669	no_relation
+2670	no_relation
+2671	no_relation
+2672	no_relation
+2673	per:siblings
+2674	no_relation
+2675	no_relation
+2676	after
+2677	per:siblings
+2678	Fees for longer flights will climb from 80 yuan ( US$ 1070 , euro7 40 ) to 100 yu
+2679	no_relation
+2680	org:members
+2681	org:subsidiaries
+2682	org:founded
+2683	no_relation
+2684	Xie Caiping was sentenced to 18 years in prison on Tuesday 
+2685	per:siblings
+2686	per:spouse
+2687	org:members
+2688	no_relation
+2689	per:cities_of_residence
+2690	Online retailers such as Amazon are useful for wide-distribution barware : shakers from Rösle ; Alessi and W
+2691	no_relation
+2692	no_relation
+2693	org:members
+2694	Mark Fisher was shot five times 
+2695	mother of
+2696	org:members
+2697	no_relation
+2698	no_relation
+2699	no_relation
+2700	no_relation
+2701	no_relation
+2702	per:charges
+2703	per:cities_of_residence
+2704	no_relation
+2705	no_relation
+2706	per:spouse
+2707	per:other_family
+2708	per:stateorprovince_of_birth
+2709	no_relation
+2710	per:siblings
+2711	low
+2712	no_relation
+2713	no_relation
+2714	per:spouse
+2715	per:siblings
+2716	per:spouse
+2717	no_relation
+2718	no_relation
+2719	per:spouse
+2720	no_relation
+2721	no_relation
+2722	no_relation
+2723	no_relation
+2724	no_relation
+2725	per:stateorprovince_of_birth
+2726	no_relation
+2727	no_relation
+2728	per:siblings
+2729	per:spouse
+2730	no_relation
+2731	org:members
+2732	org:subsidiaries
+2733	no_relation
+2734	new year motivation
+2735	org:subsidiaries
+2736	she is high on drugs
+2737	org:number_of_employees/members
+2738	no_relation
+2739	no_relation
+2740	he has done a lot of great research on 9/11
+2741	no_relation
+2742	no_relation
+2743	org:number_of_employees/members
+2744	on Tuesday , organized crime boss Xie Caiping , labeled the '' godmother of the underworld ''
+2745	per:origin
+2746	org:shareholders
+2747	Her brother-in-law served as a top Chongqing police official for 16 years
+2748	org:alternate_names
+2749	Mark Fisher will be promoted to Senior Vice President
+2750	per:siblings
+2751	Judge Bernard Saint-Vil had Wednesday freed the other eight Americans without bail and they returned to the United States , but he ordered Laura Sils
+2752	org:members
+2753	no_relation
+2754	he is helping members of Cuba 's Jewish community use the Internet to stay in contact with each other
+2755	per:spouse
+2756	a second cousin to the now-iconic '' bird kettle '' Graves designed for Alessi
+2757	org:number_of_employees/members
+2758	per:age
+2759	per:siblings
+2760	no_relation
+2761	executive
+2762	no_relation
+2763	no_relation
+2764	per:parents
+2765	per:charges
+2766	no_relation
+2767	per:siblings
+2768	no_relation
+2769	days took her to get approval to make a phone call
+2770	no_relation
+2771	no_relation
+2772	no_relation
+2773	org:founded
+2774	no_relation
+2775	org:parents
+2776	per:spouse
+2777	per:parents
+2778	she was raped in iraq
+2779	no_relation
+2780	per:parents
+2781	no_relation
+2782	no_relation
+2783	per:spouse
+2784	his team got one of the biggest prizes in cosmology
+2785	org:top_members/employees
+2786	no_relation
+2787	per:siblings
+2788	no_relation
+2789	speaker
+2790	no_relation
+2791	no_relation
+2792	employee_of
+2793	no_relation
+2794	org:top_members/employees
+2795	org:members
+2796	org:members
+2797	org:founded_by
+2798	org:members
+2799	org:founded
+2800	no_relation
+2801	one of the 3 finalist in the Adobe MAX Awards for the RIA category
+2802	org:members
+2803	CEO is the president of Helen Keller International
+2804	per:spouse
+2805	per:other_family
+2806	per:date_of_birth
+2807	no_relation
+2808	no_relation
+2809	no_relation
+2810	org:political/religious_affiliation
+2811	no_relation
+2812	no_relation
+2813	org:top_members/employees
+2814	per:spouse
+2815	org:top_members/employees
+2816	no_relation
+2817	no_relation
+2818	no_relation
+2819	per:other_family
+2820	his underwent more than four hours of surgery to repair multiple fractures to his legs wednesday
+2821	no_relation
+2822	per:age
+2823	Entity 1 is a location
+2824	org:founded_by
+2825	no_relation
+2826	Laura Silsby is being questioned by the judge 
+2827	per:spouse
+2828	no_relation
+2829	org:website
+2830	org:member_of
+2831	per:siblings
+2832	no_relation
+2833	org:members
+2834	per:employee_of
+2835	per:siblings
+2836	per:parents
+2837	Ilan is the only soldier of 21 who agreed to have his name published , after he was interviewed by psychologist Nofer Ishai-K
+2838	org:member_of
+2839	org:members
+2840	journalist , religion
+2841	org:founded_by
+2842	no_relation
+2843	per:employee_of
+2844	per:friend
+2845	no_relation
+2846	per:siblings
+2847	org:founded
+2848	no_relation
+2849	per:spouse
+2850	no_relation
+2851	org:founded
+2852	no_relation
+2853	per:spouse
+2854	per:spouse
+2855	no_relation
+2856	no_relation
+2857	per:spouse
+2858	per:spouse
+2859	On June 16 , New Fabris was declared bankrupt 
+2860	no_relation
+2861	no_relation
+2862	not enough information
+2863	no_relation
+2864	no_relation
+2865	No_relation
+2866	per:siblings
+2867	no_relation
+2868	Sicilian is the name of the region
+2869	org:subsidiaries
+2870	per:country_of_birth
+2871	per:spouse
+2872	org:members
+2873	before
+2874	no_relation
+2875	no_relation
+2876	per:cities_of_residence
+2877	no_relation
+2878	no_relation
+2879	employee_of
+2880	per:parents
+2881	no_relation
+2882	he and blyskal took a three-day trip together on Scientology 's cruise ship
+2883	per:spouse
+2884	per:spouse
+2885	no_relation
+2886	per:spouse
+2887	no_relation
+2888	org:members
+2889	org:top_members/employees
+2890	org:number_of_employees/members
+2891	org:top_members/employees
+2892	no_relation
+2893	org:subsidiaries
+2894	no_relation
+2895	no_relation
+2896	org:members
+2897	medals won by the organization
+2898	org:subsidiaries
+2899	no_relation
+2900	per:spouse
+2901	per:spouse
+2902	No_relation
+2903	per:spouse
+2904	per:date_of_birth
+2905	per:cities_of_residence
+2906	per:spouse
+2907	per:cities_of_residence
+2908	no_relation
+2909	per:spouse
+2910	no_relation
+2911	one of our clients
+2912	If she joined , she could live her dream , she could be an auditor
+2913	per:other_family
+2914	no_relation
+2915	no_relation
+2916	His visits to a therapist were eventually covered by the city of Stamford after police and union officials became involved on his behalf , said Sg
+2917	no_relation
+2918	where she is held
+2919	no_relation
+2920	no_relation
+2921	no_relation
+2922	per:spouse
+2923	no_relation
+2924	no_relation
+2925	no_relation
+2926	org:founded
+2927	per:siblings
+2928	no_relation
+2929	She reported her supervisor abusing her and the Iraqi women
+2930	Sarah Kunstler is a lawyer 
+2931	per:country_of_birth
+2932	org:top_members/employees
+2933	per:spouse
+2934	no_relation
+2935	no_relation
+2936	no_relation
+2937	per:spouse
+2938	He is a chef 
+2939	org:founded
+2940	no_relation
+2941	no_relation
+2942	per:spouse
+2943	per:country_of_birth
+2944	no_relation
+2945	per:spouse
+2946	per:age
+2947	no_relation
+2948	per:age
+2949	per:siblings
+2950	no_relation
+2951	no_relation
+2952	no_relation
+2953	org:top_members/employees
+2954	no_relation
+2955	per:country_of_birth
+2956	per:employee_of
+2957	per:spouse
+2958	org:member_of
+2959	no_relation
+2960	no_relation
+2961	no_relation
+2962	Alessi has received three times the orders it had expected before the launch 
+2963	org:founded
+2964	per:spouse
+2965	no_relation
+2966	one of the many members of the board of directors of pda
+2967	per:religion
+2968	no_relation
+2969	no_relation
+2970	per:business
+2971	org:number_of_employees/members
+2972	per:spouse
+2973	org:members
+2974	no_relation
+2975	no_relation
+2976	per:spouse
+2977	org:founded
+2978	per:spouse
+2979	no_relation
+2980	no_relation
+2981	no_relation
+2982	no_relation
+2983	captain is a goalkeeper
+2984	no_relation
+2985	he died
+2986	no_relation
+2987	per:date_of_death
+2988	org:top_members/employees
+2989	per:siblings
+2990	org:members
+2991	no_relation
+2992	no_relation
+2993	no_relation
+2994	org:founded
+2995	per:siblings
+2996	org:subsidiaries
+2997	org:founded
+2998	This year 's mart , which organized jointly by PATA and the Ministry of Culture and Tourism of Indonesia , also sees 4,294
+2999	per:date_of_birth
+3000	no_relation
+3001	Pauliina Miettinen is a defender and goalkeeper for Finaland
+3002	org:top_members/employees
+3003	org:member_of
+3004	per:siblings
+3005	Amanda Knox is 22 
+3006	per:country_of_birth
+3007	per:children
+3008	org:subsidiaries
+3009	Xie Caiping was sentenced to 18 years in prison on charges of running illegal gambling dens and drug dealing 
+3010	per:cities_of_residence
+3011	per:country_of_birth
+3012	org:founded_by
+3013	employee_of
+3014	per:siblings
+3015	per:alternate_names
+3016	org:website
+3017	Her grandmother is a veteran Scientologist 
+3018	no_relation
+3019	org:members
+3020	org:subsidiaries
+3021	per:spouse
+3022	per:stateorprovince_of_residence
+3023	org:members
+3024	per:cause_of_death
+3025	org:members
+3026	org:number_of_employees/members
+3027	per:country_of_birth
+3028	org:subsidiaries
+3029	no_relation
+3030	per:city_of_death
+3031	per:date_of_birth
+3032	per:spouse
+3033	org:city_of_headquarters
+3034	per:date_of_birth
+3035	per:schools_attended
+3036	org:political/religious_affiliation
+3037	per:country_of_death
+3038	org:founded
+3039	per:stateorprovince_of_birth
+3040	per:city_of_birth
+3041	org:dissolved
+3042	her -lrb- american -rrb- roommate -lrb- british -rrb-
+3043	No_relation
+3044	org:top_members/employees
+3045	org:members
+3046	per:siblings
+3047	per:age
+3048	per:country_of_birth
+3049	per:children
+3050	no_relation
+3051	per:charges
+3052	per:cities_of_residence
+3053	per:origin
+3054	org:founded_by
+3055	employee_of
+3056	per:siblings
+3057	org:website
+3058	he is a muslim
+3059	org:subsidiaries
+3060	org:subsidiaries
+3061	per:siblings
+3062	per:stateorprovince_of_death
+3063	org:member_of
+3064	cause of death
+3065	org:member_of
+3066	no_relation
+3067	no_relation
+3068	per:city_of_death
+3069	per:spouse
+3070	org:city_of_headquarters
+3071	she was listed in stable condition last week
+3072	employee_of
+3073	org:founded
+3074	designer is a person
+3075	architect -lrb- profession -rrb-
+3076	org:top_members/employees
+3077	no_relation
+3078	per:children
+3079	per:age
+3080	no_relation
+3081	per:children
+3082	org:members
+3083	Wen is charged with bribery 
+3084	per:cities_of_residence
+3085	per:origin
+3086	org:founded_by
+3087	no_relation
+3088	per:siblings
+3089	per:religion
+3090	org:subsidiaries
+3091	org:subsidiaries
+3092	per:spouse
+3093	per:stateorprovince_of_residence
+3094	per:cause_of_death
+3095	org:stateorprovince_of_headquarters
+3096	per:spouse
+3097	org:city_of_headquarters
+3098	per:date_of_death
+3099	org:founded
+3100	no_relation
+3101	no_relation
+3102	org:top_members/employees
+3103	no_relation
+3104	per:parents
+3105	she was 19
+3106	per:country_of_residence
+3107	org:subsidiaries
+3108	per:charges
+3109	per:cities_of_residence
+3110	per:country_of_birth
+3111	org:founded_by
+3112	no_relation
+3113	per:siblings
+3114	per:religion
+3115	org:subsidiaries
+3116	per:spouse
+3117	per:stateorprovince_of_birth
+3118	per:cause_of_death
+3119	org:stateorprovince_of_headquarters
+3120	per:spouse
+3121	no_relation
+3122	no_relation
+3123	no_relation
+3124	Wen Qiang was the former director of the Chongqing Municipal Judicial Bureau 
+3125	org:top_members/employees
+3126	no_relation
+3127	per:parents
+3128	per:age
+3129	per:country_of_birth
+3130	no_relation
+3131	per:charges
+3132	per:cities_of_residence
+3133	no_relation
+3134	org:founded_by
+3135	no_relation
+3136	no_relation
+3137	per:spouse
+3138	no_relation
+3139	per:origin
+3140	she was an art teacher
+3141	no_relation
+3142	no_relation
+3143	per:children
+3144	Jamie Leigh Jones , now 22 , says that after she was raped by multiple men at a KBR camp in the Green Zone
+3145	per:country_of_birth
+3146	org:subsidiaries
+3147	per:charges
+3148	in detention in Port-au-Prince
+3149	per:origin
+3150	no_relation
+3151	per:stateorprovince_of_residence
+3152	org:city_of_headquarters
+3153	no_relation
+3154	minister , street general
+3155	no_relation
+3156	no_relation
+3157	per:age
+3158	per:countries_of_residence
+3159	org:members
+3160	per:charges
+3161	per:cities_of_residence
+3162	per:origin
+3163	employee of
+3164	per:children
+3165	kidnapping
+3166	org:founded_by
+3167	per:age
+3168	per:country_of_residence
+3169	org:subsidiaries
+3170	no_relation
+3171	per:origin
+3172	employee_of
+3173	no_relation
+3174	Analyst is Ahmed Rashid 
+3175	org:top_members/employees
+3176	Samudio is 25 years old 
+3177	per:country_of_birth
+3178	org:members
+3179	per:city_of_death
+3180	per:origin
+3181	employee of
+3182	no_relation
+3183	Youssoufou Bamba is Ouattara 's new ambassador
+3184	org:top_members/employees
+3185	daughter of the late civil rights attorney william kunstler
+3186	per:country_of_birth
+3187	org:members
+3188	per:cities_of_residence
+3189	no_relation
+3190	no_relation
+3191	Entity 1 : Vladimir Ladyzhenskiy Entity 2 : wrestler
+3192	org:top_members/employees
+3193	per:age
+3194	org:members
+3195	per:cities_of_residence
+3196	employee of
+3197	org:founded
+3198	no_relation
+3199	org:top_members/employees
+3200	Mark Fisher , 19-year-old
+3201	org:members
+3202	no_relation
+3203	employee of
+3204	per:other_family
+3205	Tracy Barker had sued US contractor KBR Inc , its former parent company Halliburton and several affiliates in May 2007 , claiming she
+3206	no_relation
+3207	per:age
+3208	org:subsidiaries
+3209	no_relation
+3210	employee of
+3211	org:top_members/employees
+3212	brother-in-law
+3213	org:top_members/employees
+3214	org:members
+3215	employee_of
+3216	per:spouse
+3217	Mark Fisher is the new chief executive
+3218	org:top_members/employees
+3219	no_relation
+3220	no_relation
+3221	His guard shared his cell phone with her 
+3222	org:top_members/employees
+3223	employee_of
+3224	Pressure in the primary oxygen bottles was increased to 1430 PSIA from 1020 PSIA
+3225	Andrew E Lange is a physicist 
+3226	org:top_members/employees
+3227	per:employee_of
+3228	no_relation
+3229	Wen Qiang was the deputy director of Chongqing 's public security department
+3230	org:top_members/employees
+3231	employee of
+3232	no_relation
+3233	no_relation
+3234	org:top_members/employees
+3235	no_relation
+3236	Charles Ble Goude is Laurent Gbagbo 's lieutenant
+3237	org:top_members/employees
+3238	no_relation
+3239	lieutenant
+3240	org:top_members/employees
+3241	org:stateorprovince_of_headquarters
+3242	detained in an internal investigation
+3243	no_relation
+3244	per:spouse
+3245	former lawmaker
+3246	org:top_members/employees
+3247	per:spouse
+3248	journalist
+3249	no_relation
+3250	spokeswoman
+3251	per:parents
+3252	President
+3253	per:spouse
+3254	minister is a person
+3255	per:siblings
+3256	no_relation
+3257	per:spouse
+3258	director
+3259	per:spouse
+3260	captain and chen tao
+3261	no_relation
+3262	Assaf Ramon was a pilot 
+3263	per:spouse
+3264	coach
+3265	per:spouse
+3266	minister and street general
+3267	org:number_of_employees/members
+3268	no_relation
+3269	org:member_of
+3270	no_relation
+3271	no_relation
+3272	no_relation
+3273	org:founded
+3274	no_relation
+3275	Almost all of those whose arrests we have ordered are related to the fugitive boss
+3276	Hagemo said the investigator wanted names of people who told her it was okay to get pregnant
+3277	per:spouse
+3278	no_relation
+3279	per:spouse
+3280	Vagni was held for months
+3281	org:founded
+3282	employee of
+3283	per:cities_of_residence
+3284	no_relation
+3285	no_relation
+3286	no_relation
+3287	per:spouse
+3288	per:cities_of_residence
+3289	org:top_members/employees
+3290	no_relation
+3291	org:top_members/employees
+3292	per:spouse
+3293	no_relation
+3294	no_relation
+3295	no_relation
+3296	no_relation
+3297	no_relation
+3298	no_relation
+3299	per:other_family
+3300	no_relation
+3301	per:country_of_birth
+3302	no_relation
+3303	per:employee_of
+3304	director of fabris
+3305	no_relation
+3306	per:age
+3307	org:subsidiaries
+3308	no_relation
+3309	org:organizer
+3310	no_relation
+3311	They seized Vagni and two other Red Cross workers in Jolo in January although the two others were released separately in April
+3312	no_relation
+3313	per:spouse
+3314	org:alternate_names
+3315	no_relation
+3316	no_relation
+3317	org:founded
+3318	Criticism
+3319	no_relation
+3320	her and one
+3321	org:member_of
+3322	no_relation
+3323	per:other_family
+3324	no_relation
+3325	no_relation
+3326	no_relation
+3327	org:founded
+3328	per:spouse
+3329	per:spouse
+3330	once
+3331	org:dissolved
+3332	per:spouse
+3333	per:spouse
+3334	no_relation
+3335	org:members
+3336	per:country_of_death
+3337	no_relation
+3338	no_relation
+3339	no_relation
+3340	per:employee_of
+3341	no_relation
+3342	per:age
+3343	no_relation
+3344	per:spouse
+3345	per:siblings
+3346	no_relation
+3347	no_relation
+3348	per:city_of_death
+3349	no_relation
+3350	org:members
+3351	no_relation
+3352	per:parents
+3353	per:spouse
+3354	no_relation
+3355	no_relation
+3356	no_relation
+3357	distance
+3358	previously
+3359	per:spouse
+3360	no_relation
+3361	He met a female chemical engineer 
+3362	per:spouse
+3363	per:spouse
+3364	she was five months pregnant
+3365	per:spouse
+3366	No_relation
+3367	no_relation
+3368	per:other_family
+3369	no_relation
+3370	org:number_of_employees/members
+3371	per:country_of_birth
+3372	per:parents
+3373	per:parents
+3374	no_relation
+3375	no_relation
+3376	org:founded
+3377	no_relation
+3378	medals won by the organization
+3379	no_relation
+3380	org:dissolved
+3381	His wife
+3382	org:founded_by
+3383	org:founded
+3384	no_relation
+3385	per:parents
+3386	no_relation
+3387	org:members
+3388	per:charges
+3389	org:top_members/employees
+3390	no_relation
+3391	per:siblings
+3392	per:spouse
+3393	per:spouse
+3394	no_relation
+3395	no_relation
+3396	per:other_family
+3397	he is one of the three
+3398	no_relation
+3399	no_relation
+3400	no_relation
+3401	no_relation
+3402	per:parents
+3403	no_relation
+3404	org:members
+3405	no_relation
+3406	per:siblings
+3407	no_relation
+3408	no_relation
+3409	org:member_of
+3410	Xie Caiping rebuked by judge
+3411	per:siblings
+3412	no_relation
+3413	per:spouse
+3414	per:spouse
+3415	no_relation
+3416	per:spouse
+3417	no_relation
+3418	per:pet
+3419	no_relation
+3420	no_relation
+3421	His was a detective in Times Square 
+3422	no_relation
+3423	no_relation
+3424	Lessons and Examples from Implementation
+3425	no_relation
+3426	per:siblings
+3427	per:country_of_birth
+3428	no_relation
+3429	no_relation
+3430	no_relation
+3431	no_relation
+3432	per:cities_of_residence
+3433	recently
+3434	org:members
+3435	per:siblings
+3436	no_relation
+3437	no_relation
+3438	per:employee_of
+3439	per:spouse
+3440	Matteo Messina Denaro
+3441	no_relation
+3442	no_relation
+3443	no_relation
+3444	org:members
+3445	per:age
+3446	per:spouse
+3447	no_relation
+3448	per:spouse
+3449	no_relation
+3450	no_relation
+3451	org:founded_by
+3452	no_relation
+3453	no_relation
+3454	per:spouse
+3455	org:founded_by
+3456	per:spouse
+3457	org:top_members/employees
+3458	no_relation
+3459	his
+3460	no_relation
+3461	per:siblings
+3462	no_relation
+3463	Cement producer Semen Gresik lost 38 percent to 12,800
+3464	per:religion
+3465	per:alternate_names
+3466	He was a store detective in Times Square 
+3467	no_relation
+3468	no_relation
+3469	no_relation
+3470	per:spouse
+3471	no_relation
+3472	per:siblings
+3473	per:spouse
+3474	no_relation
+3475	org:subsidiaries
+3476	Tribal Law and Order Act
+3477	no_relation
+3478	no_relation
+3479	org:founded
+3480	per:age
+3481	no_relation
+3482	per:country_of_birth
+3483	no_relation
+3484	no_relation
+3485	org:number_of_employees/members
+3486	org:members
+3487	per:spouse
+3488	org:founded_by
+3489	no_relation
+3490	per:siblings
+3491	org:founded
+3492	per:siblings
+3493	per:spouse
+3494	no_relation
+3495	no_relation
+3496	per:other_family
+3497	per:siblings
+3498	per:siblings
+3499	past
+3500	no_relation
+3501	per:spouse
+3502	org:founded
+3503	no_relation
+3504	no_relation
+3505	cousin
+3506	per:siblings
+3507	per:origin
+3508	per:age
+3509	no_relation
+3510	per:siblings
+3511	no_relation
+3512	no_relation
+3513	no_relation
+3514	per:sponse
+3515	per:spouse
+3516	no_relation
+3517	org:members
+3518	per:parents
+3519	per:parents
+3520	no_relation
+3521	employee of
+3522	org:members
+3523	org:founded_by
+3524	no_relation
+3525	no_relation
+3526	no_relation
+3527	no_relation
+3528	no_relation
+3529	no_relation
+3530	no_relation
+3531	no_relation
+3532	He formed his own company , TAU , for a while , sold part to Trimble , left Trimble to start a GPS
+3533	cause of death
+3534	no_relation
+3535	no_relation
+3536	no_relation
+3537	no_relation
+3538	org:founded_by
+3539	no_relation
+3540	org:number_of_employees/members
+3541	per:spouse
+3542	per:parents
+3543	org:members
+3544	per:siblings
+3545	Matteo Messina Denaro is a mobster 
+3546	no_relation
+3547	no_relation
+3548	org:founded
+3549	org:number_of_employees/members
+3550	per:country_of_birth
+3551	no_relation
+3552	per:spouse
+3553	attorney said her family 's case should be treated like a workers ' compensation claim
+3554	per:spouse
+3555	No_relation
+3556	once defiant wen
+3557	per:spouse
+3558	dishonest
+3559	per:spouse
+3560	per:spouse
+3561	per:spouse
+3562	per:other_family
+3563	per:siblings
+3564	no_relation
+3565	org:members
+3566	no_relation
+3567	no_relation
+3568	his two handguns
+3569	His son is a Scientologist 
+3570	no_relation
+3571	org:founded
+3572	per:siblings
+3573	no_relation
+3574	no_relation
+3575	per:police
+3576	no_relation
+3577	per:spouse
+3578	per:siblings
+3579	no_relation
+3580	org:number_of_employees/members
+3581	no_relation
+3582	per:spouse
+3583	per:age
+3584	no_relation
+3585	per:other_family
+3586	org:city_of_headquarters
+3587	per:parents
+3588	no_relation
+3589	He was hell-bent on committing this act , and no one was going to stop him 
+3590	no_relation
+3591	no_relation
+3592	per:other_family
+3593	no_relation
+3594	org:members
+3595	org:members
+3596	per:siblings
+3597	per:spouse
+3598	no_relation
+3599	per:parents
+3600	per:other_family
+3601	Prophet is a religious figure
+3602	Norris Church Mailer is married to Boxer 
+3603	Mark Fisher is a theatre director 
+3604	no_relation
+3605	per:employee_of
+3606	org:top_members/employees
+3607	Wen raped a student after getting her drunk
+3608	no_relation
+3609	no_relation
+3610	org:top_members/employees
+3611	per:spouse
+3612	per:religion
+3613	per:spouse
+3614	org:city_of_headquarters
+3615	per:siblings
+3616	org:top_members/employees
+3617	no_relation
+3618	no_relation
+3619	per:nanny
+3620	no_relation
+3621	org:top_members/employees
+3622	no_relation
+3623	org:founded_by
+3624	org:member_of
+3625	per:date_of_birth
+3626	no_relation
+3627	No_relation
+3628	no_relation
+3629	org:members
+3630	per:employee_of
+3631	no_relation
+3632	org:top_members/employees
+3633	per:spouse
+3634	no_relation
+3635	no_relation
+3636	per:age
+3637	no_relation
+3638	org:subsidiaries
+3639	per:spouse
+3640	no_relation
+3641	a half
+3642	no_relation
+3643	org:members
+3644	no_relation
+3645	Shares in Countrywide plunged 1498 percent to 1810 dollars around 1540 GMT as investors panicked over the latest sign that the crisis is widen
+3646	org:founded
+3647	per:date_of_death
+3648	org:founded
+3649	per:spouse
+3650	per:spouse
+3651	no_relation
+3652	per:spouse
+3653	Pacific Asia Travel Association is a travel association
+3654	no_relation
+3655	no_relation
+3656	director
+3657	per:city_of_death
+3658	org:members
+3659	no_relation
+3660	no_relation
+3661	no_relation
+3662	no_relation
+3663	no_relation
+3664	org:member_of
+3665	no_relation
+3666	no_relation
+3667	per:parents
+3668	no_relation
+3669	no_relation
+3670	no_relation
+3671	no_relation
+3672	no_relation
+3673	per:siblings
+3674	no_relation
+3675	no_relation
+3676	after
+3677	per:siblings
+3678	Fees for longer flights will climb from 80 yuan ( US$ 1070 , euro7 40 ) to 100 yu
+3679	no_relation
+3680	org:members
+3681	org:subsidiaries
+3682	org:founded
+3683	no_relation
+3684	Xie Caiping was sentenced to 18 years in prison on Tuesday 
+3685	per:siblings
+3686	per:spouse
+3687	org:members
+3688	no_relation
+3689	per:cities_of_residence
+3690	Online retailers such as Amazon are useful for wide-distribution barware : shakers from Rösle ; Alessi and W
+3691	no_relation
+3692	no_relation
+3693	org:members
+3694	Mark Fisher was shot five times 
+3695	mother of
+3696	org:members
+3697	no_relation
+3698	no_relation
+3699	no_relation
+3700	no_relation
+3701	no_relation
+3702	per:charges
+3703	per:cities_of_residence
+3704	no_relation
+3705	no_relation
+3706	per:spouse
+3707	per:other_family
+3708	per:stateorprovince_of_birth
+3709	no_relation
+3710	per:siblings
+3711	low
+3712	no_relation
+3713	no_relation
+3714	per:spouse
+3715	per:siblings
+3716	per:spouse
+3717	no_relation
+3718	no_relation
+3719	per:spouse
+3720	no_relation
+3721	no_relation
+3722	no_relation
+3723	no_relation
+3724	no_relation
+3725	per:stateorprovince_of_birth
+3726	no_relation
+3727	no_relation
+3728	per:siblings
+3729	per:spouse
+3730	no_relation
+3731	org:members
+3732	org:subsidiaries
+3733	no_relation
+3734	new year motivation
+3735	org:subsidiaries
+3736	she is high on drugs
+3737	org:number_of_employees/members
+3738	no_relation
+3739	no_relation
+3740	he has done a lot of great research on 9/11
+3741	no_relation
+3742	no_relation
+3743	org:number_of_employees/members
+3744	on Tuesday , organized crime boss Xie Caiping , labeled the '' godmother of the underworld ''
+3745	per:origin
+3746	org:shareholders
+3747	Her brother-in-law served as a top Chongqing police official for 16 years
+3748	org:alternate_names
+3749	Mark Fisher will be promoted to Senior Vice President
+3750	per:siblings
+3751	Judge Bernard Saint-Vil had Wednesday freed the other eight Americans without bail and they returned to the United States , but he ordered Laura Sils
+3752	org:members
+3753	no_relation
+3754	he is helping members of Cuba 's Jewish community use the Internet to stay in contact with each other
+3755	per:spouse
+3756	a second cousin to the now-iconic '' bird kettle '' Graves designed for Alessi
+3757	org:number_of_employees/members
+3758	per:age
+3759	per:siblings
+3760	no_relation
+3761	executive
+3762	no_relation
+3763	no_relation
+3764	per:parents
+3765	per:charges
+3766	no_relation
+3767	per:siblings
+3768	no_relation
+3769	days took her to get approval to make a phone call
+3770	no_relation
+3771	no_relation
+3772	no_relation
+3773	org:founded
+3774	no_relation
+3775	org:parents
+3776	per:spouse
+3777	per:parents
+3778	she was raped in iraq
+3779	no_relation
+3780	per:parents
+3781	no_relation
+3782	no_relation
+3783	per:spouse
+3784	his team got one of the biggest prizes in cosmology
+3785	org:top_members/employees
+3786	no_relation
+3787	per:siblings
+3788	no_relation
+3789	speaker
+3790	no_relation
+3791	no_relation
+3792	employee_of
+3793	no_relation
+3794	org:top_members/employees
+3795	org:members
+3796	org:members
+3797	org:founded_by
+3798	org:members
+3799	org:founded
+3800	no_relation
+3801	one of the 3 finalist in the Adobe MAX Awards for the RIA category
+3802	org:members
+3803	CEO is the president of Helen Keller International
+3804	per:spouse
+3805	per:other_family
+3806	per:date_of_birth
+3807	no_relation
+3808	no_relation
+3809	no_relation
+3810	org:political/religious_affiliation
+3811	no_relation
+3812	no_relation
+3813	org:top_members/employees
+3814	per:spouse
+3815	org:top_members/employees
+3816	no_relation
+3817	no_relation
+3818	no_relation
+3819	per:other_family
+3820	his underwent more than four hours of surgery to repair multiple fractures to his legs wednesday
+3821	no_relation
+3822	per:age
+3823	Entity 1 is a location
+3824	org:founded_by
+3825	no_relation
+3826	Laura Silsby is being questioned by the judge 
+3827	per:spouse
+3828	no_relation
+3829	org:website
+3830	org:member_of
+3831	per:siblings
+3832	no_relation
+3833	org:members
+3834	per:employee_of
+3835	per:siblings
+3836	per:parents
+3837	Ilan is the only soldier of 21 who agreed to have his name published , after he was interviewed by psychologist Nofer Ishai-K
+3838	org:member_of
+3839	org:members
+3840	journalist , religion
+3841	org:founded_by
+3842	no_relation
+3843	per:employee_of
+3844	per:friend
+3845	no_relation
+3846	per:siblings
+3847	org:founded
+3848	no_relation
+3849	per:spouse
+3850	no_relation
+3851	org:founded
+3852	no_relation
+3853	per:spouse
+3854	per:spouse
+3855	no_relation
+3856	no_relation
+3857	per:spouse
+3858	per:spouse
+3859	On June 16 , New Fabris was declared bankrupt 
+3860	no_relation
+3861	no_relation
+3862	not enough information
+3863	no_relation
+3864	no_relation
+3865	No_relation
+3866	per:siblings
+3867	no_relation
+3868	Sicilian is the name of the region
+3869	org:subsidiaries
+3870	per:country_of_birth
+3871	per:spouse
+3872	org:members
+3873	before
+3874	no_relation
+3875	no_relation
+3876	per:cities_of_residence
+3877	no_relation
+3878	no_relation
+3879	employee_of
+3880	per:parents
+3881	no_relation
+3882	he and blyskal took a three-day trip together on Scientology 's cruise ship
+3883	per:spouse
+3884	per:spouse
+3885	no_relation
+3886	per:spouse
+3887	no_relation
+3888	org:members
+3889	org:top_members/employees
+3890	org:number_of_employees/members
+3891	org:top_members/employees
+3892	no_relation
+3893	org:subsidiaries
+3894	no_relation
+3895	no_relation
+3896	org:members
+3897	medals won by the organization
+3898	org:subsidiaries
+3899	no_relation
+3900	per:spouse
+3901	per:spouse
+3902	No_relation
+3903	per:spouse
+3904	per:date_of_birth
+3905	per:cities_of_residence
+3906	per:spouse
+3907	per:cities_of_residence
+3908	no_relation
+3909	per:spouse
+3910	no_relation
+3911	one of our clients
+3912	If she joined , she could live her dream , she could be an auditor
+3913	per:other_family
+3914	no_relation
+3915	no_relation
+3916	His visits to a therapist were eventually covered by the city of Stamford after police and union officials became involved on his behalf , said Sg
+3917	no_relation
+3918	where she is held
+3919	no_relation
+3920	no_relation
+3921	no_relation
+3922	per:spouse
+3923	no_relation
+3924	no_relation
+3925	no_relation
+3926	org:founded
+3927	per:siblings
+3928	no_relation
+3929	She reported her supervisor abusing her and the Iraqi women
+3930	Sarah Kunstler is a lawyer 
+3931	per:country_of_birth
+3932	org:top_members/employees
+3933	per:spouse
+3934	no_relation
+3935	no_relation
+3936	no_relation
+3937	per:spouse
+3938	He is a chef 
+3939	org:founded
+3940	no_relation
+3941	no_relation
+3942	per:spouse
+3943	per:country_of_birth
+3944	no_relation
+3945	per:spouse
+3946	per:age
+3947	no_relation
+3948	per:age
+3949	per:siblings
+3950	no_relation
+3951	no_relation
+3952	no_relation
+3953	org:top_members/employees
+3954	no_relation
+3955	per:country_of_birth
+3956	per:employee_of
+3957	per:spouse
+3958	org:member_of
+3959	no_relation
+3960	no_relation
+3961	no_relation
+3962	Alessi has received three times the orders it had expected before the launch 
+3963	org:founded
+3964	per:spouse
+3965	no_relation
+3966	one of the many members of the board of directors of pda
+3967	per:religion
+3968	no_relation
+3969	no_relation
+3970	per:business
+3971	org:number_of_employees/members
+3972	per:spouse
+3973	org:members
+3974	no_relation
+3975	no_relation
+3976	per:spouse
+3977	org:founded
+3978	per:spouse
+3979	no_relation
+3980	no_relation
+3981	no_relation
+3982	no_relation
+3983	captain is a goalkeeper
+3984	no_relation
+3985	he died
+3986	no_relation
+3987	per:date_of_death
+3988	org:top_members/employees
+3989	per:siblings
+3990	org:members
+3991	no_relation
+3992	no_relation
+3993	no_relation
+3994	org:founded
+3995	per:siblings
+3996	org:subsidiaries
+3997	org:founded
+3998	This year 's mart , which organized jointly by PATA and the Ministry of Culture and Tourism of Indonesia , also sees 4,294
+3999	per:date_of_birth
+4000	no_relation
+4001	Pauliina Miettinen is a defender and goalkeeper for Finaland
+4002	org:top_members/employees
+4003	org:member_of
+4004	per:siblings
+4005	Amanda Knox is 22 
+4006	per:country_of_birth
+4007	per:children
+4008	org:subsidiaries
+4009	Xie Caiping was sentenced to 18 years in prison on charges of running illegal gambling dens and drug dealing 
+4010	per:cities_of_residence
+4011	per:country_of_birth
+4012	org:founded_by
+4013	employee_of
+4014	per:siblings
+4015	per:alternate_names
+4016	org:website
+4017	Her grandmother is a veteran Scientologist 
+4018	no_relation
+4019	org:members
+4020	org:subsidiaries
+4021	per:spouse
+4022	per:stateorprovince_of_residence
+4023	org:members
+4024	per:cause_of_death
+4025	org:members
+4026	org:number_of_employees/members
+4027	per:country_of_birth
+4028	org:subsidiaries
+4029	no_relation
+4030	per:city_of_death
+4031	per:date_of_birth
+4032	per:spouse
+4033	org:city_of_headquarters
+4034	per:date_of_birth
+4035	per:schools_attended
+4036	org:political/religious_affiliation
+4037	per:country_of_death
+4038	org:founded
+4039	per:stateorprovince_of_birth
+4040	per:city_of_birth
+4041	org:dissolved
+4042	her -lrb- american -rrb- roommate -lrb- british -rrb-
+4043	No_relation
+4044	org:top_members/employees
+4045	org:members
+4046	per:siblings
+4047	per:age
+4048	per:country_of_birth
+4049	per:children
+4050	no_relation
+4051	per:charges
+4052	per:cities_of_residence
+4053	per:origin
+4054	org:founded_by
+4055	employee_of
+4056	per:siblings
+4057	org:website
+4058	he is a muslim
+4059	org:subsidiaries
+4060	org:subsidiaries
+4061	per:siblings
+4062	per:stateorprovince_of_death
+4063	org:member_of
+4064	cause of death
+4065	org:member_of
+4066	no_relation
+4067	no_relation
+4068	per:city_of_death
+4069	per:spouse
+4070	org:city_of_headquarters
+4071	she was listed in stable condition last week
+4072	employee_of
+4073	org:founded
+4074	designer is a person
+4075	architect -lrb- profession -rrb-
+4076	org:top_members/employees
+4077	no_relation
+4078	per:children
+4079	per:age
+4080	no_relation
+4081	per:children
+4082	org:members
+4083	Wen is charged with bribery 
+4084	per:cities_of_residence
+4085	per:origin
+4086	org:founded_by
+4087	no_relation
+4088	per:siblings
+4089	per:religion
+4090	org:subsidiaries
+4091	org:subsidiaries
+4092	per:spouse
+4093	per:stateorprovince_of_residence
+4094	per:cause_of_death
+4095	org:stateorprovince_of_headquarters
+4096	per:spouse
+4097	org:city_of_headquarters
+4098	per:date_of_death
+4099	org:founded
+4100	no_relation
+4101	no_relation
+4102	org:top_members/employees
+4103	no_relation
+4104	per:parents
+4105	she was 19
+4106	per:country_of_residence
+4107	org:subsidiaries
+4108	per:charges
+4109	per:cities_of_residence
+4110	per:country_of_birth
+4111	org:founded_by
+4112	no_relation
+4113	per:siblings
+4114	per:religion
+4115	org:subsidiaries
+4116	per:spouse
+4117	per:stateorprovince_of_birth
+4118	per:cause_of_death
+4119	org:stateorprovince_of_headquarters
+4120	per:spouse
+4121	no_relation
+4122	no_relation
+4123	no_relation
+4124	Wen Qiang was the former director of the Chongqing Municipal Judicial Bureau 
+4125	org:top_members/employees
+4126	no_relation
+4127	per:parents
+4128	per:age
+4129	per:country_of_birth
+4130	no_relation
+4131	per:charges
+4132	per:cities_of_residence
+4133	no_relation
+4134	org:founded_by
+4135	no_relation
+4136	no_relation
+4137	per:spouse
+4138	no_relation
+4139	per:origin
+4140	she was an art teacher
+4141	no_relation
+4142	no_relation
+4143	per:children
+4144	Jamie Leigh Jones , now 22 , says that after she was raped by multiple men at a KBR camp in the Green Zone
+4145	per:country_of_birth
+4146	org:subsidiaries
+4147	per:charges
+4148	in detention in Port-au-Prince
+4149	per:origin
+4150	no_relation
+4151	per:stateorprovince_of_residence
+4152	org:city_of_headquarters
+4153	no_relation
+4154	minister , street general
+4155	no_relation
+4156	no_relation
+4157	per:age
+4158	per:countries_of_residence
+4159	org:members
+4160	per:charges
+4161	per:cities_of_residence
+4162	per:origin
+4163	employee of
+4164	per:children
+4165	kidnapping
+4166	org:founded_by
+4167	per:age
+4168	per:country_of_residence
+4169	org:subsidiaries
+4170	no_relation
+4171	per:origin
+4172	employee_of
+4173	no_relation
+4174	Analyst is Ahmed Rashid 
+4175	org:top_members/employees
+4176	Samudio is 25 years old 
+4177	per:country_of_birth
+4178	org:members
+4179	per:city_of_death
+4180	per:origin
+4181	employee of
+4182	no_relation
+4183	Youssoufou Bamba is Ouattara 's new ambassador
+4184	org:top_members/employees
+4185	daughter of the late civil rights attorney william kunstler
+4186	per:country_of_birth
+4187	org:members
+4188	per:cities_of_residence
+4189	no_relation
+4190	no_relation
+4191	Entity 1 : Vladimir Ladyzhenskiy Entity 2 : wrestler
+4192	org:top_members/employees
+4193	per:age
+4194	org:members
+4195	per:cities_of_residence
+4196	employee of
+4197	org:founded
+4198	no_relation
+4199	org:top_members/employees
+4200	Mark Fisher , 19-year-old
+4201	org:members
+4202	no_relation
+4203	employee of
+4204	per:other_family
+4205	Tracy Barker had sued US contractor KBR Inc , its former parent company Halliburton and several affiliates in May 2007 , claiming she
+4206	no_relation
+4207	per:age
+4208	org:subsidiaries
+4209	no_relation
+4210	employee of
+4211	org:top_members/employees
+4212	brother-in-law
+4213	org:top_members/employees
+4214	org:members
+4215	employee_of
+4216	per:spouse
+4217	Mark Fisher is the new chief executive
+4218	org:top_members/employees
+4219	no_relation
+4220	no_relation
+4221	His guard shared his cell phone with her 
+4222	org:top_members/employees
+4223	employee_of
+4224	Pressure in the primary oxygen bottles was increased to 1430 PSIA from 1020 PSIA
+4225	Andrew E Lange is a physicist 
+4226	org:top_members/employees
+4227	per:employee_of
+4228	no_relation
+4229	Wen Qiang was the deputy director of Chongqing 's public security department
+4230	org:top_members/employees
+4231	employee of
+4232	no_relation
+4233	no_relation
+4234	org:top_members/employees
+4235	no_relation
+4236	Charles Ble Goude is Laurent Gbagbo 's lieutenant
+4237	org:top_members/employees
+4238	no_relation
+4239	lieutenant
+4240	org:top_members/employees
+4241	org:stateorprovince_of_headquarters
+4242	detained in an internal investigation
+4243	no_relation
+4244	per:spouse
+4245	former lawmaker
+4246	org:top_members/employees
+4247	per:spouse
+4248	journalist
+4249	no_relation
+4250	spokeswoman
+4251	per:parents
+4252	President
+4253	per:spouse
+4254	minister is a person
+4255	per:siblings
+4256	no_relation
+4257	per:spouse
+4258	director
+4259	per:spouse
+4260	captain and chen tao
+4261	no_relation
+4262	Assaf Ramon was a pilot 
+4263	per:spouse
+4264	coach
+4265	per:spouse
+4266	minister and street general
+4267	org:number_of_employees/members
+4268	no_relation
+4269	org:member_of
+4270	no_relation
+4271	no_relation
+4272	no_relation
+4273	org:founded
+4274	no_relation
+4275	Almost all of those whose arrests we have ordered are related to the fugitive boss
+4276	Hagemo said the investigator wanted names of people who told her it was okay to get pregnant
+4277	per:spouse
+4278	no_relation
+4279	per:spouse
+4280	Vagni was held for months
+4281	org:founded
+4282	employee of
+4283	per:cities_of_residence
+4284	no_relation
+4285	no_relation
+4286	no_relation
+4287	per:spouse
+4288	per:cities_of_residence
+4289	org:top_members/employees
+4290	no_relation
+4291	org:top_members/employees
+4292	per:spouse
+4293	no_relation
+4294	no_relation
+4295	no_relation
+4296	no_relation
+4297	no_relation
+4298	no_relation
+4299	per:other_family
+4300	no_relation
+4301	per:country_of_birth
+4302	no_relation
+4303	per:employee_of
+4304	director of fabris
+4305	no_relation
+4306	per:age
+4307	org:subsidiaries
+4308	no_relation
+4309	org:organizer
+4310	no_relation
+4311	They seized Vagni and two other Red Cross workers in Jolo in January although the two others were released separately in April
+4312	no_relation
+4313	per:spouse
+4314	org:alternate_names
+4315	no_relation
+4316	no_relation
+4317	org:founded
+4318	Criticism
+4319	no_relation
+4320	her and one
+4321	org:member_of
+4322	no_relation
+4323	per:other_family
+4324	no_relation
+4325	no_relation
+4326	no_relation
+4327	org:founded
+4328	per:spouse
+4329	per:spouse
+4330	once
+4331	org:dissolved
+4332	per:spouse
+4333	per:spouse
+4334	no_relation
+4335	org:members
+4336	per:country_of_death
+4337	no_relation
+4338	no_relation
+4339	no_relation
+4340	per:employee_of
+4341	no_relation
+4342	per:age
+4343	no_relation
+4344	per:spouse
+4345	per:siblings
+4346	no_relation
+4347	no_relation
+4348	per:city_of_death
+4349	no_relation
+4350	org:members
+4351	no_relation
+4352	per:parents
+4353	per:spouse
+4354	no_relation
+4355	no_relation
+4356	no_relation
+4357	distance
+4358	previously
+4359	per:spouse
+4360	no_relation
+4361	He met a female chemical engineer 
+4362	per:spouse
+4363	per:spouse
+4364	she was five months pregnant
+4365	per:spouse
+4366	No_relation
+4367	no_relation
+4368	per:other_family
+4369	no_relation
+4370	org:number_of_employees/members
+4371	per:country_of_birth
+4372	per:parents
+4373	per:parents
+4374	no_relation
+4375	no_relation
+4376	org:founded
+4377	no_relation
+4378	medals won by the organization
+4379	no_relation
+4380	org:dissolved
+4381	His wife
+4382	org:founded_by
+4383	org:founded
+4384	no_relation
+4385	per:parents
+4386	no_relation
+4387	org:members
+4388	per:charges
+4389	org:top_members/employees
+4390	no_relation
+4391	per:siblings
+4392	per:spouse
+4393	per:spouse
+4394	no_relation
+4395	no_relation
+4396	per:other_family
+4397	he is one of the three
+4398	no_relation
+4399	no_relation
+4400	no_relation
+4401	no_relation
+4402	per:parents
+4403	no_relation
+4404	org:members
+4405	no_relation
+4406	per:siblings
+4407	no_relation
+4408	no_relation
+4409	org:member_of
+4410	Xie Caiping rebuked by judge
+4411	per:siblings
+4412	no_relation
+4413	per:spouse
+4414	per:spouse
+4415	no_relation
+4416	per:spouse
+4417	no_relation
+4418	per:pet
+4419	no_relation
+4420	no_relation
+4421	His was a detective in Times Square 
+4422	no_relation
+4423	no_relation
+4424	Lessons and Examples from Implementation
+4425	no_relation
+4426	per:siblings
+4427	per:country_of_birth
+4428	no_relation
+4429	no_relation
+4430	no_relation
+4431	no_relation
+4432	per:cities_of_residence
+4433	recently
+4434	org:members
+4435	per:siblings
+4436	no_relation
+4437	no_relation
+4438	per:employee_of
+4439	per:spouse
+4440	Matteo Messina Denaro
+4441	no_relation
+4442	no_relation
+4443	no_relation
+4444	org:members
+4445	per:age
+4446	per:spouse
+4447	no_relation
+4448	per:spouse
+4449	no_relation
+4450	no_relation
+4451	org:founded_by
+4452	no_relation
+4453	no_relation
+4454	per:spouse
+4455	org:founded_by
+4456	per:spouse
+4457	org:top_members/employees
+4458	no_relation
+4459	his
+4460	no_relation
+4461	per:siblings
+4462	no_relation
+4463	Cement producer Semen Gresik lost 38 percent to 12,800
+4464	per:religion
+4465	per:alternate_names
+4466	He was a store detective in Times Square 
+4467	no_relation
+4468	no_relation
+4469	no_relation
+4470	per:spouse
+4471	no_relation
+4472	per:siblings
+4473	per:spouse
+4474	no_relation
+4475	org:subsidiaries
+4476	Tribal Law and Order Act
+4477	no_relation
+4478	no_relation
+4479	org:founded
+4480	per:age
+4481	no_relation
+4482	per:country_of_birth
+4483	no_relation
+4484	no_relation
+4485	org:number_of_employees/members
+4486	org:members
+4487	per:spouse
+4488	org:founded_by
+4489	no_relation
+4490	per:siblings
+4491	org:founded
+4492	per:siblings
+4493	per:spouse
+4494	no_relation
+4495	no_relation
+4496	per:other_family
+4497	per:siblings
+4498	per:siblings
+4499	past
+4500	no_relation
+4501	per:spouse
+4502	org:founded
+4503	no_relation
+4504	no_relation
+4505	cousin
+4506	per:siblings
+4507	per:origin
+4508	per:age
+4509	no_relation
+4510	per:siblings
+4511	no_relation
+4512	no_relation
+4513	no_relation
+4514	per:sponse
+4515	per:spouse
+4516	no_relation
+4517	org:members
+4518	per:parents
+4519	per:parents
+4520	no_relation
+4521	employee of
+4522	org:members
+4523	org:founded_by
+4524	no_relation
+4525	no_relation
+4526	no_relation
+4527	no_relation
+4528	no_relation
+4529	no_relation
+4530	no_relation
+4531	no_relation
+4532	He formed his own company , TAU , for a while , sold part to Trimble , left Trimble to start a GPS
+4533	cause of death
+4534	no_relation
+4535	no_relation
+4536	no_relation
+4537	no_relation
+4538	org:founded_by
+4539	no_relation
+4540	org:number_of_employees/members
+4541	per:spouse
+4542	per:parents
+4543	org:members
+4544	per:siblings
+4545	Matteo Messina Denaro is a mobster 
+4546	no_relation
+4547	no_relation
+4548	org:founded
+4549	org:number_of_employees/members
+4550	per:country_of_birth
+4551	no_relation
+4552	per:spouse
+4553	attorney said her family 's case should be treated like a workers ' compensation claim
+4554	per:spouse
+4555	No_relation
+4556	once defiant wen
+4557	per:spouse
+4558	dishonest
+4559	per:spouse
+4560	per:spouse
+4561	per:spouse
+4562	per:other_family
+4563	per:siblings
+4564	no_relation
+4565	org:members
+4566	no_relation
+4567	no_relation
+4568	his two handguns
+4569	His son is a Scientologist 
+4570	no_relation
+4571	org:founded
+4572	per:siblings
+4573	no_relation
+4574	no_relation
+4575	per:police
+4576	no_relation
+4577	per:spouse
+4578	per:siblings
+4579	no_relation
+4580	org:number_of_employees/members
+4581	no_relation
+4582	per:spouse
+4583	per:age
+4584	no_relation
+4585	per:other_family
+4586	org:city_of_headquarters
+4587	per:parents
+4588	no_relation
+4589	He was hell-bent on committing this act , and no one was going to stop him 
+4590	no_relation
+4591	no_relation
+4592	per:other_family
+4593	no_relation
+4594	org:members
+4595	org:members
+4596	per:siblings
+4597	per:spouse
+4598	no_relation
+4599	per:parents
+4600	per:other_family
+4601	Prophet is a religious figure
+4602	Norris Church Mailer is married to Boxer 
+4603	Mark Fisher is a theatre director 
+4604	no_relation
+4605	per:employee_of
+4606	org:top_members/employees
+4607	Wen raped a student after getting her drunk
+4608	no_relation
+4609	no_relation
+4610	org:top_members/employees
+4611	per:spouse
+4612	per:religion
+4613	per:spouse
+4614	org:city_of_headquarters
+4615	per:siblings
+4616	org:top_members/employees
+4617	no_relation
+4618	no_relation
+4619	per:nanny
+4620	no_relation
+4621	org:top_members/employees
+4622	no_relation
+4623	org:founded_by
+4624	org:member_of
+4625	per:date_of_birth
+4626	no_relation
+4627	No_relation
+4628	no_relation
+4629	org:members
+4630	per:employee_of
+4631	no_relation
+4632	org:top_members/employees
+4633	per:spouse
+4634	no_relation
+4635	no_relation
+4636	per:age
+4637	no_relation
+4638	org:subsidiaries
+4639	per:spouse
+4640	no_relation
+4641	a half
+4642	no_relation
+4643	org:members
+4644	no_relation
+4645	Shares in Countrywide plunged 1498 percent to 1810 dollars around 1540 GMT as investors panicked over the latest sign that the crisis is widen
+4646	org:founded
+4647	per:date_of_death
+4648	org:founded
+4649	per:spouse
+4650	per:spouse
+4651	no_relation
+4652	per:spouse
+4653	Pacific Asia Travel Association is a travel association
+4654	no_relation
+4655	no_relation
+4656	director
+4657	per:city_of_death
+4658	org:members
+4659	no_relation
+4660	no_relation
+4661	no_relation
+4662	no_relation
+4663	no_relation
+4664	org:member_of
+4665	no_relation
+4666	no_relation
+4667	per:parents
+4668	no_relation
+4669	no_relation
+4670	no_relation
+4671	no_relation
+4672	no_relation
+4673	per:siblings
+4674	no_relation
+4675	no_relation
+4676	after
+4677	per:siblings
+4678	Fees for longer flights will climb from 80 yuan ( US$ 1070 , euro7 40 ) to 100 yu
+4679	no_relation
+4680	org:members
+4681	org:subsidiaries
+4682	org:founded
+4683	no_relation
+4684	Xie Caiping was sentenced to 18 years in prison on Tuesday 
+4685	per:siblings
+4686	per:spouse
+4687	org:members
+4688	no_relation
+4689	per:cities_of_residence
+4690	Online retailers such as Amazon are useful for wide-distribution barware : shakers from Rösle ; Alessi and W
+4691	no_relation
+4692	no_relation
+4693	org:members
+4694	Mark Fisher was shot five times 
+4695	mother of
+4696	org:members
+4697	no_relation
+4698	no_relation
+4699	no_relation
+4700	no_relation
+4701	no_relation
+4702	per:charges
+4703	per:cities_of_residence
+4704	no_relation
+4705	no_relation
+4706	per:spouse
+4707	per:other_family
+4708	per:stateorprovince_of_birth
+4709	no_relation
+4710	per:siblings
+4711	low
+4712	no_relation
+4713	no_relation
+4714	per:spouse
+4715	per:siblings
+4716	per:spouse
+4717	no_relation
+4718	no_relation
+4719	per:spouse
+4720	no_relation
+4721	no_relation
+4722	no_relation
+4723	no_relation
+4724	no_relation
+4725	per:stateorprovince_of_birth
+4726	no_relation
+4727	no_relation
+4728	per:siblings
+4729	per:spouse
+4730	no_relation
+4731	org:members
+4732	org:subsidiaries
+4733	no_relation
+4734	new year motivation
+4735	org:subsidiaries
+4736	she is high on drugs
+4737	org:number_of_employees/members
+4738	no_relation
+4739	no_relation
+4740	he has done a lot of great research on 9/11
+4741	no_relation
+4742	no_relation
+4743	org:number_of_employees/members
+4744	on Tuesday , organized crime boss Xie Caiping , labeled the '' godmother of the underworld ''
+4745	per:origin
+4746	org:shareholders
+4747	Her brother-in-law served as a top Chongqing police official for 16 years
+4748	org:alternate_names
+4749	Mark Fisher will be promoted to Senior Vice President
+4750	per:siblings
+4751	Judge Bernard Saint-Vil had Wednesday freed the other eight Americans without bail and they returned to the United States , but he ordered Laura Sils
+4752	org:members
+4753	no_relation
+4754	he is helping members of Cuba 's Jewish community use the Internet to stay in contact with each other
+4755	per:spouse
+4756	a second cousin to the now-iconic '' bird kettle '' Graves designed for Alessi
+4757	org:number_of_employees/members
+4758	per:age
+4759	per:siblings
+4760	no_relation
+4761	executive
+4762	no_relation
+4763	no_relation
+4764	per:parents
+4765	per:charges
+4766	no_relation
+4767	per:siblings
+4768	no_relation
+4769	days took her to get approval to make a phone call
+4770	no_relation
+4771	no_relation
+4772	no_relation
+4773	org:founded
+4774	no_relation
+4775	org:parents
+4776	per:spouse
+4777	per:parents
+4778	she was raped in iraq
+4779	no_relation
+4780	per:parents
+4781	no_relation
+4782	no_relation
+4783	per:spouse
+4784	his team got one of the biggest prizes in cosmology
+4785	org:top_members/employees
+4786	no_relation
+4787	per:siblings
+4788	no_relation
+4789	speaker
+4790	no_relation
+4791	no_relation
+4792	employee_of
+4793	no_relation
+4794	org:top_members/employees
+4795	org:members
+4796	org:members
+4797	org:founded_by
+4798	org:members
+4799	org:founded
+4800	no_relation
+4801	one of the 3 finalist in the Adobe MAX Awards for the RIA category
+4802	org:members
+4803	CEO is the president of Helen Keller International
+4804	per:spouse
+4805	per:other_family
+4806	per:date_of_birth
+4807	no_relation
+4808	no_relation
+4809	no_relation
+4810	org:political/religious_affiliation
+4811	no_relation
+4812	no_relation
+4813	org:top_members/employees
+4814	per:spouse
+4815	org:top_members/employees
+4816	no_relation
+4817	no_relation
+4818	no_relation
+4819	per:other_family
+4820	his underwent more than four hours of surgery to repair multiple fractures to his legs wednesday
+4821	no_relation
+4822	per:age
+4823	Entity 1 is a location
+4824	org:founded_by
+4825	no_relation
+4826	Laura Silsby is being questioned by the judge 
+4827	per:spouse
+4828	no_relation
+4829	org:website
+4830	org:member_of
+4831	per:siblings
+4832	no_relation
+4833	org:members
+4834	per:employee_of
+4835	per:siblings
+4836	per:parents
+4837	Ilan is the only soldier of 21 who agreed to have his name published , after he was interviewed by psychologist Nofer Ishai-K
+4838	org:member_of
+4839	org:members
+4840	journalist , religion
+4841	org:founded_by
+4842	no_relation
+4843	per:employee_of
+4844	per:friend
+4845	no_relation
+4846	per:siblings
+4847	org:founded
+4848	no_relation
+4849	per:spouse
+4850	no_relation
+4851	org:founded
+4852	no_relation
+4853	per:spouse
+4854	per:spouse
+4855	no_relation
+4856	no_relation
+4857	per:spouse
+4858	per:spouse
+4859	On June 16 , New Fabris was declared bankrupt 
+4860	no_relation
+4861	no_relation
+4862	not enough information
+4863	no_relation
+4864	no_relation
+4865	No_relation
+4866	per:siblings
+4867	no_relation
+4868	Sicilian is the name of the region
+4869	org:subsidiaries
+4870	per:country_of_birth
+4871	per:spouse
+4872	org:members
+4873	before
+4874	no_relation
+4875	no_relation
+4876	per:cities_of_residence
+4877	no_relation
+4878	no_relation
+4879	employee_of
+4880	per:parents
+4881	no_relation
+4882	he and blyskal took a three-day trip together on Scientology 's cruise ship
+4883	per:spouse
+4884	per:spouse
+4885	no_relation
+4886	per:spouse
+4887	no_relation
+4888	org:members
+4889	org:top_members/employees
+4890	org:number_of_employees/members
+4891	org:top_members/employees
+4892	no_relation
+4893	org:subsidiaries
+4894	no_relation
+4895	no_relation
+4896	org:members
+4897	medals won by the organization
+4898	org:subsidiaries
+4899	no_relation
+4900	per:spouse
+4901	per:spouse
+4902	No_relation
+4903	per:spouse
+4904	per:date_of_birth
+4905	per:cities_of_residence
+4906	per:spouse
+4907	per:cities_of_residence
+4908	no_relation
+4909	per:spouse
+4910	no_relation
+4911	one of our clients
+4912	If she joined , she could live her dream , she could be an auditor
+4913	per:other_family
+4914	no_relation
+4915	no_relation
+4916	His visits to a therapist were eventually covered by the city of Stamford after police and union officials became involved on his behalf , said Sg
+4917	no_relation
+4918	where she is held
+4919	no_relation
+4920	no_relation
+4921	no_relation
+4922	per:spouse
+4923	no_relation
+4924	no_relation
+4925	no_relation
+4926	org:founded
+4927	per:siblings
+4928	no_relation
+4929	She reported her supervisor abusing her and the Iraqi women
+4930	Sarah Kunstler is a lawyer 
+4931	per:country_of_birth
+4932	org:top_members/employees
+4933	per:spouse
+4934	no_relation
+4935	no_relation
+4936	no_relation
+4937	per:spouse
+4938	He is a chef 
+4939	org:founded
+4940	no_relation
+4941	no_relation
+4942	per:spouse
+4943	per:country_of_birth
+4944	no_relation
+4945	per:spouse
+4946	per:age
+4947	no_relation
+4948	per:age
+4949	per:siblings
+4950	no_relation
+4951	no_relation
+4952	no_relation
+4953	org:top_members/employees
+4954	no_relation
+4955	per:country_of_birth
+4956	per:employee_of
+4957	per:spouse
+4958	org:member_of
+4959	no_relation
+4960	no_relation
+4961	no_relation
+4962	Alessi has received three times the orders it had expected before the launch 
+4963	org:founded
+4964	per:spouse
+4965	no_relation
+4966	one of the many members of the board of directors of pda
+4967	per:religion
+4968	no_relation
+4969	no_relation
+4970	per:business
+4971	org:number_of_employees/members
+4972	per:spouse
+4973	org:members
+4974	no_relation
+4975	no_relation
+4976	per:spouse
+4977	org:founded
+4978	per:spouse
+4979	no_relation
+4980	no_relation
+4981	no_relation
+4982	no_relation
+4983	captain is a goalkeeper
+4984	no_relation
+4985	he died
+4986	no_relation
+4987	per:date_of_death
+4988	org:top_members/employees
+4989	per:siblings
+4990	org:members
+4991	no_relation
+4992	no_relation
+4993	no_relation
+4994	org:founded
+4995	per:siblings
+4996	org:subsidiaries
+4997	org:founded
+4998	This year 's mart , which organized jointly by PATA and the Ministry of Culture and Tourism of Indonesia , also sees 4,294
+4999	per:date_of_birth

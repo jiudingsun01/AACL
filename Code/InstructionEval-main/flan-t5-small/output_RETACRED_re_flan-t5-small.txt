@@ -1,0 +1,5000 @@
+0	org
+1	Persona
+2	He
+3	org
+4	Persona
+5	Entity 1 is Richard Gage
+6	Relationship
+7	Amanda Knox
+8	org
+9	Persona
+10	Scientology
+11	World
+12	Person with respect to Jupp
+13	Relationship
+14	org
+15	Person with knowledge of the crime
+16	Francesco
+17	Wen Qiang
+18	org
+19	Person
+20	org:website
+21	John Graham
+22	Nonpartisan
+23	AIG
+24	Entity 1
+25	Esther-Ethy Mamane
+26	NDA
+27	Xie Caiping
+28	org
+29	spouse
+30	org
+31	Aquash
+32	org
+33	Andrew Lange
+34	Persona
+35	Her body was exhumed
+36	org
+37	Albert Lange
+38	no_relation
+39	ShopperTrak
+40	religion
+41	ABN Amro
+42	org
+43	Her mother
+44	He
+45	Relationship
+46	Amanda Knox
+47	org
+48	Persona
+49	Alessi
+50	NEA
+51	Wen Qiang
+52	No_relationship
+53	org
+54	United States
+55	parent
+56	Location
+57	Science/Tech
+58	No_relationship
+59	org
+60	Persona_of_life
+61	Company
+62	org
+63	He is at Berkeley
+64	Father
+65	OANA
+66	Persona
+67	Contact_person
+68	Person with information about Bruno
+69	Contact_person
+70	Cerniglia
+71	no_relationship
+72	Andrew E Lange
+73	Relationship
+74	Persona
+75	Person
+76	org
+77	Edda Mellas
+78	Wen
+79	Wen
+80	United States
+81	org
+82	Almena Lomax
+83	Entity 1
+84	org
+85	Person accused of defamation
+86	Answer: murder
+87	org
+88	Thierry Meyssan
+89	He
+90	org
+91	Relationship
+92	org
+93	no_relationship
+94	org
+95	Relationship
+96	Family
+97	org
+98	Xie Caiping
+99	Company
+100	His wife is Sandra
+101	She
+102	Business
+103	Father
+104	Persona
+105	Xie
+106	World
+107	Persona
+108	Friends
+109	Relationship
+110	Location
+111	org
+112	Father
+113	No_relation
+114	org
+115	No_relation
+116	No_relationship
+117	org
+118	Person
+119	Sarah Kunstler
+120	Business
+121	Threat
+122	org
+123	Person who was convicted of the murder of Mark Fisher
+124	Science/Tech
+125	Xie Caiping
+126	org
+127	spouse
+128	Bibi
+129	Persona
+130	He
+131	Person
+132	org
+133	Persona
+134	Office
+135	Person
+136	United States
+137	org
+138	Persona
+139	No_relation
+140	org
+141	Relationship
+142	No_relationship
+143	org
+144	Alan P Gross
+145	Persona
+146	org
+147	Countrywide Financial Corp
+148	Relationship
+149	org
+150	Contact_numbers is unknown
+151	spouse
+152	Persons with whom Mailer lived in Provincetown , Massachusetts
+153	org
+154	Persona
+155	Persona
+156	org
+157	The basic description of the film is "The basics"
+158	AIM
+159	No_relationship
+160	Alan Gross
+161	org
+162	org
+163	Wen
+164	UASR
+165	American
+166	ADF
+167	Persona
+168	spouse
+169	Persona
+170	ShopperTrak
+171	Person
+172	Sports
+173	org
+174	Persona
+175	Contact_person
+176	Amanda Knox
+177	Italy
+178	org
+179	org
+180	Wen Qiang
+181	ShopperTrak
+182	World
+183	Shoppertrak
+184	Kercher
+185	org
+186	person
+187	The United Negro College Fund
+188	org
+189	Persona
+190	Family
+191	No_relationship
+192	Relationship
+193	ShopperTrak
+194	org
+195	Xie Caiping
+196	American
+197	ADF
+198	Person with family is Cerniglia
+199	org
+200	Persona
+201	Wen Qiang
+202	org
+203	Entity 2
+204	No_relationship
+205	wife
+206	Countrywide
+207	NDRC
+208	No_relation
+209	Russian
+210	org
+211	Amanda Knox
+212	Person
+213	Persona
+214	Wen Qiang
+215	NTSO
+216	The United Negro College Fund
+217	Relationship
+218	Xie Caiping
+219	org
+220	org
+221	Wen Qiang
+222	org
+223	Relationship
+224	Persona
+225	relationship
+226	Person with knowledge of the video
+227	ShopperTrak
+228	Entity 2
+229	No_relationship
+230	World
+231	ShopperTrak
+232	org
+233	Persona
+234	Person
+235	Mark Fisher
+236	org
+237	Wen Qiang
+238	No_relationship
+239	United States
+240	org
+241	NDRC
+242	No_relation
+243	Persona
+244	George Sodini
+245	org
+246	Office
+247	No_relationship
+248	org
+249	org
+250	org
+251	Trapani
+252	Person with information about the film
+253	Entity 1
+254	Relationship
+255	org
+256	NDA
+257	org
+258	Persona
+259	Departmental
+260	Entity 1
+261	Relationship
+262	org
+263	NTSO
+264	No_relationship
+265	Persona
+266	Bamba
+267	He
+268	No_relationship
+269	org
+270	org
+271	Relationship
+272	spouse
+273	Persona
+274	College
+275	org
+276	NDRC
+277	Relationship
+278	Persona
+279	Contact
+280	College
+281	THAILAND Bangkok Pundit Prachai at the FCCT : Part 1 | THAILAND Tonight , Prachai Leoph
+282	NDRC
+283	Heloise
+284	Persona
+285	Person
+286	Wen Qiang
+287	org
+288	org
+289	no_relation
+290	Persona
+291	Relationship
+292	Wen Qiang
+293	org
+294	American International Group
+295	Office
+296	Persona
+297	Ivory Coast
+298	Cerniglia
+299	org
+300	Countrywide Financial
+301	Office
+302	Persona
+303	She is an art teacher
+304	Interview
+305	org
+306	org
+307	org
+308	Persona
+309	Xie Caiping
+310	Xie
+311	org
+312	no_relation
+313	Persona
+314	Entity 1
+315	World
+316	org
+317	Persona
+318	Persona
+319	Entity 1
+320	He
+321	org
+322	Persona
+323	spouse
+324	Wen Qiang
+325	NDRC
+326	Alessandra Wilke
+327	relationship
+328	Bamba
+329	org
+330	He
+331	Wen Qiang
+332	org
+333	Entity 1
+334	Answer: journalist
+335	org
+336	Persona
+337	Entity 1
+338	org
+339	Persona
+340	Physicist
+341	ShopperTrak
+342	He
+343	Relationship
+344	org
+345	Persona
+346	The president of the United Negro College Fund
+347	org
+348	Answer
+349	World
+350	Relationship
+351	Persona
+352	Relationship
+353	com
+354	Alessi
+355	Person
+356	relationship
+357	Patricia Gonzalez
+358	Wen Qiang
+359	World
+360	Persona
+361	Answer: analyst
+362	NDRC
+363	Persona
+364	World
+365	Relationship
+366	Persona
+367	World
+368	He
+369	org
+370	He
+371	org
+372	Admits
+373	Xie Caiping
+374	person
+375	No_relationship
+376	Persona
+377	Persona
+378	no_relationship
+379	org
+380	Persona
+381	No_relationship
+382	relationship
+383	Friends
+384	Persona
+385	World
+386	spouse
+387	Sports
+388	No_relationship
+389	Abelard
+390	Persona
+391	no_relation
+392	Alessi
+393	org
+394	Persona
+395	Person with information about Mario Gonzalez
+396	Person
+397	He
+398	Persona
+399	No_relation
+400	Persona
+401	no_relation
+402	Persona
+403	World
+404	Persona
+405	Office
+406	Person
+407	Bibi
+408	spouse
+409	Alessi
+410	he
+411	HSBC
+412	Heloise
+413	Non-fiction
+414	Answer
+415	Adi Amit
+416	Person with experience with police
+417	Person who committed suicide
+418	Person
+419	Relationship
+420	no_relationship
+421	Persona
+422	Person
+423	org
+424	Persona
+425	Theda Clark
+426	Persona
+427	No_relation
+428	No_relationship
+429	Relationship
+430	Persona
+431	UN ambassador
+432	Persona
+433	United States
+434	spouse
+435	Persona
+436	Persona
+437	Theda Clark
+438	Person
+439	Relationship
+440	Person
+441	org
+442	Persona
+443	Kercher
+444	parent
+445	org
+446	Heloise
+447	Anna Mae Aquash
+448	Persona
+449	Adela Dworin
+450	Guest column
+451	org
+452	No_relationship
+453	Entity 1
+454	No_relationship
+455	Relationship
+456	Persona
+457	990 million
+458	Persona
+459	Sexually assaulting
+460	Persona
+461	family
+462	Persona
+463	Alessi
+464	Persona
+465	org
+466	Persona
+467	Relationship
+468	No_relationship
+469	religion
+470	Persona
+471	Mandate
+472	Entity 1
+473	no_relation
+474	Persona
+475	ShopperTrak
+476	No_relationship
+477	Entity 1
+478	spouse
+479	No_relationship
+480	Person
+481	Relationship
+482	relationship
+483	Dworin
+484	Xie Yingkuang
+485	Persona
+486	Persona
+487	org
+488	Persona
+489	No_relationship
+490	No_relationship
+491	Relationship
+492	Persona
+493	org
+494	Persona
+495	Relationship
+496	spouse
+497	org
+498	no_relation
+499	org
+500	Persona
+501	World
+502	Eloise Spooner
+503	org
+504	Persona
+505	org
+506	parent
+507	The United States
+508	Persona
+509	Relationship
+510	Person
+511	Persona
+512	No_relationship
+513	No_relationship
+514	Avery
+515	Contact
+516	Persona
+517	Location
+518	He
+519	Theda Clark
+520	Persona
+521	He
+522	Person
+523	Xie Caiping
+524	Persona
+525	Countrywide
+526	Alessi
+527	None
+528	no_relationship
+529	He
+530	Gage
+531	No_relationship
+532	Heloise
+533	org
+534	Persona
+535	Xie Caiping
+536	Persona
+537	Relationship
+538	spouse
+539	He
+540	Persona
+541	Abdaf leader
+542	Relationship
+543	Wen
+544	Persona
+545	John A Boehner
+546	Persona
+547	Entity 1
+548	Persona
+549	Cerniglia
+550	Persona
+551	No_relationship
+552	Persona
+553	School of Public Health
+554	Persona
+555	World Tourism Organization
+556	Person
+557	No_relationship
+558	parent
+559	Sarah Kunstler
+560	Amanda Knox
+561	Answer
+562	Sarah Kunstler
+563	Father
+564	Persona
+565	Office
+566	Persona
+567	Relationship
+568	spouse
+569	Relationship
+570	Person
+571	org
+572	Persona
+573	American
+574	Persona
+575	Xinhua
+576	spouse
+577	ShopperTrak
+578	Person
+579	Her mother
+580	Persona
+581	org
+582	Persona
+583	Relationship
+584	relationship
+585	Location
+586	Person
+587	No_relation
+588	Persona
+589	jirga
+590	Persona
+591	org
+592	org
+593	org
+594	Coastal Conservation League
+595	No_relationship
+596	Entity 1
+597	Jeremy Haslam
+598	org
+599	org
+600	She
+601	religion
+602	Entity 1
+603	Ghazi
+604	Relationship
+605	org
+606	Wen Qiang
+607	Persona
+608	John Graham
+609	Relationship
+610	No_relation
+611	No_relationship
+612	World
+613	No_relationship
+614	org
+615	parent
+616	The State Department
+617	Persona
+618	Person with whom he took in young women abandoned by smugglers
+619	org
+620	org
+621	World
+622	org
+623	He
+624	bln yuan
+625	None
+626	He
+627	UASR
+628	Relationship
+629	org
+630	no_relation
+631	nea
+632	Ilan Ramon
+633	Relationship
+634	AIM
+635	No_relationship
+636	org
+637	Man
+638	Entity 1: Craig Ranke
+639	org
+640	org
+641	NDRC
+642	Theda Clark
+643	org
+644	org
+645	spouse
+646	Persona
+647	Alessi
+648	He
+649	org
+650	org
+651	AIG
+652	Heloise
+653	org
+654	org
+655	Relationship
+656	Contact_person
+657	org
+658	Persona
+659	org
+660	Relationship
+661	org
+662	org
+663	org
+664	He
+665	AFP
+666	Persona
+667	Persona
+668	Relationship
+669	No_relationship
+670	No
+671	Relationship
+672	ShopperTrak
+673	Person with experience with Hell's Kitchen
+674	Office of the Interior
+675	Person who is not associated with the New America Foundation
+676	He
+677	org
+678	The military officials named the pilot as Lieutenant Assaf Ramon , 21
+679	org
+680	Relationship
+681	[1]
+682	Pope
+683	Person
+684	org
+685	Persona
+686	org
+687	Relationship
+688	Relationship
+689	Persona
+690	Eloise Spooner
+691	Admitant
+692	No_relationship
+693	org
+694	The Zionist Rothschild Family
+695	e-learning
+696	World
+697	World
+698	Persona
+699	UASR
+700	Company
+701	No_relationship
+702	org
+703	no_relation
+704	Persona
+705	org
+706	Amanda Knox
+707	Answer
+708	Persona
+709	Persona
+710	Entity 1
+711	org
+712	No_relationship
+713	UASR
+714	Business
+715	World
+716	org
+717	No_relationship
+718	Entity 1
+719	Answer
+720	No_relationship
+721	Person
+722	org
+723	Entity 1: Chen Tao
+724	Relationship
+725	No
+726	Persona
+727	Wen
+728	Xie
+729	org
+730	Office of the Secretary of State
+731	org
+732	Persona
+733	Entity 1
+734	Answer: One
+735	Entity 1: Dave von Kliest
+736	Sarah Kunstler
+737	He
+738	org
+739	John Giuca
+740	Relationship
+741	Person with information about He
+742	Business
+743	no_relation
+744	org
+745	org
+746	Heloise
+747	Sports
+748	Wen Qiang
+749	org
+750	Answer
+751	Sports
+752	Countrywide Financial Corp
+753	John Graham
+754	Heloise
+755	Persona
+756	org
+757	Interview
+758	Department of Interior
+759	Relationship
+760	Relationship
+761	Entity 1: Chen Tao
+762	Herold
+763	Customer rating 1
+764	org
+765	Relationship
+766	No_relation
+767	World
+768	EPF
+769	He
+770	He
+771	Person with financial problems
+772	No_relationship
+773	Answer: Entity 1
+774	John Graham
+775	World
+776	No_relationship
+777	org
+778	Relationship
+779	org
+780	Business
+781	org
+782	Persona
+783	Relationship
+784	Threat
+785	Eloise Spooner
+786	Answer
+787	Entity 2
+788	He
+789	org
+790	org
+791	org
+792	Person who is serving life in prison for her murder
+793	org
+794	Persona
+795	org
+796	org
+797	Persona
+798	org
+799	Person with respect to Entity 1
+800	YANGON
+801	org
+802	Persona
+803	Relationship
+804	Carrie Daniels
+805	World
+806	org
+807	Persona
+808	Persona
+809	Entity 1
+810	Person
+811	Entity 1
+812	China Charity Federation
+813	Relationship
+814	Relationship
+815	Relationship
+816	Persona
+817	Business
+818	Relationship
+819	Office
+820	org
+821	No_relationship
+822	Persona
+823	org
+824	Person
+825	org
+826	org
+827	org
+828	Answer
+829	B-named
+830	No_relationship
+831	no_relation
+832	Persona
+833	org
+834	Dworin
+835	Answer
+836	Relationship
+837	Relationship
+838	Location
+839	Location
+840	Alan Gross (born in Maryland) is a US citizen
+841	org
+842	Herold
+843	org
+844	Relationship
+845	Relationship
+846	No_relationship
+847	No_relationship
+848	org
+849	org
+850	no_relation
+851	No_relation
+852	Location
+853	org
+854	org
+855	Relationship
+856	org
+857	ShopperTrak
+858	No_relationship
+859	Business
+860	org
+861	no_relationship
+862	Entity 1: Director
+863	Family
+864	no_relation
+865	Countrywide Financial Corp
+866	No_relation
+867	Persona
+868	World
+869	Answer
+870	Persona
+871	Persona
+872	org
+873	no_relation
+874	Business
+875	NTSO
+876	Xinjiang branch
+877	He
+878	Sexual abuse
+879	Relationship
+880	Alessi
+881	Relationship
+882	Persona
+883	org
+884	Persona
+885	Person
+886	World
+887	no_relation
+888	Bibi
+889	He
+890	No_relationship
+891	org
+892	No_relation
+893	org
+894	Person with whom Piedra owes back taxes and interest
+895	Chef Central
+896	Entity 1
+897	Persona
+898	Athlete
+899	org
+900	org
+901	Annie Mae Aquash
+902	org
+903	Relationship
+904	org
+905	No_relationship
+906	Identity
+907	World
+908	World
+909	United States
+910	No_relationship
+911	org
+912	country
+913	Cerniglia
+914	National Restaurant Association
+915	org
+916	American Free Press
+917	Entity 1
+918	Location
+919	Dworin
+920	ShopperTrak
+921	He
+922	Office
+923	He
+924	ntso
+925	He
+926	Persona
+927	Persona
+928	Contact_person
+929	Answer: murder
+930	Persons with disabilities
+931	Persons with whom Laura Silsby and her confidante remain in detention
+932	acquitted
+933	Person with experience with the missionaries
+934	No_relationship
+935	Xie Caiping
+936	Relationship
+937	Entity 1
+938	Entity 1
+939	org
+940	org
+941	org
+942	org
+943	AARP
+944	Person with information about Entity 1
+945	org
+946	org
+947	no_relation
+948	Relationship
+949	No_relation
+950	org
+951	Relationship
+952	he
+953	Person who was killed in the shooting was a crime reporter
+954	His
+955	Persona
+956	World
+957	no_relation
+958	Relationship
+959	org
+960	ShopperTrak
+961	Persona
+962	Persona
+963	org
+964	AAUW
+965	World
+966	no_relation
+967	National Restaurant Association
+968	No_relationship
+969	Rudolph W Giuliani
+970	Persona
+971	NDRC
+972	Answer
+973	org
+974	Person
+975	org
+976	Relationship
+977	Persona
+978	org
+979	The government and controlled media have lied to the public about 9-11 for 6 years
+980	ShopperTrak
+981	AIM
+982	Relationship
+983	org
+984	He
+985	spokesman
+986	org
+987	Relationship
+988	Customer
+989	Contact_person
+990	Person who is not related to Gross
+991	Xie
+992	UN
+993	AIG
+994	ShopperTrak
+995	Contact_person
+996	He
+997	Eloise Spooner
+998	org
+999	org
+1000	org
+1001	Persona
+1002	He
+1003	org
+1004	Persona
+1005	Entity 1 is Richard Gage
+1006	Relationship
+1007	Amanda Knox
+1008	org
+1009	Persona
+1010	Scientology
+1011	World
+1012	Person with respect to Jupp
+1013	Relationship
+1014	org
+1015	Person with knowledge of the crime
+1016	Francesco
+1017	Wen Qiang
+1018	org
+1019	Person
+1020	org:website
+1021	John Graham
+1022	Nonpartisan
+1023	AIG
+1024	Entity 1
+1025	Esther-Ethy Mamane
+1026	NDA
+1027	Xie Caiping
+1028	org
+1029	spouse
+1030	org
+1031	Aquash
+1032	org
+1033	Andrew Lange
+1034	Persona
+1035	Her body was exhumed
+1036	org
+1037	Albert Lange
+1038	no_relation
+1039	ShopperTrak
+1040	religion
+1041	ABN Amro
+1042	org
+1043	Her mother
+1044	He
+1045	Relationship
+1046	Amanda Knox
+1047	org
+1048	Persona
+1049	Alessi
+1050	NEA
+1051	Wen Qiang
+1052	No_relationship
+1053	org
+1054	United States
+1055	parent
+1056	Location
+1057	Science/Tech
+1058	No_relationship
+1059	org
+1060	Persona_of_life
+1061	Company
+1062	org
+1063	He is at Berkeley
+1064	Father
+1065	OANA
+1066	Persona
+1067	Contact_person
+1068	Person with information about Bruno
+1069	Contact_person
+1070	Cerniglia
+1071	no_relationship
+1072	Andrew E Lange
+1073	Relationship
+1074	Persona
+1075	Person
+1076	org
+1077	Edda Mellas
+1078	Wen
+1079	Wen
+1080	United States
+1081	org
+1082	Almena Lomax
+1083	Entity 1
+1084	org
+1085	Person accused of defamation
+1086	Answer: murder
+1087	org
+1088	Thierry Meyssan
+1089	He
+1090	org
+1091	Relationship
+1092	org
+1093	no_relationship
+1094	org
+1095	Relationship
+1096	Family
+1097	org
+1098	Xie Caiping
+1099	Company
+1100	His wife is Sandra
+1101	She
+1102	Business
+1103	Father
+1104	Persona
+1105	Xie
+1106	World
+1107	Persona
+1108	Friends
+1109	Relationship
+1110	Location
+1111	org
+1112	Father
+1113	No_relation
+1114	org
+1115	No_relation
+1116	No_relationship
+1117	org
+1118	Person
+1119	Sarah Kunstler
+1120	Business
+1121	Threat
+1122	org
+1123	Person who was convicted of the murder of Mark Fisher
+1124	Science/Tech
+1125	Xie Caiping
+1126	org
+1127	spouse
+1128	Bibi
+1129	Persona
+1130	He
+1131	Person
+1132	org
+1133	Persona
+1134	Office
+1135	Person
+1136	United States
+1137	org
+1138	Persona
+1139	No_relation
+1140	org
+1141	Relationship
+1142	No_relationship
+1143	org
+1144	Alan P Gross
+1145	Persona
+1146	org
+1147	Countrywide Financial Corp
+1148	Relationship
+1149	org
+1150	Contact_numbers is unknown
+1151	spouse
+1152	Persons with whom Mailer lived in Provincetown , Massachusetts
+1153	org
+1154	Persona
+1155	Persona
+1156	org
+1157	The basic description of the film is "The basics"
+1158	AIM
+1159	No_relationship
+1160	Alan Gross
+1161	org
+1162	org
+1163	Wen
+1164	UASR
+1165	American
+1166	ADF
+1167	Persona
+1168	spouse
+1169	Persona
+1170	ShopperTrak
+1171	Person
+1172	Sports
+1173	org
+1174	Persona
+1175	Contact_person
+1176	Amanda Knox
+1177	Italy
+1178	org
+1179	org
+1180	Wen Qiang
+1181	ShopperTrak
+1182	World
+1183	Shoppertrak
+1184	Kercher
+1185	org
+1186	person
+1187	The United Negro College Fund
+1188	org
+1189	Persona
+1190	Family
+1191	No_relationship
+1192	Relationship
+1193	ShopperTrak
+1194	org
+1195	Xie Caiping
+1196	American
+1197	ADF
+1198	Person with family is Cerniglia
+1199	org
+1200	Persona
+1201	Wen Qiang
+1202	org
+1203	Entity 2
+1204	No_relationship
+1205	wife
+1206	Countrywide
+1207	NDRC
+1208	No_relation
+1209	Russian
+1210	org
+1211	Amanda Knox
+1212	Person
+1213	Persona
+1214	Wen Qiang
+1215	NTSO
+1216	The United Negro College Fund
+1217	Relationship
+1218	Xie Caiping
+1219	org
+1220	org
+1221	Wen Qiang
+1222	org
+1223	Relationship
+1224	Persona
+1225	relationship
+1226	Person with knowledge of the video
+1227	ShopperTrak
+1228	Entity 2
+1229	No_relationship
+1230	World
+1231	ShopperTrak
+1232	org
+1233	Persona
+1234	Person
+1235	Mark Fisher
+1236	org
+1237	Wen Qiang
+1238	No_relationship
+1239	United States
+1240	org
+1241	NDRC
+1242	No_relation
+1243	Persona
+1244	George Sodini
+1245	org
+1246	Office
+1247	No_relationship
+1248	org
+1249	org
+1250	org
+1251	Trapani
+1252	Person with information about the film
+1253	Entity 1
+1254	Relationship
+1255	org
+1256	NDA
+1257	org
+1258	Persona
+1259	Departmental
+1260	Entity 1
+1261	Relationship
+1262	org
+1263	NTSO
+1264	No_relationship
+1265	Persona
+1266	Bamba
+1267	He
+1268	No_relationship
+1269	org
+1270	org
+1271	Relationship
+1272	spouse
+1273	Persona
+1274	College
+1275	org
+1276	NDRC
+1277	Relationship
+1278	Persona
+1279	Contact
+1280	College
+1281	THAILAND Bangkok Pundit Prachai at the FCCT : Part 1 | THAILAND Tonight , Prachai Leoph
+1282	NDRC
+1283	Heloise
+1284	Persona
+1285	Person
+1286	Wen Qiang
+1287	org
+1288	org
+1289	no_relation
+1290	Persona
+1291	Relationship
+1292	Wen Qiang
+1293	org
+1294	American International Group
+1295	Office
+1296	Persona
+1297	Ivory Coast
+1298	Cerniglia
+1299	org
+1300	Countrywide Financial
+1301	Office
+1302	Persona
+1303	She is an art teacher
+1304	Interview
+1305	org
+1306	org
+1307	org
+1308	Persona
+1309	Xie Caiping
+1310	Xie
+1311	org
+1312	no_relation
+1313	Persona
+1314	Entity 1
+1315	World
+1316	org
+1317	Persona
+1318	Persona
+1319	Entity 1
+1320	He
+1321	org
+1322	Persona
+1323	spouse
+1324	Wen Qiang
+1325	NDRC
+1326	Alessandra Wilke
+1327	relationship
+1328	Bamba
+1329	org
+1330	He
+1331	Wen Qiang
+1332	org
+1333	Entity 1
+1334	Answer: journalist
+1335	org
+1336	Persona
+1337	Entity 1
+1338	org
+1339	Persona
+1340	Physicist
+1341	ShopperTrak
+1342	He
+1343	Relationship
+1344	org
+1345	Persona
+1346	The president of the United Negro College Fund
+1347	org
+1348	Answer
+1349	World
+1350	Relationship
+1351	Persona
+1352	Relationship
+1353	com
+1354	Alessi
+1355	Person
+1356	relationship
+1357	Patricia Gonzalez
+1358	Wen Qiang
+1359	World
+1360	Persona
+1361	Answer: analyst
+1362	NDRC
+1363	Persona
+1364	World
+1365	Relationship
+1366	Persona
+1367	World
+1368	He
+1369	org
+1370	He
+1371	org
+1372	Admits
+1373	Xie Caiping
+1374	person
+1375	No_relationship
+1376	Persona
+1377	Persona
+1378	no_relationship
+1379	org
+1380	Persona
+1381	No_relationship
+1382	relationship
+1383	Friends
+1384	Persona
+1385	World
+1386	spouse
+1387	Sports
+1388	No_relationship
+1389	Abelard
+1390	Persona
+1391	no_relation
+1392	Alessi
+1393	org
+1394	Persona
+1395	Person with information about Mario Gonzalez
+1396	Person
+1397	He
+1398	Persona
+1399	No_relation
+1400	Persona
+1401	no_relation
+1402	Persona
+1403	World
+1404	Persona
+1405	Office
+1406	Person
+1407	Bibi
+1408	spouse
+1409	Alessi
+1410	he
+1411	HSBC
+1412	Heloise
+1413	Non-fiction
+1414	Answer
+1415	Adi Amit
+1416	Person with experience with police
+1417	Person who committed suicide
+1418	Person
+1419	Relationship
+1420	no_relationship
+1421	Persona
+1422	Person
+1423	org
+1424	Persona
+1425	Theda Clark
+1426	Persona
+1427	No_relation
+1428	No_relationship
+1429	Relationship
+1430	Persona
+1431	UN ambassador
+1432	Persona
+1433	United States
+1434	spouse
+1435	Persona
+1436	Persona
+1437	Theda Clark
+1438	Person
+1439	Relationship
+1440	Person
+1441	org
+1442	Persona
+1443	Kercher
+1444	parent
+1445	org
+1446	Heloise
+1447	Anna Mae Aquash
+1448	Persona
+1449	Adela Dworin
+1450	Guest column
+1451	org
+1452	No_relationship
+1453	Entity 1
+1454	No_relationship
+1455	Relationship
+1456	Persona
+1457	990 million
+1458	Persona
+1459	Sexually assaulting
+1460	Persona
+1461	family
+1462	Persona
+1463	Alessi
+1464	Persona
+1465	org
+1466	Persona
+1467	Relationship
+1468	No_relationship
+1469	religion
+1470	Persona
+1471	Mandate
+1472	Entity 1
+1473	no_relation
+1474	Persona
+1475	ShopperTrak
+1476	No_relationship
+1477	Entity 1
+1478	spouse
+1479	No_relationship
+1480	Person
+1481	Relationship
+1482	relationship
+1483	Dworin
+1484	Xie Yingkuang
+1485	Persona
+1486	Persona
+1487	org
+1488	Persona
+1489	No_relationship
+1490	No_relationship
+1491	Relationship
+1492	Persona
+1493	org
+1494	Persona
+1495	Relationship
+1496	spouse
+1497	org
+1498	no_relation
+1499	org
+1500	Persona
+1501	World
+1502	Eloise Spooner
+1503	org
+1504	Persona
+1505	org
+1506	parent
+1507	The United States
+1508	Persona
+1509	Relationship
+1510	Person
+1511	Persona
+1512	No_relationship
+1513	No_relationship
+1514	Avery
+1515	Contact
+1516	Persona
+1517	Location
+1518	He
+1519	Theda Clark
+1520	Persona
+1521	He
+1522	Person
+1523	Xie Caiping
+1524	Persona
+1525	Countrywide
+1526	Alessi
+1527	None
+1528	no_relationship
+1529	He
+1530	Gage
+1531	No_relationship
+1532	Heloise
+1533	org
+1534	Persona
+1535	Xie Caiping
+1536	Persona
+1537	Relationship
+1538	spouse
+1539	He
+1540	Persona
+1541	Abdaf leader
+1542	Relationship
+1543	Wen
+1544	Persona
+1545	John A Boehner
+1546	Persona
+1547	Entity 1
+1548	Persona
+1549	Cerniglia
+1550	Persona
+1551	No_relationship
+1552	Persona
+1553	School of Public Health
+1554	Persona
+1555	World Tourism Organization
+1556	Person
+1557	No_relationship
+1558	parent
+1559	Sarah Kunstler
+1560	Amanda Knox
+1561	Answer
+1562	Sarah Kunstler
+1563	Father
+1564	Persona
+1565	Office
+1566	Persona
+1567	Relationship
+1568	spouse
+1569	Relationship
+1570	Person
+1571	org
+1572	Persona
+1573	American
+1574	Persona
+1575	Xinhua
+1576	spouse
+1577	ShopperTrak
+1578	Person
+1579	Her mother
+1580	Persona
+1581	org
+1582	Persona
+1583	Relationship
+1584	relationship
+1585	Location
+1586	Person
+1587	No_relation
+1588	Persona
+1589	jirga
+1590	Persona
+1591	org
+1592	org
+1593	org
+1594	Coastal Conservation League
+1595	No_relationship
+1596	Entity 1
+1597	Jeremy Haslam
+1598	org
+1599	org
+1600	She
+1601	religion
+1602	Entity 1
+1603	Ghazi
+1604	Relationship
+1605	org
+1606	Wen Qiang
+1607	Persona
+1608	John Graham
+1609	Relationship
+1610	No_relation
+1611	No_relationship
+1612	World
+1613	No_relationship
+1614	org
+1615	parent
+1616	The State Department
+1617	Persona
+1618	Person with whom he took in young women abandoned by smugglers
+1619	org
+1620	org
+1621	World
+1622	org
+1623	He
+1624	bln yuan
+1625	None
+1626	He
+1627	UASR
+1628	Relationship
+1629	org
+1630	no_relation
+1631	nea
+1632	Ilan Ramon
+1633	Relationship
+1634	AIM
+1635	No_relationship
+1636	org
+1637	Man
+1638	Entity 1: Craig Ranke
+1639	org
+1640	org
+1641	NDRC
+1642	Theda Clark
+1643	org
+1644	org
+1645	spouse
+1646	Persona
+1647	Alessi
+1648	He
+1649	org
+1650	org
+1651	AIG
+1652	Heloise
+1653	org
+1654	org
+1655	Relationship
+1656	Contact_person
+1657	org
+1658	Persona
+1659	org
+1660	Relationship
+1661	org
+1662	org
+1663	org
+1664	He
+1665	AFP
+1666	Persona
+1667	Persona
+1668	Relationship
+1669	No_relationship
+1670	No
+1671	Relationship
+1672	ShopperTrak
+1673	Person with experience with Hell's Kitchen
+1674	Office of the Interior
+1675	Person who is not associated with the New America Foundation
+1676	He
+1677	org
+1678	The military officials named the pilot as Lieutenant Assaf Ramon , 21
+1679	org
+1680	Relationship
+1681	[1]
+1682	Pope
+1683	Person
+1684	org
+1685	Persona
+1686	org
+1687	Relationship
+1688	Relationship
+1689	Persona
+1690	Eloise Spooner
+1691	Admitant
+1692	No_relationship
+1693	org
+1694	The Zionist Rothschild Family
+1695	e-learning
+1696	World
+1697	World
+1698	Persona
+1699	UASR
+1700	Company
+1701	No_relationship
+1702	org
+1703	no_relation
+1704	Persona
+1705	org
+1706	Amanda Knox
+1707	Answer
+1708	Persona
+1709	Persona
+1710	Entity 1
+1711	org
+1712	No_relationship
+1713	UASR
+1714	Business
+1715	World
+1716	org
+1717	No_relationship
+1718	Entity 1
+1719	Answer
+1720	No_relationship
+1721	Person
+1722	org
+1723	Entity 1: Chen Tao
+1724	Relationship
+1725	No
+1726	Persona
+1727	Wen
+1728	Xie
+1729	org
+1730	Office of the Secretary of State
+1731	org
+1732	Persona
+1733	Entity 1
+1734	Answer: One
+1735	Entity 1: Dave von Kliest
+1736	Sarah Kunstler
+1737	He
+1738	org
+1739	John Giuca
+1740	Relationship
+1741	Person with information about He
+1742	Business
+1743	no_relation
+1744	org
+1745	org
+1746	Heloise
+1747	Sports
+1748	Wen Qiang
+1749	org
+1750	Answer
+1751	Sports
+1752	Countrywide Financial Corp
+1753	John Graham
+1754	Heloise
+1755	Persona
+1756	org
+1757	Interview
+1758	Department of Interior
+1759	Relationship
+1760	Relationship
+1761	Entity 1: Chen Tao
+1762	Herold
+1763	Customer rating 1
+1764	org
+1765	Relationship
+1766	No_relation
+1767	World
+1768	EPF
+1769	He
+1770	He
+1771	Person with financial problems
+1772	No_relationship
+1773	Answer: Entity 1
+1774	John Graham
+1775	World
+1776	No_relationship
+1777	org
+1778	Relationship
+1779	org
+1780	Business
+1781	org
+1782	Persona
+1783	Relationship
+1784	Threat
+1785	Eloise Spooner
+1786	Answer
+1787	Entity 2
+1788	He
+1789	org
+1790	org
+1791	org
+1792	Person who is serving life in prison for her murder
+1793	org
+1794	Persona
+1795	org
+1796	org
+1797	Persona
+1798	org
+1799	Person with respect to Entity 1
+1800	YANGON
+1801	org
+1802	Persona
+1803	Relationship
+1804	Carrie Daniels
+1805	World
+1806	org
+1807	Persona
+1808	Persona
+1809	Entity 1
+1810	Person
+1811	Entity 1
+1812	China Charity Federation
+1813	Relationship
+1814	Relationship
+1815	Relationship
+1816	Persona
+1817	Business
+1818	Relationship
+1819	Office
+1820	org
+1821	No_relationship
+1822	Persona
+1823	org
+1824	Person
+1825	org
+1826	org
+1827	org
+1828	Answer
+1829	B-named
+1830	No_relationship
+1831	no_relation
+1832	Persona
+1833	org
+1834	Dworin
+1835	Answer
+1836	Relationship
+1837	Relationship
+1838	Location
+1839	Location
+1840	Alan Gross (born in Maryland) is a US citizen
+1841	org
+1842	Herold
+1843	org
+1844	Relationship
+1845	Relationship
+1846	No_relationship
+1847	No_relationship
+1848	org
+1849	org
+1850	no_relation
+1851	No_relation
+1852	Location
+1853	org
+1854	org
+1855	Relationship
+1856	org
+1857	ShopperTrak
+1858	No_relationship
+1859	Business
+1860	org
+1861	no_relationship
+1862	Entity 1: Director
+1863	Family
+1864	no_relation
+1865	Countrywide Financial Corp
+1866	No_relation
+1867	Persona
+1868	World
+1869	Answer
+1870	Persona
+1871	Persona
+1872	org
+1873	no_relation
+1874	Business
+1875	NTSO
+1876	Xinjiang branch
+1877	He
+1878	Sexual abuse
+1879	Relationship
+1880	Alessi
+1881	Relationship
+1882	Persona
+1883	org
+1884	Persona
+1885	Person
+1886	World
+1887	no_relation
+1888	Bibi
+1889	He
+1890	No_relationship
+1891	org
+1892	No_relation
+1893	org
+1894	Person with whom Piedra owes back taxes and interest
+1895	Chef Central
+1896	Entity 1
+1897	Persona
+1898	Athlete
+1899	org
+1900	org
+1901	Annie Mae Aquash
+1902	org
+1903	Relationship
+1904	org
+1905	No_relationship
+1906	Identity
+1907	World
+1908	World
+1909	United States
+1910	No_relationship
+1911	org
+1912	country
+1913	Cerniglia
+1914	National Restaurant Association
+1915	org
+1916	American Free Press
+1917	Entity 1
+1918	Location
+1919	Dworin
+1920	ShopperTrak
+1921	He
+1922	Office
+1923	He
+1924	ntso
+1925	He
+1926	Persona
+1927	Persona
+1928	Contact_person
+1929	Answer: murder
+1930	Persons with disabilities
+1931	Persons with whom Laura Silsby and her confidante remain in detention
+1932	acquitted
+1933	Person with experience with the missionaries
+1934	No_relationship
+1935	Xie Caiping
+1936	Relationship
+1937	Entity 1
+1938	Entity 1
+1939	org
+1940	org
+1941	org
+1942	org
+1943	AARP
+1944	Person with information about Entity 1
+1945	org
+1946	org
+1947	no_relation
+1948	Relationship
+1949	No_relation
+1950	org
+1951	Relationship
+1952	he
+1953	Person who was killed in the shooting was a crime reporter
+1954	His
+1955	Persona
+1956	World
+1957	no_relation
+1958	Relationship
+1959	org
+1960	ShopperTrak
+1961	Persona
+1962	Persona
+1963	org
+1964	AAUW
+1965	World
+1966	no_relation
+1967	National Restaurant Association
+1968	No_relationship
+1969	Rudolph W Giuliani
+1970	Persona
+1971	NDRC
+1972	Answer
+1973	org
+1974	Person
+1975	org
+1976	Relationship
+1977	Persona
+1978	org
+1979	The government and controlled media have lied to the public about 9-11 for 6 years
+1980	ShopperTrak
+1981	AIM
+1982	Relationship
+1983	org
+1984	He
+1985	spokesman
+1986	org
+1987	Relationship
+1988	Customer
+1989	Contact_person
+1990	Person who is not related to Gross
+1991	Xie
+1992	UN
+1993	AIG
+1994	ShopperTrak
+1995	Contact_person
+1996	He
+1997	Eloise Spooner
+1998	org
+1999	org
+2000	org
+2001	Persona
+2002	He
+2003	org
+2004	Persona
+2005	Entity 1 is Richard Gage
+2006	Relationship
+2007	Amanda Knox
+2008	org
+2009	Persona
+2010	Scientology
+2011	World
+2012	Person with respect to Jupp
+2013	Relationship
+2014	org
+2015	Person with knowledge of the crime
+2016	Francesco
+2017	Wen Qiang
+2018	org
+2019	Person
+2020	org:website
+2021	John Graham
+2022	Nonpartisan
+2023	AIG
+2024	Entity 1
+2025	Esther-Ethy Mamane
+2026	NDA
+2027	Xie Caiping
+2028	org
+2029	spouse
+2030	org
+2031	Aquash
+2032	org
+2033	Andrew Lange
+2034	Persona
+2035	Her body was exhumed
+2036	org
+2037	Albert Lange
+2038	no_relation
+2039	ShopperTrak
+2040	religion
+2041	ABN Amro
+2042	org
+2043	Her mother
+2044	He
+2045	Relationship
+2046	Amanda Knox
+2047	org
+2048	Persona
+2049	Alessi
+2050	NEA
+2051	Wen Qiang
+2052	No_relationship
+2053	org
+2054	United States
+2055	parent
+2056	Location
+2057	Science/Tech
+2058	No_relationship
+2059	org
+2060	Persona_of_life
+2061	Company
+2062	org
+2063	He is at Berkeley
+2064	Father
+2065	OANA
+2066	Persona
+2067	Contact_person
+2068	Person with information about Bruno
+2069	Contact_person
+2070	Cerniglia
+2071	no_relationship
+2072	Andrew E Lange
+2073	Relationship
+2074	Persona
+2075	Person
+2076	org
+2077	Edda Mellas
+2078	Wen
+2079	Wen
+2080	United States
+2081	org
+2082	Almena Lomax
+2083	Entity 1
+2084	org
+2085	Person accused of defamation
+2086	Answer: murder
+2087	org
+2088	Thierry Meyssan
+2089	He
+2090	org
+2091	Relationship
+2092	org
+2093	no_relationship
+2094	org
+2095	Relationship
+2096	Family
+2097	org
+2098	Xie Caiping
+2099	Company
+2100	His wife is Sandra
+2101	She
+2102	Business
+2103	Father
+2104	Persona
+2105	Xie
+2106	World
+2107	Persona
+2108	Friends
+2109	Relationship
+2110	Location
+2111	org
+2112	Father
+2113	No_relation
+2114	org
+2115	No_relation
+2116	No_relationship
+2117	org
+2118	Person
+2119	Sarah Kunstler
+2120	Business
+2121	Threat
+2122	org
+2123	Person who was convicted of the murder of Mark Fisher
+2124	Science/Tech
+2125	Xie Caiping
+2126	org
+2127	spouse
+2128	Bibi
+2129	Persona
+2130	He
+2131	Person
+2132	org
+2133	Persona
+2134	Office
+2135	Person
+2136	United States
+2137	org
+2138	Persona
+2139	No_relation
+2140	org
+2141	Relationship
+2142	No_relationship
+2143	org
+2144	Alan P Gross
+2145	Persona
+2146	org
+2147	Countrywide Financial Corp
+2148	Relationship
+2149	org
+2150	Contact_numbers is unknown
+2151	spouse
+2152	Persons with whom Mailer lived in Provincetown , Massachusetts
+2153	org
+2154	Persona
+2155	Persona
+2156	org
+2157	The basic description of the film is "The basics"
+2158	AIM
+2159	No_relationship
+2160	Alan Gross
+2161	org
+2162	org
+2163	Wen
+2164	UASR
+2165	American
+2166	ADF
+2167	Persona
+2168	spouse
+2169	Persona
+2170	ShopperTrak
+2171	Person
+2172	Sports
+2173	org
+2174	Persona
+2175	Contact_person
+2176	Amanda Knox
+2177	Italy
+2178	org
+2179	org
+2180	Wen Qiang
+2181	ShopperTrak
+2182	World
+2183	Shoppertrak
+2184	Kercher
+2185	org
+2186	person
+2187	The United Negro College Fund
+2188	org
+2189	Persona
+2190	Family
+2191	No_relationship
+2192	Relationship
+2193	ShopperTrak
+2194	org
+2195	Xie Caiping
+2196	American
+2197	ADF
+2198	Person with family is Cerniglia
+2199	org
+2200	Persona
+2201	Wen Qiang
+2202	org
+2203	Entity 2
+2204	No_relationship
+2205	wife
+2206	Countrywide
+2207	NDRC
+2208	No_relation
+2209	Russian
+2210	org
+2211	Amanda Knox
+2212	Person
+2213	Persona
+2214	Wen Qiang
+2215	NTSO
+2216	The United Negro College Fund
+2217	Relationship
+2218	Xie Caiping
+2219	org
+2220	org
+2221	Wen Qiang
+2222	org
+2223	Relationship
+2224	Persona
+2225	relationship
+2226	Person with knowledge of the video
+2227	ShopperTrak
+2228	Entity 2
+2229	No_relationship
+2230	World
+2231	ShopperTrak
+2232	org
+2233	Persona
+2234	Person
+2235	Mark Fisher
+2236	org
+2237	Wen Qiang
+2238	No_relationship
+2239	United States
+2240	org
+2241	NDRC
+2242	No_relation
+2243	Persona
+2244	George Sodini
+2245	org
+2246	Office
+2247	No_relationship
+2248	org
+2249	org
+2250	org
+2251	Trapani
+2252	Person with information about the film
+2253	Entity 1
+2254	Relationship
+2255	org
+2256	NDA
+2257	org
+2258	Persona
+2259	Departmental
+2260	Entity 1
+2261	Relationship
+2262	org
+2263	NTSO
+2264	No_relationship
+2265	Persona
+2266	Bamba
+2267	He
+2268	No_relationship
+2269	org
+2270	org
+2271	Relationship
+2272	spouse
+2273	Persona
+2274	College
+2275	org
+2276	NDRC
+2277	Relationship
+2278	Persona
+2279	Contact
+2280	College
+2281	THAILAND Bangkok Pundit Prachai at the FCCT : Part 1 | THAILAND Tonight , Prachai Leoph
+2282	NDRC
+2283	Heloise
+2284	Persona
+2285	Person
+2286	Wen Qiang
+2287	org
+2288	org
+2289	no_relation
+2290	Persona
+2291	Relationship
+2292	Wen Qiang
+2293	org
+2294	American International Group
+2295	Office
+2296	Persona
+2297	Ivory Coast
+2298	Cerniglia
+2299	org
+2300	Countrywide Financial
+2301	Office
+2302	Persona
+2303	She is an art teacher
+2304	Interview
+2305	org
+2306	org
+2307	org
+2308	Persona
+2309	Xie Caiping
+2310	Xie
+2311	org
+2312	no_relation
+2313	Persona
+2314	Entity 1
+2315	World
+2316	org
+2317	Persona
+2318	Persona
+2319	Entity 1
+2320	He
+2321	org
+2322	Persona
+2323	spouse
+2324	Wen Qiang
+2325	NDRC
+2326	Alessandra Wilke
+2327	relationship
+2328	Bamba
+2329	org
+2330	He
+2331	Wen Qiang
+2332	org
+2333	Entity 1
+2334	Answer: journalist
+2335	org
+2336	Persona
+2337	Entity 1
+2338	org
+2339	Persona
+2340	Physicist
+2341	ShopperTrak
+2342	He
+2343	Relationship
+2344	org
+2345	Persona
+2346	The president of the United Negro College Fund
+2347	org
+2348	Answer
+2349	World
+2350	Relationship
+2351	Persona
+2352	Relationship
+2353	com
+2354	Alessi
+2355	Person
+2356	relationship
+2357	Patricia Gonzalez
+2358	Wen Qiang
+2359	World
+2360	Persona
+2361	Answer: analyst
+2362	NDRC
+2363	Persona
+2364	World
+2365	Relationship
+2366	Persona
+2367	World
+2368	He
+2369	org
+2370	He
+2371	org
+2372	Admits
+2373	Xie Caiping
+2374	person
+2375	No_relationship
+2376	Persona
+2377	Persona
+2378	no_relationship
+2379	org
+2380	Persona
+2381	No_relationship
+2382	relationship
+2383	Friends
+2384	Persona
+2385	World
+2386	spouse
+2387	Sports
+2388	No_relationship
+2389	Abelard
+2390	Persona
+2391	no_relation
+2392	Alessi
+2393	org
+2394	Persona
+2395	Person with information about Mario Gonzalez
+2396	Person
+2397	He
+2398	Persona
+2399	No_relation
+2400	Persona
+2401	no_relation
+2402	Persona
+2403	World
+2404	Persona
+2405	Office
+2406	Person
+2407	Bibi
+2408	spouse
+2409	Alessi
+2410	he
+2411	HSBC
+2412	Heloise
+2413	Non-fiction
+2414	Answer
+2415	Adi Amit
+2416	Person with experience with police
+2417	Person who committed suicide
+2418	Person
+2419	Relationship
+2420	no_relationship
+2421	Persona
+2422	Person
+2423	org
+2424	Persona
+2425	Theda Clark
+2426	Persona
+2427	No_relation
+2428	No_relationship
+2429	Relationship
+2430	Persona
+2431	UN ambassador
+2432	Persona
+2433	United States
+2434	spouse
+2435	Persona
+2436	Persona
+2437	Theda Clark
+2438	Person
+2439	Relationship
+2440	Person
+2441	org
+2442	Persona
+2443	Kercher
+2444	parent
+2445	org
+2446	Heloise
+2447	Anna Mae Aquash
+2448	Persona
+2449	Adela Dworin
+2450	Guest column
+2451	org
+2452	No_relationship
+2453	Entity 1
+2454	No_relationship
+2455	Relationship
+2456	Persona
+2457	990 million
+2458	Persona
+2459	Sexually assaulting
+2460	Persona
+2461	family
+2462	Persona
+2463	Alessi
+2464	Persona
+2465	org
+2466	Persona
+2467	Relationship
+2468	No_relationship
+2469	religion
+2470	Persona
+2471	Mandate
+2472	Entity 1
+2473	no_relation
+2474	Persona
+2475	ShopperTrak
+2476	No_relationship
+2477	Entity 1
+2478	spouse
+2479	No_relationship
+2480	Person
+2481	Relationship
+2482	relationship
+2483	Dworin
+2484	Xie Yingkuang
+2485	Persona
+2486	Persona
+2487	org
+2488	Persona
+2489	No_relationship
+2490	No_relationship
+2491	Relationship
+2492	Persona
+2493	org
+2494	Persona
+2495	Relationship
+2496	spouse
+2497	org
+2498	no_relation
+2499	org
+2500	Persona
+2501	World
+2502	Eloise Spooner
+2503	org
+2504	Persona
+2505	org
+2506	parent
+2507	The United States
+2508	Persona
+2509	Relationship
+2510	Person
+2511	Persona
+2512	No_relationship
+2513	No_relationship
+2514	Avery
+2515	Contact
+2516	Persona
+2517	Location
+2518	He
+2519	Theda Clark
+2520	Persona
+2521	He
+2522	Person
+2523	Xie Caiping
+2524	Persona
+2525	Countrywide
+2526	Alessi
+2527	None
+2528	no_relationship
+2529	He
+2530	Gage
+2531	No_relationship
+2532	Heloise
+2533	org
+2534	Persona
+2535	Xie Caiping
+2536	Persona
+2537	Relationship
+2538	spouse
+2539	He
+2540	Persona
+2541	Abdaf leader
+2542	Relationship
+2543	Wen
+2544	Persona
+2545	John A Boehner
+2546	Persona
+2547	Entity 1
+2548	Persona
+2549	Cerniglia
+2550	Persona
+2551	No_relationship
+2552	Persona
+2553	School of Public Health
+2554	Persona
+2555	World Tourism Organization
+2556	Person
+2557	No_relationship
+2558	parent
+2559	Sarah Kunstler
+2560	Amanda Knox
+2561	Answer
+2562	Sarah Kunstler
+2563	Father
+2564	Persona
+2565	Office
+2566	Persona
+2567	Relationship
+2568	spouse
+2569	Relationship
+2570	Person
+2571	org
+2572	Persona
+2573	American
+2574	Persona
+2575	Xinhua
+2576	spouse
+2577	ShopperTrak
+2578	Person
+2579	Her mother
+2580	Persona
+2581	org
+2582	Persona
+2583	Relationship
+2584	relationship
+2585	Location
+2586	Person
+2587	No_relation
+2588	Persona
+2589	jirga
+2590	Persona
+2591	org
+2592	org
+2593	org
+2594	Coastal Conservation League
+2595	No_relationship
+2596	Entity 1
+2597	Jeremy Haslam
+2598	org
+2599	org
+2600	She
+2601	religion
+2602	Entity 1
+2603	Ghazi
+2604	Relationship
+2605	org
+2606	Wen Qiang
+2607	Persona
+2608	John Graham
+2609	Relationship
+2610	No_relation
+2611	No_relationship
+2612	World
+2613	No_relationship
+2614	org
+2615	parent
+2616	The State Department
+2617	Persona
+2618	Person with whom he took in young women abandoned by smugglers
+2619	org
+2620	org
+2621	World
+2622	org
+2623	He
+2624	bln yuan
+2625	None
+2626	He
+2627	UASR
+2628	Relationship
+2629	org
+2630	no_relation
+2631	nea
+2632	Ilan Ramon
+2633	Relationship
+2634	AIM
+2635	No_relationship
+2636	org
+2637	Man
+2638	Entity 1: Craig Ranke
+2639	org
+2640	org
+2641	NDRC
+2642	Theda Clark
+2643	org
+2644	org
+2645	spouse
+2646	Persona
+2647	Alessi
+2648	He
+2649	org
+2650	org
+2651	AIG
+2652	Heloise
+2653	org
+2654	org
+2655	Relationship
+2656	Contact_person
+2657	org
+2658	Persona
+2659	org
+2660	Relationship
+2661	org
+2662	org
+2663	org
+2664	He
+2665	AFP
+2666	Persona
+2667	Persona
+2668	Relationship
+2669	No_relationship
+2670	No
+2671	Relationship
+2672	ShopperTrak
+2673	Person with experience with Hell's Kitchen
+2674	Office of the Interior
+2675	Person who is not associated with the New America Foundation
+2676	He
+2677	org
+2678	The military officials named the pilot as Lieutenant Assaf Ramon , 21
+2679	org
+2680	Relationship
+2681	[1]
+2682	Pope
+2683	Person
+2684	org
+2685	Persona
+2686	org
+2687	Relationship
+2688	Relationship
+2689	Persona
+2690	Eloise Spooner
+2691	Admitant
+2692	No_relationship
+2693	org
+2694	The Zionist Rothschild Family
+2695	e-learning
+2696	World
+2697	World
+2698	Persona
+2699	UASR
+2700	Company
+2701	No_relationship
+2702	org
+2703	no_relation
+2704	Persona
+2705	org
+2706	Amanda Knox
+2707	Answer
+2708	Persona
+2709	Persona
+2710	Entity 1
+2711	org
+2712	No_relationship
+2713	UASR
+2714	Business
+2715	World
+2716	org
+2717	No_relationship
+2718	Entity 1
+2719	Answer
+2720	No_relationship
+2721	Person
+2722	org
+2723	Entity 1: Chen Tao
+2724	Relationship
+2725	No
+2726	Persona
+2727	Wen
+2728	Xie
+2729	org
+2730	Office of the Secretary of State
+2731	org
+2732	Persona
+2733	Entity 1
+2734	Answer: One
+2735	Entity 1: Dave von Kliest
+2736	Sarah Kunstler
+2737	He
+2738	org
+2739	John Giuca
+2740	Relationship
+2741	Person with information about He
+2742	Business
+2743	no_relation
+2744	org
+2745	org
+2746	Heloise
+2747	Sports
+2748	Wen Qiang
+2749	org
+2750	Answer
+2751	Sports
+2752	Countrywide Financial Corp
+2753	John Graham
+2754	Heloise
+2755	Persona
+2756	org
+2757	Interview
+2758	Department of Interior
+2759	Relationship
+2760	Relationship
+2761	Entity 1: Chen Tao
+2762	Herold
+2763	Customer rating 1
+2764	org
+2765	Relationship
+2766	No_relation
+2767	World
+2768	EPF
+2769	He
+2770	He
+2771	Person with financial problems
+2772	No_relationship
+2773	Answer: Entity 1
+2774	John Graham
+2775	World
+2776	No_relationship
+2777	org
+2778	Relationship
+2779	org
+2780	Business
+2781	org
+2782	Persona
+2783	Relationship
+2784	Threat
+2785	Eloise Spooner
+2786	Answer
+2787	Entity 2
+2788	He
+2789	org
+2790	org
+2791	org
+2792	Person who is serving life in prison for her murder
+2793	org
+2794	Persona
+2795	org
+2796	org
+2797	Persona
+2798	org
+2799	Person with respect to Entity 1
+2800	YANGON
+2801	org
+2802	Persona
+2803	Relationship
+2804	Carrie Daniels
+2805	World
+2806	org
+2807	Persona
+2808	Persona
+2809	Entity 1
+2810	Person
+2811	Entity 1
+2812	China Charity Federation
+2813	Relationship
+2814	Relationship
+2815	Relationship
+2816	Persona
+2817	Business
+2818	Relationship
+2819	Office
+2820	org
+2821	No_relationship
+2822	Persona
+2823	org
+2824	Person
+2825	org
+2826	org
+2827	org
+2828	Answer
+2829	B-named
+2830	No_relationship
+2831	no_relation
+2832	Persona
+2833	org
+2834	Dworin
+2835	Answer
+2836	Relationship
+2837	Relationship
+2838	Location
+2839	Location
+2840	Alan Gross (born in Maryland) is a US citizen
+2841	org
+2842	Herold
+2843	org
+2844	Relationship
+2845	Relationship
+2846	No_relationship
+2847	No_relationship
+2848	org
+2849	org
+2850	no_relation
+2851	No_relation
+2852	Location
+2853	org
+2854	org
+2855	Relationship
+2856	org
+2857	ShopperTrak
+2858	No_relationship
+2859	Business
+2860	org
+2861	no_relationship
+2862	Entity 1: Director
+2863	Family
+2864	no_relation
+2865	Countrywide Financial Corp
+2866	No_relation
+2867	Persona
+2868	World
+2869	Answer
+2870	Persona
+2871	Persona
+2872	org
+2873	no_relation
+2874	Business
+2875	NTSO
+2876	Xinjiang branch
+2877	He
+2878	Sexual abuse
+2879	Relationship
+2880	Alessi
+2881	Relationship
+2882	Persona
+2883	org
+2884	Persona
+2885	Person
+2886	World
+2887	no_relation
+2888	Bibi
+2889	He
+2890	No_relationship
+2891	org
+2892	No_relation
+2893	org
+2894	Person with whom Piedra owes back taxes and interest
+2895	Chef Central
+2896	Entity 1
+2897	Persona
+2898	Athlete
+2899	org
+2900	org
+2901	Annie Mae Aquash
+2902	org
+2903	Relationship
+2904	org
+2905	No_relationship
+2906	Identity
+2907	World
+2908	World
+2909	United States
+2910	No_relationship
+2911	org
+2912	country
+2913	Cerniglia
+2914	National Restaurant Association
+2915	org
+2916	American Free Press
+2917	Entity 1
+2918	Location
+2919	Dworin
+2920	ShopperTrak
+2921	He
+2922	Office
+2923	He
+2924	ntso
+2925	He
+2926	Persona
+2927	Persona
+2928	Contact_person
+2929	Answer: murder
+2930	Persons with disabilities
+2931	Persons with whom Laura Silsby and her confidante remain in detention
+2932	acquitted
+2933	Person with experience with the missionaries
+2934	No_relationship
+2935	Xie Caiping
+2936	Relationship
+2937	Entity 1
+2938	Entity 1
+2939	org
+2940	org
+2941	org
+2942	org
+2943	AARP
+2944	Person with information about Entity 1
+2945	org
+2946	org
+2947	no_relation
+2948	Relationship
+2949	No_relation
+2950	org
+2951	Relationship
+2952	he
+2953	Person who was killed in the shooting was a crime reporter
+2954	His
+2955	Persona
+2956	World
+2957	no_relation
+2958	Relationship
+2959	org
+2960	ShopperTrak
+2961	Persona
+2962	Persona
+2963	org
+2964	AAUW
+2965	World
+2966	no_relation
+2967	National Restaurant Association
+2968	No_relationship
+2969	Rudolph W Giuliani
+2970	Persona
+2971	NDRC
+2972	Answer
+2973	org
+2974	Person
+2975	org
+2976	Relationship
+2977	Persona
+2978	org
+2979	The government and controlled media have lied to the public about 9-11 for 6 years
+2980	ShopperTrak
+2981	AIM
+2982	Relationship
+2983	org
+2984	He
+2985	spokesman
+2986	org
+2987	Relationship
+2988	Customer
+2989	Contact_person
+2990	Person who is not related to Gross
+2991	Xie
+2992	UN
+2993	AIG
+2994	ShopperTrak
+2995	Contact_person
+2996	He
+2997	Eloise Spooner
+2998	org
+2999	org
+3000	org
+3001	Persona
+3002	He
+3003	org
+3004	Persona
+3005	Entity 1 is Richard Gage
+3006	Relationship
+3007	Amanda Knox
+3008	org
+3009	Persona
+3010	Entity 1
+3011	World
+3012	Person with respect to Jupp
+3013	Relationship
+3014	org
+3015	Person with knowledge of the crime
+3016	Francesco
+3017	Wen Qiang
+3018	org
+3019	Person
+3020	org:website
+3021	John Graham
+3022	Nonpartisan
+3023	AIG
+3024	Entity 1
+3025	Esther-Ethy Mamane
+3026	NDA
+3027	Xie Caiping
+3028	org
+3029	spouse
+3030	org
+3031	Aquash
+3032	org
+3033	Andrew Lange
+3034	Persona
+3035	Her body was exhumed in her native Nova Scotia
+3036	org
+3037	Albert Lange
+3038	no_relation
+3039	ShopperTrak
+3040	religion
+3041	ABN Amro
+3042	org
+3043	Her mother
+3044	He
+3045	Relationship
+3046	Amanda Knox
+3047	org
+3048	Persona
+3049	Alessi
+3050	NEA
+3051	Wen Qiang
+3052	No_relationship
+3053	org
+3054	United States
+3055	parent
+3056	Location
+3057	Science/Tech
+3058	No_relationship
+3059	org
+3060	Persona_of_life
+3061	Company
+3062	org
+3063	He is at Berkeley
+3064	Father
+3065	OANA
+3066	Persona
+3067	Contact_person
+3068	Person with information about Bruno
+3069	Contact_person
+3070	Cerniglia
+3071	no_relationship
+3072	Andrew E Lange
+3073	Relationship
+3074	Persona
+3075	Person
+3076	org
+3077	Edda Mellas
+3078	Wen
+3079	Wen
+3080	United States
+3081	org
+3082	Persona
+3083	Entity 1
+3084	org
+3085	Person accused of defamation
+3086	Answer: murder
+3087	org
+3088	Thierry Meyssan
+3089	He
+3090	org
+3091	Relationship
+3092	org
+3093	no_relationship
+3094	org
+3095	Relationship
+3096	Family
+3097	org
+3098	Xie Caiping
+3099	Company
+3100	His wife is Sandra
+3101	She
+3102	Business
+3103	Father
+3104	Persona
+3105	Xie
+3106	World
+3107	Persona
+3108	Friends
+3109	Relationship
+3110	Location
+3111	org
+3112	Father
+3113	Science/Tech
+3114	org
+3115	No_relation
+3116	No_relationship
+3117	org
+3118	Person
+3119	Sarah Kunstler
+3120	Business
+3121	Threat
+3122	org
+3123	Person who was convicted of the murder of Mark Fisher
+3124	Science/Tech
+3125	Xie Caiping
+3126	org
+3127	spouse
+3128	Bibi
+3129	Persona
+3130	He
+3131	Person
+3132	org
+3133	Persona
+3134	Office
+3135	Person
+3136	United States
+3137	org
+3138	Persona
+3139	Entity 1
+3140	org
+3141	Relationship
+3142	No_relationship
+3143	org
+3144	Alan P Gross
+3145	Persona
+3146	org
+3147	Countrywide Financial Corp
+3148	Relationship
+3149	org
+3150	Contact_numbers is unknown
+3151	spouse
+3152	Persons with whom Mailer lived in Provincetown , Massachusetts
+3153	org
+3154	Persona
+3155	Persona
+3156	org
+3157	The basic description of the film is "The basics"
+3158	AIM
+3159	No_relationship
+3160	Alan Gross
+3161	org
+3162	org
+3163	Wen
+3164	UASR
+3165	American
+3166	ADF
+3167	Persona
+3168	spouse
+3169	Persona
+3170	ShopperTrak
+3171	Person
+3172	Sports
+3173	org
+3174	Persona
+3175	Contact_person
+3176	Amanda Knox
+3177	Italy
+3178	org
+3179	org
+3180	Wen Qiang
+3181	ShopperTrak
+3182	World
+3183	Shoppertrak
+3184	Kercher
+3185	org
+3186	No_relationship
+3187	The United Negro College Fund
+3188	org
+3189	Persona
+3190	Family
+3191	No_relationship
+3192	China
+3193	ShopperTrak
+3194	org
+3195	Xie Caiping
+3196	American
+3197	ADF
+3198	Person with family is Cerniglia
+3199	org
+3200	Persona
+3201	Wen Qiang
+3202	org
+3203	Entity 2
+3204	No_relationship
+3205	wife
+3206	Countrywide
+3207	NDRC
+3208	No_relation
+3209	Russian
+3210	org
+3211	Amanda Knox
+3212	Person
+3213	Persona
+3214	Wen Qiang
+3215	NTSO
+3216	The United Negro College Fund
+3217	Relationship
+3218	Xie Caiping
+3219	org
+3220	org
+3221	Wen Qiang
+3222	The Menil Collection 1515 Sul Ross, Houston, TX 77006
+3223	Relationship
+3224	Persona
+3225	relationship
+3226	Person with knowledge of the video
+3227	ShopperTrak
+3228	Entity 2
+3229	No_relationship
+3230	World
+3231	ShopperTrak
+3232	org
+3233	Persona
+3234	Person
+3235	Mark Fisher
+3236	org
+3237	Wen Qiang
+3238	No_relationship
+3239	United States
+3240	org
+3241	NDRC
+3242	Relationship
+3243	Persona
+3244	George Sodini
+3245	org
+3246	Office
+3247	No_relationship
+3248	org
+3249	org
+3250	org
+3251	Trapani
+3252	Person with information about the film
+3253	Entity 1
+3254	Relationship
+3255	org
+3256	NDA
+3257	org
+3258	Persona
+3259	Departmental
+3260	Entity 1
+3261	Relationship
+3262	org
+3263	NTSO
+3264	No_relationship
+3265	Persona
+3266	Bamba
+3267	He
+3268	No_relationship
+3269	org
+3270	org
+3271	Relationship
+3272	spouse
+3273	Persona
+3274	College
+3275	org
+3276	NDRC
+3277	Relationship
+3278	Persona
+3279	Contact
+3280	College
+3281	THAILAND Bangkok Pundit Prachai at the FCCT : Part 1 | THAILAND Tonight , Prachai Leoph
+3282	NDRC
+3283	Heloise
+3284	Persona
+3285	Person
+3286	Wen Qiang
+3287	org
+3288	org
+3289	no_relation
+3290	Persona
+3291	Relationship
+3292	Wen Qiang
+3293	org
+3294	American International Group
+3295	Office
+3296	Persona
+3297	Ivory Coast
+3298	Cerniglia
+3299	org
+3300	Countrywide Financial
+3301	Office
+3302	Persona
+3303	She is an art teacher
+3304	Interview
+3305	org
+3306	org
+3307	org
+3308	Persona
+3309	Xie Caiping
+3310	Xie
+3311	org
+3312	no_relation
+3313	Persona
+3314	Entity 1
+3315	World
+3316	org
+3317	Persona
+3318	Persona
+3319	Entity 1
+3320	He
+3321	org
+3322	Persona
+3323	spouse
+3324	Wen Qiang
+3325	NDRC
+3326	Alessandra Wilke
+3327	relationship
+3328	Bamba
+3329	org
+3330	He
+3331	Wen Qiang
+3332	org
+3333	Entity 1
+3334	Answer: journalist
+3335	org
+3336	Persona
+3337	Entity 1
+3338	org
+3339	Persona
+3340	Physicist
+3341	ShopperTrak
+3342	He
+3343	Relationship
+3344	org
+3345	Persona
+3346	The president of the United Negro College Fund
+3347	org
+3348	Answer
+3349	World
+3350	Relationship
+3351	Persona
+3352	Relationship
+3353	com
+3354	Alessi
+3355	Person
+3356	relationship
+3357	Patricia Gonzalez
+3358	Wen Qiang
+3359	World
+3360	Persona
+3361	Answer: analyst
+3362	NDRC
+3363	Persona
+3364	World
+3365	Relationship
+3366	Persona
+3367	World
+3368	He
+3369	org
+3370	He
+3371	org
+3372	Admits
+3373	Xie Caiping
+3374	person
+3375	No_relationship
+3376	Persona
+3377	Persona
+3378	no_relationship
+3379	org
+3380	Persona
+3381	No_relationship
+3382	relationship
+3383	Friends
+3384	Persona
+3385	World
+3386	spouse
+3387	Sports
+3388	No_relationship
+3389	Abelard
+3390	No_relationship
+3391	no_relation
+3392	Alessi
+3393	org
+3394	Persona
+3395	Person with information about Mario Gonzalez
+3396	Person
+3397	He
+3398	Persona
+3399	No_relation
+3400	Persona
+3401	no_relation
+3402	Persona
+3403	World
+3404	Persona
+3405	Office
+3406	Person
+3407	Bibi
+3408	spouse
+3409	Alessi
+3410	he
+3411	HSBC
+3412	Heloise
+3413	Non-fiction
+3414	Answer
+3415	Adi Amit
+3416	Person with experience with police
+3417	Person who committed suicide
+3418	Person
+3419	Relationship
+3420	no_relationship
+3421	Persona
+3422	Person
+3423	org
+3424	Persona
+3425	Theda Clark
+3426	Persona
+3427	No_relation
+3428	No_relationship
+3429	Relationship
+3430	Persona
+3431	UN ambassador
+3432	Persona
+3433	United States
+3434	spouse
+3435	Persona
+3436	Persona
+3437	Theda Clark
+3438	Person
+3439	Relationship
+3440	Person
+3441	org
+3442	Persona
+3443	Kercher
+3444	parent
+3445	org
+3446	Heloise
+3447	Anna Mae Aquash
+3448	Persona
+3449	Adela Dworin
+3450	Guest column
+3451	org
+3452	No_relationship
+3453	Entity 1
+3454	No_relationship
+3455	Relationship
+3456	Persona
+3457	990 million
+3458	Persona
+3459	Sexually assaulting
+3460	Persona
+3461	family
+3462	Persona
+3463	Alessi
+3464	Persona
+3465	org
+3466	Persona
+3467	Relationship
+3468	No_relationship
+3469	religion
+3470	Person
+3471	Meredith Kercher
+3472	Entity 1
+3473	no_relation
+3474	Persona
+3475	ShopperTrak
+3476	No_relationship
+3477	Entity 1
+3478	spouse
+3479	No_relationship
+3480	Person
+3481	Relationship
+3482	relationship
+3483	Dworin
+3484	Xie Yingkuang
+3485	Persona
+3486	Persona
+3487	org
+3488	Persona
+3489	No_relationship
+3490	No_relationship
+3491	Relationship
+3492	Persona
+3493	org
+3494	Persona
+3495	Relationship
+3496	Persona
+3497	org
+3498	no_relationship
+3499	org
+3500	Persona
+3501	World
+3502	Eloise Spooner
+3503	org
+3504	Persona
+3505	org
+3506	parent
+3507	The United States
+3508	Persona
+3509	Relationship
+3510	Person
+3511	Persona
+3512	No_relationship
+3513	No_relationship
+3514	Avery
+3515	Contact
+3516	Persona
+3517	Location
+3518	He
+3519	Theda Clark
+3520	Persona
+3521	He
+3522	Person
+3523	Xie Caiping
+3524	Persona
+3525	Countrywide
+3526	Alessi
+3527	None
+3528	no_relationship
+3529	He
+3530	Gage
+3531	No_relationship
+3532	Heloise
+3533	org
+3534	Persona
+3535	Xie Caiping
+3536	Persona
+3537	Relationship
+3538	spouse
+3539	He
+3540	Persona
+3541	Abdaf leader
+3542	Relationship
+3543	Wen
+3544	Persona
+3545	John A Boehner
+3546	Persona
+3547	Entity 1
+3548	Persona
+3549	Cerniglia
+3550	Persona
+3551	No_relationship
+3552	Persona
+3553	School of Public Health
+3554	Persona
+3555	World Tourism Organization
+3556	Person
+3557	No_relationship
+3558	parent
+3559	Sarah Kunstler
+3560	Amanda Knox
+3561	Answer
+3562	Sarah Kunstler
+3563	Father
+3564	Persona
+3565	Office
+3566	Persona
+3567	Amanda Knox
+3568	spouse
+3569	Relationship
+3570	Person
+3571	org
+3572	Persona
+3573	American
+3574	Persona
+3575	Xinhua
+3576	spouse
+3577	ShopperTrak
+3578	Person
+3579	Her mother
+3580	Persona
+3581	org
+3582	Persona
+3583	Relationship
+3584	relationship
+3585	Location
+3586	Person
+3587	No_relation
+3588	Persona
+3589	jirga
+3590	Persona
+3591	org
+3592	org
+3593	org
+3594	Coastal Conservation League
+3595	No_relationship
+3596	Entity 1
+3597	Jeremy Haslam
+3598	org
+3599	org
+3600	She
+3601	religion
+3602	Entity 1
+3603	Ghazi
+3604	Relationship
+3605	org
+3606	Wen Qiang
+3607	Persona
+3608	John Graham
+3609	Relationship
+3610	No_relation
+3611	No_relationship
+3612	World
+3613	No_relationship
+3614	org
+3615	parent
+3616	The State Department
+3617	Persona
+3618	Person with whom he took in young women abandoned by smugglers
+3619	org
+3620	org
+3621	No_relationship
+3622	org
+3623	He
+3624	bln yuan
+3625	None
+3626	He
+3627	UASR
+3628	Relationship
+3629	org
+3630	no_relation
+3631	nea
+3632	Ilan Ramon
+3633	Relationship
+3634	AIM
+3635	No_relationship
+3636	org
+3637	Man
+3638	Entity 1: Craig Ranke
+3639	org
+3640	org
+3641	NDRC
+3642	Theda Clark
+3643	org
+3644	org
+3645	His wife
+3646	Persona
+3647	Alessi
+3648	He
+3649	org
+3650	org
+3651	AIG
+3652	Heloise
+3653	org
+3654	org
+3655	Relationship
+3656	Contact_person
+3657	org
+3658	Persona
+3659	org
+3660	Relationship
+3661	org
+3662	org
+3663	org
+3664	He
+3665	AFP
+3666	Persona
+3667	Persona
+3668	Relationship
+3669	No_relationship
+3670	No
+3671	Relationship
+3672	ShopperTrak
+3673	Person with experience with Hell's Kitchen
+3674	Office of the Interior
+3675	Person who is not associated with the New America Foundation
+3676	He
+3677	org
+3678	The military officials named the pilot as Lieutenant Assaf Ramon , 21
+3679	org
+3680	Relationship
+3681	[1]
+3682	Pope
+3683	Person
+3684	org
+3685	Persona
+3686	org
+3687	Relationship
+3688	Relationship
+3689	Persona
+3690	Eloise Spooner
+3691	Admitant
+3692	No_relationship
+3693	org
+3694	The Zionist Rothschild Family
+3695	e-learning
+3696	World
+3697	World
+3698	Persona
+3699	UASR
+3700	Company
+3701	No_relationship
+3702	World Tourism Organization
+3703	no_relation
+3704	Persona
+3705	org
+3706	Amanda Knox
+3707	Answer
+3708	Persona
+3709	Persona
+3710	Entity 1
+3711	org
+3712	No_relationship
+3713	UASR
+3714	Business
+3715	World
+3716	org
+3717	No_relationship
+3718	Entity 1
+3719	Answer
+3720	No_relationship
+3721	Person
+3722	org
+3723	Entity 1: Chen Tao
+3724	Relationship
+3725	No
+3726	Persona
+3727	Wen
+3728	Xie
+3729	org
+3730	Office of the Secretary of State
+3731	org
+3732	Persona
+3733	Entity 1
+3734	Answer: One
+3735	Entity 1: Dave von Kliest
+3736	Sarah Kunstler
+3737	He
+3738	org
+3739	John Giuca
+3740	Relationship
+3741	Person with information about He
+3742	Business
+3743	no_relation
+3744	org
+3745	org
+3746	Heloise
+3747	Sports
+3748	Wen Qiang
+3749	org
+3750	Answer
+3751	Sports
+3752	Countrywide Financial Corp
+3753	John Graham
+3754	Heloise
+3755	Persona
+3756	no_relation
+3757	Interview
+3758	Department of Interior
+3759	Relationship
+3760	Relationship
+3761	Entity 1: Chen Tao
+3762	Herold
+3763	Customer rating 1
+3764	org
+3765	Relationship
+3766	No_relation
+3767	World
+3768	EPF
+3769	He
+3770	He
+3771	Person with financial problems
+3772	No_relationship
+3773	Answer: Entity 1
+3774	John Graham
+3775	World
+3776	No_relationship
+3777	org
+3778	Relationship
+3779	org
+3780	Business
+3781	org
+3782	Persona
+3783	Relationship
+3784	Threat
+3785	Eloise Spooner
+3786	Answer
+3787	United Nations
+3788	He
+3789	org
+3790	org
+3791	org
+3792	Person who is serving life in prison for her murder
+3793	org
+3794	Persona
+3795	org
+3796	org
+3797	Persona
+3798	org
+3799	Person with respect to Entity 1
+3800	YANGON
+3801	org
+3802	Persona
+3803	Relationship
+3804	Carrie Daniels
+3805	World
+3806	org
+3807	Persona
+3808	Persona
+3809	Entity 1
+3810	Person
+3811	Entity 1
+3812	China Charity Federation
+3813	Relationship
+3814	Relationship
+3815	Relationship
+3816	Persona
+3817	Business
+3818	Relationship
+3819	Office
+3820	org
+3821	No_relationship
+3822	Persona
+3823	org
+3824	Person
+3825	org
+3826	org
+3827	org
+3828	Answer
+3829	B-named
+3830	No_relationship
+3831	no_relation
+3832	Persona
+3833	org
+3834	Dworin
+3835	Answer
+3836	Relationship
+3837	Relationship
+3838	Location
+3839	Location
+3840	Alan Gross (born in Maryland) is a US citizen
+3841	org
+3842	Herold
+3843	org
+3844	Relationship
+3845	Relationship
+3846	No_relationship
+3847	No_relationship
+3848	org
+3849	org
+3850	no_relation
+3851	No_relation
+3852	Location
+3853	org
+3854	org
+3855	Relationship
+3856	org
+3857	ShopperTrak
+3858	No_relationship
+3859	Business
+3860	org
+3861	no_relationship
+3862	Entity 1: Director
+3863	Family
+3864	no_relation
+3865	Countrywide Financial Corp
+3866	No_relation
+3867	Persona
+3868	World
+3869	Answer
+3870	Persona
+3871	Persona
+3872	org
+3873	no_relation
+3874	Business
+3875	NTSO
+3876	Xinjiang branch
+3877	He
+3878	Sexual abuse
+3879	Relationship
+3880	Alessi
+3881	Relationship
+3882	Persona
+3883	org
+3884	Persona
+3885	Person
+3886	World
+3887	no_relation
+3888	Bibi
+3889	He
+3890	No_relationship
+3891	org
+3892	No_relation
+3893	org
+3894	Person with whom Piedra owes back taxes and interest
+3895	Chef Central
+3896	Entity 1
+3897	Persona
+3898	Athlete
+3899	org
+3900	org
+3901	Annie Mae Aquash
+3902	org
+3903	Relationship
+3904	org
+3905	No_relationship
+3906	Identity
+3907	World
+3908	World
+3909	United States
+3910	Persona
+3911	org
+3912	country
+3913	Cerniglia
+3914	National Restaurant Association
+3915	org
+3916	American Free Press
+3917	Entity 1
+3918	Location
+3919	Dworin
+3920	ShopperTrak
+3921	He
+3922	Office
+3923	He
+3924	ntso
+3925	He
+3926	MGE
+3927	Persona
+3928	Contact_person
+3929	Answer: murder
+3930	Persons with disabilities
+3931	Persons with whom Laura Silsby and her confidante remain in detention
+3932	acquitted
+3933	Person with experience with the missionaries
+3934	org
+3935	Xie Caiping
+3936	Relationship
+3937	Entity 1
+3938	Entity 1
+3939	org
+3940	org
+3941	org
+3942	org
+3943	AARP
+3944	Person with information about Entity 1
+3945	org
+3946	org
+3947	no_relation
+3948	Relationship
+3949	No_relation
+3950	org
+3951	Relationship
+3952	he
+3953	Person who was killed in the shooting was a crime reporter
+3954	His
+3955	He
+3956	World
+3957	no_relation
+3958	Relationship
+3959	org
+3960	ShopperTrak
+3961	Persona
+3962	Persona
+3963	org
+3964	AAUW
+3965	World
+3966	no_relation
+3967	National Restaurant Association
+3968	No_relationship
+3969	Rudolph W Giuliani
+3970	Persona
+3971	NDRC
+3972	Answer
+3973	org
+3974	Person
+3975	org
+3976	Relationship
+3977	Persona
+3978	org
+3979	The government and controlled media have lied to the public about 9-11 for 6 years
+3980	ShopperTrak
+3981	AIM
+3982	Relationship
+3983	org
+3984	He
+3985	spokesman
+3986	org
+3987	Relationship
+3988	Customer
+3989	Contact_person
+3990	Person who is not related to Gross
+3991	Xie
+3992	UN
+3993	AIG
+3994	ShopperTrak
+3995	Contact_person
+3996	He
+3997	Eloise Spooner
+3998	org
+3999	org
+4000	org
+4001	Persona
+4002	He
+4003	org
+4004	Persona
+4005	Entity 1 is Richard Gage
+4006	Relationship
+4007	Amanda Knox
+4008	org
+4009	Persona
+4010	Entity 1
+4011	World
+4012	Person with respect to Jupp
+4013	Relationship
+4014	org
+4015	Person with knowledge of the crime
+4016	Francesco
+4017	Wen Qiang
+4018	org
+4019	Person
+4020	org:website
+4021	John Graham
+4022	Nonpartisan
+4023	AIG
+4024	Entity 1
+4025	Esther-Ethy Mamane
+4026	NDA
+4027	Xie Caiping
+4028	org
+4029	spouse
+4030	org
+4031	Aquash
+4032	org
+4033	Andrew Lange
+4034	Persona
+4035	Her body was exhumed in her native Nova Scotia
+4036	org
+4037	Albert Lange
+4038	no_relation
+4039	ShopperTrak
+4040	religion
+4041	ABN Amro
+4042	org
+4043	Her mother
+4044	He
+4045	Relationship
+4046	Amanda Knox
+4047	org
+4048	Persona
+4049	Alessi
+4050	NEA
+4051	Wen Qiang
+4052	No_relationship
+4053	org
+4054	United States
+4055	parent
+4056	Location
+4057	Science/Tech
+4058	No_relationship
+4059	org
+4060	Persona_of_life
+4061	Company
+4062	org
+4063	He is at Berkeley
+4064	Father
+4065	OANA
+4066	Persona
+4067	Contact_person
+4068	Person with information about Bruno
+4069	Contact_person
+4070	Cerniglia
+4071	no_relationship
+4072	Andrew E Lange
+4073	Relationship
+4074	Persona
+4075	Person
+4076	org
+4077	Edda Mellas
+4078	Wen
+4079	Wen
+4080	United States
+4081	org
+4082	Persona
+4083	Entity 1
+4084	org
+4085	Person accused of defamation
+4086	Answer: murder
+4087	org
+4088	Thierry Meyssan
+4089	He
+4090	org
+4091	Relationship
+4092	org
+4093	no_relationship
+4094	org
+4095	Relationship
+4096	Family
+4097	org
+4098	Xie Caiping
+4099	Company
+4100	His wife is Sandra
+4101	She
+4102	Business
+4103	Father
+4104	Persona
+4105	Xie
+4106	World
+4107	Persona
+4108	Friends
+4109	Relationship
+4110	Location
+4111	org
+4112	Father
+4113	Science/Tech
+4114	org
+4115	No_relation
+4116	No_relationship
+4117	org
+4118	Person
+4119	Sarah Kunstler
+4120	Business
+4121	Threat
+4122	org
+4123	Person who was convicted of the murder of Mark Fisher
+4124	Science/Tech
+4125	Xie Caiping
+4126	org
+4127	spouse
+4128	Bibi
+4129	Persona
+4130	He
+4131	Person
+4132	org
+4133	Persona
+4134	Office
+4135	Person
+4136	United States
+4137	org
+4138	Persona
+4139	Entity 1
+4140	org
+4141	Relationship
+4142	No_relationship
+4143	org
+4144	Alan P Gross
+4145	Persona
+4146	org
+4147	Countrywide Financial Corp
+4148	Relationship
+4149	org
+4150	Contact_numbers is unknown
+4151	spouse
+4152	Persons with whom Mailer lived in Provincetown , Massachusetts
+4153	org
+4154	Persona
+4155	Persona
+4156	org
+4157	The basic description of the film is "The basics"
+4158	AIM
+4159	No_relationship
+4160	Alan Gross
+4161	org
+4162	org
+4163	Wen
+4164	UASR
+4165	American
+4166	ADF
+4167	Persona
+4168	spouse
+4169	Persona
+4170	ShopperTrak
+4171	Person
+4172	Sports
+4173	org
+4174	Persona
+4175	Contact_person
+4176	Amanda Knox
+4177	Italy
+4178	org
+4179	org
+4180	Wen Qiang
+4181	ShopperTrak
+4182	World
+4183	Shoppertrak
+4184	Kercher
+4185	org
+4186	No_relationship
+4187	The United Negro College Fund
+4188	org
+4189	Persona
+4190	Family
+4191	No_relationship
+4192	China
+4193	ShopperTrak
+4194	org
+4195	Xie Caiping
+4196	American
+4197	ADF
+4198	Person with family is Cerniglia
+4199	org
+4200	Persona
+4201	Wen Qiang
+4202	org
+4203	Entity 2
+4204	No_relationship
+4205	wife
+4206	Countrywide
+4207	NDRC
+4208	No_relation
+4209	Russian
+4210	org
+4211	Amanda Knox
+4212	Person
+4213	Persona
+4214	Wen Qiang
+4215	NTSO
+4216	The United Negro College Fund
+4217	Relationship
+4218	Xie Caiping
+4219	org
+4220	org
+4221	Wen Qiang
+4222	The Menil Collection 1515 Sul Ross, Houston, TX 77006
+4223	Relationship
+4224	Persona
+4225	relationship
+4226	Person with knowledge of the video
+4227	ShopperTrak
+4228	Entity 2
+4229	No_relationship
+4230	World
+4231	ShopperTrak
+4232	org
+4233	Persona
+4234	Person
+4235	Mark Fisher
+4236	org
+4237	Wen Qiang
+4238	No_relationship
+4239	United States
+4240	org
+4241	NDRC
+4242	Relationship
+4243	Persona
+4244	George Sodini
+4245	org
+4246	Office
+4247	No_relationship
+4248	org
+4249	org
+4250	org
+4251	Trapani
+4252	Person with information about the film
+4253	Entity 1
+4254	Relationship
+4255	org
+4256	NDA
+4257	org
+4258	Persona
+4259	Departmental
+4260	Entity 1
+4261	Relationship
+4262	org
+4263	NTSO
+4264	No_relationship
+4265	Persona
+4266	Bamba
+4267	He
+4268	No_relationship
+4269	org
+4270	org
+4271	Relationship
+4272	spouse
+4273	Persona
+4274	College
+4275	org
+4276	NDRC
+4277	Relationship
+4278	Persona
+4279	Contact
+4280	College
+4281	THAILAND Bangkok Pundit Prachai at the FCCT : Part 1 | THAILAND Tonight , Prachai Leoph
+4282	NDRC
+4283	Heloise
+4284	Persona
+4285	Person
+4286	Wen Qiang
+4287	org
+4288	org
+4289	no_relation
+4290	Persona
+4291	Relationship
+4292	Wen Qiang
+4293	org
+4294	American International Group
+4295	Office
+4296	Persona
+4297	Ivory Coast
+4298	Cerniglia
+4299	org
+4300	Countrywide Financial
+4301	Office
+4302	Persona
+4303	She is an art teacher
+4304	Interview
+4305	org
+4306	org
+4307	org
+4308	Persona
+4309	Xie Caiping
+4310	Xie
+4311	org
+4312	no_relation
+4313	Persona
+4314	Entity 1
+4315	World
+4316	org
+4317	Persona
+4318	Persona
+4319	Entity 1
+4320	He
+4321	org
+4322	Persona
+4323	spouse
+4324	Wen Qiang
+4325	NDRC
+4326	Alessandra Wilke
+4327	relationship
+4328	Bamba
+4329	org
+4330	He
+4331	Wen Qiang
+4332	org
+4333	Entity 1
+4334	Answer: journalist
+4335	org
+4336	Persona
+4337	Entity 1
+4338	org
+4339	Persona
+4340	Physicist
+4341	ShopperTrak
+4342	He
+4343	Relationship
+4344	org
+4345	Persona
+4346	The president of the United Negro College Fund
+4347	org
+4348	Answer
+4349	World
+4350	Relationship
+4351	Persona
+4352	Relationship
+4353	com
+4354	Alessi
+4355	Person
+4356	relationship
+4357	Patricia Gonzalez
+4358	Wen Qiang
+4359	World
+4360	Persona
+4361	Answer: analyst
+4362	NDRC
+4363	Persona
+4364	World
+4365	Relationship
+4366	Persona
+4367	World
+4368	He
+4369	org
+4370	He
+4371	org
+4372	Admits
+4373	Xie Caiping
+4374	person
+4375	No_relationship
+4376	Persona
+4377	Persona
+4378	no_relationship
+4379	org
+4380	Persona
+4381	No_relationship
+4382	relationship
+4383	Friends
+4384	Persona
+4385	World
+4386	spouse
+4387	Sports
+4388	No_relationship
+4389	Abelard
+4390	No_relationship
+4391	no_relation
+4392	Alessi
+4393	org
+4394	Persona
+4395	Person with information about Mario Gonzalez
+4396	Person
+4397	He
+4398	Persona
+4399	No_relation
+4400	Persona
+4401	no_relation
+4402	Persona
+4403	World
+4404	Persona
+4405	Office
+4406	Person
+4407	Bibi
+4408	spouse
+4409	Alessi
+4410	he
+4411	HSBC
+4412	Heloise
+4413	Non-fiction
+4414	Answer
+4415	Adi Amit
+4416	Person with experience with police
+4417	Person who committed suicide
+4418	Person
+4419	Relationship
+4420	no_relationship
+4421	Persona
+4422	Person
+4423	org
+4424	Persona
+4425	Theda Clark
+4426	Persona
+4427	No_relation
+4428	No_relationship
+4429	Relationship
+4430	Persona
+4431	UN ambassador
+4432	Persona
+4433	United States
+4434	spouse
+4435	Persona
+4436	Persona
+4437	Theda Clark
+4438	Person
+4439	Relationship
+4440	Person
+4441	org
+4442	Persona
+4443	Kercher
+4444	parent
+4445	org
+4446	Heloise
+4447	Anna Mae Aquash
+4448	Persona
+4449	Adela Dworin
+4450	Guest column
+4451	org
+4452	No_relationship
+4453	Entity 1
+4454	No_relationship
+4455	Relationship
+4456	Persona
+4457	990 million
+4458	Persona
+4459	Sexually assaulting
+4460	Persona
+4461	family
+4462	Persona
+4463	Alessi
+4464	Persona
+4465	org
+4466	Persona
+4467	Relationship
+4468	No_relationship
+4469	religion
+4470	Person
+4471	Meredith Kercher
+4472	Entity 1
+4473	no_relation
+4474	Persona
+4475	ShopperTrak
+4476	No_relationship
+4477	Entity 1
+4478	spouse
+4479	No_relationship
+4480	Person
+4481	Relationship
+4482	relationship
+4483	Dworin
+4484	Xie Yingkuang
+4485	Persona
+4486	Persona
+4487	org
+4488	Persona
+4489	No_relationship
+4490	No_relationship
+4491	Relationship
+4492	Persona
+4493	org
+4494	Persona
+4495	Relationship
+4496	Persona
+4497	org
+4498	no_relationship
+4499	org
+4500	Persona
+4501	World
+4502	Eloise Spooner
+4503	org
+4504	Persona
+4505	org
+4506	parent
+4507	The United States
+4508	Persona
+4509	Relationship
+4510	Person
+4511	Persona
+4512	No_relationship
+4513	No_relationship
+4514	Avery
+4515	Contact
+4516	Persona
+4517	Location
+4518	He
+4519	Theda Clark
+4520	Persona
+4521	He
+4522	Person
+4523	Xie Caiping
+4524	Persona
+4525	Countrywide
+4526	Alessi
+4527	None
+4528	no_relationship
+4529	He
+4530	Gage
+4531	No_relationship
+4532	Heloise
+4533	org
+4534	Persona
+4535	Xie Caiping
+4536	Persona
+4537	Relationship
+4538	spouse
+4539	He
+4540	Persona
+4541	Abdaf leader
+4542	Relationship
+4543	Wen
+4544	Persona
+4545	John A Boehner
+4546	Persona
+4547	Entity 1
+4548	Persona
+4549	Cerniglia
+4550	Persona
+4551	No_relationship
+4552	Persona
+4553	School of Public Health
+4554	Persona
+4555	World Tourism Organization
+4556	Person
+4557	No_relationship
+4558	parent
+4559	Sarah Kunstler
+4560	Amanda Knox
+4561	Answer
+4562	Sarah Kunstler
+4563	Father
+4564	Persona
+4565	Office
+4566	Persona
+4567	Amanda Knox
+4568	spouse
+4569	Relationship
+4570	Person
+4571	org
+4572	Persona
+4573	American
+4574	Persona
+4575	Xinhua
+4576	spouse
+4577	ShopperTrak
+4578	Person
+4579	Her mother
+4580	Persona
+4581	org
+4582	Persona
+4583	Relationship
+4584	relationship
+4585	Location
+4586	Person
+4587	No_relation
+4588	Persona
+4589	jirga
+4590	Persona
+4591	org
+4592	org
+4593	org
+4594	Coastal Conservation League
+4595	No_relationship
+4596	Entity 1
+4597	Jeremy Haslam
+4598	org
+4599	org
+4600	She
+4601	religion
+4602	Entity 1
+4603	Ghazi
+4604	Relationship
+4605	org
+4606	Wen Qiang
+4607	Persona
+4608	John Graham
+4609	Relationship
+4610	No_relation
+4611	No_relationship
+4612	World
+4613	No_relationship
+4614	org
+4615	parent
+4616	The State Department
+4617	Persona
+4618	Person with whom he took in young women abandoned by smugglers
+4619	org
+4620	org
+4621	No_relationship
+4622	org
+4623	He
+4624	bln yuan
+4625	None
+4626	He
+4627	UASR
+4628	Relationship
+4629	org
+4630	no_relation
+4631	nea
+4632	Ilan Ramon
+4633	Relationship
+4634	AIM
+4635	No_relationship
+4636	org
+4637	Man
+4638	Entity 1: Craig Ranke
+4639	org
+4640	org
+4641	NDRC
+4642	Theda Clark
+4643	org
+4644	org
+4645	His wife
+4646	Persona
+4647	Alessi
+4648	He
+4649	org
+4650	org
+4651	AIG
+4652	Heloise
+4653	org
+4654	org
+4655	Relationship
+4656	Contact_person
+4657	org
+4658	Persona
+4659	org
+4660	Relationship
+4661	org
+4662	org
+4663	org
+4664	He
+4665	AFP
+4666	Persona
+4667	Persona
+4668	Relationship
+4669	No_relationship
+4670	No
+4671	Relationship
+4672	ShopperTrak
+4673	Person with experience with Hell's Kitchen
+4674	Office of the Interior
+4675	Person who is not associated with the New America Foundation
+4676	He
+4677	org
+4678	The military officials named the pilot as Lieutenant Assaf Ramon , 21
+4679	org
+4680	Relationship
+4681	[1]
+4682	Pope
+4683	Person
+4684	org
+4685	Persona
+4686	org
+4687	Relationship
+4688	Relationship
+4689	Persona
+4690	Eloise Spooner
+4691	Admitant
+4692	No_relationship
+4693	org
+4694	The Zionist Rothschild Family
+4695	e-learning
+4696	World
+4697	World
+4698	Persona
+4699	UASR
+4700	Company
+4701	No_relationship
+4702	World Tourism Organization
+4703	no_relation
+4704	Persona
+4705	org
+4706	Amanda Knox
+4707	Answer
+4708	Persona
+4709	Persona
+4710	Entity 1
+4711	org
+4712	No_relationship
+4713	UASR
+4714	Business
+4715	World
+4716	org
+4717	No_relationship
+4718	Entity 1
+4719	Answer
+4720	No_relationship
+4721	Person
+4722	org
+4723	Entity 1: Chen Tao
+4724	Relationship
+4725	No
+4726	Persona
+4727	Wen
+4728	Xie
+4729	org
+4730	Office of the Secretary of State
+4731	org
+4732	Persona
+4733	Entity 1
+4734	Answer: One
+4735	Entity 1: Dave von Kliest
+4736	Sarah Kunstler
+4737	He
+4738	org
+4739	John Giuca
+4740	Relationship
+4741	Person with information about He
+4742	Business
+4743	no_relation
+4744	org
+4745	org
+4746	Heloise
+4747	Sports
+4748	Wen Qiang
+4749	org
+4750	Answer
+4751	Sports
+4752	Countrywide Financial Corp
+4753	John Graham
+4754	Heloise
+4755	Persona
+4756	no_relation
+4757	Interview
+4758	Department of Interior
+4759	Relationship
+4760	Relationship
+4761	Entity 1: Chen Tao
+4762	Herold
+4763	Customer rating 1
+4764	org
+4765	Relationship
+4766	No_relation
+4767	World
+4768	EPF
+4769	He
+4770	He
+4771	Person with financial problems
+4772	No_relationship
+4773	Answer: Entity 1
+4774	John Graham
+4775	World
+4776	No_relationship
+4777	org
+4778	Relationship
+4779	org
+4780	Business
+4781	org
+4782	Persona
+4783	Relationship
+4784	Threat
+4785	Eloise Spooner
+4786	Answer
+4787	United Nations
+4788	He
+4789	org
+4790	org
+4791	org
+4792	Person who is serving life in prison for her murder
+4793	org
+4794	Persona
+4795	org
+4796	org
+4797	Persona
+4798	org
+4799	Person with respect to Entity 1
+4800	YANGON
+4801	org
+4802	Persona
+4803	Relationship
+4804	Carrie Daniels
+4805	World
+4806	org
+4807	Persona
+4808	Persona
+4809	Entity 1
+4810	Person
+4811	Entity 1
+4812	China Charity Federation
+4813	Relationship
+4814	Relationship
+4815	Relationship
+4816	Persona
+4817	Business
+4818	Relationship
+4819	Office
+4820	org
+4821	No_relationship
+4822	Persona
+4823	org
+4824	Person
+4825	org
+4826	org
+4827	org
+4828	Answer
+4829	B-named
+4830	No_relationship
+4831	no_relation
+4832	Persona
+4833	org
+4834	Dworin
+4835	Answer
+4836	Relationship
+4837	Relationship
+4838	Location
+4839	Location
+4840	Alan Gross (born in Maryland) is a US citizen
+4841	org
+4842	Herold
+4843	org
+4844	Relationship
+4845	Relationship
+4846	No_relationship
+4847	No_relationship
+4848	org
+4849	org
+4850	no_relation
+4851	No_relation
+4852	Location
+4853	org
+4854	org
+4855	Relationship
+4856	org
+4857	ShopperTrak
+4858	No_relationship
+4859	Business
+4860	org
+4861	no_relationship
+4862	Entity 1: Director
+4863	Family
+4864	no_relation
+4865	Countrywide Financial Corp
+4866	No_relation
+4867	Persona
+4868	World
+4869	Answer
+4870	Persona
+4871	Persona
+4872	org
+4873	no_relation
+4874	Business
+4875	NTSO
+4876	Xinjiang branch
+4877	He
+4878	Sexual abuse
+4879	Relationship
+4880	Alessi
+4881	Relationship
+4882	Persona
+4883	org
+4884	Persona
+4885	Person
+4886	World
+4887	no_relation
+4888	Bibi
+4889	He
+4890	No_relationship
+4891	org
+4892	No_relation
+4893	org
+4894	Person with whom Piedra owes back taxes and interest
+4895	Chef Central
+4896	Entity 1
+4897	Persona
+4898	Athlete
+4899	org
+4900	org
+4901	Annie Mae Aquash
+4902	org
+4903	Relationship
+4904	org
+4905	No_relationship
+4906	Identity
+4907	World
+4908	World
+4909	United States
+4910	Persona
+4911	org
+4912	country
+4913	Cerniglia
+4914	National Restaurant Association
+4915	org
+4916	American Free Press
+4917	Entity 1
+4918	Location
+4919	Dworin
+4920	ShopperTrak
+4921	He
+4922	Office
+4923	He
+4924	ntso
+4925	He
+4926	MGE
+4927	Persona
+4928	Contact_person
+4929	Answer: murder
+4930	Persons with disabilities
+4931	Persons with whom Laura Silsby and her confidante remain in detention
+4932	acquitted
+4933	Person with experience with the missionaries
+4934	org
+4935	Xie Caiping
+4936	Relationship
+4937	Entity 1
+4938	Entity 1
+4939	org
+4940	org
+4941	org
+4942	org
+4943	AARP
+4944	Person with information about Entity 1
+4945	org
+4946	org
+4947	no_relation
+4948	Relationship
+4949	No_relation
+4950	org
+4951	Relationship
+4952	he
+4953	Person who was killed in the shooting was a crime reporter
+4954	His
+4955	He
+4956	World
+4957	no_relation
+4958	Relationship
+4959	org
+4960	ShopperTrak
+4961	Persona
+4962	Persona
+4963	org
+4964	AAUW
+4965	World
+4966	no_relation
+4967	National Restaurant Association
+4968	No_relationship
+4969	Rudolph W Giuliani
+4970	Persona
+4971	NDRC
+4972	Answer
+4973	org
+4974	Person
+4975	org
+4976	Relationship
+4977	Persona
+4978	org
+4979	The government and controlled media have lied to the public about 9-11 for 6 years
+4980	ShopperTrak
+4981	AIM
+4982	Relationship
+4983	org
+4984	He
+4985	spokesman
+4986	org
+4987	Relationship
+4988	Customer
+4989	Contact_person
+4990	Person who is not related to Gross
+4991	Xie
+4992	UN
+4993	AIG
+4994	ShopperTrak
+4995	Contact_person
+4996	He
+4997	Eloise Spooner
+4998	org
+4999	org

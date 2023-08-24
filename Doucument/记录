@@ -13,7 +13,7 @@ Our findings are:
 3) size -> 
 Flan-T5-3B Alpaca-7B Vicuna-7B T0++ 11B Flan-T5-11B WizardLM-13B 
 
-对FLAN-T5 3b, 11b，Alpaca 7b, Vicuna 7b, WizardLM 7b模型在TACRED，RETACRED，TACREV，SemEval数据集（分为unseen instruction和unseen task）上测试，P,Recall,F1
+对FLAN-T5 3b, 11b，Alpaca 7b, Vicuna 7b, WizardLM 13b模型在TACRED，RETACRED，TACREV，SemEval数据集（分为unseen instruction和unseen task）上测试，P,Recall,F1
  
 Alpaca，Vicuna，WizardLM 以及traditional task-oridented 
 
@@ -60,9 +60,10 @@ Table 1
 图2 在测试中使用unseen task下的RE Instructions会降低Fine-tuned LLMs的性能（a）, 规模大小不一定能解决这个问题(b)
 (a)使用seen和unseen task下的Instructions时，模型的平均zero-shot性能(b)使用seen和unseen task下的Instructions时，不同模型大小的Flan-T5性能表现
 
+表3 在6个模型上使用seen task(QA instructions)和unseen task(RE instructions)的结果（按类型分组）。当使用RE Instructions时，性能会降低——sometimes by xxxpoint这表明经过fine-tuned的模型的鲁棒性不强。
 
+我们在图2和表3中呈现了测试结果，其中表3包含了6个模型在数据集上不同task下的性能和表现。从图2中可以发现在使用unseen task下的RE Instructions时性能相较于seen task下的QA Instructions都低。表3的结果是按照task类型进行划分的，我们发现，使用unseen task下的Instructions对LLMs的鲁棒性影响较大.
 
-我们在图2和表3
 	We present the main aggregated analysis results in Figure 2 and Table 3. The take-away here is
 that using instructions unobserved in training—but manually composed for the task at hand and so
 semantically appropriate—leads to considerable degradation in performance: On average, unobserved
@@ -75,7 +76,7 @@ instructions. We provide additional, more granular (dataset-level) results in th
 	Above we used general instructions requesting the model to perform tasks (Table 1). Here we delve
 further into the performance degradation observed when using novel instructions. We report a curious
 result highlighting the degree to which models rely on having previously observed instructions:
-Incorrect but observed instructions outperform appropriate but unobserved instructions (Figure 3).做一下Incorrect但observed的instruction表现和appropriate but unobserved表现对比，出一个对比的大表**
+Incorrect but observed instructions outperform appropriate but unobserved instructions 
 
 
 

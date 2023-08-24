@@ -12,7 +12,7 @@ import sys
 
 def load_data(input_dir, instruction, shot_count, eval_by_logits, tokenizer):
     items, examples = [], []
-    pattern = r".*QA4RE\.csv"
+    pattern = r".*davinci-003-QA4RE\.csv"
     files = [f for f in os.listdir(input_dir) if os.path.isfile(
         os.path.join(input_dir, f)) and re.match(pattern, f)]
     print(f"{files}")

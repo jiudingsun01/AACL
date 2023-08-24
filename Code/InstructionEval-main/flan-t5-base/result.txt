@@ -1,0 +1,139 @@
+-----------------QA Instruction: 0 -----------------
+
+RETACRED_qa_flan-t5-base
+Precision: 0.4018	Recall: 0.4018	F1 Score: 0.4018
+
+
+semeval_qa_flan-t5-base
+Precision: 0.08321664332866573	Recall: 0.0832	F1 Score: 0.0832083208320832
+
+
+TACRED_qa_flan-t5-base
+Precision: 0.399	Recall: 0.399	F1 Score: 0.399
+
+
+TACREV_qa_flan-t5-base
+Precision: 0.375	Recall: 0.375	F1 Score: 0.375
+
+-----------------QA Instruction: 1 -----------------
+
+RETACRED_qa_flan-t5-base
+Precision: 0.3808	Recall: 0.3808	F1 Score: 0.3808
+
+
+semeval_qa_flan-t5-base
+Precision: 0.0980980980980981	Recall: 0.098	F1 Score: 0.09804902451225612
+
+
+TACRED_qa_flan-t5-base
+Precision: 0.356	Recall: 0.356	F1 Score: 0.356
+
+
+TACREV_qa_flan-t5-base
+Precision: 0.332	Recall: 0.332	F1 Score: 0.332
+
+
+-----------------QA Instruction: 2 -----------------
+
+RETACRED_qa_flan-t5-base
+Precision: 0.4178	Recall: 0.4178	F1 Score: 0.41779999999999995
+
+
+semeval_qa_flan-t5-base
+Precision: 0.0836	Recall: 0.0836	F1 Score: 0.0836
+
+
+TACRED_qa_flan-t5-base
+Precision: 0.432	Recall: 0.432	F1 Score: 0.432
+
+
+TACREV_qa_flan-t5-base
+Precision: 0.393	Recall: 0.393	F1 Score: 0.393
+
+-----------------QA Instruction: 3 -----------------
+
+
+RETACRED_qa_flan-t5-base
+Precision: 0.3778	Recall: 0.3778	F1 Score: 0.3778
+
+
+semeval_qa_flan-t5-base
+Precision: 0.08723489395758303	Recall: 0.0872	F1 Score: 0.08721744348869774
+
+
+TACRED_qa_flan-t5-base
+Precision: 0.347	Recall: 0.347	F1 Score: 0.347
+
+
+TACREV_qa_flan-t5-base
+Precision: 0.343	Recall: 0.343	F1 Score: 0.343
+
+-----------------RE Instruction: 0 -----------------
+
+RETACRED_re_flan-t5-base
+Precision: 0.1320049813200498	Recall: 0.09658314350797266	F1 Score: 0.11154959221257563
+
+
+semeval_re_flan-t5-base
+Precision: 0.24725274725274726	Recall: 0.045	F1 Score: 0.07614213197969544
+
+
+TACRED_re_flan-t5-base
+Precision: 0.088	Recall: 0.09401709401709402	F1 Score: 0.0909090909090909
+
+
+TACREV_re_flan-t5-base
+Precision: 0.09540636042402827	Recall: 0.12272727272727273	F1 Score: 0.1073558648111332
+
+-----------------RE Instruction: 1 -----------------
+
+RETACRED_re_flan-t5-base
+Precision: 0.19350533807829182	Recall: 0.19817767653758542	F1 Score: 0.19581363943281566
+
+
+semeval_re_flan-t5-base
+Precision: 0.42857142857142855	Recall: 0.024	F1 Score: 0.045454545454545456
+
+
+TACRED_re_flan-t5-base
+Precision: 0.11396011396011396	Recall: 0.17094017094017094	F1 Score: 0.13675213675213677
+
+
+TACREV_re_flan-t5-base
+Precision: 0.10723860589812333	Recall: 0.18181818181818182	F1 Score: 0.13490725126475547
+
+-----------------RE Instruction: 2 -----------------
+
+RETACRED_re_flan-t5-base
+Precision: 0.19960732984293195	Recall: 0.13895216400911162	F1 Score: 0.16384636046199302
+
+
+semeval_re_flan-t5-base
+Precision: 0.27049180327868855	Recall: 0.033	F1 Score: 0.05882352941176471
+
+
+TACRED_re_flan-t5-base
+Precision: 0.1036036036036036	Recall: 0.09829059829059829	F1 Score: 0.10087719298245615
+
+
+TACREV_re_flan-t5-base
+Precision: 0.07894736842105263	Recall: 0.08181818181818182	F1 Score: 0.08035714285714285
+
+-----------------RE Instruction: 3 -----------------
+
+RETACRED_re_flan-t5-base
+Precision: 0.16476126429051782	Recall: 0.11161731207289294	F1 Score: 0.13307984790874525
+
+
+semeval_re_flan-t5-base
+Precision: 0.30327868852459017	Recall: 0.037	F1 Score: 0.06595365418894832
+
+
+TACRED_re_flan-t5-base
+Precision: 0.1	Recall: 0.09829059829059829	F1 Score: 0.09913793103448275
+
+
+TACREV_re_flan-t5-base
+Precision: 0.06808510638297872	Recall: 0.07272727272727272	F1 Score: 0.07032967032967032
+
+

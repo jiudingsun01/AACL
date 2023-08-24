@@ -1,0 +1,5000 @@
+0	Herold's
+1	Sports
+2	Office of the President
+3	China Charity Federation
+4	Sarah Kunstler
+5	Amanda Knox
+6	The Netherlands
+7	Persona
+8	org
+9	Xie Caiping
+10	Amanda Knox
+11	Sports
+12	org
+13	Wen Qiang
+14	brother
+15	Person who is not a columnist
+16	org
+17	religion
+18	Father
+19	org
+20	ADF Companies of Fairfield, NJ
+21	Relationship
+22	No_relation
+23	Entity 2 : Trend
+24	No_relation
+25	e5
+26	No_relationship
+27	World
+28	org
+29	No_relationship
+30	No_relationship
+31	Relationship
+32	spouse
+33	Business
+34	No_relation
+35	Relationship
+36	org:political/religious_affiliation
+37	Location
+38	org
+39	Persona
+40	Person with information about Gross
+41	no_relation
+42	Amanda Knox
+43	No_relationship
+44	Entity 1
+45	China Charity Federation
+46	Heloise
+47	No_relationship
+48	Air Evac Lifeteam
+49	Naneek Graham
+50	org
+51	Entity 1
+52	Relationship
+53	Persona
+54	Friends
+55	Entity 1 is Red Cross co-workers
+56	Contact_names
+57	Countrywide Financial Corp
+58	religion
+59	AIG
+60	Customer
+61	Xie Caiping
+62	World
+63	org
+64	Entity 1
+65	org
+66	Alico
+67	Business
+68	No_relationship
+69	Wen
+70	No_relationship
+71	None
+72	He
+73	org
+74	Alessi
+75	No_relationship
+76	org
+77	org
+78	William A Lange
+79	No_relation
+80	China
+81	Natalie Hagemo
+82	org
+83	Wen
+84	Entity 1
+85	Person with knowledge of the arrests of Gross is listed as a suspect
+86	ShopperTrak
+87	Wen Qiang
+88	Persona
+89	Entity 1
+90	org
+91	org
+92	Person with information about Lumumba
+93	Alessi
+94	Relationship
+95	Business
+96	Office of the Secretary of State
+97	MANAGUA
+98	Relationship
+99	org
+100	Persona
+101	Brad Hagemo
+102	Angelo Mozilo
+103	org
+104	Relationship
+105	No_relationship
+106	Location
+107	org
+108	Answer1: charges against Silsby
+109	No_relation
+110	Answer: Taiwan
+111	org
+112	Entity 1
+113	Persona
+114	Persona
+115	org
+116	Persona
+117	Relationship
+118	No_relationship
+119	Business
+120	Wen
+121	No_relationship
+122	Police
+123	World
+124	Wen Qiang
+125	org
+126	AIG
+127	Father
+128	No_relation
+129	Francesco Introna
+130	org
+131	Wen Qiang
+132	Heloise
+133	World
+134	ShopperTrak
+135	Contact_person
+136	He
+137	He is brother
+138	Contact
+139	World
+140	She is an art teacher
+141	org
+142	World
+143	Relationship
+144	Relationship
+145	Persona
+146	org
+147	No_relation
+148	entity
+149	World
+150	Youssoufou Bamba
+151	Friends
+152	Countrywide Financial
+153	rupiah
+154	Relationship
+155	org
+156	nea
+157	No_relationship
+158	Location
+159	AAUW
+160	Wen Qiang
+161	Wen Qiang
+162	World
+163	Police
+164	He is brother
+165	Entity 1
+166	BedBug Central
+167	Wen
+168	World
+169	org
+170	Relationship
+171	Relationship
+172	College
+173	ATF
+174	Answer: yes
+175	National Energy Administration
+176	Relationship
+177	country_of_life
+178	org
+179	Family
+180	World
+181	Entity 1
+182	Contact
+183	Entity 1
+184	org
+185	No_relation
+186	parent
+187	org
+188	George Sodini
+189	Entity 1
+190	Sports
+191	World
+192	org
+193	Answer
+194	nea
+195	Relationship
+196	Person with whom Chiafari started his shift at 3 pm
+197	no_relation
+198	Person
+199	org
+200	No_relationship
+201	org
+202	World
+203	The nationality of Eugenio Vagni is Italian national
+204	Entity 1
+205	Relationship
+206	org
+207	No_relationship
+208	org
+209	Person
+210	World
+211	Artine S Utomo
+212	Relationship
+213	Governing body
+214	org
+215	He
+216	Entity 1: Bruno
+217	Entity 1
+218	No_relationship
+219	Wen
+220	Answer: NY
+221	Persona
+222	Relationship
+223	College
+224	org
+225	Physicist
+226	org
+227	Ivory Coast
+228	Office of the Attorney General
+229	Wen Qiang
+230	org
+231	The Italian worker of the ICRC is Eugenio Vagni
+232	Relationship
+233	Answer: yes
+234	Location
+235	No_relation
+236	Relationship
+237	org
+238	org
+239	No_relationship
+240	org
+241	Office
+242	Wen Qiang
+243	National Energy Administration
+244	Persona
+245	Police
+246	The Good Broker , LLC
+247	Persona
+248	CIA
+249	ShopperTrak
+250	Answer: spokeswoman
+251	Albert Lange
+252	No_relationship
+253	Persona
+254	Relationship
+255	Relationship
+256	No_relationship
+257	Personasured
+258	No_relationship
+259	Person
+260	No_relationship
+261	ADF
+262	Assaf Ramon
+263	Office
+264	Sports
+265	Persona
+266	Relationship
+267	ShopperTrak
+268	Person
+269	org
+270	Person
+271	a-aDomestic Life
+272	Entity 1
+273	no_relation
+274	Almena Lomax
+275	Person
+276	Entity 1
+277	Relationship
+278	Persona
+279	Relationship
+280	no_relation
+281	org
+282	No_relationship
+283	World
+284	GE Money Bank
+285	Person with whom he performed Beatles covers and original songs
+286	org
+287	Relationship
+288	Dworin
+289	No_relationship
+290	College is St David 's United Church- name is Wayne A Holst- nationality is Canada- birth place is st
+291	org
+292	No_relationship
+293	org
+294	no_relation
+295	World
+296	Persona
+297	No_relation
+298	Pope
+299	Relationship
+300	Office
+301	American
+302	No_relationship
+303	Interior
+304	No_relationship
+305	Person
+306	No_relation
+307	Countrywide
+308	No_relation
+309	org
+310	Entity 1 : Soro
+311	No_relation
+312	World
+313	Kisses
+314	ADF
+315	enthused Piano
+316	Entity 1
+317	org
+318	org:alternate_names
+319	No_relation
+320	No_relationship
+321	UASR
+322	Heloise
+323	Xie
+324	org
+325	Person with interests in journalism
+326	Cosa Nostra
+327	org
+328	Adela Dworin
+329	Relationship
+330	He
+331	org
+332	Alessi
+333	Person
+334	no_relation
+335	ADF
+336	World
+337	org
+338	Relationship
+339	no_relation
+340	Relationship
+341	Entity 1
+342	Person with information about the kidnapping
+343	Persona
+344	No_relationship
+345	Persona
+346	No_relationship
+347	Answer
+348	Animal
+349	org
+350	org
+351	Entity 1
+352	parent
+353	Person
+354	org
+355	NDRC
+356	Personasured
+357	He
+358	Person
+359	He
+360	org
+361	He is
+362	Kisses
+363	Answer: Person
+364	No_relation
+365	Relationship
+366	0
+367	Person with whom Piedra owes back taxes and interest
+368	Xie
+369	Persona
+370	ShopperTrak
+371	Sports
+372	family
+373	Naveed Iqbal
+374	No_relationship
+375	ShopperTrak
+376	org
+377	AAUW
+378	Sports
+379	Persona
+380	org
+381	spouse
+382	org
+383	org
+384	Person
+385	Father
+386	Relationship
+387	org
+388	No_relation
+389	org
+390	ShopperTrak
+391	Xie Caiping
+392	Bibi
+393	spouse
+394	no_relation
+395	Piedra
+396	Persona
+397	No_relation
+398	no_relation
+399	Location Location
+400	Entity 1
+401	Persona
+402	Person
+403	Heloise
+404	Entity 1: Progressive Democrats of America
+405	ADF
+406	Sports
+407	John A Boehner, R-Ohio
+408	Person with knowledge of the crime
+409	org
+410	Xie Caiping
+411	Persona
+412	Person
+413	Secretary
+414	Relationship
+415	Matteo Messina Denaro
+416	Her husband is Shelby
+417	Persona
+418	Relationship
+419	Entity 1 is Graham
+420	Guest
+421	He is an apprentice at a printer and store detective in Times Square -- a job he said he hated
+422	Office of the Interior
+423	org
+424	org
+425	Answer
+426	He is in a military hospital
+427	Office of Secretary of State
+428	No_relation
+429	He
+430	Persona
+431	Person who is independent is Nir Rosen
+432	Adi Amit
+433	Bibi
+434	org
+435	Ilan Ramon
+436	He
+437	NDRC Entity 1
+438	Shoppers_attended
+439	Entity 1
+440	No_relationship
+441	John Graham
+442	No_relation
+443	Business
+444	org
+445	Person with custody
+446	Eloise Spooner
+447	Relationship
+448	Relationship
+449	org
+450	No_relationship
+451	org
+452	Relationship
+453	World
+454	He
+455	Person
+456	Entity 1: Eugenio Vagni of Italy , Andreas Notter of Switzerland and Filipina Mary Jean Lacaba
+457	he
+458	Sports
+459	Relationship
+460	org
+461	Xie
+462	He
+463	Bumi Resources
+464	Entity 1
+465	Persona
+466	He
+467	He
+468	org
+469	Wen Qiang
+470	Relationship
+471	org
+472	Notter
+473	Relationship
+474	org
+475	org
+476	No_relationship
+477	Alessi
+478	Theda Clark
+479	no_relation
+480	Relationship
+481	He
+482	spouse
+483	org
+484	Answer: he
+485	The gender of the female professor is unknown
+486	org
+487	spouse
+488	org
+489	Alessi
+490	Person
+491	ShopperTrak
+492	Person on the tour
+493	She
+494	NDRC
+495	No_relation
+496	Entity 1
+497	Entity 1 is New Fabris and Eugene Fabris
+498	Person
+499	no_relationship
+500	No_relation
+501	daughter
+502	no_relation
+503	Persona
+504	Entity 1
+505	No_relationship
+506	Gage
+507	Persona
+508	AE911Truth Companion Edition 10Minute WTC 7 Video Online September 11th WTC World Trade Center Building WTC7 Controlled
+509	No_relationship
+510	Person
+511	org
+512	no_relation
+513	Alarcon
+514	Person
+515	Entity 1
+516	No_relationship
+517	World
+518	Relationship
+519	Relationship
+520	MGE
+521	Halliburton
+522	Entity 1
+523	Answer: he
+524	Friends
+525	no_relationship
+526	Relationship
+527	Person
+528	World
+529	Person at the club
+530	org
+531	gov
+532	He
+533	No_relationship
+534	Family
+535	No_relationship
+536	No_relationship
+537	Location
+538	Entity 2 : Ed
+539	org
+540	No
+541	Relationship
+542	Her mother
+543	NEA
+544	Wen
+545	Person with information about Matteo Messina Denaro
+546	No_relationship
+547	Avery
+548	org
+549	World
+550	She
+551	org
+552	Person
+553	Herold
+554	Herold
+555	No_relationship
+556	No_relationship
+557	Answer
+558	No_relation
+559	Person with whom Piedra reported contributed more than $ 270,000
+560	Person with information about Messina Denaro
+561	Dworins
+562	Aquash
+563	Relationship
+564	Entity 1
+565	org
+566	org
+567	Animal
+568	Relationship
+569	No_relation
+570	Persona
+571	org
+572	Entity 1
+573	family_name
+574	no_relation
+575	Wen Qiang
+576	spouse
+577	Alessi
+578	Entity 1: Chen Tao
+579	No_relation
+580	No
+581	No_relationship
+582	Persona
+583	wife
+584	Entity 1
+585	Herold
+586	Contact
+587	parent
+588	org
+589	He
+590	org
+591	Friends
+592	Aquash
+593	org
+594	NDRC
+595	ADF
+596	Relationship
+597	UN ambassador
+598	he
+599	Persona
+600	ABU ALWAFA
+601	Entity 1
+602	Friends
+603	Entertainment
+604	Athletes
+605	Relationship
+606	org
+607	Entity 1
+608	Persona
+609	No_relationship
+610	Relationship
+611	Alessi
+612	religion
+613	Personasure_of_statement
+614	NRA
+615	He
+616	org
+617	No_planers
+618	No_relationship
+619	Persona
+620	Kissner
+621	Business
+622	he
+623	Entity 1
+624	China Charity Federation
+625	No_relationship
+626	Person
+627	Entity 1
+628	org
+629	NRA
+630	Ivory Coast
+631	Entity 1
+632	NTSO
+633	No_relationship
+634	Entity 1
+635	ShopperTrak
+636	Adela Dworin
+637	No_relation
+638	org
+639	Relationship
+640	org
+641	Relationship
+642	org
+643	Allied Democratic Forces
+644	org
+645	org:alternate_names
+646	org
+647	Family
+648	org
+649	Relationship
+650	John Graham
+651	No_relationship
+652	Xie
+653	org:alternate_names
+654	World
+655	Person
+656	Entity 1 is a list of executive co-producers It is the director of the Beijing 2008 Games It is the director of the 2006
+657	Contact_person
+658	org
+659	Sports
+660	Relationship
+661	PATA
+662	No_relationship
+663	org
+664	org
+665	Grails Development Team Jeremy Grelle
+666	Person
+667	Entity 1
+668	Entity 1
+669	LC
+670	Herold
+671	Herold
+672	Entity 1
+673	0
+674	Non_relationship
+675	Persona
+676	No_relation
+677	John Graham
+678	Xinhua
+679	No_relationship
+680	The Menil Collection
+681	org
+682	no_relation
+683	Relationship
+684	Xie Caiping
+685	Father
+686	UN ambassador
+687	org
+688	She
+689	Alessi
+690	Amazon
+691	No_relationship
+692	Animal
+693	Office of National Drug Control Policy
+694	No_relationship
+695	World
+696	org
+697	Norris Church Mailer
+698	org
+699	Location
+700	Wen
+701	Adity 1 is Adela Dworin; Adity 2 is Abraham Marcus Matterin; Adity 3 is Adela Dworin; Ad
+702	No_relation
+703	No_relationship
+704	No_relationship
+705	Person
+706	Persona
+707	Sports
+708	Entity 1
+709	ShopperTrak
+710	Persona
+711	org
+712	he
+713	Dwight Garner
+714	He
+715	Chen Tao Entity 2 : Dong Fangzhuo
+716	Answer
+717	Relationship
+718	Relationship
+719	Alessi and Son Citgo
+720	Dworin
+721	ShopperTrak
+722	No_name
+723	Friends
+724	Persona
+725	Almena Lomax
+726	Relationship
+727	Persona
+728	Heloise
+729	Relationship
+730	Esther-Ethy Mamane
+731	org
+732	org
+733	House
+734	Heloise
+735	Tempat Pelelangan Ikan
+736	No_relation
+737	Business
+738	He
+739	National Restaurant Association
+740	No_relation
+741	ADF
+742	No_relationship
+743	World
+744	Xie Caiping
+745	Alessi
+746	org
+747	Wen
+748	Coastal Conservation League
+749	Relationship
+750	Bacon
+751	No_relation
+752	org
+753	He
+754	No_relationship
+755	Secretary
+756	Relationship
+757	PATA
+758	No_relation
+759	Xie Caiping
+760	org
+761	No_relationship
+762	Person of the same name
+763	No_relationship
+764	parent
+765	No_relation
+766	Relationship
+767	Relationship
+768	no_relation
+769	No_relation
+770	ADF
+771	Location
+772	Entity 1
+773	org
+774	World
+775	NDRC
+776	Persona
+777	Relationship
+778	Office
+779	Person who resigned after comments about Nir Rosen has been forced to resign his position at NYU over comments he made regarding Logan 
+780	Relationship
+781	ADF
+782	No_relationship
+783	spouse
+784	No_relationship
+785	Contact_person
+786	Relationship
+787	Relationship
+788	org
+789	World Trade Center
+790	Person who is not related to Christopher Bollyn
+791	World
+792	Contact_person
+793	No_relationship
+794	org
+795	NDRC
+796	org
+797	org
+798	org
+799	ntso
+800	org
+801	No_relationship
+802	org
+803	Partnering
+804	Relationship
+805	Person with experience in military hospital
+806	Relationship
+807	ADF
+808	no_relation
+809	spouse
+810	No_relationship
+811	Customer rating is 1 out of 5
+812	org
+813	NTSO
+814	Person
+815	org
+816	org
+817	World
+818	No_relationship
+819	Relationship
+820	Relationship
+821	No_relationship
+822	yes
+823	Sports
+824	The Menil Collection
+825	Relationship
+826	Person
+827	He
+828	Relationship
+829	 http://wwwadborg/media/Articles/2007/12155-asian-poverties-reductions
+830	Visa International Asia Pacific
+831	He
+832	no_relation
+833	org
+834	ABN Amro
+835	Entity 1
+836	Persona
+837	Nofer Ishai-Karen
+838	org
+839	org
+840	No_relation
+841	org
+842	She
+843	Department
+844	Herold
+845	Answer: National Congress of American Indians
+846	Relationship
+847	org
+848	Person who was killed is named Ruben van Assouw
+849	Alessi
+850	no_relation
+851	org
+852	Relationship
+853	Relationship
+854	Entity 1: Dworin
+855	No_relationship
+856	Person
+857	Persona
+858	Relationship
+859	No_relationship
+860	Relationship
+861	no_relation
+862	None
+863	he
+864	Persona
+865	No_relation
+866	Relationship
+867	No_relationship
+868	No_relationship
+869	org
+870	country_of_birth
+871	Person
+872	Contact_person
+873	No_relation
+874	Persona
+875	National Restaurant Association
+876	Wen Qiang
+877	Answer: family
+878	Persona_of
+879	Non_relationship
+880	Her
+881	Location
+882	he
+883	Graham
+884	Relationship
+885	Answer
+886	Answer: no
+887	Bibi
+888	org
+889	org
+890	ShopperTrak
+891	org
+892	org
+893	NDA
+894	LC
+895	No_relationship
+896	org
+897	Sports
+898	AIG
+899	Person
+900	Wen
+901	Relationship
+902	No_relation
+903	Persona
+904	No_relationship
+905	No_relationship
+906	Contact_person
+907	Location
+908	Ranke
+909	No
+910	Vatican
+911	Entity 1 is Sycamore, Pune
+912	Person
+913	No_relationship
+914	Bibi
+915	org
+916	Entity 1
+917	no_relation
+918	Bibi
+919	org
+920	No_relationship
+921	Gage
+922	He
+923	Entity 1 is Corporate Library
+924	gov
+925	sycamore
+926	org
+927	He
+928	org
+929	Relationship
+930	Science/Tech
+931	Answer: religion
+932	No_relationship
+933	Admittance
+934	Relationship
+935	Business
+936	Person
+937	Relationship
+938	Persona
+939	no_relation
+940	Person
+941	He
+942	spouse
+943	Contact
+944	org
+945	Gage
+946	Persons in the city died
+947	org
+948	No_relation
+949	He
+950	Person
+951	Relationship
+952	Esther-Ethy Mamane
+953	The title of the episode that was aired on YouTube is "Axelrod"
+954	Alistair Abdul-Jabbar
+955	United States
+956	Answer1: Aquash
+957	Persona
+958	org
+959	org
+960	No_relationship
+961	Heloise
+962	Alessi
+963	org
+964	Person with whom they had her sign three fabricated affidavits falsely stated that she was my girlfriend and that she saw me kill Agent
+965	Business
+966	Persona
+967	No_relation
+968	Entity 1
+969	org
+970	Person
+971	China Charity Federation
+972	parent
+973	org
+974	Notter
+975	No_relation
+976	Heloise
+977	org
+978	Relationship
+979	AFP
+980	Heloise
+981	Esther-Ethy Mamane
+982	Relationship
+983	Person who surrendered to police on Wednesday is Eliza Samudio
+984	[['Global Research', 'July 8/04'], ['European Parliament Verbatim Report of Proceedings', 'J
+985	Peter Dean
+986	spouse
+987	Persona
+988	org
+989	Amanda Knox
+990	org
+991	Business
+992	Wen
+993	org
+994	NDRC
+995	Relationship
+996	org
+997	org
+998	Organized by
+999	No_relationship
+1000	Herold's
+1001	Sports
+1002	Office of the President
+1003	China Charity Federation
+1004	Sarah Kunstler
+1005	Amanda Knox
+1006	The Netherlands
+1007	Persona
+1008	org
+1009	Xie Caiping
+1010	Amanda Knox
+1011	Sports
+1012	org
+1013	Wen Qiang
+1014	brother
+1015	Person who is not a columnist
+1016	org
+1017	religion
+1018	Father
+1019	org
+1020	ADF Companies of Fairfield, NJ
+1021	Relationship
+1022	No_relation
+1023	Entity 2 : Trend
+1024	No_relation
+1025	e5
+1026	No_relationship
+1027	World
+1028	org
+1029	No_relationship
+1030	No_relationship
+1031	Relationship
+1032	spouse
+1033	Business
+1034	No_relation
+1035	Relationship
+1036	org:political/religious_affiliation
+1037	Location
+1038	org
+1039	Persona
+1040	Person with information about Gross
+1041	no_relation
+1042	Amanda Knox
+1043	No_relationship
+1044	Entity 1
+1045	China Charity Federation
+1046	Heloise
+1047	No_relationship
+1048	Air Evac Lifeteam
+1049	Naneek Graham
+1050	org
+1051	Entity 1
+1052	Relationship
+1053	Persona
+1054	Friends
+1055	Entity 1 is Red Cross co-workers
+1056	Contact_names
+1057	Countrywide Financial Corp
+1058	religion
+1059	AIG
+1060	Customer
+1061	Xie Caiping
+1062	World
+1063	org
+1064	Entity 1
+1065	org
+1066	Alico
+1067	Business
+1068	No_relationship
+1069	Wen
+1070	No_relationship
+1071	None
+1072	He
+1073	org
+1074	Alessi
+1075	No_relationship
+1076	org
+1077	org
+1078	William A Lange
+1079	No_relation
+1080	China
+1081	Natalie Hagemo
+1082	org
+1083	Wen
+1084	Entity 1
+1085	Person with knowledge of the arrests of Gross is listed as a suspect
+1086	ShopperTrak
+1087	Wen Qiang
+1088	Persona
+1089	Entity 1
+1090	org
+1091	org
+1092	Person with information about Lumumba
+1093	Alessi
+1094	Relationship
+1095	Business
+1096	Office of the Secretary of State
+1097	MANAGUA
+1098	Relationship
+1099	org
+1100	Persona
+1101	Brad Hagemo
+1102	Angelo Mozilo
+1103	org
+1104	Relationship
+1105	No_relationship
+1106	Location
+1107	org
+1108	Answer1: charges against Silsby
+1109	No_relation
+1110	Answer: Taiwan
+1111	org
+1112	Entity 1
+1113	Persona
+1114	Persona
+1115	org
+1116	Persona
+1117	Relationship
+1118	No_relationship
+1119	Business
+1120	Wen
+1121	No_relationship
+1122	Police
+1123	World
+1124	Wen Qiang
+1125	org
+1126	AIG
+1127	Father
+1128	No_relation
+1129	Francesco Introna
+1130	org
+1131	Wen Qiang
+1132	Heloise
+1133	World
+1134	ShopperTrak
+1135	Contact_person
+1136	He
+1137	He is brother
+1138	Contact
+1139	World
+1140	She is an art teacher
+1141	org
+1142	World
+1143	Relationship
+1144	Relationship
+1145	Persona
+1146	org
+1147	No_relation
+1148	entity
+1149	World
+1150	Youssoufou Bamba
+1151	Friends
+1152	Countrywide Financial
+1153	rupiah
+1154	Relationship
+1155	org
+1156	nea
+1157	No_relationship
+1158	Location
+1159	AAUW
+1160	Wen Qiang
+1161	Wen Qiang
+1162	World
+1163	Police
+1164	He is brother
+1165	Entity 1
+1166	BedBug Central
+1167	Wen
+1168	World
+1169	org
+1170	Relationship
+1171	Relationship
+1172	College
+1173	ATF
+1174	Answer: yes
+1175	National Energy Administration
+1176	Relationship
+1177	country_of_life
+1178	org
+1179	Family
+1180	World
+1181	Entity 1
+1182	Contact
+1183	Entity 1
+1184	org
+1185	No_relation
+1186	parent
+1187	org
+1188	George Sodini
+1189	Entity 1
+1190	Sports
+1191	World
+1192	org
+1193	Answer
+1194	nea
+1195	Relationship
+1196	Person with whom Chiafari started his shift at 3 pm
+1197	no_relation
+1198	Person
+1199	org
+1200	No_relationship
+1201	org
+1202	World
+1203	The nationality of Eugenio Vagni is Italian national
+1204	Entity 1
+1205	Relationship
+1206	org
+1207	No_relationship
+1208	org
+1209	Person
+1210	World
+1211	Artine S Utomo
+1212	Relationship
+1213	Governing body
+1214	org
+1215	He
+1216	Entity 1: Bruno
+1217	Entity 1
+1218	No_relationship
+1219	Wen
+1220	Answer: NY
+1221	Persona
+1222	Relationship
+1223	College
+1224	org
+1225	Physicist
+1226	org
+1227	Ivory Coast
+1228	Office of the Attorney General
+1229	Wen Qiang
+1230	org
+1231	The Italian worker of the ICRC is Eugenio Vagni
+1232	Relationship
+1233	Answer: yes
+1234	Location
+1235	No_relation
+1236	Relationship
+1237	org
+1238	org
+1239	No_relationship
+1240	org
+1241	Office
+1242	Wen Qiang
+1243	National Energy Administration
+1244	Persona
+1245	Police
+1246	The Good Broker , LLC
+1247	Persona
+1248	CIA
+1249	ShopperTrak
+1250	Answer: spokeswoman
+1251	Albert Lange
+1252	No_relationship
+1253	Persona
+1254	Relationship
+1255	Relationship
+1256	No_relationship
+1257	Personasured
+1258	No_relationship
+1259	Person
+1260	No_relationship
+1261	ADF
+1262	Assaf Ramon
+1263	Office
+1264	Sports
+1265	Persona
+1266	Relationship
+1267	ShopperTrak
+1268	Person
+1269	org
+1270	Person
+1271	a-aDomestic Life
+1272	Entity 1
+1273	no_relation
+1274	Almena Lomax
+1275	Person
+1276	Entity 1
+1277	Relationship
+1278	Persona
+1279	Relationship
+1280	no_relation
+1281	org
+1282	No_relationship
+1283	World
+1284	GE Money Bank
+1285	Person with whom he performed Beatles covers and original songs
+1286	org
+1287	Relationship
+1288	Dworin
+1289	No_relationship
+1290	College is St David 's United Church- name is Wayne A Holst- nationality is Canada- birth place is st
+1291	org
+1292	No_relationship
+1293	org
+1294	no_relation
+1295	World
+1296	Persona
+1297	No_relation
+1298	Pope
+1299	Relationship
+1300	Office
+1301	American
+1302	No_relationship
+1303	Interior
+1304	No_relationship
+1305	Person
+1306	No_relation
+1307	Countrywide
+1308	No_relation
+1309	org
+1310	Entity 1 : Soro
+1311	No_relation
+1312	World
+1313	Kisses
+1314	ADF
+1315	enthused Piano
+1316	Entity 1
+1317	org
+1318	org:alternate_names
+1319	No_relation
+1320	No_relationship
+1321	UASR
+1322	Heloise
+1323	Xie
+1324	org
+1325	Person with interests in journalism
+1326	Cosa Nostra
+1327	org
+1328	Adela Dworin
+1329	Relationship
+1330	He
+1331	org
+1332	Alessi
+1333	Person
+1334	no_relation
+1335	ADF
+1336	World
+1337	org
+1338	Relationship
+1339	no_relation
+1340	Relationship
+1341	Entity 1
+1342	Person with information about the kidnapping
+1343	Persona
+1344	No_relationship
+1345	Persona
+1346	No_relationship
+1347	Answer
+1348	Animal
+1349	org
+1350	org
+1351	Entity 1
+1352	parent
+1353	Person
+1354	org
+1355	NDRC
+1356	Personasured
+1357	He
+1358	Person
+1359	He
+1360	org
+1361	He is
+1362	Kisses
+1363	Answer: Person
+1364	No_relation
+1365	Relationship
+1366	0
+1367	Person with whom Piedra owes back taxes and interest
+1368	Xie
+1369	Persona
+1370	ShopperTrak
+1371	Sports
+1372	family
+1373	Naveed Iqbal
+1374	No_relationship
+1375	ShopperTrak
+1376	org
+1377	AAUW
+1378	Sports
+1379	Persona
+1380	org
+1381	spouse
+1382	org
+1383	org
+1384	Person
+1385	Father
+1386	Relationship
+1387	org
+1388	No_relation
+1389	org
+1390	ShopperTrak
+1391	Xie Caiping
+1392	Bibi
+1393	spouse
+1394	no_relation
+1395	Piedra
+1396	Persona
+1397	No_relation
+1398	no_relation
+1399	Location Location
+1400	Entity 1
+1401	Persona
+1402	Person
+1403	Heloise
+1404	Entity 1: Progressive Democrats of America
+1405	ADF
+1406	Sports
+1407	John A Boehner, R-Ohio
+1408	Person with knowledge of the crime
+1409	org
+1410	Xie Caiping
+1411	Persona
+1412	Person
+1413	Secretary
+1414	Relationship
+1415	Matteo Messina Denaro
+1416	Her husband is Shelby
+1417	Persona
+1418	Relationship
+1419	Entity 1 is Graham
+1420	Guest
+1421	He is an apprentice at a printer and store detective in Times Square -- a job he said he hated
+1422	Office of the Interior
+1423	org
+1424	org
+1425	Answer
+1426	He is in a military hospital
+1427	Office of Secretary of State
+1428	No_relation
+1429	He
+1430	Persona
+1431	Person who is independent is Nir Rosen
+1432	Adi Amit
+1433	Bibi
+1434	org
+1435	Ilan Ramon
+1436	He
+1437	NDRC Entity 1
+1438	Shoppers_attended
+1439	Entity 1
+1440	No_relationship
+1441	John Graham
+1442	No_relation
+1443	Business
+1444	org
+1445	Person with custody
+1446	Eloise Spooner
+1447	Relationship
+1448	Relationship
+1449	org
+1450	No_relationship
+1451	org
+1452	Relationship
+1453	World
+1454	He
+1455	Person
+1456	Entity 1: Eugenio Vagni of Italy , Andreas Notter of Switzerland and Filipina Mary Jean Lacaba
+1457	he
+1458	Sports
+1459	Relationship
+1460	org
+1461	Xie
+1462	He
+1463	Bumi Resources
+1464	Entity 1
+1465	Persona
+1466	He
+1467	He
+1468	org
+1469	Wen Qiang
+1470	Relationship
+1471	org
+1472	Notter
+1473	Relationship
+1474	org
+1475	org
+1476	No_relationship
+1477	Alessi
+1478	Theda Clark
+1479	no_relation
+1480	Relationship
+1481	He
+1482	spouse
+1483	org
+1484	Answer: he
+1485	The gender of the female professor is unknown
+1486	org
+1487	spouse
+1488	org
+1489	Alessi
+1490	Person
+1491	ShopperTrak
+1492	Person on the tour
+1493	She
+1494	NDRC
+1495	No_relation
+1496	Entity 1
+1497	Entity 1 is New Fabris and Eugene Fabris
+1498	Person
+1499	no_relationship
+1500	No_relation
+1501	daughter
+1502	no_relation
+1503	Persona
+1504	Entity 1
+1505	No_relationship
+1506	Gage
+1507	Persona
+1508	AE911Truth Companion Edition 10Minute WTC 7 Video Online September 11th WTC World Trade Center Building WTC7 Controlled
+1509	No_relationship
+1510	Person
+1511	org
+1512	no_relation
+1513	Alarcon
+1514	Person
+1515	Entity 1
+1516	No_relationship
+1517	World
+1518	Relationship
+1519	Relationship
+1520	MGE
+1521	Halliburton
+1522	Entity 1
+1523	Answer: he
+1524	Friends
+1525	no_relationship
+1526	Relationship
+1527	Person
+1528	World
+1529	Person at the club
+1530	org
+1531	gov
+1532	He
+1533	No_relationship
+1534	Family
+1535	No_relationship
+1536	No_relationship
+1537	Location
+1538	Entity 2 : Ed
+1539	org
+1540	No
+1541	Relationship
+1542	Her mother
+1543	NEA
+1544	Wen
+1545	Person with information about Matteo Messina Denaro
+1546	No_relationship
+1547	Avery
+1548	org
+1549	World
+1550	She
+1551	org
+1552	Person
+1553	Herold
+1554	Herold
+1555	No_relationship
+1556	No_relationship
+1557	Answer
+1558	No_relation
+1559	Person with whom Piedra reported contributed more than $ 270,000
+1560	Person with information about Messina Denaro
+1561	Dworins
+1562	Aquash
+1563	Relationship
+1564	Entity 1
+1565	org
+1566	org
+1567	Animal
+1568	Relationship
+1569	No_relation
+1570	Persona
+1571	org
+1572	Entity 1
+1573	family_name
+1574	no_relation
+1575	Wen Qiang
+1576	spouse
+1577	Alessi
+1578	Entity 1: Chen Tao
+1579	No_relation
+1580	No
+1581	No_relationship
+1582	Persona
+1583	wife
+1584	Entity 1
+1585	Herold
+1586	Contact
+1587	parent
+1588	org
+1589	He
+1590	org
+1591	Friends
+1592	Aquash
+1593	org
+1594	NDRC
+1595	ADF
+1596	Relationship
+1597	UN ambassador
+1598	he
+1599	Persona
+1600	ABU ALWAFA
+1601	Entity 1
+1602	Friends
+1603	Entertainment
+1604	Athletes
+1605	Relationship
+1606	org
+1607	Entity 1
+1608	Persona
+1609	No_relationship
+1610	Relationship
+1611	Alessi
+1612	religion
+1613	Personasure_of_statement
+1614	NRA
+1615	He
+1616	org
+1617	No_planers
+1618	No_relationship
+1619	Persona
+1620	Kissner
+1621	Business
+1622	he
+1623	Entity 1
+1624	China Charity Federation
+1625	No_relationship
+1626	Person
+1627	Entity 1
+1628	org
+1629	NRA
+1630	Ivory Coast
+1631	Entity 1
+1632	NTSO
+1633	No_relationship
+1634	Entity 1
+1635	ShopperTrak
+1636	Adela Dworin
+1637	No_relation
+1638	org
+1639	Relationship
+1640	org
+1641	Relationship
+1642	org
+1643	Allied Democratic Forces
+1644	org
+1645	org:alternate_names
+1646	org
+1647	Family
+1648	org
+1649	Relationship
+1650	John Graham
+1651	No_relationship
+1652	Xie
+1653	org:alternate_names
+1654	World
+1655	Person
+1656	Entity 1 is a list of executive co-producers It is the director of the Beijing 2008 Games It is the director of the 2006
+1657	Contact_person
+1658	org
+1659	Sports
+1660	Relationship
+1661	PATA
+1662	No_relationship
+1663	org
+1664	org
+1665	Grails Development Team Jeremy Grelle
+1666	Person
+1667	Entity 1
+1668	Entity 1
+1669	LC
+1670	Herold
+1671	Herold
+1672	Entity 1
+1673	0
+1674	Non_relationship
+1675	Persona
+1676	No_relation
+1677	John Graham
+1678	Xinhua
+1679	No_relationship
+1680	The Menil Collection
+1681	org
+1682	no_relation
+1683	Relationship
+1684	Xie Caiping
+1685	Father
+1686	UN ambassador
+1687	org
+1688	She
+1689	Alessi
+1690	Amazon
+1691	No_relationship
+1692	Animal
+1693	Office of National Drug Control Policy
+1694	No_relationship
+1695	World
+1696	org
+1697	Norris Church Mailer
+1698	org
+1699	Location
+1700	Wen
+1701	Adity 1 is Adela Dworin; Adity 2 is Abraham Marcus Matterin; Adity 3 is Adela Dworin; Ad
+1702	No_relation
+1703	No_relationship
+1704	No_relationship
+1705	Person
+1706	Persona
+1707	Sports
+1708	Entity 1
+1709	ShopperTrak
+1710	Persona
+1711	org
+1712	he
+1713	Dwight Garner
+1714	He
+1715	Chen Tao Entity 2 : Dong Fangzhuo
+1716	Answer
+1717	Relationship
+1718	Relationship
+1719	Alessi and Son Citgo
+1720	Dworin
+1721	ShopperTrak
+1722	No_name
+1723	Friends
+1724	Persona
+1725	Almena Lomax
+1726	Relationship
+1727	Persona
+1728	Heloise
+1729	Relationship
+1730	Esther-Ethy Mamane
+1731	org
+1732	org
+1733	House
+1734	Heloise
+1735	Tempat Pelelangan Ikan
+1736	No_relation
+1737	Business
+1738	He
+1739	National Restaurant Association
+1740	No_relation
+1741	ADF
+1742	No_relationship
+1743	World
+1744	Xie Caiping
+1745	Alessi
+1746	org
+1747	Wen
+1748	Coastal Conservation League
+1749	Relationship
+1750	Bacon
+1751	No_relation
+1752	org
+1753	He
+1754	No_relationship
+1755	Secretary
+1756	Relationship
+1757	PATA
+1758	No_relation
+1759	Xie Caiping
+1760	org
+1761	No_relationship
+1762	Person of the same name
+1763	No_relationship
+1764	parent
+1765	No_relation
+1766	Relationship
+1767	Relationship
+1768	no_relation
+1769	No_relation
+1770	ADF
+1771	Location
+1772	Entity 1
+1773	org
+1774	World
+1775	NDRC
+1776	Persona
+1777	Relationship
+1778	Office
+1779	Person who resigned after comments about Nir Rosen has been forced to resign his position at NYU over comments he made regarding Logan 
+1780	Relationship
+1781	ADF
+1782	No_relationship
+1783	spouse
+1784	No_relationship
+1785	Contact_person
+1786	Relationship
+1787	Relationship
+1788	org
+1789	World Trade Center
+1790	Person who is not related to Christopher Bollyn
+1791	World
+1792	Contact_person
+1793	No_relationship
+1794	org
+1795	NDRC
+1796	org
+1797	org
+1798	org
+1799	ntso
+1800	org
+1801	No_relationship
+1802	org
+1803	Partnering
+1804	Relationship
+1805	Person with experience in military hospital
+1806	Relationship
+1807	ADF
+1808	no_relation
+1809	spouse
+1810	No_relationship
+1811	Customer rating is 1 out of 5
+1812	org
+1813	NTSO
+1814	Person
+1815	org
+1816	org
+1817	World
+1818	No_relationship
+1819	Relationship
+1820	Relationship
+1821	No_relationship
+1822	yes
+1823	Sports
+1824	The Menil Collection
+1825	Relationship
+1826	Person
+1827	He
+1828	Relationship
+1829	 http://wwwadborg/media/Articles/2007/12155-asian-poverties-reductions
+1830	Visa International Asia Pacific
+1831	He
+1832	no_relation
+1833	org
+1834	ABN Amro
+1835	Entity 1
+1836	Persona
+1837	Nofer Ishai-Karen
+1838	org
+1839	org
+1840	No_relation
+1841	org
+1842	She
+1843	Department
+1844	Herold
+1845	Answer: National Congress of American Indians
+1846	Relationship
+1847	org
+1848	Person who was killed is named Ruben van Assouw
+1849	Alessi
+1850	no_relation
+1851	org
+1852	Relationship
+1853	Relationship
+1854	Entity 1: Dworin
+1855	No_relationship
+1856	Person
+1857	Persona
+1858	Relationship
+1859	No_relationship
+1860	Relationship
+1861	no_relation
+1862	None
+1863	he
+1864	Persona
+1865	No_relation
+1866	Relationship
+1867	No_relationship
+1868	No_relationship
+1869	org
+1870	country_of_birth
+1871	Person
+1872	Contact_person
+1873	No_relation
+1874	Persona
+1875	National Restaurant Association
+1876	Wen Qiang
+1877	Answer: family
+1878	Persona_of
+1879	Non_relationship
+1880	Her
+1881	Location
+1882	he
+1883	Graham
+1884	Relationship
+1885	Answer
+1886	Answer: no
+1887	Bibi
+1888	org
+1889	org
+1890	ShopperTrak
+1891	org
+1892	org
+1893	NDA
+1894	LC
+1895	No_relationship
+1896	org
+1897	Sports
+1898	AIG
+1899	Person
+1900	Wen
+1901	Relationship
+1902	No_relation
+1903	Persona
+1904	No_relationship
+1905	No_relationship
+1906	Contact_person
+1907	Location
+1908	Ranke
+1909	No
+1910	Vatican
+1911	Entity 1 is Sycamore, Pune
+1912	Person
+1913	No_relationship
+1914	Bibi
+1915	org
+1916	Entity 1
+1917	no_relation
+1918	Bibi
+1919	org
+1920	No_relationship
+1921	Gage
+1922	He
+1923	Entity 1 is Corporate Library
+1924	gov
+1925	sycamore
+1926	org
+1927	He
+1928	org
+1929	Relationship
+1930	Science/Tech
+1931	Answer: religion
+1932	No_relationship
+1933	Admittance
+1934	Relationship
+1935	Business
+1936	Person
+1937	Relationship
+1938	Persona
+1939	no_relation
+1940	Person
+1941	He
+1942	spouse
+1943	Contact
+1944	org
+1945	Gage
+1946	Persons in the city died
+1947	org
+1948	No_relation
+1949	He
+1950	Person
+1951	Relationship
+1952	Esther-Ethy Mamane
+1953	The title of the episode that was aired on YouTube is "Axelrod"
+1954	Alistair Abdul-Jabbar
+1955	United States
+1956	Answer1: Aquash
+1957	Persona
+1958	org
+1959	org
+1960	No_relationship
+1961	Heloise
+1962	Alessi
+1963	org
+1964	Person with whom they had her sign three fabricated affidavits falsely stated that she was my girlfriend and that she saw me kill Agent
+1965	Business
+1966	Persona
+1967	No_relation
+1968	Entity 1
+1969	org
+1970	Person
+1971	China Charity Federation
+1972	parent
+1973	org
+1974	Notter
+1975	No_relation
+1976	Heloise
+1977	org
+1978	Relationship
+1979	AFP
+1980	Heloise
+1981	Esther-Ethy Mamane
+1982	Relationship
+1983	Person who surrendered to police on Wednesday is Eliza Samudio
+1984	[['Global Research', 'July 8/04'], ['European Parliament Verbatim Report of Proceedings', 'J
+1985	Peter Dean
+1986	spouse
+1987	Persona
+1988	org
+1989	Amanda Knox
+1990	org
+1991	Business
+1992	Wen
+1993	org
+1994	NDRC
+1995	Relationship
+1996	org
+1997	org
+1998	Organized by
+1999	No_relationship
+2000	Herold's
+2001	Sports
+2002	Office of the President
+2003	China Charity Federation
+2004	Sarah Kunstler
+2005	Amanda Knox
+2006	The Netherlands
+2007	Persona
+2008	org
+2009	Xie Caiping
+2010	Amanda Knox
+2011	Sports
+2012	org
+2013	Wen Qiang
+2014	brother
+2015	Person who is not a columnist
+2016	org
+2017	religion
+2018	Father
+2019	org
+2020	ADF Companies of Fairfield, NJ
+2021	Relationship
+2022	No_relation
+2023	Entity 2 : Trend
+2024	No_relation
+2025	e5
+2026	No_relationship
+2027	World
+2028	org
+2029	No_relationship
+2030	No_relationship
+2031	Relationship
+2032	spouse
+2033	Business
+2034	No_relation
+2035	Relationship
+2036	org:political/religious_affiliation
+2037	Location
+2038	org
+2039	Persona
+2040	Person with information about Gross
+2041	no_relation
+2042	Amanda Knox
+2043	No_relationship
+2044	Entity 1
+2045	China Charity Federation
+2046	Heloise
+2047	No_relationship
+2048	Air Evac Lifeteam
+2049	Naneek Graham
+2050	org
+2051	Entity 1
+2052	Relationship
+2053	Persona
+2054	Friends
+2055	Entity 1 is Red Cross co-workers
+2056	Contact_names
+2057	Countrywide Financial Corp
+2058	religion
+2059	AIG
+2060	Customer
+2061	Xie Caiping
+2062	World
+2063	org
+2064	Entity 1
+2065	org
+2066	Alico
+2067	Business
+2068	No_relationship
+2069	Wen
+2070	No_relationship
+2071	None
+2072	He
+2073	org
+2074	Alessi
+2075	No_relationship
+2076	org
+2077	org
+2078	William A Lange
+2079	No_relation
+2080	China
+2081	Natalie Hagemo
+2082	org
+2083	Wen
+2084	Entity 1
+2085	Person with knowledge of the arrests of Gross is listed as a suspect
+2086	ShopperTrak
+2087	Wen Qiang
+2088	Persona
+2089	Entity 1
+2090	org
+2091	org
+2092	Person with information about Lumumba
+2093	Alessi
+2094	Relationship
+2095	Business
+2096	Office of the Secretary of State
+2097	MANAGUA
+2098	Relationship
+2099	org
+2100	Persona
+2101	Brad Hagemo
+2102	Angelo Mozilo
+2103	org
+2104	Relationship
+2105	No_relationship
+2106	Location
+2107	org
+2108	Answer1: charges against Silsby
+2109	No_relation
+2110	Answer: Taiwan
+2111	org
+2112	Entity 1
+2113	Persona
+2114	Persona
+2115	org
+2116	Persona
+2117	Relationship
+2118	No_relationship
+2119	Business
+2120	Wen
+2121	No_relationship
+2122	Police
+2123	World
+2124	Wen Qiang
+2125	org
+2126	AIG
+2127	Father
+2128	No_relation
+2129	Francesco Introna
+2130	org
+2131	Wen Qiang
+2132	Heloise
+2133	World
+2134	ShopperTrak
+2135	Contact_person
+2136	He
+2137	He is brother
+2138	Contact
+2139	World
+2140	She is an art teacher
+2141	org
+2142	World
+2143	Relationship
+2144	Relationship
+2145	Persona
+2146	org
+2147	No_relation
+2148	entity
+2149	World
+2150	Youssoufou Bamba
+2151	Friends
+2152	Countrywide Financial
+2153	rupiah
+2154	Relationship
+2155	org
+2156	nea
+2157	No_relationship
+2158	Location
+2159	AAUW
+2160	Wen Qiang
+2161	Wen Qiang
+2162	World
+2163	Police
+2164	He is brother
+2165	Entity 1
+2166	BedBug Central
+2167	Wen
+2168	World
+2169	org
+2170	Relationship
+2171	Relationship
+2172	College
+2173	ATF
+2174	Answer: yes
+2175	National Energy Administration
+2176	Relationship
+2177	country_of_life
+2178	org
+2179	Family
+2180	World
+2181	Entity 1
+2182	Contact
+2183	Entity 1
+2184	org
+2185	No_relation
+2186	parent
+2187	org
+2188	George Sodini
+2189	Entity 1
+2190	Sports
+2191	World
+2192	org
+2193	Answer
+2194	nea
+2195	Relationship
+2196	Person with whom Chiafari started his shift at 3 pm
+2197	no_relation
+2198	Person
+2199	org
+2200	No_relationship
+2201	org
+2202	World
+2203	The nationality of Eugenio Vagni is Italian national
+2204	Entity 1
+2205	Relationship
+2206	org
+2207	No_relationship
+2208	org
+2209	Person
+2210	World
+2211	Artine S Utomo
+2212	Relationship
+2213	Governing body
+2214	org
+2215	He
+2216	Entity 1: Bruno
+2217	Entity 1
+2218	No_relationship
+2219	Wen
+2220	Answer: NY
+2221	Persona
+2222	Relationship
+2223	College
+2224	org
+2225	Physicist
+2226	org
+2227	Ivory Coast
+2228	Office of the Attorney General
+2229	Wen Qiang
+2230	org
+2231	The Italian worker of the ICRC is Eugenio Vagni
+2232	Relationship
+2233	Answer: yes
+2234	Location
+2235	No_relation
+2236	Relationship
+2237	org
+2238	org
+2239	No_relationship
+2240	org
+2241	Office
+2242	Wen Qiang
+2243	National Energy Administration
+2244	Persona
+2245	Police
+2246	The Good Broker , LLC
+2247	Persona
+2248	CIA
+2249	ShopperTrak
+2250	Answer: spokeswoman
+2251	Albert Lange
+2252	No_relationship
+2253	Persona
+2254	Relationship
+2255	Relationship
+2256	No_relationship
+2257	Personasured
+2258	No_relationship
+2259	Person
+2260	No_relationship
+2261	ADF
+2262	Assaf Ramon
+2263	Office
+2264	Sports
+2265	Persona
+2266	Relationship
+2267	ShopperTrak
+2268	Person
+2269	org
+2270	Person
+2271	a-aDomestic Life
+2272	Entity 1
+2273	no_relation
+2274	Almena Lomax
+2275	Person
+2276	Entity 1
+2277	Relationship
+2278	Persona
+2279	Relationship
+2280	no_relation
+2281	org
+2282	No_relationship
+2283	World
+2284	GE Money Bank
+2285	Person with whom he performed Beatles covers and original songs
+2286	org
+2287	Relationship
+2288	Dworin
+2289	No_relationship
+2290	College is St David 's United Church- name is Wayne A Holst- nationality is Canada- birth place is st
+2291	org
+2292	No_relationship
+2293	org
+2294	no_relation
+2295	World
+2296	Persona
+2297	No_relation
+2298	Pope
+2299	Relationship
+2300	Office
+2301	American
+2302	No_relationship
+2303	Interior
+2304	No_relationship
+2305	Person
+2306	No_relation
+2307	Countrywide
+2308	No_relation
+2309	org
+2310	Entity 1 : Soro
+2311	No_relation
+2312	World
+2313	Kisses
+2314	ADF
+2315	enthused Piano
+2316	Entity 1
+2317	org
+2318	org:alternate_names
+2319	No_relation
+2320	No_relationship
+2321	UASR
+2322	Heloise
+2323	Xie
+2324	org
+2325	Person with interests in journalism
+2326	Cosa Nostra
+2327	org
+2328	Adela Dworin
+2329	Relationship
+2330	He
+2331	org
+2332	Alessi
+2333	Person
+2334	no_relation
+2335	ADF
+2336	World
+2337	org
+2338	Relationship
+2339	no_relation
+2340	Relationship
+2341	Entity 1
+2342	Person with information about the kidnapping
+2343	Persona
+2344	No_relationship
+2345	Persona
+2346	No_relationship
+2347	Answer
+2348	Animal
+2349	org
+2350	org
+2351	Entity 1
+2352	parent
+2353	Person
+2354	org
+2355	NDRC
+2356	Personasured
+2357	He
+2358	Person
+2359	He
+2360	org
+2361	He is
+2362	Kisses
+2363	Answer: Person
+2364	No_relation
+2365	Relationship
+2366	0
+2367	Person with whom Piedra owes back taxes and interest
+2368	Xie
+2369	Persona
+2370	ShopperTrak
+2371	Sports
+2372	family
+2373	Naveed Iqbal
+2374	No_relationship
+2375	ShopperTrak
+2376	org
+2377	AAUW
+2378	Sports
+2379	Persona
+2380	org
+2381	spouse
+2382	org
+2383	org
+2384	Person
+2385	Father
+2386	Relationship
+2387	org
+2388	No_relation
+2389	org
+2390	ShopperTrak
+2391	Xie Caiping
+2392	Bibi
+2393	spouse
+2394	no_relation
+2395	Piedra
+2396	Persona
+2397	No_relation
+2398	no_relation
+2399	Location Location
+2400	Entity 1
+2401	Persona
+2402	Person
+2403	Heloise
+2404	Entity 1: Progressive Democrats of America
+2405	ADF
+2406	Sports
+2407	John A Boehner, R-Ohio
+2408	Person with knowledge of the crime
+2409	org
+2410	Xie Caiping
+2411	Persona
+2412	Person
+2413	Secretary
+2414	Relationship
+2415	Matteo Messina Denaro
+2416	Her husband is Shelby
+2417	Persona
+2418	Relationship
+2419	Entity 1 is Graham
+2420	Guest
+2421	He is an apprentice at a printer and store detective in Times Square -- a job he said he hated
+2422	Office of the Interior
+2423	org
+2424	org
+2425	Answer
+2426	He is in a military hospital
+2427	Office of Secretary of State
+2428	No_relation
+2429	He
+2430	Persona
+2431	Person who is independent is Nir Rosen
+2432	Adi Amit
+2433	Bibi
+2434	org
+2435	Ilan Ramon
+2436	He
+2437	NDRC Entity 1
+2438	Shoppers_attended
+2439	Entity 1
+2440	No_relationship
+2441	John Graham
+2442	No_relation
+2443	Business
+2444	org
+2445	Person with custody
+2446	Eloise Spooner
+2447	Relationship
+2448	Relationship
+2449	org
+2450	No_relationship
+2451	org
+2452	Relationship
+2453	World
+2454	He
+2455	Person
+2456	Entity 1: Eugenio Vagni of Italy , Andreas Notter of Switzerland and Filipina Mary Jean Lacaba
+2457	he
+2458	Sports
+2459	Relationship
+2460	org
+2461	Xie
+2462	He
+2463	Bumi Resources
+2464	Entity 1
+2465	Persona
+2466	He
+2467	He
+2468	org
+2469	Wen Qiang
+2470	Relationship
+2471	org
+2472	Notter
+2473	Relationship
+2474	org
+2475	org
+2476	No_relationship
+2477	Alessi
+2478	Theda Clark
+2479	no_relation
+2480	Relationship
+2481	He
+2482	spouse
+2483	org
+2484	Answer: he
+2485	The gender of the female professor is unknown
+2486	org
+2487	spouse
+2488	org
+2489	Alessi
+2490	Person
+2491	ShopperTrak
+2492	Person on the tour
+2493	She
+2494	NDRC
+2495	No_relation
+2496	Entity 1
+2497	Entity 1 is New Fabris and Eugene Fabris
+2498	Person
+2499	no_relationship
+2500	No_relation
+2501	daughter
+2502	no_relation
+2503	Persona
+2504	Entity 1
+2505	No_relationship
+2506	Gage
+2507	Persona
+2508	AE911Truth Companion Edition 10Minute WTC 7 Video Online September 11th WTC World Trade Center Building WTC7 Controlled
+2509	No_relationship
+2510	Person
+2511	org
+2512	no_relation
+2513	Alarcon
+2514	Person
+2515	Entity 1
+2516	No_relationship
+2517	World
+2518	Relationship
+2519	Relationship
+2520	MGE
+2521	Halliburton
+2522	Entity 1
+2523	Answer: he
+2524	Friends
+2525	no_relationship
+2526	Relationship
+2527	Person
+2528	World
+2529	Person at the club
+2530	org
+2531	gov
+2532	He
+2533	No_relationship
+2534	Family
+2535	No_relationship
+2536	No_relationship
+2537	Location
+2538	Entity 2 : Ed
+2539	org
+2540	No
+2541	Relationship
+2542	Her mother
+2543	NEA
+2544	Wen
+2545	Person with information about Matteo Messina Denaro
+2546	No_relationship
+2547	Avery
+2548	org
+2549	World
+2550	She
+2551	org
+2552	Person
+2553	Herold
+2554	Herold
+2555	No_relationship
+2556	No_relationship
+2557	Answer
+2558	No_relation
+2559	Person with whom Piedra reported contributed more than $ 270,000
+2560	Person with information about Messina Denaro
+2561	Dworins
+2562	Aquash
+2563	Relationship
+2564	Entity 1
+2565	org
+2566	org
+2567	Animal
+2568	Relationship
+2569	No_relation
+2570	Persona
+2571	org
+2572	Entity 1
+2573	family_name
+2574	no_relation
+2575	Wen Qiang
+2576	spouse
+2577	Alessi
+2578	Entity 1: Chen Tao
+2579	No_relation
+2580	No
+2581	No_relationship
+2582	Persona
+2583	wife
+2584	Entity 1
+2585	Herold
+2586	Contact
+2587	parent
+2588	org
+2589	He
+2590	org
+2591	Friends
+2592	Aquash
+2593	org
+2594	NDRC
+2595	ADF
+2596	Relationship
+2597	UN ambassador
+2598	he
+2599	Persona
+2600	ABU ALWAFA
+2601	Entity 1
+2602	Friends
+2603	Entertainment
+2604	Athletes
+2605	Relationship
+2606	org
+2607	Entity 1
+2608	Persona
+2609	No_relationship
+2610	Relationship
+2611	Alessi
+2612	religion
+2613	Personasure_of_statement
+2614	NRA
+2615	He
+2616	org
+2617	No_planers
+2618	No_relationship
+2619	Persona
+2620	Kissner
+2621	Business
+2622	he
+2623	Entity 1
+2624	China Charity Federation
+2625	No_relationship
+2626	Person
+2627	Entity 1
+2628	org
+2629	NRA
+2630	Ivory Coast
+2631	Entity 1
+2632	NTSO
+2633	No_relationship
+2634	Entity 1
+2635	ShopperTrak
+2636	Adela Dworin
+2637	No_relation
+2638	org
+2639	Relationship
+2640	org
+2641	Relationship
+2642	org
+2643	Allied Democratic Forces
+2644	org
+2645	org:alternate_names
+2646	org
+2647	Family
+2648	org
+2649	Relationship
+2650	John Graham
+2651	No_relationship
+2652	Xie
+2653	org:alternate_names
+2654	World
+2655	Person
+2656	Entity 1 is a list of executive co-producers It is the director of the Beijing 2008 Games It is the director of the 2006
+2657	Contact_person
+2658	org
+2659	Sports
+2660	Relationship
+2661	PATA
+2662	No_relationship
+2663	org
+2664	org
+2665	Grails Development Team Jeremy Grelle
+2666	Person
+2667	Entity 1
+2668	Entity 1
+2669	LC
+2670	Herold
+2671	Herold
+2672	Entity 1
+2673	0
+2674	Non_relationship
+2675	Persona
+2676	No_relation
+2677	John Graham
+2678	Xinhua
+2679	No_relationship
+2680	The Menil Collection
+2681	org
+2682	no_relation
+2683	Relationship
+2684	Xie Caiping
+2685	Father
+2686	UN ambassador
+2687	org
+2688	She
+2689	Alessi
+2690	Amazon
+2691	No_relationship
+2692	Animal
+2693	Office of National Drug Control Policy
+2694	No_relationship
+2695	World
+2696	org
+2697	Norris Church Mailer
+2698	org
+2699	Location
+2700	Wen
+2701	Adity 1 is Adela Dworin; Adity 2 is Abraham Marcus Matterin; Adity 3 is Adela Dworin; Ad
+2702	No_relation
+2703	No_relationship
+2704	No_relationship
+2705	Person
+2706	Persona
+2707	Sports
+2708	Entity 1
+2709	ShopperTrak
+2710	Persona
+2711	org
+2712	he
+2713	Dwight Garner
+2714	He
+2715	Chen Tao Entity 2 : Dong Fangzhuo
+2716	Answer
+2717	Relationship
+2718	Relationship
+2719	Alessi and Son Citgo
+2720	Dworin
+2721	ShopperTrak
+2722	No_name
+2723	Friends
+2724	Persona
+2725	Almena Lomax
+2726	Relationship
+2727	Persona
+2728	Heloise
+2729	Relationship
+2730	Esther-Ethy Mamane
+2731	org
+2732	org
+2733	House
+2734	Heloise
+2735	Tempat Pelelangan Ikan
+2736	No_relation
+2737	Business
+2738	He
+2739	National Restaurant Association
+2740	No_relation
+2741	ADF
+2742	No_relationship
+2743	World
+2744	Xie Caiping
+2745	Alessi
+2746	org
+2747	Wen
+2748	Coastal Conservation League
+2749	Relationship
+2750	Bacon
+2751	No_relation
+2752	org
+2753	He
+2754	No_relationship
+2755	Secretary
+2756	Relationship
+2757	PATA
+2758	No_relation
+2759	Xie Caiping
+2760	org
+2761	No_relationship
+2762	Person of the same name
+2763	No_relationship
+2764	parent
+2765	No_relation
+2766	Relationship
+2767	Relationship
+2768	no_relation
+2769	No_relation
+2770	ADF
+2771	Location
+2772	Entity 1
+2773	org
+2774	World
+2775	NDRC
+2776	Persona
+2777	Relationship
+2778	Office
+2779	Person who resigned after comments about Nir Rosen has been forced to resign his position at NYU over comments he made regarding Logan 
+2780	Relationship
+2781	ADF
+2782	No_relationship
+2783	spouse
+2784	No_relationship
+2785	Contact_person
+2786	Relationship
+2787	Relationship
+2788	org
+2789	World Trade Center
+2790	Person who is not related to Christopher Bollyn
+2791	World
+2792	Contact_person
+2793	No_relationship
+2794	org
+2795	NDRC
+2796	org
+2797	org
+2798	org
+2799	ntso
+2800	org
+2801	No_relationship
+2802	org
+2803	Partnering
+2804	Relationship
+2805	Person with experience in military hospital
+2806	Relationship
+2807	ADF
+2808	no_relation
+2809	spouse
+2810	No_relationship
+2811	Customer rating is 1 out of 5
+2812	org
+2813	NTSO
+2814	Person
+2815	org
+2816	org
+2817	World
+2818	No_relationship
+2819	Relationship
+2820	Relationship
+2821	No_relationship
+2822	yes
+2823	Sports
+2824	The Menil Collection
+2825	Relationship
+2826	Person
+2827	He
+2828	Relationship
+2829	 http://wwwadborg/media/Articles/2007/12155-asian-poverties-reductions
+2830	Visa International Asia Pacific
+2831	He
+2832	no_relation
+2833	org
+2834	ABN Amro
+2835	Entity 1
+2836	Persona
+2837	Nofer Ishai-Karen
+2838	org
+2839	org
+2840	No_relation
+2841	org
+2842	She
+2843	Department
+2844	Herold
+2845	Answer: National Congress of American Indians
+2846	Relationship
+2847	org
+2848	Person who was killed is named Ruben van Assouw
+2849	Alessi
+2850	no_relation
+2851	org
+2852	Relationship
+2853	Relationship
+2854	Entity 1: Dworin
+2855	No_relationship
+2856	Person
+2857	Persona
+2858	Relationship
+2859	No_relationship
+2860	Relationship
+2861	no_relation
+2862	None
+2863	he
+2864	Persona
+2865	No_relation
+2866	Relationship
+2867	No_relationship
+2868	No_relationship
+2869	org
+2870	country_of_birth
+2871	Person
+2872	Contact_person
+2873	No_relation
+2874	Persona
+2875	National Restaurant Association
+2876	Wen Qiang
+2877	Answer: family
+2878	Persona_of
+2879	Non_relationship
+2880	Her
+2881	Location
+2882	he
+2883	Graham
+2884	Relationship
+2885	Answer
+2886	Answer: no
+2887	Bibi
+2888	org
+2889	org
+2890	ShopperTrak
+2891	org
+2892	org
+2893	NDA
+2894	LC
+2895	No_relationship
+2896	org
+2897	Sports
+2898	AIG
+2899	Person
+2900	Wen
+2901	Relationship
+2902	No_relation
+2903	Persona
+2904	No_relationship
+2905	No_relationship
+2906	Contact_person
+2907	Location
+2908	Ranke
+2909	No
+2910	Vatican
+2911	Entity 1 is Sycamore, Pune
+2912	Person
+2913	No_relationship
+2914	Bibi
+2915	org
+2916	Entity 1
+2917	no_relation
+2918	Bibi
+2919	org
+2920	No_relationship
+2921	Gage
+2922	He
+2923	Entity 1 is Corporate Library
+2924	gov
+2925	sycamore
+2926	org
+2927	He
+2928	org
+2929	Relationship
+2930	Science/Tech
+2931	Answer: religion
+2932	No_relationship
+2933	Admittance
+2934	Relationship
+2935	Business
+2936	Person
+2937	Relationship
+2938	Persona
+2939	no_relation
+2940	Person
+2941	He
+2942	spouse
+2943	Contact
+2944	org
+2945	Gage
+2946	Persons in the city died
+2947	org
+2948	No_relation
+2949	He
+2950	Person
+2951	Relationship
+2952	Esther-Ethy Mamane
+2953	The title of the episode that was aired on YouTube is "Axelrod"
+2954	Alistair Abdul-Jabbar
+2955	United States
+2956	Answer1: Aquash
+2957	Persona
+2958	org
+2959	org
+2960	No_relationship
+2961	Heloise
+2962	Alessi
+2963	org
+2964	Person with whom they had her sign three fabricated affidavits falsely stated that she was my girlfriend and that she saw me kill Agent
+2965	Business
+2966	Persona
+2967	No_relation
+2968	Entity 1
+2969	org
+2970	Person
+2971	China Charity Federation
+2972	parent
+2973	org
+2974	Notter
+2975	No_relation
+2976	Heloise
+2977	org
+2978	Relationship
+2979	AFP
+2980	Heloise
+2981	Esther-Ethy Mamane
+2982	Relationship
+2983	Person who surrendered to police on Wednesday is Eliza Samudio
+2984	[['Global Research', 'July 8/04'], ['European Parliament Verbatim Report of Proceedings', 'J
+2985	Peter Dean
+2986	spouse
+2987	Persona
+2988	org
+2989	Amanda Knox
+2990	org
+2991	Business
+2992	Wen
+2993	org
+2994	NDRC
+2995	Relationship
+2996	org
+2997	org
+2998	Organized by
+2999	No_relationship
+3000	Herold's
+3001	Sports
+3002	Office of the President
+3003	China Charity Federation
+3004	Sarah Kunstler
+3005	Amanda Knox
+3006	The Netherlands
+3007	Persona
+3008	org
+3009	Xie Caiping
+3010	Amanda Knox
+3011	Sports
+3012	org
+3013	Wen Qiang
+3014	brother
+3015	Person who is not a columnist
+3016	org
+3017	religion
+3018	Father
+3019	org
+3020	ADF Companies of Fairfield, NJ
+3021	Relationship
+3022	No_relation
+3023	Entity 2 : Trend
+3024	No_relation
+3025	e5
+3026	No_relationship
+3027	World
+3028	org
+3029	No_relationship
+3030	No_relationship
+3031	Relationship
+3032	spouse
+3033	Business
+3034	No_relation
+3035	Relationship
+3036	org:political/religious_affiliation
+3037	Location
+3038	org
+3039	Persona
+3040	Person with information about Gross
+3041	no_relation
+3042	Amanda Knox
+3043	No_relationship
+3044	Entity 1
+3045	China Charity Federation
+3046	Heloise
+3047	No_relationship
+3048	Air Evac Lifeteam
+3049	Naneek Graham
+3050	org
+3051	Entity 1
+3052	Relationship
+3053	Persona
+3054	Friends
+3055	Entity 1 is Red Cross co-workers
+3056	Contact_names
+3057	Countrywide Financial Corp
+3058	religion
+3059	AIG
+3060	Customer
+3061	Xie Caiping
+3062	World
+3063	org
+3064	Entity 1
+3065	org
+3066	Alico
+3067	Business
+3068	No_relationship
+3069	Wen
+3070	No_relationship
+3071	None
+3072	He
+3073	org
+3074	Alessi
+3075	No_relationship
+3076	org
+3077	org
+3078	William A Lange
+3079	No_relation
+3080	China
+3081	Natalie Hagemo
+3082	org
+3083	Wen
+3084	Entity 1
+3085	Person with knowledge of the arrests of Gross is listed as a suspect
+3086	ShopperTrak
+3087	Wen Qiang
+3088	Persona
+3089	Entity 1
+3090	org
+3091	org
+3092	Person with information about Lumumba
+3093	Alessi
+3094	Relationship
+3095	Business
+3096	Office of the Secretary of State
+3097	MANAGUA
+3098	Relationship
+3099	org
+3100	Persona
+3101	Brad Hagemo
+3102	Angelo Mozilo
+3103	org
+3104	Relationship
+3105	No_relationship
+3106	Location
+3107	org
+3108	Answer1: charges against Silsby
+3109	No_relation
+3110	Answer: Taiwan
+3111	org
+3112	Entity 1
+3113	Persona
+3114	Persona
+3115	org
+3116	Persona
+3117	Relationship
+3118	No_relationship
+3119	Business
+3120	Wen
+3121	No_relationship
+3122	Police
+3123	World
+3124	Wen Qiang
+3125	org
+3126	AIG
+3127	Father
+3128	No_relation
+3129	Francesco Introna
+3130	org
+3131	Wen Qiang
+3132	Heloise
+3133	World
+3134	ShopperTrak
+3135	Contact_person
+3136	He
+3137	He is brother
+3138	Contact
+3139	World
+3140	She is an art teacher
+3141	org
+3142	World
+3143	Relationship
+3144	Relationship
+3145	Persona
+3146	org
+3147	No_relation
+3148	entity
+3149	World
+3150	Youssoufou Bamba
+3151	Friends
+3152	Countrywide Financial
+3153	rupiah
+3154	Relationship
+3155	org
+3156	nea
+3157	No_relationship
+3158	Location
+3159	AAUW
+3160	Wen Qiang
+3161	Wen Qiang
+3162	World
+3163	Police
+3164	He is brother
+3165	Entity 1
+3166	BedBug Central
+3167	Wen
+3168	World
+3169	org
+3170	Relationship
+3171	Relationship
+3172	College
+3173	ATF
+3174	Answer: yes
+3175	National Energy Administration
+3176	Relationship
+3177	country_of_life
+3178	org
+3179	Family
+3180	World
+3181	Entity 1
+3182	Contact
+3183	Entity 1
+3184	org
+3185	No_relation
+3186	parent
+3187	org
+3188	George Sodini
+3189	Entity 1
+3190	Sports
+3191	World
+3192	org
+3193	Answer
+3194	nea
+3195	Relationship
+3196	Person with whom Chiafari started his shift at 3 pm
+3197	no_relation
+3198	Person
+3199	org
+3200	No_relationship
+3201	org
+3202	World
+3203	The nationality of Eugenio Vagni is Italian national
+3204	Entity 1
+3205	Relationship
+3206	org
+3207	No_relationship
+3208	org
+3209	Person
+3210	World
+3211	Artine S Utomo
+3212	Relationship
+3213	Governing body
+3214	org
+3215	He
+3216	Entity 1: Bruno
+3217	Entity 1
+3218	No_relationship
+3219	Wen
+3220	Answer: NY
+3221	Persona
+3222	Relationship
+3223	College
+3224	org
+3225	Physicist
+3226	org
+3227	Ivory Coast
+3228	Office of the Attorney General
+3229	Wen Qiang
+3230	org
+3231	The Italian worker of the ICRC is Eugenio Vagni
+3232	Relationship
+3233	Answer: yes
+3234	Location
+3235	No_relation
+3236	Relationship
+3237	org
+3238	org
+3239	No_relationship
+3240	org
+3241	Office
+3242	Wen Qiang
+3243	National Energy Administration
+3244	Persona
+3245	Police
+3246	The Good Broker , LLC
+3247	Persona
+3248	CIA
+3249	ShopperTrak
+3250	Answer: spokeswoman
+3251	Albert Lange
+3252	No_relationship
+3253	Persona
+3254	Relationship
+3255	Relationship
+3256	No_relationship
+3257	Personasured
+3258	No_relationship
+3259	Person
+3260	No_relationship
+3261	ADF
+3262	Assaf Ramon
+3263	Office
+3264	Sports
+3265	Persona
+3266	Relationship
+3267	ShopperTrak
+3268	Person
+3269	org
+3270	Person
+3271	a-aDomestic Life
+3272	Entity 1
+3273	no_relation
+3274	Almena Lomax
+3275	Person
+3276	Entity 1
+3277	Relationship
+3278	Persona
+3279	Relationship
+3280	no_relation
+3281	org
+3282	No_relationship
+3283	World
+3284	GE Money Bank
+3285	Person with whom he performed Beatles covers and original songs
+3286	org
+3287	Relationship
+3288	Dworin
+3289	No_relationship
+3290	College is St David 's United Church- name is Wayne A Holst- nationality is Canada- birth place is st
+3291	org
+3292	No_relationship
+3293	org
+3294	no_relation
+3295	World
+3296	Persona
+3297	No_relation
+3298	Pope
+3299	Relationship
+3300	Office
+3301	American
+3302	No_relationship
+3303	Interior
+3304	No_relationship
+3305	Person
+3306	No_relation
+3307	Countrywide
+3308	No_relation
+3309	org
+3310	Entity 1 : Soro
+3311	No_relation
+3312	World
+3313	Kisses
+3314	ADF
+3315	enthused Piano
+3316	Entity 1
+3317	org
+3318	org:alternate_names
+3319	No_relation
+3320	No_relationship
+3321	UASR
+3322	Heloise
+3323	Xie
+3324	org
+3325	Person with interests in journalism
+3326	Cosa Nostra
+3327	org
+3328	Adela Dworin
+3329	Relationship
+3330	He
+3331	org
+3332	Alessi
+3333	Person
+3334	no_relation
+3335	ADF
+3336	World
+3337	org
+3338	Relationship
+3339	no_relation
+3340	Relationship
+3341	Entity 1
+3342	Person with information about the kidnapping
+3343	Persona
+3344	No_relationship
+3345	Persona
+3346	No_relationship
+3347	Answer
+3348	Animal
+3349	org
+3350	org
+3351	Entity 1
+3352	parent
+3353	Person
+3354	org
+3355	NDRC
+3356	Personasured
+3357	He
+3358	Person
+3359	He
+3360	org
+3361	He is
+3362	Kisses
+3363	Answer: Person
+3364	No_relation
+3365	Relationship
+3366	0
+3367	Person with whom Piedra owes back taxes and interest
+3368	Xie
+3369	Persona
+3370	ShopperTrak
+3371	Sports
+3372	family
+3373	Naveed Iqbal
+3374	No_relationship
+3375	ShopperTrak
+3376	org
+3377	AAUW
+3378	Sports
+3379	Persona
+3380	org
+3381	spouse
+3382	org
+3383	org
+3384	Person
+3385	Father
+3386	Relationship
+3387	org
+3388	No_relation
+3389	org
+3390	ShopperTrak
+3391	Xie Caiping
+3392	Bibi
+3393	spouse
+3394	no_relation
+3395	Piedra
+3396	Persona
+3397	No_relation
+3398	no_relation
+3399	Location Location
+3400	Entity 1
+3401	Persona
+3402	Person
+3403	Heloise
+3404	Entity 1: Progressive Democrats of America
+3405	ADF
+3406	Sports
+3407	John A Boehner, R-Ohio
+3408	Person with knowledge of the crime
+3409	org
+3410	Xie Caiping
+3411	Persona
+3412	Person
+3413	Secretary
+3414	Relationship
+3415	Matteo Messina Denaro
+3416	Her husband is Shelby
+3417	Persona
+3418	Relationship
+3419	Entity 1 is Graham
+3420	Guest
+3421	He is an apprentice at a printer and store detective in Times Square -- a job he said he hated
+3422	Office of the Interior
+3423	org
+3424	org
+3425	Answer
+3426	He is in a military hospital
+3427	Office of Secretary of State
+3428	No_relation
+3429	He
+3430	Persona
+3431	Person who is independent is Nir Rosen
+3432	Adi Amit
+3433	Bibi
+3434	org
+3435	Ilan Ramon
+3436	He
+3437	NDRC Entity 1
+3438	Shoppers_attended
+3439	Entity 1
+3440	No_relationship
+3441	John Graham
+3442	No_relation
+3443	Business
+3444	org
+3445	Person with custody
+3446	Eloise Spooner
+3447	Relationship
+3448	Relationship
+3449	org
+3450	No_relationship
+3451	org
+3452	Relationship
+3453	World
+3454	He
+3455	Person
+3456	Entity 1: Eugenio Vagni of Italy , Andreas Notter of Switzerland and Filipina Mary Jean Lacaba
+3457	he
+3458	Sports
+3459	Relationship
+3460	org
+3461	Xie
+3462	He
+3463	Bumi Resources
+3464	Entity 1
+3465	Persona
+3466	He
+3467	He
+3468	org
+3469	Wen Qiang
+3470	Relationship
+3471	org
+3472	Notter
+3473	Relationship
+3474	org
+3475	org
+3476	No_relationship
+3477	Alessi
+3478	Theda Clark
+3479	no_relation
+3480	Relationship
+3481	He
+3482	spouse
+3483	org
+3484	Answer: he
+3485	The gender of the female professor is unknown
+3486	org
+3487	spouse
+3488	org
+3489	Alessi
+3490	Person
+3491	ShopperTrak
+3492	Person on the tour
+3493	She
+3494	NDRC
+3495	No_relation
+3496	Entity 1
+3497	Entity 1 is New Fabris and Eugene Fabris
+3498	Person
+3499	no_relationship
+3500	No_relation
+3501	daughter
+3502	no_relation
+3503	Persona
+3504	Entity 1
+3505	No_relationship
+3506	Gage
+3507	Persona
+3508	AE911Truth Companion Edition 10Minute WTC 7 Video Online September 11th WTC World Trade Center Building WTC7 Controlled
+3509	No_relationship
+3510	Person
+3511	org
+3512	no_relation
+3513	Alarcon
+3514	Person
+3515	Entity 1
+3516	No_relationship
+3517	World
+3518	Relationship
+3519	Relationship
+3520	MGE
+3521	Halliburton
+3522	Entity 1
+3523	Answer: he
+3524	Friends
+3525	no_relationship
+3526	Relationship
+3527	Person
+3528	World
+3529	Person at the club
+3530	org
+3531	gov
+3532	He
+3533	No_relationship
+3534	Family
+3535	No_relationship
+3536	No_relationship
+3537	Location
+3538	Entity 2 : Ed
+3539	org
+3540	No
+3541	Relationship
+3542	Her mother
+3543	NEA
+3544	Wen
+3545	Person with information about Matteo Messina Denaro
+3546	No_relationship
+3547	Avery
+3548	org
+3549	World
+3550	She
+3551	org
+3552	Person
+3553	Herold
+3554	Herold
+3555	No_relationship
+3556	No_relationship
+3557	Answer
+3558	No_relation
+3559	Person with whom Piedra reported contributed more than $ 270,000
+3560	Person with information about Messina Denaro
+3561	Dworins
+3562	Aquash
+3563	Relationship
+3564	Entity 1
+3565	org
+3566	org
+3567	Animal
+3568	Relationship
+3569	No_relation
+3570	Persona
+3571	org
+3572	Entity 1
+3573	family_name
+3574	no_relation
+3575	Wen Qiang
+3576	spouse
+3577	Alessi
+3578	Entity 1: Chen Tao
+3579	No_relation
+3580	No
+3581	No_relationship
+3582	Persona
+3583	wife
+3584	Entity 1
+3585	Herold
+3586	Contact
+3587	parent
+3588	org
+3589	He
+3590	org
+3591	Friends
+3592	Aquash
+3593	org
+3594	NDRC
+3595	ADF
+3596	Relationship
+3597	UN ambassador
+3598	he
+3599	Persona
+3600	ABU ALWAFA
+3601	Entity 1
+3602	Friends
+3603	Entertainment
+3604	Athletes
+3605	Relationship
+3606	org
+3607	Entity 1
+3608	Persona
+3609	No_relationship
+3610	Relationship
+3611	Alessi
+3612	religion
+3613	Personasure_of_statement
+3614	NRA
+3615	He
+3616	org
+3617	No_planers
+3618	No_relationship
+3619	Persona
+3620	Kissner
+3621	Business
+3622	he
+3623	Entity 1
+3624	China Charity Federation
+3625	No_relationship
+3626	Person
+3627	Entity 1
+3628	org
+3629	NRA
+3630	Ivory Coast
+3631	Entity 1
+3632	NTSO
+3633	No_relationship
+3634	Entity 1
+3635	ShopperTrak
+3636	Adela Dworin
+3637	No_relation
+3638	org
+3639	Relationship
+3640	org
+3641	Relationship
+3642	org
+3643	Allied Democratic Forces
+3644	org
+3645	org:alternate_names
+3646	org
+3647	Family
+3648	org
+3649	Relationship
+3650	John Graham
+3651	No_relationship
+3652	Xie
+3653	org:alternate_names
+3654	World
+3655	Person
+3656	Entity 1 is a list of executive co-producers It is the director of the Beijing 2008 Games It is the director of the 2006
+3657	Contact_person
+3658	org
+3659	Sports
+3660	Relationship
+3661	PATA
+3662	No_relationship
+3663	org
+3664	org
+3665	Grails Development Team Jeremy Grelle
+3666	Person
+3667	Entity 1
+3668	Entity 1
+3669	LC
+3670	Herold
+3671	Herold
+3672	Entity 1
+3673	0
+3674	Non_relationship
+3675	Persona
+3676	No_relation
+3677	John Graham
+3678	Xinhua
+3679	No_relationship
+3680	The Menil Collection
+3681	org
+3682	no_relation
+3683	Relationship
+3684	Xie Caiping
+3685	Father
+3686	UN ambassador
+3687	org
+3688	She
+3689	Alessi
+3690	Amazon
+3691	No_relationship
+3692	Animal
+3693	Office of National Drug Control Policy
+3694	No_relationship
+3695	World
+3696	org
+3697	Norris Church Mailer
+3698	org
+3699	Location
+3700	Wen
+3701	Adity 1 is Adela Dworin; Adity 2 is Abraham Marcus Matterin; Adity 3 is Adela Dworin; Ad
+3702	No_relation
+3703	No_relationship
+3704	No_relationship
+3705	Person
+3706	Persona
+3707	Sports
+3708	Entity 1
+3709	ShopperTrak
+3710	Persona
+3711	org
+3712	he
+3713	Dwight Garner
+3714	He
+3715	Chen Tao Entity 2 : Dong Fangzhuo
+3716	Answer
+3717	Relationship
+3718	Relationship
+3719	Alessi and Son Citgo
+3720	Dworin
+3721	ShopperTrak
+3722	No_name
+3723	Friends
+3724	Persona
+3725	Almena Lomax
+3726	Relationship
+3727	Persona
+3728	Heloise
+3729	Relationship
+3730	Esther-Ethy Mamane
+3731	org
+3732	org
+3733	House
+3734	Heloise
+3735	Tempat Pelelangan Ikan
+3736	No_relation
+3737	Business
+3738	He
+3739	National Restaurant Association
+3740	No_relation
+3741	ADF
+3742	No_relationship
+3743	World
+3744	Xie Caiping
+3745	Alessi
+3746	org
+3747	Wen
+3748	Coastal Conservation League
+3749	Relationship
+3750	Bacon
+3751	No_relation
+3752	org
+3753	He
+3754	No_relationship
+3755	Secretary
+3756	Relationship
+3757	PATA
+3758	No_relation
+3759	Xie Caiping
+3760	org
+3761	No_relationship
+3762	Person of the same name
+3763	No_relationship
+3764	parent
+3765	No_relation
+3766	Relationship
+3767	Relationship
+3768	no_relation
+3769	No_relation
+3770	ADF
+3771	Location
+3772	Entity 1
+3773	org
+3774	World
+3775	NDRC
+3776	Persona
+3777	Relationship
+3778	Office
+3779	Person who resigned after comments about Nir Rosen has been forced to resign his position at NYU over comments he made regarding Logan 
+3780	Relationship
+3781	ADF
+3782	No_relationship
+3783	spouse
+3784	No_relationship
+3785	Contact_person
+3786	Relationship
+3787	Relationship
+3788	org
+3789	World Trade Center
+3790	Person who is not related to Christopher Bollyn
+3791	World
+3792	Contact_person
+3793	No_relationship
+3794	org
+3795	NDRC
+3796	org
+3797	org
+3798	org
+3799	ntso
+3800	org
+3801	No_relationship
+3802	org
+3803	Partnering
+3804	Relationship
+3805	Person with experience in military hospital
+3806	Relationship
+3807	ADF
+3808	no_relation
+3809	spouse
+3810	No_relationship
+3811	Customer rating is 1 out of 5
+3812	org
+3813	NTSO
+3814	Person
+3815	org
+3816	org
+3817	World
+3818	No_relationship
+3819	Relationship
+3820	Relationship
+3821	No_relationship
+3822	yes
+3823	Sports
+3824	The Menil Collection
+3825	Relationship
+3826	Person
+3827	He
+3828	Relationship
+3829	 http://wwwadborg/media/Articles/2007/12155-asian-poverties-reductions
+3830	Visa International Asia Pacific
+3831	He
+3832	no_relation
+3833	org
+3834	ABN Amro
+3835	Entity 1
+3836	Persona
+3837	Nofer Ishai-Karen
+3838	org
+3839	org
+3840	No_relation
+3841	org
+3842	She
+3843	Department
+3844	Herold
+3845	Answer: National Congress of American Indians
+3846	Relationship
+3847	org
+3848	Person who was killed is named Ruben van Assouw
+3849	Alessi
+3850	no_relation
+3851	org
+3852	Relationship
+3853	Relationship
+3854	Entity 1: Dworin
+3855	No_relationship
+3856	Person
+3857	Persona
+3858	Relationship
+3859	No_relationship
+3860	Relationship
+3861	no_relation
+3862	None
+3863	he
+3864	Persona
+3865	No_relation
+3866	Relationship
+3867	No_relationship
+3868	No_relationship
+3869	org
+3870	country_of_birth
+3871	Person
+3872	Contact_person
+3873	No_relation
+3874	Persona
+3875	National Restaurant Association
+3876	Wen Qiang
+3877	Answer: family
+3878	Persona_of
+3879	Non_relationship
+3880	Her
+3881	Location
+3882	he
+3883	Graham
+3884	Relationship
+3885	Answer
+3886	Answer: no
+3887	Bibi
+3888	org
+3889	org
+3890	ShopperTrak
+3891	org
+3892	org
+3893	NDA
+3894	LC
+3895	No_relationship
+3896	org
+3897	Sports
+3898	AIG
+3899	Person
+3900	Wen
+3901	Relationship
+3902	No_relation
+3903	Persona
+3904	No_relationship
+3905	No_relationship
+3906	Contact_person
+3907	Location
+3908	Ranke
+3909	No
+3910	Vatican
+3911	Entity 1 is Sycamore, Pune
+3912	Person
+3913	No_relationship
+3914	Bibi
+3915	org
+3916	Entity 1
+3917	no_relation
+3918	Bibi
+3919	org
+3920	No_relationship
+3921	Gage
+3922	He
+3923	Entity 1 is Corporate Library
+3924	gov
+3925	sycamore
+3926	org
+3927	He
+3928	org
+3929	Relationship
+3930	Science/Tech
+3931	Answer: religion
+3932	No_relationship
+3933	Admittance
+3934	Relationship
+3935	Business
+3936	Person
+3937	Relationship
+3938	Persona
+3939	no_relation
+3940	Person
+3941	He
+3942	spouse
+3943	Contact
+3944	org
+3945	Gage
+3946	Persons in the city died
+3947	org
+3948	No_relation
+3949	He
+3950	Person
+3951	Relationship
+3952	Esther-Ethy Mamane
+3953	The title of the episode that was aired on YouTube is "Axelrod"
+3954	Alistair Abdul-Jabbar
+3955	United States
+3956	Answer1: Aquash
+3957	Persona
+3958	org
+3959	org
+3960	No_relationship
+3961	Heloise
+3962	Alessi
+3963	org
+3964	Person with whom they had her sign three fabricated affidavits falsely stated that she was my girlfriend and that she saw me kill Agent
+3965	Business
+3966	Persona
+3967	No_relation
+3968	Entity 1
+3969	org
+3970	Person
+3971	China Charity Federation
+3972	parent
+3973	org
+3974	Notter
+3975	No_relation
+3976	Heloise
+3977	org
+3978	Relationship
+3979	AFP
+3980	Heloise
+3981	Esther-Ethy Mamane
+3982	Relationship
+3983	Person who surrendered to police on Wednesday is Eliza Samudio
+3984	[['Global Research', 'July 8/04'], ['European Parliament Verbatim Report of Proceedings', 'J
+3985	Peter Dean
+3986	spouse
+3987	Persona
+3988	org
+3989	Amanda Knox
+3990	org
+3991	Business
+3992	Wen
+3993	org
+3994	NDRC
+3995	Relationship
+3996	org
+3997	org
+3998	Organized by
+3999	No_relationship
+4000	Herold's
+4001	Sports
+4002	Office of the President
+4003	China Charity Federation
+4004	Sarah Kunstler
+4005	Amanda Knox
+4006	The Netherlands
+4007	Persona
+4008	org
+4009	Xie Caiping
+4010	Amanda Knox
+4011	Sports
+4012	org
+4013	Wen Qiang
+4014	brother
+4015	Person who is not a columnist
+4016	org
+4017	religion
+4018	Father
+4019	org
+4020	ADF Companies of Fairfield, NJ
+4021	Relationship
+4022	No_relation
+4023	Entity 2 : Trend
+4024	No_relation
+4025	e5
+4026	No_relationship
+4027	World
+4028	org
+4029	No_relationship
+4030	No_relationship
+4031	Relationship
+4032	spouse
+4033	Business
+4034	No_relation
+4035	Relationship
+4036	org:political/religious_affiliation
+4037	Location
+4038	org
+4039	Persona
+4040	Person with information about Gross
+4041	no_relation
+4042	Amanda Knox
+4043	No_relationship
+4044	Entity 1
+4045	China Charity Federation
+4046	Heloise
+4047	No_relationship
+4048	Air Evac Lifeteam
+4049	Naneek Graham
+4050	org
+4051	Entity 1
+4052	Relationship
+4053	Persona
+4054	Friends
+4055	Entity 1 is Red Cross co-workers
+4056	Contact_names
+4057	Countrywide Financial Corp
+4058	religion
+4059	AIG
+4060	Customer
+4061	Xie Caiping
+4062	World
+4063	org
+4064	Entity 1
+4065	org
+4066	Alico
+4067	Business
+4068	No_relationship
+4069	Wen
+4070	No_relationship
+4071	None
+4072	He
+4073	org
+4074	Alessi
+4075	No_relationship
+4076	org
+4077	org
+4078	William A Lange
+4079	No_relation
+4080	China
+4081	Natalie Hagemo
+4082	org
+4083	Wen
+4084	Entity 1
+4085	Person with knowledge of the arrests of Gross is listed as a suspect
+4086	ShopperTrak
+4087	Wen Qiang
+4088	Persona
+4089	Entity 1
+4090	org
+4091	org
+4092	Person with information about Lumumba
+4093	Alessi
+4094	Relationship
+4095	Business
+4096	Office of the Secretary of State
+4097	MANAGUA
+4098	Relationship
+4099	org
+4100	Persona
+4101	Brad Hagemo
+4102	Angelo Mozilo
+4103	org
+4104	Relationship
+4105	No_relationship
+4106	Location
+4107	org
+4108	Answer1: charges against Silsby
+4109	No_relation
+4110	Answer: Taiwan
+4111	org
+4112	Entity 1
+4113	Persona
+4114	Persona
+4115	org
+4116	Persona
+4117	Relationship
+4118	No_relationship
+4119	Business
+4120	Wen
+4121	No_relationship
+4122	Police
+4123	World
+4124	Wen Qiang
+4125	org
+4126	AIG
+4127	Father
+4128	No_relation
+4129	Francesco Introna
+4130	org
+4131	Wen Qiang
+4132	Heloise
+4133	World
+4134	ShopperTrak
+4135	Contact_person
+4136	He
+4137	He is brother
+4138	Contact
+4139	World
+4140	She is an art teacher
+4141	org
+4142	World
+4143	Relationship
+4144	Relationship
+4145	Persona
+4146	org
+4147	No_relation
+4148	entity
+4149	World
+4150	Youssoufou Bamba
+4151	Friends
+4152	Countrywide Financial
+4153	rupiah
+4154	Relationship
+4155	org
+4156	nea
+4157	No_relationship
+4158	Location
+4159	AAUW
+4160	Wen Qiang
+4161	Wen Qiang
+4162	World
+4163	Police
+4164	He is brother
+4165	Entity 1
+4166	BedBug Central
+4167	Wen
+4168	World
+4169	org
+4170	Relationship
+4171	Relationship
+4172	College
+4173	ATF
+4174	Answer: yes
+4175	National Energy Administration
+4176	Relationship
+4177	country_of_life
+4178	org
+4179	Family
+4180	World
+4181	Entity 1
+4182	Contact
+4183	Entity 1
+4184	org
+4185	No_relation
+4186	parent
+4187	org
+4188	George Sodini
+4189	Entity 1
+4190	Sports
+4191	World
+4192	org
+4193	Answer
+4194	nea
+4195	Relationship
+4196	Person with whom Chiafari started his shift at 3 pm
+4197	no_relation
+4198	Person
+4199	org
+4200	No_relationship
+4201	org
+4202	World
+4203	The nationality of Eugenio Vagni is Italian national
+4204	Entity 1
+4205	Relationship
+4206	org
+4207	No_relationship
+4208	org
+4209	Person
+4210	World
+4211	Artine S Utomo
+4212	Relationship
+4213	Governing body
+4214	org
+4215	He
+4216	Entity 1: Bruno
+4217	Entity 1
+4218	No_relationship
+4219	Wen
+4220	Answer: NY
+4221	Persona
+4222	Relationship
+4223	College
+4224	org
+4225	Physicist
+4226	org
+4227	Ivory Coast
+4228	Office of the Attorney General
+4229	Wen Qiang
+4230	org
+4231	The Italian worker of the ICRC is Eugenio Vagni
+4232	Relationship
+4233	Answer: yes
+4234	Location
+4235	No_relation
+4236	Relationship
+4237	org
+4238	org
+4239	No_relationship
+4240	org
+4241	Office
+4242	Wen Qiang
+4243	National Energy Administration
+4244	Persona
+4245	Police
+4246	The Good Broker , LLC
+4247	Persona
+4248	CIA
+4249	ShopperTrak
+4250	Answer: spokeswoman
+4251	Albert Lange
+4252	No_relationship
+4253	Persona
+4254	Relationship
+4255	Relationship
+4256	No_relationship
+4257	Personasured
+4258	No_relationship
+4259	Person
+4260	No_relationship
+4261	ADF
+4262	Assaf Ramon
+4263	Office
+4264	Sports
+4265	Persona
+4266	Relationship
+4267	ShopperTrak
+4268	Person
+4269	org
+4270	Person
+4271	a-aDomestic Life
+4272	Entity 1
+4273	no_relation
+4274	Almena Lomax
+4275	Person
+4276	Entity 1
+4277	Relationship
+4278	Persona
+4279	Relationship
+4280	no_relation
+4281	org
+4282	No_relationship
+4283	World
+4284	GE Money Bank
+4285	Person with whom he performed Beatles covers and original songs
+4286	org
+4287	Relationship
+4288	Dworin
+4289	No_relationship
+4290	College is St David 's United Church- name is Wayne A Holst- nationality is Canada- birth place is st
+4291	org
+4292	No_relationship
+4293	org
+4294	no_relation
+4295	World
+4296	Persona
+4297	No_relation
+4298	Pope
+4299	Relationship
+4300	Office
+4301	American
+4302	No_relationship
+4303	Interior
+4304	No_relationship
+4305	Person
+4306	No_relation
+4307	Countrywide
+4308	No_relation
+4309	org
+4310	Entity 1 : Soro
+4311	No_relation
+4312	World
+4313	Kisses
+4314	ADF
+4315	enthused Piano
+4316	Entity 1
+4317	org
+4318	org:alternate_names
+4319	No_relation
+4320	No_relationship
+4321	UASR
+4322	Heloise
+4323	Xie
+4324	org
+4325	Person with interests in journalism
+4326	Cosa Nostra
+4327	org
+4328	Adela Dworin
+4329	Relationship
+4330	He
+4331	org
+4332	Alessi
+4333	Person
+4334	no_relation
+4335	ADF
+4336	World
+4337	org
+4338	Relationship
+4339	no_relation
+4340	Relationship
+4341	Entity 1
+4342	Person with information about the kidnapping
+4343	Persona
+4344	No_relationship
+4345	Persona
+4346	No_relationship
+4347	Answer
+4348	Animal
+4349	org
+4350	org
+4351	Entity 1
+4352	parent
+4353	Person
+4354	org
+4355	NDRC
+4356	Personasured
+4357	He
+4358	Person
+4359	He
+4360	org
+4361	He is
+4362	Kisses
+4363	Answer: Person
+4364	No_relation
+4365	Relationship
+4366	0
+4367	Person with whom Piedra owes back taxes and interest
+4368	Xie
+4369	Persona
+4370	ShopperTrak
+4371	Sports
+4372	family
+4373	Naveed Iqbal
+4374	No_relationship
+4375	ShopperTrak
+4376	org
+4377	AAUW
+4378	Sports
+4379	Persona
+4380	org
+4381	spouse
+4382	org
+4383	org
+4384	Person
+4385	Father
+4386	Relationship
+4387	org
+4388	No_relation
+4389	org
+4390	ShopperTrak
+4391	Xie Caiping
+4392	Bibi
+4393	spouse
+4394	no_relation
+4395	Piedra
+4396	Persona
+4397	No_relation
+4398	no_relation
+4399	Location Location
+4400	Entity 1
+4401	Persona
+4402	Person
+4403	Heloise
+4404	Entity 1: Progressive Democrats of America
+4405	ADF
+4406	Sports
+4407	John A Boehner, R-Ohio
+4408	Person with knowledge of the crime
+4409	org
+4410	Xie Caiping
+4411	Persona
+4412	Person
+4413	Secretary
+4414	Relationship
+4415	Matteo Messina Denaro
+4416	Her husband is Shelby
+4417	Persona
+4418	Relationship
+4419	Entity 1 is Graham
+4420	Guest
+4421	He is an apprentice at a printer and store detective in Times Square -- a job he said he hated
+4422	Office of the Interior
+4423	org
+4424	org
+4425	Answer
+4426	He is in a military hospital
+4427	Office of Secretary of State
+4428	No_relation
+4429	He
+4430	Persona
+4431	Person who is independent is Nir Rosen
+4432	Adi Amit
+4433	Bibi
+4434	org
+4435	Ilan Ramon
+4436	He
+4437	NDRC Entity 1
+4438	Shoppers_attended
+4439	Entity 1
+4440	No_relationship
+4441	John Graham
+4442	No_relation
+4443	Business
+4444	org
+4445	Person with custody
+4446	Eloise Spooner
+4447	Relationship
+4448	Relationship
+4449	org
+4450	No_relationship
+4451	org
+4452	Relationship
+4453	World
+4454	He
+4455	Person
+4456	Entity 1: Eugenio Vagni of Italy , Andreas Notter of Switzerland and Filipina Mary Jean Lacaba
+4457	he
+4458	Sports
+4459	Relationship
+4460	org
+4461	Xie
+4462	He
+4463	Bumi Resources
+4464	Entity 1
+4465	Persona
+4466	He
+4467	He
+4468	org
+4469	Wen Qiang
+4470	Relationship
+4471	org
+4472	Notter
+4473	Relationship
+4474	org
+4475	org
+4476	No_relationship
+4477	Alessi
+4478	Theda Clark
+4479	no_relation
+4480	Relationship
+4481	He
+4482	spouse
+4483	org
+4484	Answer: he
+4485	The gender of the female professor is unknown
+4486	org
+4487	spouse
+4488	org
+4489	Alessi
+4490	Person
+4491	ShopperTrak
+4492	Person on the tour
+4493	She
+4494	NDRC
+4495	No_relation
+4496	Entity 1
+4497	Entity 1 is New Fabris and Eugene Fabris
+4498	Person
+4499	no_relationship
+4500	No_relation
+4501	daughter
+4502	no_relation
+4503	Persona
+4504	Entity 1
+4505	No_relationship
+4506	Gage
+4507	Persona
+4508	AE911Truth Companion Edition 10Minute WTC 7 Video Online September 11th WTC World Trade Center Building WTC7 Controlled
+4509	No_relationship
+4510	Person
+4511	org
+4512	no_relation
+4513	Alarcon
+4514	Person
+4515	Entity 1
+4516	No_relationship
+4517	World
+4518	Relationship
+4519	Relationship
+4520	MGE
+4521	Halliburton
+4522	Entity 1
+4523	Answer: he
+4524	Friends
+4525	no_relationship
+4526	Relationship
+4527	Person
+4528	World
+4529	Person at the club
+4530	org
+4531	gov
+4532	He
+4533	No_relationship
+4534	Family
+4535	No_relationship
+4536	No_relationship
+4537	Location
+4538	Entity 2 : Ed
+4539	org
+4540	No
+4541	Relationship
+4542	Her mother
+4543	NEA
+4544	Wen
+4545	Person with information about Matteo Messina Denaro
+4546	No_relationship
+4547	Avery
+4548	org
+4549	World
+4550	She
+4551	org
+4552	Person
+4553	Herold
+4554	Herold
+4555	No_relationship
+4556	No_relationship
+4557	Answer
+4558	No_relation
+4559	Person with whom Piedra reported contributed more than $ 270,000
+4560	Person with information about Messina Denaro
+4561	Dworins
+4562	Aquash
+4563	Relationship
+4564	Entity 1
+4565	org
+4566	org
+4567	Animal
+4568	Relationship
+4569	No_relation
+4570	Persona
+4571	org
+4572	Entity 1
+4573	family_name
+4574	no_relation
+4575	Wen Qiang
+4576	spouse
+4577	Alessi
+4578	Entity 1: Chen Tao
+4579	No_relation
+4580	No
+4581	No_relationship
+4582	Persona
+4583	wife
+4584	Entity 1
+4585	Herold
+4586	Contact
+4587	parent
+4588	org
+4589	He
+4590	org
+4591	Friends
+4592	Aquash
+4593	org
+4594	NDRC
+4595	ADF
+4596	Relationship
+4597	UN ambassador
+4598	he
+4599	Persona
+4600	ABU ALWAFA
+4601	Entity 1
+4602	Friends
+4603	Entertainment
+4604	Athletes
+4605	Relationship
+4606	org
+4607	Entity 1
+4608	Persona
+4609	No_relationship
+4610	Relationship
+4611	Alessi
+4612	religion
+4613	Personasure_of_statement
+4614	NRA
+4615	He
+4616	org
+4617	No_planers
+4618	No_relationship
+4619	Persona
+4620	Kissner
+4621	Business
+4622	he
+4623	Entity 1
+4624	China Charity Federation
+4625	No_relationship
+4626	Person
+4627	Entity 1
+4628	org
+4629	NRA
+4630	Ivory Coast
+4631	Entity 1
+4632	NTSO
+4633	No_relationship
+4634	Entity 1
+4635	ShopperTrak
+4636	Adela Dworin
+4637	No_relation
+4638	org
+4639	Relationship
+4640	org
+4641	Relationship
+4642	org
+4643	Allied Democratic Forces
+4644	org
+4645	org:alternate_names
+4646	org
+4647	Family
+4648	org
+4649	Relationship
+4650	John Graham
+4651	No_relationship
+4652	Xie
+4653	org:alternate_names
+4654	World
+4655	Person
+4656	Entity 1 is a list of executive co-producers It is the director of the Beijing 2008 Games It is the director of the 2006
+4657	Contact_person
+4658	org
+4659	Sports
+4660	Relationship
+4661	PATA
+4662	No_relationship
+4663	org
+4664	org
+4665	Grails Development Team Jeremy Grelle
+4666	Person
+4667	Entity 1
+4668	Entity 1
+4669	LC
+4670	Herold
+4671	Herold
+4672	Entity 1
+4673	0
+4674	Non_relationship
+4675	Persona
+4676	No_relation
+4677	John Graham
+4678	Xinhua
+4679	No_relationship
+4680	The Menil Collection
+4681	org
+4682	no_relation
+4683	Relationship
+4684	Xie Caiping
+4685	Father
+4686	UN ambassador
+4687	org
+4688	She
+4689	Alessi
+4690	Amazon
+4691	No_relationship
+4692	Animal
+4693	Office of National Drug Control Policy
+4694	No_relationship
+4695	World
+4696	org
+4697	Norris Church Mailer
+4698	org
+4699	Location
+4700	Wen
+4701	Adity 1 is Adela Dworin; Adity 2 is Abraham Marcus Matterin; Adity 3 is Adela Dworin; Ad
+4702	No_relation
+4703	No_relationship
+4704	No_relationship
+4705	Person
+4706	Persona
+4707	Sports
+4708	Entity 1
+4709	ShopperTrak
+4710	Persona
+4711	org
+4712	he
+4713	Dwight Garner
+4714	He
+4715	Chen Tao Entity 2 : Dong Fangzhuo
+4716	Answer
+4717	Relationship
+4718	Relationship
+4719	Alessi and Son Citgo
+4720	Dworin
+4721	ShopperTrak
+4722	No_name
+4723	Friends
+4724	Persona
+4725	Almena Lomax
+4726	Relationship
+4727	Persona
+4728	Heloise
+4729	Relationship
+4730	Esther-Ethy Mamane
+4731	org
+4732	org
+4733	House
+4734	Heloise
+4735	Tempat Pelelangan Ikan
+4736	No_relation
+4737	Business
+4738	He
+4739	National Restaurant Association
+4740	No_relation
+4741	ADF
+4742	No_relationship
+4743	World
+4744	Xie Caiping
+4745	Alessi
+4746	org
+4747	Wen
+4748	Coastal Conservation League
+4749	Relationship
+4750	Bacon
+4751	No_relation
+4752	org
+4753	He
+4754	No_relationship
+4755	Secretary
+4756	Relationship
+4757	PATA
+4758	No_relation
+4759	Xie Caiping
+4760	org
+4761	No_relationship
+4762	Person of the same name
+4763	No_relationship
+4764	parent
+4765	No_relation
+4766	Relationship
+4767	Relationship
+4768	no_relation
+4769	No_relation
+4770	ADF
+4771	Location
+4772	Entity 1
+4773	org
+4774	World
+4775	NDRC
+4776	Persona
+4777	Relationship
+4778	Office
+4779	Person who resigned after comments about Nir Rosen has been forced to resign his position at NYU over comments he made regarding Logan 
+4780	Relationship
+4781	ADF
+4782	No_relationship
+4783	spouse
+4784	No_relationship
+4785	Contact_person
+4786	Relationship
+4787	Relationship
+4788	org
+4789	World Trade Center
+4790	Person who is not related to Christopher Bollyn
+4791	World
+4792	Contact_person
+4793	No_relationship
+4794	org
+4795	NDRC
+4796	org
+4797	org
+4798	org
+4799	ntso
+4800	org
+4801	No_relationship
+4802	org
+4803	Partnering
+4804	Relationship
+4805	Person with experience in military hospital
+4806	Relationship
+4807	ADF
+4808	no_relation
+4809	spouse
+4810	No_relationship
+4811	Customer rating is 1 out of 5
+4812	org
+4813	NTSO
+4814	Person
+4815	org
+4816	org
+4817	World
+4818	No_relationship
+4819	Relationship
+4820	Relationship
+4821	No_relationship
+4822	yes
+4823	Sports
+4824	The Menil Collection
+4825	Relationship
+4826	Person
+4827	He
+4828	Relationship
+4829	 http://wwwadborg/media/Articles/2007/12155-asian-poverties-reductions
+4830	Visa International Asia Pacific
+4831	He
+4832	no_relation
+4833	org
+4834	ABN Amro
+4835	Entity 1
+4836	Persona
+4837	Nofer Ishai-Karen
+4838	org
+4839	org
+4840	No_relation
+4841	org
+4842	She
+4843	Department
+4844	Herold
+4845	Answer: National Congress of American Indians
+4846	Relationship
+4847	org
+4848	Person who was killed is named Ruben van Assouw
+4849	Alessi
+4850	no_relation
+4851	org
+4852	Relationship
+4853	Relationship
+4854	Entity 1: Dworin
+4855	No_relationship
+4856	Person
+4857	Persona
+4858	Relationship
+4859	No_relationship
+4860	Relationship
+4861	no_relation
+4862	None
+4863	he
+4864	Persona
+4865	No_relation
+4866	Relationship
+4867	No_relationship
+4868	No_relationship
+4869	org
+4870	country_of_birth
+4871	Person
+4872	Contact_person
+4873	No_relation
+4874	Persona
+4875	National Restaurant Association
+4876	Wen Qiang
+4877	Answer: family
+4878	Persona_of
+4879	Non_relationship
+4880	Her
+4881	Location
+4882	he
+4883	Graham
+4884	Relationship
+4885	Answer
+4886	Answer: no
+4887	Bibi
+4888	org
+4889	org
+4890	ShopperTrak
+4891	org
+4892	org
+4893	NDA
+4894	LC
+4895	No_relationship
+4896	org
+4897	Sports
+4898	AIG
+4899	Person
+4900	Wen
+4901	Relationship
+4902	No_relation
+4903	Persona
+4904	No_relationship
+4905	No_relationship
+4906	Contact_person
+4907	Location
+4908	Ranke
+4909	No
+4910	Vatican
+4911	Entity 1 is Sycamore, Pune
+4912	Person
+4913	No_relationship
+4914	Bibi
+4915	org
+4916	Entity 1
+4917	no_relation
+4918	Bibi
+4919	org
+4920	No_relationship
+4921	Gage
+4922	He
+4923	Entity 1 is Corporate Library
+4924	gov
+4925	sycamore
+4926	org
+4927	He
+4928	org
+4929	Relationship
+4930	Science/Tech
+4931	Answer: religion
+4932	No_relationship
+4933	Admittance
+4934	Relationship
+4935	Business
+4936	Person
+4937	Relationship
+4938	Persona
+4939	no_relation
+4940	Person
+4941	He
+4942	spouse
+4943	Contact
+4944	org
+4945	Gage
+4946	Persons in the city died
+4947	org
+4948	No_relation
+4949	He
+4950	Person
+4951	Relationship
+4952	Esther-Ethy Mamane
+4953	The title of the episode that was aired on YouTube is "Axelrod"
+4954	Alistair Abdul-Jabbar
+4955	United States
+4956	Answer1: Aquash
+4957	Persona
+4958	org
+4959	org
+4960	No_relationship
+4961	Heloise
+4962	Alessi
+4963	org
+4964	Person with whom they had her sign three fabricated affidavits falsely stated that she was my girlfriend and that she saw me kill Agent
+4965	Business
+4966	Persona
+4967	No_relation
+4968	Entity 1
+4969	org
+4970	Person
+4971	China Charity Federation
+4972	parent
+4973	org
+4974	Notter
+4975	No_relation
+4976	Heloise
+4977	org
+4978	Relationship
+4979	AFP
+4980	Heloise
+4981	Esther-Ethy Mamane
+4982	Relationship
+4983	Person who surrendered to police on Wednesday is Eliza Samudio
+4984	[['Global Research', 'July 8/04'], ['European Parliament Verbatim Report of Proceedings', 'J
+4985	Peter Dean
+4986	spouse
+4987	Persona
+4988	org
+4989	Amanda Knox
+4990	org
+4991	Business
+4992	Wen
+4993	org
+4994	NDRC
+4995	Relationship
+4996	org
+4997	org
+4998	Organized by
+4999	No_relationship

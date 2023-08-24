@@ -1,0 +1,5000 @@
+0	Article
+1	Entity 1
+2	Entity 2
+3	Entity 1
+4	Cause-Effect(e1,e2)
+5	Entity 1
+6	Entity 2
+7	Entity 1
+8	Entity 1
+9	Entity 1
+10	Entity 1
+11	Entity-Origin(e1,e2)
+12	Entity 1
+13	Entity 1
+14	Entity 1
+15	Entity 1
+16	Entity 2
+17	Entity 1
+18	Entity 2
+19	Entity 1
+20	List
+21	Entity-Destination(e1,e2)
+22	Entity 1
+23	Cause-Effect(e1,e2)
+24	Entity 1
+25	Entity 2
+26	Entity 1
+27	Entity 1
+28	Entity 2
+29	Entity 1
+30	Entity 1
+31	Cause-Effect(e1,e2)
+32	Entity 1
+33	Entity 1
+34	Entity 2
+35	Entity 1
+36	Entity 1
+37	Entity 1
+38	Entity 1
+39	Entity 1
+40	Entity 1
+41	Entity 1
+42	Entity 1
+43	Entity 1
+44	Entity 1
+45	Entity 1
+46	Entity 1
+47	Entity 1
+48	Entity 1
+49	Cause-Effect(e1,e2)
+50	Entity 1
+51	Entity 2
+52	Entity 2
+53	Entity 1
+54	Entity 1
+55	Entity 1
+56	Entity 1
+57	Entity 2
+58	Entity 1
+59	Entity 1
+60	Entity 2
+61	Facility
+62	Entity 2
+63	Cause-Effect(e1,e2)
+64	Entity 1
+65	Entity 1
+66	Entity 1
+67	Entity 1
+68	Entity 2
+69	Entity 2
+70	Entity 2
+71	Entity 1
+72	Member-Collection(e1,e2)
+73	Entity 1
+74	Entity 1
+75	Entity 1
+76	Entity 1
+77	Cause-Effect(e1,e2)
+78	Entity 2
+79	Entity 2
+80	Entity 1
+81	Entity 1
+82	Entity 1
+83	Entity 1
+84	Entity 2
+85	Cause-Effect(e1,e2)
+86	Entity 2
+87	Entity 1
+88	Entity 2
+89	Entity 1
+90	Entity 1
+91	Entity 1
+92	Entity 1
+93	Entity 1
+94	Entity 1
+95	Cause-Effect(e1,e2)
+96	Entity 2
+97	Entity 1
+98	Entity 1
+99	Entity 1
+100	Entity 1
+101	Entity 1
+102	Entity 2
+103	Entity 1
+104	Entity 1
+105	Entity 2
+106	Entity 1
+107	Entity 1
+108	Entity 2
+109	Entity 2
+110	Entity 1
+111	Entity-Destination(e1,e2)
+112	Entity 1
+113	Entity 2
+114	Entity 2
+115	Entity-Origin(e1,e2)
+116	Entity 2
+117	Entity 1
+118	Entity 1
+119	Entity 1
+120	Entity-Origin(e1,e2)
+121	Entity 2
+122	Entity 1
+123	Entity 2
+124	Men
+125	Entity 1
+126	Entity 1
+127	Entity 1
+128	Entity 1
+129	Entity-Origin(e1,e2)
+130	Entity 1
+131	Cause-Effect(e1,e2)
+132	Entity 2
+133	Entity 2
+134	Entity 1
+135	Entity 2
+136	Entity 1
+137	Entity 1
+138	Entity 2
+139	Cause-Effect(e1,e2)
+140	Entity 1
+141	Entity 2
+142	Entity 1
+143	Entity 1
+144	Entity 1
+145	Entity 2
+146	Entity 2
+147	Entity 1
+148	Entity 1
+149	Cause-Effect(e1,e2)
+150	Entity 1
+151	Entity 1
+152	Entity 2
+153	Entity 2
+154	Entity 1
+155	Entity 1
+156	Entity 1
+157	Entity 1
+158	Entity 1
+159	Entity 1
+160	Entity 2
+161	Entity 2
+162	Entity 1
+163	Entity 2
+164	Entity 1
+165	Entity 2
+166	Entity 1
+167	Entity 1
+168	Entity 1
+169	Entity 1
+170	Entity-Origin(e1,e2)
+171	Entity 1
+172	Entity 1
+173	Entity 1
+174	Entity 2
+175	Cause-Effect(e1,e2)
+176	Entity 1
+177	Entity 1
+178	Entity 1
+179	Entity 1
+180	Entity 1
+181	Entity 1
+182	Entity 1
+183	Entity 1
+184	Cause-Effect(e1,e2)
+185	Entity 1
+186	industry
+187	Entity 2
+188	Entity 1
+189	Entity 1
+190	Entity 1
+191	Entity 2
+192	Cause-Effect(e1,e2)
+193	Entity 2
+194	Entity 2
+195	Entity 1
+196	Entity 2
+197	Entity 1
+198	Entity 1
+199	Entity 1
+200	Entity 1
+201	Cause-Effect(e1,e2)
+202	Entity 1
+203	Entity 2
+204	Entity 1
+205	Entity 1
+206	Entity 1
+207	case
+208	Entity 2
+209	Cause-Effect(e1,e2)
+210	Entity 1
+211	Entity 2
+212	Entity 2
+213	Entity 1
+214	Entity 1
+215	Entity 1
+216	Entity 1
+217	Entity 1
+218	Cause-Effect(e1,e2)
+219	Entity 1
+220	Entity 1
+221	Cause-Effect(e1,e2)
+222	Entity 1
+223	Entity 1
+224	Instrument-Agency(e1,e2)
+225	Entity 2
+226	Entity 1
+227	Entity 1
+228	Entity 2
+229	Entity 1
+230	Entity 1
+231	Entity 1
+232	Entity 1
+233	Entity 1
+234	Cause-Effect(e1,e2)
+235	Entity 1
+236	Entity 1
+237	Entity 1
+238	Entity 1
+239	Entity 1
+240	Entity 1
+241	Entity 1
+242	Cause-Effect(e1,e2)
+243	Entity 1
+244	Entity 1
+245	Entity 2
+246	Entity 1
+247	Entity 2
+248	Entity 1
+249	Entity 1
+250	Entity 1
+251	Entity 1
+252	Entity 1
+253	Entity 2
+254	Entity 2
+255	Entity-Origin(e1,e2)
+256	Entity 1
+257	Entity 2
+258	Cause-Effect(e1,e2)
+259	Entity 1
+260	Entity 1
+261	Entity 2
+262	Entity 2
+263	Entity 1
+264	Entity 1
+265	Entity 1
+266	Cause-Effect(e1,e2)
+267	Entity 1
+268	Entity 1
+269	Entity-Origin(e1,e2)
+270	Entity 2
+271	Entity 2
+272	Entity 1
+273	Entity 2
+274	Entity 2
+275	Entity 1
+276	Entity 1
+277	Entity 1
+278	Entity 1
+279	Instrument-Agency(e1,e2)
+280	Entity 1
+281	Entity 1
+282	Entity 1
+283	Entity 1
+284	Entity 2
+285	Cause-Effect(e1,e2)
+286	Money
+287	Entity 1
+288	Entity 2
+289	Entity 2
+290	Entity 1
+291	Entity 1
+292	Entity 1
+293	Entity 2
+294	Entity 1
+295	Entity 1
+296	Entity 1
+297	Entity 1
+298	Entity 2
+299	Cause-Effect(e1,e2)
+300	Entity 2
+301	Entity 2
+302	Entity 1
+303	Entity 2
+304	Cause-Effect(e1,e2)
+305	Entity 1
+306	Entity 1
+307	Entity 1
+308	Entity 1
+309	Entity 1
+310	Entity 1
+311	Entity 2
+312	Entity 1
+313	Entity 1
+314	Entity 1
+315	Entity 1
+316	Entity 1
+317	Entity 1
+318	Entity 1
+319	Entity 1
+320	Entity 1
+321	Entity 1
+322	Entity 1
+323	Entity 1
+324	Entity 1
+325	Entity 1
+326	Entity 1
+327	Entity 2
+328	Entity 1
+329	Entity 1
+330	Entity 1
+331	Entity 1
+332	Cause-Effect(e1,e2)
+333	Entity 1
+334	Entity 1
+335	Entity 2
+336	Entity 1
+337	Entity 1
+338	Entity 1
+339	Entity 1
+340	Entity 2
+341	Entity 1
+342	Entity 2
+343	Entity 1
+344	Entity 1
+345	Cause-Effect(e1,e2)
+346	Entity 1
+347	Entity 1
+348	Entity 2
+349	Entity 1
+350	Entity 1
+351	Cause-Effect(e1,e2)
+352	Entity 1
+353	Entity 1
+354	Entity 2
+355	Entity 1
+356	Entity 1
+357	Entity 1
+358	Cause-Effect(e1,e2)
+359	Entity 1
+360	Entity 2
+361	Entity 1
+362	Entity 1
+363	Entity 2
+364	Entity 1
+365	Entity 2
+366	Entity-Origin(e1,e2)
+367	Entity 1
+368	Entity 1
+369	Entity 1
+370	Entity 1
+371	Cause-Effect(e1,e2)
+372	Entity 2
+373	Entity 1
+374	Entity 1
+375	Entity 1
+376	Entity 1
+377	Cause-Effect(e1,e2)
+378	Entity 1
+379	Entity 2
+380	Entity 1
+381	Entity 1
+382	Entity 1
+383	Entity 1
+384	Cause-Effect(e1,e2)
+385	Entity 1
+386	Entity 1
+387	Entity 1
+388	Entity 1
+389	Entity 1
+390	Entity 2
+391	Entity-Origin(e1,e2)
+392	Entity 1
+393	Entity 1
+394	Entity 1
+395	Entity 2
+396	Entity 1
+397	Entity 1
+398	Cause-Effect(e1,e2)
+399	Entity 1
+400	Entity 1
+401	Entity 1
+402	Stadium
+403	Cause-Effect(e1,e2)
+404	Entity 2
+405	Entity 2
+406	Entity 1
+407	Policy
+408	Entity 1
+409	Entity 1
+410	Cause-Effect(e1,e2)
+411	Entity 2
+412	Entity 2
+413	Entity 1
+414	Entity 1
+415	Entity 1
+416	Entity 1
+417	Cause-Effect(e1,e2)
+418	Entity 1
+419	Entity 2
+420	Entity 2
+421	Entity 1
+422	Entity 1
+423	Entity 1
+424	Entity 1
+425	Entity 2
+426	Entity-Origin(e1,e2)
+427	Entity 1
+428	Entity 1
+429	Cause-Effect(e1,e2)
+430	Entity 1
+431	industry
+432	Entity 1
+433	Entity 1
+434	Entity-Origin(e1,e2)
+435	Entity 1
+436	Cause-Effect(e1,e2)
+437	Entity 1
+438	Entity 2
+439	Entity 1
+440	Entity 1
+441	Entity 1
+442	Entity 1
+443	Entity 2
+444	Entity 1
+445	Entity-Destination(e1,e2)
+446	Entity 2
+447	Entity 1
+448	Entity 1
+449	Cause-Effect(e1,e2)
+450	Entity 1
+451	Entity 2
+452	List
+453	Entity 1
+454	Entity 1
+455	Cause-Effect(e1,e2)
+456	Entity 1
+457	Entity 2
+458	Entity 2
+459	Entity 1
+460	Entity 2
+461	Entity 1
+462	Entity 1
+463	Entity 1
+464	Entity 1
+465	Entity 1
+466	Entity 1
+467	Entity 1
+468	Entity 1
+469	Entity 1
+470	Entity 2
+471	Entity 2
+472	Entity 1
+473	Entity 1
+474	Entity 1
+475	Cause-Effect(e1,e2)
+476	Entity 1
+477	Entity 1
+478	Entity 1
+479	Entity 1
+480	Entity 1
+481	Cause-Effect(e1,e2)
+482	Entity 1
+483	Entity 1
+484	Entity 2
+485	Entity 1
+486	Entity 2
+487	Entity 1
+488	Cause-Effect(e1,e2)
+489	Entity 1
+490	Entity 1
+491	Entity 1
+492	Entity 1
+493	Entity 1
+494	Cause-Effect(e1,e2)
+495	Entity 1
+496	Entity 2
+497	Entity 2
+498	Entity 1
+499	Entity 1
+500	Entity 1
+501	Cause-Effect(e1,e2)
+502	Cause-Effect(e1,e2)
+503	Entity 2
+504	Entity 1
+505	Entity 1
+506	Entity 2
+507	Cause-Effect(e1,e2)
+508	Cause-Effect(e1,e2)
+509	Entity 1
+510	Entity 1
+511	Entity 1
+512	Entity 1
+513	Entity 1
+514	Entity 1
+515	Engine
+516	Entity 2
+517	Entity 1
+518	Entity 1
+519	Entity 1
+520	Cause-Effect(e1,e2)
+521	Entity 1
+522	Entity 2
+523	Entity 1
+524	Time
+525	Entity 1
+526	Entity 1
+527	Entity 1
+528	Entity 1
+529	Entity 1
+530	2
+531	Entity 1
+532	Entity 1
+533	Cause-Effect(e1,e2)
+534	Entity 1
+535	Entity 1
+536	Entity 2
+537	Entity 1
+538	Entity 1
+539	Entity 1
+540	Cause-Effect(e1,e2)
+541	Entity 1
+542	Entity 1
+543	Entity 1
+544	Entity 1
+545	Entity 1
+546	Entity 1
+547	Entity 1
+548	Entity 2
+549	Entity 2
+550	Entity 2
+551	Entity 1
+552	Entity 1
+553	2
+554	Entity 2
+555	Message-Topic(e1,e2)
+556	Entity 1
+557	Cause-Effect(e1,e2)
+558	Entity 1
+559	Cause-Effect(e1,e2)
+560	Handles
+561	Entity 2
+562	Entity 1
+563	Entity 1
+564	Entity 1
+565	Entity 1
+566	Entity 1
+567	Entity 1
+568	Entity 1
+569	Entity 2
+570	Entity 1
+571	Entity 1
+572	Entity 1
+573	Entity 2
+574	Cause-Effect(e1,e2)
+575	Entity 1
+576	Entity 1
+577	Entity 1
+578	Entity 1
+579	Entity 1
+580	Entity 2
+581	Entity 2
+582	Entity-Origin(e1,e2)
+583	Entity 1
+584	Entity 1
+585	Entity 2
+586	Entity 1
+587	Entity 2
+588	Entity 1
+589	Entity 1
+590	Entity 1
+591	Entity 1
+592	Cause-Effect(e1,e2)
+593	Entity 1
+594	Entity 1
+595	Entity 2
+596	Instrument-Agency(e1,e2)
+597	Entity 1
+598	Cause-Effect(e1,e2)
+599	Entity 2
+600	Entity 1
+601	Entity 1
+602	Entity 1
+603	Entity 1
+604	Cause-Effect(e1,e2)
+605	Entity 1
+606	Entity 1
+607	Entity 2
+608	Entity 1
+609	Entity 1
+610	Entity 1
+611	Entity 1
+612	Entity 1
+613	Entity 2
+614	Entity 1
+615	Entity 1
+616	Entity 1
+617	Entity 1
+618	Entity 2
+619	Entity 2
+620	Entity 2
+621	Entity 1
+622	Cause-Effect(e1,e2)
+623	Entity 1
+624	Entity 1
+625	Entity 1
+626	Entity 1
+627	Entity 1
+628	Cause-Effect(e1,e2)
+629	Entity 1
+630	Entity 2
+631	Entity 1
+632	Entity 1
+633	Entity 1
+634	Cause-Effect(e1,e2)
+635	2
+636	Entity 1
+637	Entity 1
+638	Entity 1
+639	Entity 1
+640	Cause-Effect(e1,e2)
+641	Entity 1
+642	Message-Topic(e1,e2)
+643	Entity 1
+644	Entity 2
+645	Entity 1
+646	Cause-Effect(e1,e2)
+647	Instrument-Agency(e1,e2)
+648	Entity 2
+649	Entity 1
+650	Entity 1
+651	Entity 1
+652	Cause-Effect(e1,e2)
+653	Entity 1
+654	Entity 1
+655	Entity-Origin(e1,e2)
+656	Entity 1
+657	Entity 1
+658	Cause-Effect(e1,e2)
+659	Entity 1
+660	Entity 1
+661	Entity 1
+662	Entity 1
+663	Entity 1
+664	Entity 1
+665	Entity 1
+666	Entity 1
+667	Entity 1
+668	Message-Topic(e1,e2)
+669	Entity 1
+670	Entity 1
+671	Entity 1
+672	Entity 1
+673	Entity 1
+674	Entity 1
+675	Entity 1
+676	Entity 2
+677	Entity 2
+678	Entity 1
+679	Entity 1
+680	Cause-Effect(e1,e2)
+681	Entity 1
+682	Entity 2
+683	Entity 2
+684	Entity 1
+685	Entity 1
+686	Cause-Effect(e1,e2)
+687	Entity 1
+688	Entity 2
+689	Entity 1
+690	Entity 1
+691	Entity 2
+692	Entity 2
+693	Entity 2
+694	Entity 2
+695	Entity 1
+696	Entity-Destination(e1,e2)
+697	Cause-Effect(e1,e2)
+698	Entity 2
+699	Entity 1
+700	Entity 1
+701	Entity 1
+702	Cause-Effect(e1,e2)
+703	Entity 2
+704	Entity 2
+705	Entity 1
+706	Entity 1
+707	Entity 2
+708	Cause-Effect(e1,e2)
+709	Entity 1
+710	Entity 1
+711	Entity 1
+712	Cause-Effect(e1,e2)
+713	Entity 1
+714	Entity 2
+715	Entity 2
+716	Entity 1
+717	Entity 1
+718	Entity 1
+719	Entity 1
+720	Entity 2
+721	Entity 1
+722	Entity 1
+723	Entity 2
+724	Entity-Origin(e1,e2)
+725	Entity 1
+726	Entity 1
+727	Entity 2
+728	Entity 1
+729	Entity 1
+730	Entity 1
+731	Entity 1
+732	Entity 1
+733	Entity 1
+734	Entity 1
+735	Entity 1
+736	Entity 1
+737	Entity 1
+738	Entity 1
+739	Entity 1
+740	Entity 2
+741	Entity 2
+742	Entity 1
+743	Entity 1
+744	Entity 1
+745	Entity 1
+746	Entity 1
+747	Entity 1
+748	Cause-Effect(e1,e2)
+749	Entity 2
+750	Entity 1
+751	Entity 1
+752	Entity 1
+753	Entity 1
+754	Entity 2
+755	Entity 1
+756	Entity 1
+757	Entity 2
+758	Entity 1
+759	Entity 1
+760	Entity 1
+761	Entity 2
+762	Cause-Effect(e1,e2)
+763	Entity 1
+764	Entity 1
+765	Entity 1
+766	Entity-Origin(e1,e2)
+767	Entity 1
+768	Entity 1
+769	Entity 2
+770	Entity 1
+771	Entity 1
+772	Entity 1
+773	Entity 1
+774	Entity 1
+775	Entity 1
+776	Entity 2
+777	Entity 2
+778	Entity 2
+779	Entity 2
+780	Entity 1
+781	Cause-Effect(e1,e2)
+782	Entity-Origin(e1,e2)
+783	Entity-Origin(e1,e2)
+784	Entity 1
+785	Entity 1
+786	Article
+787	Entity 1
+788	Entity 1
+789	Entity 1
+790	Entity 2
+791	Entity 1
+792	Entity 1
+793	Entity 1
+794	Entity 2
+795	Entity 2
+796	Entity 1
+797	Entity 1
+798	Entity 1
+799	Entity 1
+800	Entity 1
+801	Cause-Effect(e1,e2)
+802	Entity 1
+803	Entity 2
+804	Entity 1
+805	Entity 1
+806	Entity 1
+807	Entity 1
+808	Entity 2
+809	Entity 1
+810	Entity 1
+811	Entity 1
+812	Entity 1
+813	Cause-Effect(e1,e2)
+814	Entity 1
+815	Entity 1
+816	Entity 1
+817	Entity 2
+818	Entity 1
+819	Entity 2
+820	Entity 1
+821	Entity 1
+822	Entity 2
+823	Entity 2
+824	Entity 1
+825	Cause-Effect(e1,e2)
+826	Entity 1
+827	Entity 1
+828	Entity-Origin(e1,e2)
+829	Entity 1
+830	Entity 1
+831	Cause-Effect(e1,e2)
+832	Entity 2
+833	Entity 1
+834	Entity 2
+835	Entity 1
+836	Entity 1
+837	Cause-Effect(e1,e2)
+838	Entity 2
+839	Entity 2
+840	Entity 1
+841	Entity 1
+842	Entity 1
+843	Cause-Effect(e1,e2)
+844	Entity 1
+845	Entity 1
+846	Entity 1
+847	Cause-Effect(e1,e2)
+848	Entity 1
+849	Cause-Effect(e1,e2)
+850	Entity 1
+851	Entity 2
+852	Entity 2
+853	Entity 1
+854	Entity 2
+855	Cause-Effect(e1,e2)
+856	Entity 1
+857	Entity 1
+858	Entity 1
+859	Entity 1
+860	Entity 1
+861	Entity 1
+862	Entity 1
+863	Entity 1
+864	Entity 1
+865	Entity 1
+866	Entity 1
+867	Entity 1
+868	Entity 1
+869	Entity 1
+870	Entity 1
+871	Entity 1
+872	Entity 2
+873	Message-Topic(e1,e2)
+874	Entity-Origin(e1,e2)
+875	Entity 1
+876	Entity 1
+877	
+878	Entity 1
+879	Entity 1
+880	Entity 1
+881	Entity 1
+882	Entity 1
+883	Entity 2
+884	Entity 1
+885	Entity 1
+886	Entity 2
+887	Entity 1
+888	Entity 2
+889	Entity 2
+890	Entity 1
+891	Entity 1
+892	Entity 1
+893	Entity 1
+894	Entity 1
+895	Entity 1
+896	Entity 1
+897	Entity 1
+898	Entity 1
+899	Entity 1
+900	Entity 1
+901	Entity 1
+902	Entity 1
+903	Entity 1
+904	Entity 1
+905	Entity 1
+906	Entity 1
+907	Entity 1
+908	Entity 1
+909	Entity 2
+910	Entity 1
+911	Entity 1
+912	Entity 2
+913	Entity 1
+914	Entity 1
+915	Entity 1
+916	Entity 1
+917	Entity 1
+918	Cause-Effect(e1,e2)
+919	Entity 1
+920	Entity 1
+921	Entity 1
+922	Entity 2
+923	Entity 1
+924	Entity 2
+925	Entity 1
+926	Entity 1
+927	Entity 1
+928	Entity 1
+929	Entity 1
+930	Entity 1
+931	Cause-Effect(e1,e2)
+932	Entity 1
+933	Entity 1
+934	Entity 1
+935	Entity 2
+936	Cause-Effect(e1,e2)
+937	Entity 1
+938	Entity 1
+939	Entity 1
+940	Entity 1
+941	Person
+942	Entity 1
+943	Entity 1
+944	Entity 1
+945	Entity 1
+946	Entity 1
+947	Entity 1
+948	Cause-Effect(e1,e2)
+949	Entity 1
+950	Entity 1
+951	Entity 1
+952	Entity 1
+953	Entity 1
+954	Cause-Effect(e1,e2)
+955	Entity 1
+956	Entity 1
+957	Entity 2
+958	Entity 1
+959	Entity 1
+960	Entity 1
+961	Entity 2
+962	Entity 1
+963	Entity 1
+964	Entity 1
+965	Entity 1
+966	Entity 1
+967	Entity 2
+968	Entity 2
+969	Entity 2
+970	Entity 1
+971	Entity 1
+972	Entity 1
+973	Entity 1
+974	Entity 2
+975	Entity 2
+976	Entity 1
+977	Rock and roll
+978	Entity 2
+979	Cause-Effect(e1,e2)
+980	Entity 1
+981	Entity 2
+982	Officers
+983	Entity 1
+984	Entity 1
+985	Entity 1
+986	Cause-Effect(e1,e2)
+987	Entity 2
+988	Entity 1
+989	Entity 2
+990	Entity-Origin(e1,e2)
+991	Entity 1
+992	Entity 1
+993	Entity 1
+994	Entity 2
+995	Entity 2
+996	Entity 1
+997	Entity 2
+998	Entity 1
+999	Entity 1
+1000	Article
+1001	Entity 1
+1002	Entity 2
+1003	Entity 1
+1004	Cause-Effect(e1,e2)
+1005	Entity 1
+1006	Entity 2
+1007	Entity 1
+1008	Entity 1
+1009	Entity 1
+1010	Entity 1
+1011	Entity-Origin(e1,e2)
+1012	Entity 1
+1013	Entity 1
+1014	Entity 1
+1015	Entity 1
+1016	Entity 2
+1017	Entity 1
+1018	Entity 2
+1019	Entity 1
+1020	List
+1021	Entity-Destination(e1,e2)
+1022	Entity 1
+1023	Cause-Effect(e1,e2)
+1024	Entity 1
+1025	Entity 2
+1026	Entity 1
+1027	Entity 1
+1028	Entity 2
+1029	Entity 1
+1030	Entity 1
+1031	Cause-Effect(e1,e2)
+1032	Entity 1
+1033	Entity 1
+1034	Entity 2
+1035	Entity 1
+1036	Entity 1
+1037	Entity 1
+1038	Entity 1
+1039	Entity 1
+1040	Entity 1
+1041	Entity 1
+1042	Entity 1
+1043	Entity 1
+1044	Entity 1
+1045	Entity 1
+1046	Entity 1
+1047	Entity 1
+1048	Entity 1
+1049	Cause-Effect(e1,e2)
+1050	Entity 1
+1051	Entity 2
+1052	Entity 2
+1053	Entity 1
+1054	Entity 1
+1055	Entity 1
+1056	Entity 1
+1057	Entity 2
+1058	Entity 1
+1059	Entity 1
+1060	Entity 2
+1061	Facility
+1062	Entity 2
+1063	Cause-Effect(e1,e2)
+1064	Entity 1
+1065	Entity 1
+1066	Entity 1
+1067	Entity 1
+1068	Entity 2
+1069	Entity 2
+1070	Entity 2
+1071	Entity 1
+1072	Member-Collection(e1,e2)
+1073	Entity 1
+1074	Entity 1
+1075	Entity 1
+1076	Entity 1
+1077	Cause-Effect(e1,e2)
+1078	Entity 2
+1079	Entity 2
+1080	Entity 1
+1081	Entity 1
+1082	Entity 1
+1083	Entity 1
+1084	Entity 2
+1085	Cause-Effect(e1,e2)
+1086	Entity 2
+1087	Entity 1
+1088	Entity 2
+1089	Entity 1
+1090	Entity 1
+1091	Entity 1
+1092	Entity 1
+1093	Entity 1
+1094	Entity 1
+1095	Cause-Effect(e1,e2)
+1096	Entity 2
+1097	Entity 1
+1098	Entity 1
+1099	Entity 1
+1100	Entity 1
+1101	Entity 1
+1102	Entity 2
+1103	Entity 1
+1104	Entity 1
+1105	Entity 2
+1106	Entity 1
+1107	Entity 1
+1108	Entity 2
+1109	Entity 2
+1110	Entity 1
+1111	Entity-Destination(e1,e2)
+1112	Entity 1
+1113	Entity 2
+1114	Entity 2
+1115	Entity-Origin(e1,e2)
+1116	Entity 2
+1117	Entity 1
+1118	Entity 1
+1119	Entity 1
+1120	Entity-Origin(e1,e2)
+1121	Entity 2
+1122	Entity 1
+1123	Entity 2
+1124	Men
+1125	Entity 1
+1126	Entity 1
+1127	Entity 1
+1128	Entity 1
+1129	Entity-Origin(e1,e2)
+1130	Entity 1
+1131	Cause-Effect(e1,e2)
+1132	Entity 2
+1133	Entity 2
+1134	Entity 1
+1135	Entity 2
+1136	Entity 1
+1137	Entity 1
+1138	Entity 2
+1139	Cause-Effect(e1,e2)
+1140	Entity 1
+1141	Entity 2
+1142	Entity 1
+1143	Entity 1
+1144	Entity 1
+1145	Entity 2
+1146	Entity 2
+1147	Entity 1
+1148	Entity 1
+1149	Cause-Effect(e1,e2)
+1150	Entity 1
+1151	Entity 1
+1152	Entity 2
+1153	Entity 2
+1154	Entity 1
+1155	Entity 1
+1156	Entity 1
+1157	Entity 1
+1158	Entity 1
+1159	Entity 1
+1160	Entity 2
+1161	Entity 2
+1162	Entity 1
+1163	Entity 2
+1164	Entity 1
+1165	Entity 2
+1166	Entity 1
+1167	Entity 1
+1168	Entity 1
+1169	Entity 1
+1170	Entity-Origin(e1,e2)
+1171	Entity 1
+1172	Entity 1
+1173	Entity 1
+1174	Entity 2
+1175	Cause-Effect(e1,e2)
+1176	Entity 1
+1177	Entity 1
+1178	Entity 1
+1179	Entity 1
+1180	Entity 1
+1181	Entity 1
+1182	Entity 1
+1183	Entity 1
+1184	Cause-Effect(e1,e2)
+1185	Entity 1
+1186	industry
+1187	Entity 2
+1188	Entity 1
+1189	Entity 1
+1190	Entity 1
+1191	Entity 2
+1192	Cause-Effect(e1,e2)
+1193	Entity 2
+1194	Entity 2
+1195	Entity 1
+1196	Entity 2
+1197	Entity 1
+1198	Entity 1
+1199	Entity 1
+1200	Entity 1
+1201	Cause-Effect(e1,e2)
+1202	Entity 1
+1203	Entity 2
+1204	Entity 1
+1205	Entity 1
+1206	Entity 1
+1207	case
+1208	Entity 2
+1209	Cause-Effect(e1,e2)
+1210	Entity 1
+1211	Entity 2
+1212	Entity 2
+1213	Entity 1
+1214	Entity 1
+1215	Entity 1
+1216	Entity 1
+1217	Entity 1
+1218	Cause-Effect(e1,e2)
+1219	Entity 1
+1220	Entity 1
+1221	Cause-Effect(e1,e2)
+1222	Entity 1
+1223	Entity 1
+1224	Instrument-Agency(e1,e2)
+1225	Entity 2
+1226	Entity 1
+1227	Entity 1
+1228	Entity 2
+1229	Entity 1
+1230	Entity 1
+1231	Entity 1
+1232	Entity 1
+1233	Entity 1
+1234	Cause-Effect(e1,e2)
+1235	Entity 1
+1236	Entity 1
+1237	Entity 1
+1238	Entity 1
+1239	Entity 1
+1240	Entity 1
+1241	Entity 1
+1242	Cause-Effect(e1,e2)
+1243	Entity 1
+1244	Entity 1
+1245	Entity 2
+1246	Entity 1
+1247	Entity 2
+1248	Entity 1
+1249	Entity 1
+1250	Entity 1
+1251	Entity 1
+1252	Entity 1
+1253	Entity 2
+1254	Entity 2
+1255	Entity-Origin(e1,e2)
+1256	Entity 1
+1257	Entity 2
+1258	Cause-Effect(e1,e2)
+1259	Entity 1
+1260	Entity 1
+1261	Entity 2
+1262	Entity 2
+1263	Entity 1
+1264	Entity 1
+1265	Entity 1
+1266	Cause-Effect(e1,e2)
+1267	Entity 1
+1268	Entity 1
+1269	Entity-Origin(e1,e2)
+1270	Entity 2
+1271	Entity 2
+1272	Entity 1
+1273	Entity 2
+1274	Entity 2
+1275	Entity 1
+1276	Entity 1
+1277	Entity 1
+1278	Entity 1
+1279	Instrument-Agency(e1,e2)
+1280	Entity 1
+1281	Entity 1
+1282	Entity 1
+1283	Entity 1
+1284	Entity 2
+1285	Cause-Effect(e1,e2)
+1286	Money
+1287	Entity 1
+1288	Entity 2
+1289	Entity 2
+1290	Entity 1
+1291	Entity 1
+1292	Entity 1
+1293	Entity 2
+1294	Entity 1
+1295	Entity 1
+1296	Entity 1
+1297	Entity 1
+1298	Entity 2
+1299	Cause-Effect(e1,e2)
+1300	Entity 2
+1301	Entity 2
+1302	Entity 1
+1303	Entity 2
+1304	Cause-Effect(e1,e2)
+1305	Entity 1
+1306	Entity 1
+1307	Entity 1
+1308	Entity 1
+1309	Entity 1
+1310	Entity 1
+1311	Entity 2
+1312	Entity 1
+1313	Entity 1
+1314	Entity 1
+1315	Entity 1
+1316	Entity 1
+1317	Entity 1
+1318	Entity 1
+1319	Entity 1
+1320	Entity 1
+1321	Entity 1
+1322	Entity 1
+1323	Entity 1
+1324	Entity 1
+1325	Entity 1
+1326	Entity 1
+1327	Entity 2
+1328	Entity 1
+1329	Entity 1
+1330	Entity 1
+1331	Entity 1
+1332	Cause-Effect(e1,e2)
+1333	Entity 1
+1334	Entity 1
+1335	Entity 2
+1336	Entity 1
+1337	Entity 1
+1338	Entity 1
+1339	Entity 1
+1340	Entity 2
+1341	Entity 1
+1342	Entity 2
+1343	Entity 1
+1344	Entity 1
+1345	Cause-Effect(e1,e2)
+1346	Entity 1
+1347	Entity 1
+1348	Entity 2
+1349	Entity 1
+1350	Entity 1
+1351	Cause-Effect(e1,e2)
+1352	Entity 1
+1353	Entity 1
+1354	Entity 2
+1355	Entity 1
+1356	Entity 1
+1357	Entity 1
+1358	Cause-Effect(e1,e2)
+1359	Entity 1
+1360	Entity 2
+1361	Entity 1
+1362	Entity 1
+1363	Entity 2
+1364	Entity 1
+1365	Entity 2
+1366	Entity-Origin(e1,e2)
+1367	Entity 1
+1368	Entity 1
+1369	Entity 1
+1370	Entity 1
+1371	Cause-Effect(e1,e2)
+1372	Entity 2
+1373	Entity 1
+1374	Entity 1
+1375	Entity 1
+1376	Entity 1
+1377	Cause-Effect(e1,e2)
+1378	Entity 1
+1379	Entity 2
+1380	Entity 1
+1381	Entity 1
+1382	Entity 1
+1383	Entity 1
+1384	Cause-Effect(e1,e2)
+1385	Entity 1
+1386	Entity 1
+1387	Entity 1
+1388	Entity 1
+1389	Entity 1
+1390	Entity 2
+1391	Entity-Origin(e1,e2)
+1392	Entity 1
+1393	Entity 1
+1394	Entity 1
+1395	Entity 2
+1396	Entity 1
+1397	Entity 1
+1398	Cause-Effect(e1,e2)
+1399	Entity 1
+1400	Entity 1
+1401	Entity 1
+1402	Stadium
+1403	Cause-Effect(e1,e2)
+1404	Entity 2
+1405	Entity 2
+1406	Entity 1
+1407	Policy
+1408	Entity 1
+1409	Entity 1
+1410	Cause-Effect(e1,e2)
+1411	Entity 2
+1412	Entity 2
+1413	Entity 1
+1414	Entity 1
+1415	Entity 1
+1416	Entity 1
+1417	Cause-Effect(e1,e2)
+1418	Entity 1
+1419	Entity 2
+1420	Entity 2
+1421	Entity 1
+1422	Entity 1
+1423	Entity 1
+1424	Entity 1
+1425	Entity 2
+1426	Entity-Origin(e1,e2)
+1427	Entity 1
+1428	Entity 1
+1429	Cause-Effect(e1,e2)
+1430	Entity 1
+1431	industry
+1432	Entity 1
+1433	Entity 1
+1434	Entity-Origin(e1,e2)
+1435	Entity 1
+1436	Cause-Effect(e1,e2)
+1437	Entity 1
+1438	Entity 2
+1439	Entity 1
+1440	Entity 1
+1441	Entity 1
+1442	Entity 1
+1443	Entity 2
+1444	Entity 1
+1445	Entity-Destination(e1,e2)
+1446	Entity 2
+1447	Entity 1
+1448	Entity 1
+1449	Cause-Effect(e1,e2)
+1450	Entity 1
+1451	Entity 2
+1452	List
+1453	Entity 1
+1454	Entity 1
+1455	Cause-Effect(e1,e2)
+1456	Entity 1
+1457	Entity 2
+1458	Entity 2
+1459	Entity 1
+1460	Entity 2
+1461	Entity 1
+1462	Entity 1
+1463	Entity 1
+1464	Entity 1
+1465	Entity 1
+1466	Entity 1
+1467	Entity 1
+1468	Entity 1
+1469	Entity 1
+1470	Entity 2
+1471	Entity 2
+1472	Entity 1
+1473	Entity 1
+1474	Entity 1
+1475	Cause-Effect(e1,e2)
+1476	Entity 1
+1477	Entity 1
+1478	Entity 1
+1479	Entity 1
+1480	Entity 1
+1481	Cause-Effect(e1,e2)
+1482	Entity 1
+1483	Entity 1
+1484	Entity 2
+1485	Entity 1
+1486	Entity 2
+1487	Entity 1
+1488	Cause-Effect(e1,e2)
+1489	Entity 1
+1490	Entity 1
+1491	Entity 1
+1492	Entity 1
+1493	Entity 1
+1494	Cause-Effect(e1,e2)
+1495	Entity 1
+1496	Entity 2
+1497	Entity 2
+1498	Entity 1
+1499	Entity 1
+1500	Entity 1
+1501	Cause-Effect(e1,e2)
+1502	Cause-Effect(e1,e2)
+1503	Entity 2
+1504	Entity 1
+1505	Entity 1
+1506	Entity 2
+1507	Cause-Effect(e1,e2)
+1508	Cause-Effect(e1,e2)
+1509	Entity 1
+1510	Entity 1
+1511	Entity 1
+1512	Entity 1
+1513	Entity 1
+1514	Entity 1
+1515	Engine
+1516	Entity 2
+1517	Entity 1
+1518	Entity 1
+1519	Entity 1
+1520	Cause-Effect(e1,e2)
+1521	Entity 1
+1522	Entity 2
+1523	Entity 1
+1524	Time
+1525	Entity 1
+1526	Entity 1
+1527	Entity 1
+1528	Entity 1
+1529	Entity 1
+1530	2
+1531	Entity 1
+1532	Entity 1
+1533	Cause-Effect(e1,e2)
+1534	Entity 1
+1535	Entity 1
+1536	Entity 2
+1537	Entity 1
+1538	Entity 1
+1539	Entity 1
+1540	Cause-Effect(e1,e2)
+1541	Entity 1
+1542	Entity 1
+1543	Entity 1
+1544	Entity 1
+1545	Entity 1
+1546	Entity 1
+1547	Entity 1
+1548	Entity 2
+1549	Entity 2
+1550	Entity 2
+1551	Entity 1
+1552	Entity 1
+1553	2
+1554	Entity 2
+1555	Message-Topic(e1,e2)
+1556	Entity 1
+1557	Cause-Effect(e1,e2)
+1558	Entity 1
+1559	Cause-Effect(e1,e2)
+1560	Handles
+1561	Entity 2
+1562	Entity 1
+1563	Entity 1
+1564	Entity 1
+1565	Entity 1
+1566	Entity 1
+1567	Entity 1
+1568	Entity 1
+1569	Entity 2
+1570	Entity 1
+1571	Entity 1
+1572	Entity 1
+1573	Entity 2
+1574	Cause-Effect(e1,e2)
+1575	Entity 1
+1576	Entity 1
+1577	Entity 1
+1578	Entity 1
+1579	Entity 1
+1580	Entity 2
+1581	Entity 2
+1582	Entity-Origin(e1,e2)
+1583	Entity 1
+1584	Entity 1
+1585	Entity 2
+1586	Entity 1
+1587	Entity 2
+1588	Entity 1
+1589	Entity 1
+1590	Entity 1
+1591	Entity 1
+1592	Cause-Effect(e1,e2)
+1593	Entity 1
+1594	Entity 1
+1595	Entity 2
+1596	Instrument-Agency(e1,e2)
+1597	Entity 1
+1598	Cause-Effect(e1,e2)
+1599	Entity 2
+1600	Entity 1
+1601	Entity 1
+1602	Entity 1
+1603	Entity 1
+1604	Cause-Effect(e1,e2)
+1605	Entity 1
+1606	Entity 1
+1607	Entity 2
+1608	Entity 1
+1609	Entity 1
+1610	Entity 1
+1611	Entity 1
+1612	Entity 1
+1613	Entity 2
+1614	Entity 1
+1615	Entity 1
+1616	Entity 1
+1617	Entity 1
+1618	Entity 2
+1619	Entity 2
+1620	Entity 2
+1621	Entity 1
+1622	Cause-Effect(e1,e2)
+1623	Entity 1
+1624	Entity 1
+1625	Entity 1
+1626	Entity 1
+1627	Entity 1
+1628	Cause-Effect(e1,e2)
+1629	Entity 1
+1630	Entity 2
+1631	Entity 1
+1632	Entity 1
+1633	Entity 1
+1634	Cause-Effect(e1,e2)
+1635	2
+1636	Entity 1
+1637	Entity 1
+1638	Entity 1
+1639	Entity 1
+1640	Cause-Effect(e1,e2)
+1641	Entity 1
+1642	Message-Topic(e1,e2)
+1643	Entity 1
+1644	Entity 2
+1645	Entity 1
+1646	Cause-Effect(e1,e2)
+1647	Instrument-Agency(e1,e2)
+1648	Entity 2
+1649	Entity 1
+1650	Entity 1
+1651	Entity 1
+1652	Cause-Effect(e1,e2)
+1653	Entity 1
+1654	Entity 1
+1655	Entity-Origin(e1,e2)
+1656	Entity 1
+1657	Entity 1
+1658	Cause-Effect(e1,e2)
+1659	Entity 1
+1660	Entity 1
+1661	Entity 1
+1662	Entity 1
+1663	Entity 1
+1664	Entity 1
+1665	Entity 1
+1666	Entity 1
+1667	Entity 1
+1668	Message-Topic(e1,e2)
+1669	Entity 1
+1670	Entity 1
+1671	Entity 1
+1672	Entity 1
+1673	Entity 1
+1674	Entity 1
+1675	Entity 1
+1676	Entity 2
+1677	Entity 2
+1678	Entity 1
+1679	Entity 1
+1680	Cause-Effect(e1,e2)
+1681	Entity 1
+1682	Entity 2
+1683	Entity 2
+1684	Entity 1
+1685	Entity 1
+1686	Cause-Effect(e1,e2)
+1687	Entity 1
+1688	Entity 2
+1689	Entity 1
+1690	Entity 1
+1691	Entity 2
+1692	Entity 2
+1693	Entity 2
+1694	Entity 2
+1695	Entity 1
+1696	Entity-Destination(e1,e2)
+1697	Cause-Effect(e1,e2)
+1698	Entity 2
+1699	Entity 1
+1700	Entity 1
+1701	Entity 1
+1702	Cause-Effect(e1,e2)
+1703	Entity 2
+1704	Entity 2
+1705	Entity 1
+1706	Entity 1
+1707	Entity 2
+1708	Cause-Effect(e1,e2)
+1709	Entity 1
+1710	Entity 1
+1711	Entity 1
+1712	Cause-Effect(e1,e2)
+1713	Entity 1
+1714	Entity 2
+1715	Entity 2
+1716	Entity 1
+1717	Entity 1
+1718	Entity 1
+1719	Entity 1
+1720	Entity 2
+1721	Entity 1
+1722	Entity 1
+1723	Entity 2
+1724	Entity-Origin(e1,e2)
+1725	Entity 1
+1726	Entity 1
+1727	Entity 2
+1728	Entity 1
+1729	Entity 1
+1730	Entity 1
+1731	Entity 1
+1732	Entity 1
+1733	Entity 1
+1734	Entity 1
+1735	Entity 1
+1736	Entity 1
+1737	Entity 1
+1738	Entity 1
+1739	Entity 1
+1740	Entity 2
+1741	Entity 2
+1742	Entity 1
+1743	Entity 1
+1744	Entity 1
+1745	Entity 1
+1746	Entity 1
+1747	Entity 1
+1748	Cause-Effect(e1,e2)
+1749	Entity 2
+1750	Entity 1
+1751	Entity 1
+1752	Entity 1
+1753	Entity 1
+1754	Entity 2
+1755	Entity 1
+1756	Entity 1
+1757	Entity 2
+1758	Entity 1
+1759	Entity 1
+1760	Entity 1
+1761	Entity 2
+1762	Cause-Effect(e1,e2)
+1763	Entity 1
+1764	Entity 1
+1765	Entity 1
+1766	Entity-Origin(e1,e2)
+1767	Entity 1
+1768	Entity 1
+1769	Entity 2
+1770	Entity 1
+1771	Entity 1
+1772	Entity 1
+1773	Entity 1
+1774	Entity 1
+1775	Entity 1
+1776	Entity 2
+1777	Entity 2
+1778	Entity 2
+1779	Entity 2
+1780	Entity 1
+1781	Cause-Effect(e1,e2)
+1782	Entity-Origin(e1,e2)
+1783	Entity-Origin(e1,e2)
+1784	Entity 1
+1785	Entity 1
+1786	Article
+1787	Entity 1
+1788	Entity 1
+1789	Entity 1
+1790	Entity 2
+1791	Entity 1
+1792	Entity 1
+1793	Entity 1
+1794	Entity 2
+1795	Entity 2
+1796	Entity 1
+1797	Entity 1
+1798	Entity 1
+1799	Entity 1
+1800	Entity 1
+1801	Cause-Effect(e1,e2)
+1802	Entity 1
+1803	Entity 2
+1804	Entity 1
+1805	Entity 1
+1806	Entity 1
+1807	Entity 1
+1808	Entity 2
+1809	Entity 1
+1810	Entity 1
+1811	Entity 1
+1812	Entity 1
+1813	Cause-Effect(e1,e2)
+1814	Entity 1
+1815	Entity 1
+1816	Entity 1
+1817	Entity 2
+1818	Entity 1
+1819	Entity 2
+1820	Entity 1
+1821	Entity 1
+1822	Entity 2
+1823	Entity 2
+1824	Entity 1
+1825	Cause-Effect(e1,e2)
+1826	Entity 1
+1827	Entity 1
+1828	Entity-Origin(e1,e2)
+1829	Entity 1
+1830	Entity 1
+1831	Cause-Effect(e1,e2)
+1832	Entity 2
+1833	Entity 1
+1834	Entity 2
+1835	Entity 1
+1836	Entity 1
+1837	Cause-Effect(e1,e2)
+1838	Entity 2
+1839	Entity 2
+1840	Entity 1
+1841	Entity 1
+1842	Entity 1
+1843	Cause-Effect(e1,e2)
+1844	Entity 1
+1845	Entity 1
+1846	Entity 1
+1847	Cause-Effect(e1,e2)
+1848	Entity 1
+1849	Cause-Effect(e1,e2)
+1850	Entity 1
+1851	Entity 2
+1852	Entity 2
+1853	Entity 1
+1854	Entity 2
+1855	Cause-Effect(e1,e2)
+1856	Entity 1
+1857	Entity 1
+1858	Entity 1
+1859	Entity 1
+1860	Entity 1
+1861	Entity 1
+1862	Entity 1
+1863	Entity 1
+1864	Entity 1
+1865	Entity 1
+1866	Entity 1
+1867	Entity 1
+1868	Entity 1
+1869	Entity 1
+1870	Entity 1
+1871	Entity 1
+1872	Entity 2
+1873	Message-Topic(e1,e2)
+1874	Entity-Origin(e1,e2)
+1875	Entity 1
+1876	Entity 1
+1877	
+1878	Entity 1
+1879	Entity 1
+1880	Entity 1
+1881	Entity 1
+1882	Entity 1
+1883	Entity 2
+1884	Entity 1
+1885	Entity 1
+1886	Entity 2
+1887	Entity 1
+1888	Entity 2
+1889	Entity 2
+1890	Entity 1
+1891	Entity 1
+1892	Entity 1
+1893	Entity 1
+1894	Entity 1
+1895	Entity 1
+1896	Entity 1
+1897	Entity 1
+1898	Entity 1
+1899	Entity 1
+1900	Entity 1
+1901	Entity 1
+1902	Entity 1
+1903	Entity 1
+1904	Entity 1
+1905	Entity 1
+1906	Entity 1
+1907	Entity 1
+1908	Entity 1
+1909	Entity 2
+1910	Entity 1
+1911	Entity 1
+1912	Entity 2
+1913	Entity 1
+1914	Entity 1
+1915	Entity 1
+1916	Entity 1
+1917	Entity 1
+1918	Cause-Effect(e1,e2)
+1919	Entity 1
+1920	Entity 1
+1921	Entity 1
+1922	Entity 2
+1923	Entity 1
+1924	Entity 2
+1925	Entity 1
+1926	Entity 1
+1927	Entity 1
+1928	Entity 1
+1929	Entity 1
+1930	Entity 1
+1931	Cause-Effect(e1,e2)
+1932	Entity 1
+1933	Entity 1
+1934	Entity 1
+1935	Entity 2
+1936	Cause-Effect(e1,e2)
+1937	Entity 1
+1938	Entity 1
+1939	Entity 1
+1940	Entity 1
+1941	Person
+1942	Entity 1
+1943	Entity 1
+1944	Entity 1
+1945	Entity 1
+1946	Entity 1
+1947	Entity 1
+1948	Cause-Effect(e1,e2)
+1949	Entity 1
+1950	Entity 1
+1951	Entity 1
+1952	Entity 1
+1953	Entity 1
+1954	Cause-Effect(e1,e2)
+1955	Entity 1
+1956	Entity 1
+1957	Entity 2
+1958	Entity 1
+1959	Entity 1
+1960	Entity 1
+1961	Entity 2
+1962	Entity 1
+1963	Entity 1
+1964	Entity 1
+1965	Entity 1
+1966	Entity 1
+1967	Entity 2
+1968	Entity 2
+1969	Entity 2
+1970	Entity 1
+1971	Entity 1
+1972	Entity 1
+1973	Entity 1
+1974	Entity 2
+1975	Entity 2
+1976	Entity 1
+1977	Rock and roll
+1978	Entity 2
+1979	Cause-Effect(e1,e2)
+1980	Entity 1
+1981	Entity 2
+1982	Officers
+1983	Entity 1
+1984	Entity 1
+1985	Entity 1
+1986	Cause-Effect(e1,e2)
+1987	Entity 2
+1988	Entity 1
+1989	Entity 2
+1990	Entity-Origin(e1,e2)
+1991	Entity 1
+1992	Entity 1
+1993	Entity 1
+1994	Entity 2
+1995	Entity 2
+1996	Entity 1
+1997	Entity 2
+1998	Entity 1
+1999	Entity 1
+2000	Article
+2001	Entity 1
+2002	Entity 2
+2003	Entity 1
+2004	Cause-Effect(e1,e2)
+2005	Entity 1
+2006	Entity 2
+2007	Entity 1
+2008	Entity 1
+2009	Entity 1
+2010	Entity 1
+2011	Entity-Origin(e1,e2)
+2012	Entity 1
+2013	Entity 1
+2014	Entity 1
+2015	Entity 1
+2016	Entity 2
+2017	Entity 1
+2018	Entity 2
+2019	Entity 1
+2020	List
+2021	Entity-Destination(e1,e2)
+2022	Entity 1
+2023	Cause-Effect(e1,e2)
+2024	Entity 1
+2025	Entity 2
+2026	Entity 1
+2027	Entity 1
+2028	Entity 2
+2029	Entity 1
+2030	Entity 1
+2031	Cause-Effect(e1,e2)
+2032	Entity 1
+2033	Entity 1
+2034	Entity 2
+2035	Entity 1
+2036	Entity 1
+2037	Entity 1
+2038	Entity 1
+2039	Entity 1
+2040	Entity 1
+2041	Entity 1
+2042	Entity 1
+2043	Entity 1
+2044	Entity 1
+2045	Entity 1
+2046	Entity 1
+2047	Entity 1
+2048	Entity 1
+2049	Cause-Effect(e1,e2)
+2050	Entity 1
+2051	Entity 2
+2052	Entity 2
+2053	Entity 1
+2054	Entity 1
+2055	Entity 1
+2056	Entity 1
+2057	Entity 2
+2058	Entity 1
+2059	Entity 1
+2060	Entity 2
+2061	Facility
+2062	Entity 2
+2063	Cause-Effect(e1,e2)
+2064	Entity 1
+2065	Entity 1
+2066	Entity 1
+2067	Entity 1
+2068	Entity 2
+2069	Entity 2
+2070	Entity 2
+2071	Entity 1
+2072	Member-Collection(e1,e2)
+2073	Entity 1
+2074	Entity 1
+2075	Entity 1
+2076	Entity 1
+2077	Cause-Effect(e1,e2)
+2078	Entity 2
+2079	Entity 2
+2080	Entity 1
+2081	Entity 1
+2082	Entity 1
+2083	Entity 1
+2084	Entity 2
+2085	Cause-Effect(e1,e2)
+2086	Entity 2
+2087	Entity 1
+2088	Entity 2
+2089	Entity 1
+2090	Entity 1
+2091	Entity 1
+2092	Entity 1
+2093	Entity 1
+2094	Entity 1
+2095	Cause-Effect(e1,e2)
+2096	Entity 2
+2097	Entity 1
+2098	Entity 1
+2099	Entity 1
+2100	Entity 1
+2101	Entity 1
+2102	Entity 2
+2103	Entity 1
+2104	Entity 1
+2105	Entity 2
+2106	Entity 1
+2107	Entity 1
+2108	Entity 2
+2109	Entity 2
+2110	Entity 1
+2111	Entity-Destination(e1,e2)
+2112	Entity 1
+2113	Entity 2
+2114	Entity 2
+2115	Entity-Origin(e1,e2)
+2116	Entity 2
+2117	Entity 1
+2118	Entity 1
+2119	Entity 1
+2120	Entity-Origin(e1,e2)
+2121	Entity 2
+2122	Entity 1
+2123	Entity 2
+2124	Men
+2125	Entity 1
+2126	Entity 1
+2127	Entity 1
+2128	Entity 1
+2129	Entity-Origin(e1,e2)
+2130	Entity 1
+2131	Cause-Effect(e1,e2)
+2132	Entity 2
+2133	Entity 2
+2134	Entity 1
+2135	Entity 2
+2136	Entity 1
+2137	Entity 1
+2138	Entity 2
+2139	Cause-Effect(e1,e2)
+2140	Entity 1
+2141	Entity 2
+2142	Entity 1
+2143	Entity 1
+2144	Entity 1
+2145	Entity 2
+2146	Entity 2
+2147	Entity 1
+2148	Entity 1
+2149	Cause-Effect(e1,e2)
+2150	Entity 1
+2151	Entity 1
+2152	Entity 2
+2153	Entity 2
+2154	Entity 1
+2155	Entity 1
+2156	Entity 1
+2157	Entity 1
+2158	Entity 1
+2159	Entity 1
+2160	Entity 2
+2161	Entity 2
+2162	Entity 1
+2163	Entity 2
+2164	Entity 1
+2165	Entity 2
+2166	Entity 1
+2167	Entity 1
+2168	Entity 1
+2169	Entity 1
+2170	Entity-Origin(e1,e2)
+2171	Entity 1
+2172	Entity 1
+2173	Entity 1
+2174	Entity 2
+2175	Cause-Effect(e1,e2)
+2176	Entity 1
+2177	Entity 1
+2178	Entity 1
+2179	Entity 1
+2180	Entity 1
+2181	Entity 1
+2182	Entity 1
+2183	Entity 1
+2184	Cause-Effect(e1,e2)
+2185	Entity 1
+2186	industry
+2187	Entity 2
+2188	Entity 1
+2189	Entity 1
+2190	Entity 1
+2191	Entity 2
+2192	Cause-Effect(e1,e2)
+2193	Entity 2
+2194	Entity 2
+2195	Entity 1
+2196	Entity 2
+2197	Entity 1
+2198	Entity 1
+2199	Entity 1
+2200	Entity 1
+2201	Cause-Effect(e1,e2)
+2202	Entity 1
+2203	Entity 2
+2204	Entity 1
+2205	Entity 1
+2206	Entity 1
+2207	case
+2208	Entity 2
+2209	Cause-Effect(e1,e2)
+2210	Entity 1
+2211	Entity 2
+2212	Entity 2
+2213	Entity 1
+2214	Entity 1
+2215	Entity 1
+2216	Entity 1
+2217	Entity 1
+2218	Cause-Effect(e1,e2)
+2219	Entity 1
+2220	Entity 1
+2221	Cause-Effect(e1,e2)
+2222	Entity 1
+2223	Entity 1
+2224	Instrument-Agency(e1,e2)
+2225	Entity 2
+2226	Entity 1
+2227	Entity 1
+2228	Entity 2
+2229	Entity 1
+2230	Entity 1
+2231	Entity 1
+2232	Entity 1
+2233	Entity 1
+2234	Cause-Effect(e1,e2)
+2235	Entity 1
+2236	Entity 1
+2237	Entity 1
+2238	Entity 1
+2239	Entity 1
+2240	Entity 1
+2241	Entity 1
+2242	Cause-Effect(e1,e2)
+2243	Entity 1
+2244	Entity 1
+2245	Entity 2
+2246	Entity 1
+2247	Entity 2
+2248	Entity 1
+2249	Entity 1
+2250	Entity 1
+2251	Entity 1
+2252	Entity 1
+2253	Entity 2
+2254	Entity 2
+2255	Entity-Origin(e1,e2)
+2256	Entity 1
+2257	Entity 2
+2258	Cause-Effect(e1,e2)
+2259	Entity 1
+2260	Entity 1
+2261	Entity 2
+2262	Entity 2
+2263	Entity 1
+2264	Entity 1
+2265	Entity 1
+2266	Cause-Effect(e1,e2)
+2267	Entity 1
+2268	Entity 1
+2269	Entity-Origin(e1,e2)
+2270	Entity 2
+2271	Entity 2
+2272	Entity 1
+2273	Entity 2
+2274	Entity 2
+2275	Entity 1
+2276	Entity 1
+2277	Entity 1
+2278	Entity 1
+2279	Instrument-Agency(e1,e2)
+2280	Entity 1
+2281	Entity 1
+2282	Entity 1
+2283	Entity 1
+2284	Entity 2
+2285	Cause-Effect(e1,e2)
+2286	Money
+2287	Entity 1
+2288	Entity 2
+2289	Entity 2
+2290	Entity 1
+2291	Entity 1
+2292	Entity 1
+2293	Entity 2
+2294	Entity 1
+2295	Entity 1
+2296	Entity 1
+2297	Entity 1
+2298	Entity 2
+2299	Cause-Effect(e1,e2)
+2300	Entity 2
+2301	Entity 2
+2302	Entity 1
+2303	Entity 2
+2304	Cause-Effect(e1,e2)
+2305	Entity 1
+2306	Entity 1
+2307	Entity 1
+2308	Entity 1
+2309	Entity 1
+2310	Entity 1
+2311	Entity 2
+2312	Entity 1
+2313	Entity 1
+2314	Entity 1
+2315	Entity 1
+2316	Entity 1
+2317	Entity 1
+2318	Entity 1
+2319	Entity 1
+2320	Entity 1
+2321	Entity 1
+2322	Entity 1
+2323	Entity 1
+2324	Entity 1
+2325	Entity 1
+2326	Entity 1
+2327	Entity 2
+2328	Entity 1
+2329	Entity 1
+2330	Entity 1
+2331	Entity 1
+2332	Cause-Effect(e1,e2)
+2333	Entity 1
+2334	Entity 1
+2335	Entity 2
+2336	Entity 1
+2337	Entity 1
+2338	Entity 1
+2339	Entity 1
+2340	Entity 2
+2341	Entity 1
+2342	Entity 2
+2343	Entity 1
+2344	Entity 1
+2345	Cause-Effect(e1,e2)
+2346	Entity 1
+2347	Entity 1
+2348	Entity 2
+2349	Entity 1
+2350	Entity 1
+2351	Cause-Effect(e1,e2)
+2352	Entity 1
+2353	Entity 1
+2354	Entity 2
+2355	Entity 1
+2356	Entity 1
+2357	Entity 1
+2358	Cause-Effect(e1,e2)
+2359	Entity 1
+2360	Entity 2
+2361	Entity 1
+2362	Entity 1
+2363	Entity 2
+2364	Entity 1
+2365	Entity 2
+2366	Entity-Origin(e1,e2)
+2367	Entity 1
+2368	Entity 1
+2369	Entity 1
+2370	Entity 1
+2371	Cause-Effect(e1,e2)
+2372	Entity 2
+2373	Entity 1
+2374	Entity 1
+2375	Entity 1
+2376	Entity 1
+2377	Cause-Effect(e1,e2)
+2378	Entity 1
+2379	Entity 2
+2380	Entity 1
+2381	Entity 1
+2382	Entity 1
+2383	Entity 1
+2384	Cause-Effect(e1,e2)
+2385	Entity 1
+2386	Entity 1
+2387	Entity 1
+2388	Entity 1
+2389	Entity 1
+2390	Entity 2
+2391	Entity-Origin(e1,e2)
+2392	Entity 1
+2393	Entity 1
+2394	Entity 1
+2395	Entity 2
+2396	Entity 1
+2397	Entity 1
+2398	Cause-Effect(e1,e2)
+2399	Entity 1
+2400	Entity 1
+2401	Entity 1
+2402	Stadium
+2403	Cause-Effect(e1,e2)
+2404	Entity 2
+2405	Entity 2
+2406	Entity 1
+2407	Policy
+2408	Entity 1
+2409	Entity 1
+2410	Cause-Effect(e1,e2)
+2411	Entity 2
+2412	Entity 2
+2413	Entity 1
+2414	Entity 1
+2415	Entity 1
+2416	Entity 1
+2417	Cause-Effect(e1,e2)
+2418	Entity 1
+2419	Entity 2
+2420	Entity 2
+2421	Entity 1
+2422	Entity 1
+2423	Entity 1
+2424	Entity 1
+2425	Entity 2
+2426	Entity-Origin(e1,e2)
+2427	Entity 1
+2428	Entity 1
+2429	Cause-Effect(e1,e2)
+2430	Entity 1
+2431	industry
+2432	Entity 1
+2433	Entity 1
+2434	Entity-Origin(e1,e2)
+2435	Entity 1
+2436	Cause-Effect(e1,e2)
+2437	Entity 1
+2438	Entity 2
+2439	Entity 1
+2440	Entity 1
+2441	Entity 1
+2442	Entity 1
+2443	Entity 2
+2444	Entity 1
+2445	Entity-Destination(e1,e2)
+2446	Entity 2
+2447	Entity 1
+2448	Entity 1
+2449	Cause-Effect(e1,e2)
+2450	Entity 1
+2451	Entity 2
+2452	List
+2453	Entity 1
+2454	Entity 1
+2455	Cause-Effect(e1,e2)
+2456	Entity 1
+2457	Entity 2
+2458	Entity 2
+2459	Entity 1
+2460	Entity 2
+2461	Entity 1
+2462	Entity 1
+2463	Entity 1
+2464	Entity 1
+2465	Entity 1
+2466	Entity 1
+2467	Entity 1
+2468	Entity 1
+2469	Entity 1
+2470	Entity 2
+2471	Entity 2
+2472	Entity 1
+2473	Entity 1
+2474	Entity 1
+2475	Cause-Effect(e1,e2)
+2476	Entity 1
+2477	Entity 1
+2478	Entity 1
+2479	Entity 1
+2480	Entity 1
+2481	Cause-Effect(e1,e2)
+2482	Entity 1
+2483	Entity 1
+2484	Entity 2
+2485	Entity 1
+2486	Entity 2
+2487	Entity 1
+2488	Cause-Effect(e1,e2)
+2489	Entity 1
+2490	Entity 1
+2491	Entity 1
+2492	Entity 1
+2493	Entity 1
+2494	Cause-Effect(e1,e2)
+2495	Entity 1
+2496	Entity 2
+2497	Entity 2
+2498	Entity 1
+2499	Entity 1
+2500	Entity 1
+2501	Cause-Effect(e1,e2)
+2502	Cause-Effect(e1,e2)
+2503	Entity 2
+2504	Entity 1
+2505	Entity 1
+2506	Entity 2
+2507	Cause-Effect(e1,e2)
+2508	Cause-Effect(e1,e2)
+2509	Entity 1
+2510	Entity 1
+2511	Entity 1
+2512	Entity 1
+2513	Entity 1
+2514	Entity 1
+2515	Engine
+2516	Entity 2
+2517	Entity 1
+2518	Entity 1
+2519	Entity 1
+2520	Cause-Effect(e1,e2)
+2521	Entity 1
+2522	Entity 2
+2523	Entity 1
+2524	Time
+2525	Entity 1
+2526	Entity 1
+2527	Entity 1
+2528	Entity 1
+2529	Entity 1
+2530	2
+2531	Entity 1
+2532	Entity 1
+2533	Cause-Effect(e1,e2)
+2534	Entity 1
+2535	Entity 1
+2536	Entity 2
+2537	Entity 1
+2538	Entity 1
+2539	Entity 1
+2540	Cause-Effect(e1,e2)
+2541	Entity 1
+2542	Entity 1
+2543	Entity 1
+2544	Entity 1
+2545	Entity 1
+2546	Entity 1
+2547	Entity 1
+2548	Entity 2
+2549	Entity 2
+2550	Entity 2
+2551	Entity 1
+2552	Entity 1
+2553	2
+2554	Entity 2
+2555	Message-Topic(e1,e2)
+2556	Entity 1
+2557	Cause-Effect(e1,e2)
+2558	Entity 1
+2559	Cause-Effect(e1,e2)
+2560	Handles
+2561	Entity 2
+2562	Entity 1
+2563	Entity 1
+2564	Entity 1
+2565	Entity 1
+2566	Entity 1
+2567	Entity 1
+2568	Entity 1
+2569	Entity 2
+2570	Entity 1
+2571	Entity 1
+2572	Entity 1
+2573	Entity 2
+2574	Cause-Effect(e1,e2)
+2575	Entity 1
+2576	Entity 1
+2577	Entity 1
+2578	Entity 1
+2579	Entity 1
+2580	Entity 2
+2581	Entity 2
+2582	Entity-Origin(e1,e2)
+2583	Entity 1
+2584	Entity 1
+2585	Entity 2
+2586	Entity 1
+2587	Entity 2
+2588	Entity 1
+2589	Entity 1
+2590	Entity 1
+2591	Entity 1
+2592	Cause-Effect(e1,e2)
+2593	Entity 1
+2594	Entity 1
+2595	Entity 2
+2596	Instrument-Agency(e1,e2)
+2597	Entity 1
+2598	Cause-Effect(e1,e2)
+2599	Entity 2
+2600	Entity 1
+2601	Entity 1
+2602	Entity 1
+2603	Entity 1
+2604	Cause-Effect(e1,e2)
+2605	Entity 1
+2606	Entity 1
+2607	Entity 2
+2608	Entity 1
+2609	Entity 1
+2610	Entity 1
+2611	Entity 1
+2612	Entity 1
+2613	Entity 2
+2614	Entity 1
+2615	Entity 1
+2616	Entity 1
+2617	Entity 1
+2618	Entity 2
+2619	Entity 2
+2620	Entity 2
+2621	Entity 1
+2622	Cause-Effect(e1,e2)
+2623	Entity 1
+2624	Entity 1
+2625	Entity 1
+2626	Entity 1
+2627	Entity 1
+2628	Cause-Effect(e1,e2)
+2629	Entity 1
+2630	Entity 2
+2631	Entity 1
+2632	Entity 1
+2633	Entity 1
+2634	Cause-Effect(e1,e2)
+2635	2
+2636	Entity 1
+2637	Entity 1
+2638	Entity 1
+2639	Entity 1
+2640	Cause-Effect(e1,e2)
+2641	Entity 1
+2642	Message-Topic(e1,e2)
+2643	Entity 1
+2644	Entity 2
+2645	Entity 1
+2646	Cause-Effect(e1,e2)
+2647	Instrument-Agency(e1,e2)
+2648	Entity 2
+2649	Entity 1
+2650	Entity 1
+2651	Entity 1
+2652	Cause-Effect(e1,e2)
+2653	Entity 1
+2654	Entity 1
+2655	Entity-Origin(e1,e2)
+2656	Entity 1
+2657	Entity 1
+2658	Cause-Effect(e1,e2)
+2659	Entity 1
+2660	Entity 1
+2661	Entity 1
+2662	Entity 1
+2663	Entity 1
+2664	Entity 1
+2665	Entity 1
+2666	Entity 1
+2667	Entity 1
+2668	Message-Topic(e1,e2)
+2669	Entity 1
+2670	Entity 1
+2671	Entity 1
+2672	Entity 1
+2673	Entity 1
+2674	Entity 1
+2675	Entity 1
+2676	Entity 2
+2677	Entity 2
+2678	Entity 1
+2679	Entity 1
+2680	Cause-Effect(e1,e2)
+2681	Entity 1
+2682	Entity 2
+2683	Entity 2
+2684	Entity 1
+2685	Entity 1
+2686	Cause-Effect(e1,e2)
+2687	Entity 1
+2688	Entity 2
+2689	Entity 1
+2690	Entity 1
+2691	Entity 2
+2692	Entity 2
+2693	Entity 2
+2694	Entity 2
+2695	Entity 1
+2696	Entity-Destination(e1,e2)
+2697	Cause-Effect(e1,e2)
+2698	Entity 2
+2699	Entity 1
+2700	Entity 1
+2701	Entity 1
+2702	Cause-Effect(e1,e2)
+2703	Entity 2
+2704	Entity 2
+2705	Entity 1
+2706	Entity 1
+2707	Entity 2
+2708	Cause-Effect(e1,e2)
+2709	Entity 1
+2710	Entity 1
+2711	Entity 1
+2712	Cause-Effect(e1,e2)
+2713	Entity 1
+2714	Entity 2
+2715	Entity 2
+2716	Entity 1
+2717	Entity 1
+2718	Entity 1
+2719	Entity 1
+2720	Entity 2
+2721	Entity 1
+2722	Entity 1
+2723	Entity 2
+2724	Entity-Origin(e1,e2)
+2725	Entity 1
+2726	Entity 1
+2727	Entity 2
+2728	Entity 1
+2729	Entity 1
+2730	Entity 1
+2731	Entity 1
+2732	Entity 1
+2733	Entity 1
+2734	Entity 1
+2735	Entity 1
+2736	Entity 1
+2737	Entity 1
+2738	Entity 1
+2739	Entity 1
+2740	Entity 2
+2741	Entity 2
+2742	Entity 1
+2743	Entity 1
+2744	Entity 1
+2745	Entity 1
+2746	Entity 1
+2747	Entity 1
+2748	Cause-Effect(e1,e2)
+2749	Entity 2
+2750	Entity 1
+2751	Entity 1
+2752	Entity 1
+2753	Entity 1
+2754	Entity 2
+2755	Entity 1
+2756	Entity 1
+2757	Entity 2
+2758	Entity 1
+2759	Entity 1
+2760	Entity 1
+2761	Entity 2
+2762	Cause-Effect(e1,e2)
+2763	Entity 1
+2764	Entity 1
+2765	Entity 1
+2766	Entity-Origin(e1,e2)
+2767	Entity 1
+2768	Entity 1
+2769	Entity 2
+2770	Entity 1
+2771	Entity 1
+2772	Entity 1
+2773	Entity 1
+2774	Entity 1
+2775	Entity 1
+2776	Entity 2
+2777	Entity 2
+2778	Entity 2
+2779	Entity 2
+2780	Entity 1
+2781	Cause-Effect(e1,e2)
+2782	Entity-Origin(e1,e2)
+2783	Entity-Origin(e1,e2)
+2784	Entity 1
+2785	Entity 1
+2786	Article
+2787	Entity 1
+2788	Entity 1
+2789	Entity 1
+2790	Entity 2
+2791	Entity 1
+2792	Entity 1
+2793	Entity 1
+2794	Entity 2
+2795	Entity 2
+2796	Entity 1
+2797	Entity 1
+2798	Entity 1
+2799	Entity 1
+2800	Entity 1
+2801	Cause-Effect(e1,e2)
+2802	Entity 1
+2803	Entity 2
+2804	Entity 1
+2805	Entity 1
+2806	Entity 1
+2807	Entity 1
+2808	Entity 2
+2809	Entity 1
+2810	Entity 1
+2811	Entity 1
+2812	Entity 1
+2813	Cause-Effect(e1,e2)
+2814	Entity 1
+2815	Entity 1
+2816	Entity 1
+2817	Entity 2
+2818	Entity 1
+2819	Entity 2
+2820	Entity 1
+2821	Entity 1
+2822	Entity 2
+2823	Entity 2
+2824	Entity 1
+2825	Cause-Effect(e1,e2)
+2826	Entity 1
+2827	Entity 1
+2828	Entity-Origin(e1,e2)
+2829	Entity 1
+2830	Entity 1
+2831	Cause-Effect(e1,e2)
+2832	Entity 2
+2833	Entity 1
+2834	Entity 2
+2835	Entity 1
+2836	Entity 1
+2837	Cause-Effect(e1,e2)
+2838	Entity 2
+2839	Entity 2
+2840	Entity 1
+2841	Entity 1
+2842	Entity 1
+2843	Cause-Effect(e1,e2)
+2844	Entity 1
+2845	Entity 1
+2846	Entity 1
+2847	Cause-Effect(e1,e2)
+2848	Entity 1
+2849	Cause-Effect(e1,e2)
+2850	Entity 1
+2851	Entity 2
+2852	Entity 2
+2853	Entity 1
+2854	Entity 2
+2855	Cause-Effect(e1,e2)
+2856	Entity 1
+2857	Entity 1
+2858	Entity 1
+2859	Entity 1
+2860	Entity 1
+2861	Entity 1
+2862	Entity 1
+2863	Entity 1
+2864	Entity 1
+2865	Entity 1
+2866	Entity 1
+2867	Entity 1
+2868	Entity 1
+2869	Entity 1
+2870	Entity 1
+2871	Entity 1
+2872	Entity 2
+2873	Message-Topic(e1,e2)
+2874	Entity-Origin(e1,e2)
+2875	Entity 1
+2876	Entity 1
+2877	
+2878	Entity 1
+2879	Entity 1
+2880	Entity 1
+2881	Entity 1
+2882	Entity 1
+2883	Entity 2
+2884	Entity 1
+2885	Entity 1
+2886	Entity 2
+2887	Entity 1
+2888	Entity 2
+2889	Entity 2
+2890	Entity 1
+2891	Entity 1
+2892	Entity 1
+2893	Entity 1
+2894	Entity 1
+2895	Entity 1
+2896	Entity 1
+2897	Entity 1
+2898	Entity 1
+2899	Entity 1
+2900	Entity 1
+2901	Entity 1
+2902	Entity 1
+2903	Entity 1
+2904	Entity 1
+2905	Entity 1
+2906	Entity 1
+2907	Entity 1
+2908	Entity 1
+2909	Entity 2
+2910	Entity 1
+2911	Entity 1
+2912	Entity 2
+2913	Entity 1
+2914	Entity 1
+2915	Entity 1
+2916	Entity 1
+2917	Entity 1
+2918	Cause-Effect(e1,e2)
+2919	Entity 1
+2920	Entity 1
+2921	Entity 1
+2922	Entity 2
+2923	Entity 1
+2924	Entity 2
+2925	Entity 1
+2926	Entity 1
+2927	Entity 1
+2928	Entity 1
+2929	Entity 1
+2930	Entity 1
+2931	Cause-Effect(e1,e2)
+2932	Entity 1
+2933	Entity 1
+2934	Entity 1
+2935	Entity 2
+2936	Cause-Effect(e1,e2)
+2937	Entity 1
+2938	Entity 1
+2939	Entity 1
+2940	Entity 1
+2941	Person
+2942	Entity 1
+2943	Entity 1
+2944	Entity 1
+2945	Entity 1
+2946	Entity 1
+2947	Entity 1
+2948	Cause-Effect(e1,e2)
+2949	Entity 1
+2950	Entity 1
+2951	Entity 1
+2952	Entity 1
+2953	Entity 1
+2954	Cause-Effect(e1,e2)
+2955	Entity 1
+2956	Entity 1
+2957	Entity 2
+2958	Entity 1
+2959	Entity 1
+2960	Entity 1
+2961	Entity 2
+2962	Entity 1
+2963	Entity 1
+2964	Entity 1
+2965	Entity 1
+2966	Entity 1
+2967	Entity 2
+2968	Entity 2
+2969	Entity 2
+2970	Entity 1
+2971	Entity 1
+2972	Entity 1
+2973	Entity 1
+2974	Entity 2
+2975	Entity 2
+2976	Entity 1
+2977	Rock and roll
+2978	Entity 2
+2979	Cause-Effect(e1,e2)
+2980	Entity 1
+2981	Entity 2
+2982	Officers
+2983	Entity 1
+2984	Entity 1
+2985	Entity 1
+2986	Cause-Effect(e1,e2)
+2987	Entity 2
+2988	Entity 1
+2989	Entity 2
+2990	Entity-Origin(e1,e2)
+2991	Entity 1
+2992	Entity 1
+2993	Entity 1
+2994	Entity 2
+2995	Entity 2
+2996	Entity 1
+2997	Entity 2
+2998	Entity 1
+2999	Entity 1
+3000	Article
+3001	Entity 1
+3002	Entity 2
+3003	Entity 1
+3004	Cause-Effect(e1,e2)
+3005	Entity 1
+3006	Entity 2
+3007	Entity 1
+3008	Entity 1
+3009	Entity 1
+3010	Entity 1
+3011	Entity-Origin(e1,e2)
+3012	Entity 1
+3013	Entity 1
+3014	Entity 1
+3015	Entity 1
+3016	Entity 2
+3017	Entity 1
+3018	Entity 2
+3019	Entity 1
+3020	List
+3021	Entity-Destination(e1,e2)
+3022	Entity 1
+3023	Cause-Effect(e1,e2)
+3024	Entity 1
+3025	Entity 2
+3026	Entity 1
+3027	Entity 1
+3028	Entity 2
+3029	Entity 1
+3030	Entity 1
+3031	Cause-Effect(e1,e2)
+3032	Entity 1
+3033	Entity 1
+3034	Entity 2
+3035	Entity 1
+3036	Entity 1
+3037	Entity 1
+3038	Entity 1
+3039	Entity 1
+3040	Entity 1
+3041	Entity 1
+3042	Entity 1
+3043	Entity 1
+3044	Entity 1
+3045	Entity 1
+3046	Entity 1
+3047	Entity 1
+3048	Entity 1
+3049	Cause-Effect(e1,e2)
+3050	Entity 1
+3051	Entity 2
+3052	Entity 2
+3053	Entity 1
+3054	Entity 1
+3055	Entity 1
+3056	Entity 1
+3057	Entity 2
+3058	Entity 1
+3059	Entity 1
+3060	Entity 2
+3061	Facility
+3062	Entity 2
+3063	Cause-Effect(e1,e2)
+3064	Entity 1
+3065	Entity 1
+3066	Entity 1
+3067	Entity 1
+3068	Entity 2
+3069	Entity 2
+3070	Entity 2
+3071	Entity 1
+3072	Member-Collection(e1,e2)
+3073	Entity 1
+3074	Entity 1
+3075	Entity 1
+3076	Entity 1
+3077	Cause-Effect(e1,e2)
+3078	Entity 2
+3079	Entity 2
+3080	Entity 1
+3081	Entity 1
+3082	Entity 1
+3083	Entity 1
+3084	Entity 2
+3085	Cause-Effect(e1,e2)
+3086	Entity 2
+3087	Entity 1
+3088	Entity 2
+3089	Entity 1
+3090	Entity 1
+3091	Entity 1
+3092	Entity 1
+3093	Entity 1
+3094	Entity 1
+3095	Cause-Effect(e1,e2)
+3096	Entity 2
+3097	Entity 1
+3098	Entity 1
+3099	Entity 1
+3100	Entity 1
+3101	Entity 1
+3102	Entity 2
+3103	Entity 1
+3104	Entity 1
+3105	Entity 2
+3106	Entity 1
+3107	Entity 1
+3108	Entity 2
+3109	Entity 2
+3110	Entity 1
+3111	Entity-Destination(e1,e2)
+3112	Entity 1
+3113	Entity 2
+3114	Entity 2
+3115	Entity-Origin(e1,e2)
+3116	Entity 2
+3117	Entity 1
+3118	Entity 1
+3119	Entity 1
+3120	Entity-Origin(e1,e2)
+3121	Entity 2
+3122	Entity 1
+3123	Entity 2
+3124	Men
+3125	Entity 1
+3126	Entity 1
+3127	Entity 1
+3128	Entity 1
+3129	Entity-Origin(e1,e2)
+3130	Entity 1
+3131	Cause-Effect(e1,e2)
+3132	Entity 2
+3133	Entity 2
+3134	Entity 1
+3135	Entity 2
+3136	Entity 1
+3137	Entity 1
+3138	Entity 2
+3139	Cause-Effect(e1,e2)
+3140	Entity 1
+3141	Entity 2
+3142	Entity 1
+3143	Entity 1
+3144	Entity 1
+3145	Entity 2
+3146	Entity 2
+3147	Entity 1
+3148	Entity 1
+3149	Cause-Effect(e1,e2)
+3150	Entity 1
+3151	Entity 1
+3152	Entity 2
+3153	Entity 2
+3154	Entity 1
+3155	Entity 1
+3156	Entity 1
+3157	Entity 1
+3158	Entity 1
+3159	Entity 1
+3160	Entity 2
+3161	Entity 2
+3162	Entity 1
+3163	Entity 2
+3164	Entity 1
+3165	Entity 2
+3166	Entity 1
+3167	Entity 1
+3168	Entity 1
+3169	Entity 1
+3170	Entity-Origin(e1,e2)
+3171	Entity 1
+3172	Entity 1
+3173	Entity 1
+3174	Entity 2
+3175	Cause-Effect(e1,e2)
+3176	Entity 1
+3177	Entity 1
+3178	Entity 1
+3179	Entity 1
+3180	Entity 1
+3181	Entity 1
+3182	Entity 1
+3183	Entity 1
+3184	Cause-Effect(e1,e2)
+3185	Entity 1
+3186	industry
+3187	Entity 2
+3188	Entity 1
+3189	Entity 1
+3190	Entity 1
+3191	Entity 2
+3192	Cause-Effect(e1,e2)
+3193	Entity 2
+3194	Entity 2
+3195	Entity 1
+3196	Entity 2
+3197	Entity 1
+3198	Entity 1
+3199	Entity 1
+3200	Entity 1
+3201	Cause-Effect(e1,e2)
+3202	Entity 1
+3203	Entity 2
+3204	Entity 1
+3205	Entity 1
+3206	Entity 1
+3207	case
+3208	Entity 2
+3209	Cause-Effect(e1,e2)
+3210	Entity 1
+3211	Entity 2
+3212	Entity 2
+3213	Entity 1
+3214	Entity 1
+3215	Entity 1
+3216	Entity 1
+3217	Entity 1
+3218	Cause-Effect(e1,e2)
+3219	Entity 1
+3220	Entity 1
+3221	Cause-Effect(e1,e2)
+3222	Entity 1
+3223	Entity 1
+3224	Instrument-Agency(e1,e2)
+3225	Entity 2
+3226	Entity 1
+3227	Entity 1
+3228	Entity 2
+3229	Entity 1
+3230	Entity 1
+3231	Entity 1
+3232	Entity 1
+3233	Entity 1
+3234	Cause-Effect(e1,e2)
+3235	Entity 1
+3236	Entity 1
+3237	Entity 1
+3238	Entity 1
+3239	Entity 1
+3240	Entity 1
+3241	Entity 1
+3242	Cause-Effect(e1,e2)
+3243	Entity 1
+3244	Entity 1
+3245	Entity 2
+3246	Entity 1
+3247	Entity 2
+3248	Entity 1
+3249	Entity 1
+3250	Entity 1
+3251	Entity 1
+3252	Entity 1
+3253	Entity 2
+3254	Entity 2
+3255	Entity-Origin(e1,e2)
+3256	Entity 1
+3257	Entity 2
+3258	Cause-Effect(e1,e2)
+3259	Entity 1
+3260	Entity 1
+3261	Entity 2
+3262	Entity 2
+3263	Entity 1
+3264	Entity 1
+3265	Entity 1
+3266	Cause-Effect(e1,e2)
+3267	Entity 1
+3268	Entity 1
+3269	Entity-Origin(e1,e2)
+3270	Entity 2
+3271	Entity 2
+3272	Entity 1
+3273	Entity 2
+3274	Entity 2
+3275	Entity 1
+3276	Entity 1
+3277	Entity 1
+3278	Entity 1
+3279	Instrument-Agency(e1,e2)
+3280	Entity 1
+3281	Entity 1
+3282	Entity 1
+3283	Entity 1
+3284	Entity 2
+3285	Cause-Effect(e1,e2)
+3286	Money
+3287	Entity 1
+3288	Entity 2
+3289	Entity 2
+3290	Entity 1
+3291	Entity 1
+3292	Entity 1
+3293	Entity 2
+3294	Entity 1
+3295	Entity 1
+3296	Entity 1
+3297	Entity 1
+3298	Entity 2
+3299	Cause-Effect(e1,e2)
+3300	Entity 2
+3301	Entity 2
+3302	Entity 1
+3303	Entity 2
+3304	Cause-Effect(e1,e2)
+3305	Entity 1
+3306	Entity 1
+3307	Entity 1
+3308	Entity 1
+3309	Entity 1
+3310	Entity 1
+3311	Entity 2
+3312	Entity 1
+3313	Entity 1
+3314	Entity 1
+3315	Entity 1
+3316	Entity 1
+3317	Entity 1
+3318	Entity 1
+3319	Entity 1
+3320	Entity 1
+3321	Entity 1
+3322	Entity 1
+3323	Entity 1
+3324	Entity 1
+3325	Entity 1
+3326	Entity 1
+3327	Entity 2
+3328	Entity 1
+3329	Entity 1
+3330	Entity 1
+3331	Entity 1
+3332	Cause-Effect(e1,e2)
+3333	Entity 1
+3334	Entity 1
+3335	Entity 2
+3336	Entity 1
+3337	Entity 1
+3338	Entity 1
+3339	Entity 1
+3340	Entity 2
+3341	Entity 1
+3342	Entity 2
+3343	Entity 1
+3344	Entity 1
+3345	Cause-Effect(e1,e2)
+3346	Entity 1
+3347	Entity 1
+3348	Entity 2
+3349	Entity 1
+3350	Entity 1
+3351	Cause-Effect(e1,e2)
+3352	Entity 1
+3353	Entity 1
+3354	Entity 2
+3355	Entity 1
+3356	Entity 1
+3357	Entity 1
+3358	Cause-Effect(e1,e2)
+3359	Entity 1
+3360	Entity 2
+3361	Entity 1
+3362	Entity 1
+3363	Entity 2
+3364	Entity 1
+3365	Entity 2
+3366	Entity-Origin(e1,e2)
+3367	Entity 1
+3368	Entity 1
+3369	Entity 1
+3370	Entity 1
+3371	Cause-Effect(e1,e2)
+3372	Entity 2
+3373	Entity 1
+3374	Entity 1
+3375	Entity 1
+3376	Entity 1
+3377	Cause-Effect(e1,e2)
+3378	Entity 1
+3379	Entity 2
+3380	Entity 1
+3381	Entity 1
+3382	Entity 1
+3383	Entity 1
+3384	Cause-Effect(e1,e2)
+3385	Entity 1
+3386	Entity 1
+3387	Entity 1
+3388	Entity 1
+3389	Entity 1
+3390	Entity 2
+3391	Entity-Origin(e1,e2)
+3392	Entity 1
+3393	Entity 1
+3394	Entity 1
+3395	Entity 2
+3396	Entity 1
+3397	Entity 1
+3398	Cause-Effect(e1,e2)
+3399	Entity 1
+3400	Entity 1
+3401	Entity 1
+3402	Stadium
+3403	Cause-Effect(e1,e2)
+3404	Entity 2
+3405	Entity 2
+3406	Entity 1
+3407	Policy
+3408	Entity 1
+3409	Entity 1
+3410	Cause-Effect(e1,e2)
+3411	Entity 2
+3412	Entity 2
+3413	Entity 1
+3414	Entity 1
+3415	Entity 1
+3416	Entity 1
+3417	Cause-Effect(e1,e2)
+3418	Entity 1
+3419	Entity 2
+3420	Entity 2
+3421	Entity 1
+3422	Entity 1
+3423	Entity 1
+3424	Entity 1
+3425	Entity 2
+3426	Entity-Origin(e1,e2)
+3427	Entity 1
+3428	Entity 1
+3429	Cause-Effect(e1,e2)
+3430	Entity 1
+3431	industry
+3432	Entity 1
+3433	Entity 1
+3434	Entity-Origin(e1,e2)
+3435	Entity 1
+3436	Cause-Effect(e1,e2)
+3437	Entity 1
+3438	Entity 2
+3439	Entity 1
+3440	Entity 1
+3441	Entity 1
+3442	Entity 1
+3443	Entity 2
+3444	Entity 1
+3445	Entity-Destination(e1,e2)
+3446	Entity 2
+3447	Entity 1
+3448	Entity 1
+3449	Cause-Effect(e1,e2)
+3450	Entity 1
+3451	Entity 2
+3452	List
+3453	Entity 1
+3454	Entity 1
+3455	Cause-Effect(e1,e2)
+3456	Entity 1
+3457	Entity 2
+3458	Entity 2
+3459	Entity 1
+3460	Entity 2
+3461	Entity 1
+3462	Entity 1
+3463	Entity 1
+3464	Entity 1
+3465	Entity 1
+3466	Entity 1
+3467	Entity 1
+3468	Entity 1
+3469	Entity 1
+3470	Entity 2
+3471	Entity 2
+3472	Entity 1
+3473	Entity 1
+3474	Entity 1
+3475	Cause-Effect(e1,e2)
+3476	Entity 1
+3477	Entity 1
+3478	Entity 1
+3479	Entity 1
+3480	Entity 1
+3481	Cause-Effect(e1,e2)
+3482	Entity 1
+3483	Entity 1
+3484	Entity 2
+3485	Entity 1
+3486	Entity 2
+3487	Entity 1
+3488	Cause-Effect(e1,e2)
+3489	Entity 1
+3490	Entity 1
+3491	Entity 1
+3492	Entity 1
+3493	Entity 1
+3494	Cause-Effect(e1,e2)
+3495	Entity 1
+3496	Entity 2
+3497	Entity 2
+3498	Entity 1
+3499	Entity 1
+3500	Entity 1
+3501	Cause-Effect(e1,e2)
+3502	Cause-Effect(e1,e2)
+3503	Entity 2
+3504	Entity 1
+3505	Entity 1
+3506	Entity 2
+3507	Cause-Effect(e1,e2)
+3508	Cause-Effect(e1,e2)
+3509	Entity 1
+3510	Entity 1
+3511	Entity 1
+3512	Entity 1
+3513	Entity 1
+3514	Entity 1
+3515	Engine
+3516	Entity 2
+3517	Entity 1
+3518	Entity 1
+3519	Entity 1
+3520	Cause-Effect(e1,e2)
+3521	Entity 1
+3522	Entity 2
+3523	Entity 1
+3524	Time
+3525	Entity 1
+3526	Entity 1
+3527	Entity 1
+3528	Entity 1
+3529	Entity 1
+3530	2
+3531	Entity 1
+3532	Entity 1
+3533	Cause-Effect(e1,e2)
+3534	Entity 1
+3535	Entity 1
+3536	Entity 2
+3537	Entity 1
+3538	Entity 1
+3539	Entity 1
+3540	Cause-Effect(e1,e2)
+3541	Entity 1
+3542	Entity 1
+3543	Entity 1
+3544	Entity 1
+3545	Entity 1
+3546	Entity 1
+3547	Entity 1
+3548	Entity 2
+3549	Entity 2
+3550	Entity 2
+3551	Entity 1
+3552	Entity 1
+3553	2
+3554	Entity 2
+3555	Message-Topic(e1,e2)
+3556	Entity 1
+3557	Cause-Effect(e1,e2)
+3558	Entity 1
+3559	Cause-Effect(e1,e2)
+3560	Handles
+3561	Entity 2
+3562	Entity 1
+3563	Entity 1
+3564	Entity 1
+3565	Entity 1
+3566	Entity 1
+3567	Entity 1
+3568	Entity 1
+3569	Entity 2
+3570	Entity 1
+3571	Entity 1
+3572	Entity 1
+3573	Entity 2
+3574	Cause-Effect(e1,e2)
+3575	Entity 1
+3576	Entity 1
+3577	Entity 1
+3578	Entity 1
+3579	Entity 1
+3580	Entity 2
+3581	Entity 2
+3582	Entity-Origin(e1,e2)
+3583	Entity 1
+3584	Entity 1
+3585	Entity 2
+3586	Entity 1
+3587	Entity 2
+3588	Entity 1
+3589	Entity 1
+3590	Entity 1
+3591	Entity 1
+3592	Cause-Effect(e1,e2)
+3593	Entity 1
+3594	Entity 1
+3595	Entity 2
+3596	Instrument-Agency(e1,e2)
+3597	Entity 1
+3598	Cause-Effect(e1,e2)
+3599	Entity 2
+3600	Entity 1
+3601	Entity 1
+3602	Entity 1
+3603	Entity 1
+3604	Cause-Effect(e1,e2)
+3605	Entity 1
+3606	Entity 1
+3607	Entity 2
+3608	Entity 1
+3609	Entity 1
+3610	Entity 1
+3611	Entity 1
+3612	Entity 1
+3613	Entity 2
+3614	Entity 1
+3615	Entity 1
+3616	Entity 1
+3617	Entity 1
+3618	Entity 2
+3619	Entity 2
+3620	Entity 2
+3621	Entity 1
+3622	Cause-Effect(e1,e2)
+3623	Entity 1
+3624	Entity 1
+3625	Entity 1
+3626	Entity 1
+3627	Entity 1
+3628	Cause-Effect(e1,e2)
+3629	Entity 1
+3630	Entity 2
+3631	Entity 1
+3632	Entity 1
+3633	Entity 1
+3634	Cause-Effect(e1,e2)
+3635	2
+3636	Entity 1
+3637	Entity 1
+3638	Entity 1
+3639	Entity 1
+3640	Cause-Effect(e1,e2)
+3641	Entity 1
+3642	Message-Topic(e1,e2)
+3643	Entity 1
+3644	Entity 2
+3645	Entity 1
+3646	Cause-Effect(e1,e2)
+3647	Instrument-Agency(e1,e2)
+3648	Entity 2
+3649	Entity 1
+3650	Entity 1
+3651	Entity 1
+3652	Cause-Effect(e1,e2)
+3653	Entity 1
+3654	Entity 1
+3655	Entity-Origin(e1,e2)
+3656	Entity 1
+3657	Entity 1
+3658	Cause-Effect(e1,e2)
+3659	Entity 1
+3660	Entity 1
+3661	Entity 1
+3662	Entity 1
+3663	Entity 1
+3664	Entity 1
+3665	Entity 1
+3666	Entity 1
+3667	Entity 1
+3668	Message-Topic(e1,e2)
+3669	Entity 1
+3670	Entity 1
+3671	Entity 1
+3672	Entity 1
+3673	Entity 1
+3674	Entity 1
+3675	Entity 1
+3676	Entity 2
+3677	Entity 2
+3678	Entity 1
+3679	Entity 1
+3680	Cause-Effect(e1,e2)
+3681	Entity 1
+3682	Entity 2
+3683	Entity 2
+3684	Entity 1
+3685	Entity 1
+3686	Cause-Effect(e1,e2)
+3687	Entity 1
+3688	Entity 2
+3689	Entity 1
+3690	Entity 1
+3691	Entity 2
+3692	Entity 2
+3693	Entity 2
+3694	Entity 2
+3695	Entity 1
+3696	Entity-Destination(e1,e2)
+3697	Cause-Effect(e1,e2)
+3698	Entity 2
+3699	Entity 1
+3700	Entity 1
+3701	Entity 1
+3702	Cause-Effect(e1,e2)
+3703	Entity 2
+3704	Entity 2
+3705	Entity 1
+3706	Entity 1
+3707	Entity 2
+3708	Cause-Effect(e1,e2)
+3709	Entity 1
+3710	Entity 1
+3711	Entity 1
+3712	Cause-Effect(e1,e2)
+3713	Entity 1
+3714	Entity 2
+3715	Entity 2
+3716	Entity 1
+3717	Entity 1
+3718	Entity 1
+3719	Entity 1
+3720	Entity 2
+3721	Entity 1
+3722	Entity 1
+3723	Entity 2
+3724	Entity-Origin(e1,e2)
+3725	Entity 1
+3726	Entity 1
+3727	Entity 2
+3728	Entity 1
+3729	Entity 1
+3730	Entity 1
+3731	Entity 1
+3732	Entity 1
+3733	Entity 1
+3734	Entity 1
+3735	Entity 1
+3736	Entity 1
+3737	Entity 1
+3738	Entity 1
+3739	Entity 1
+3740	Entity 2
+3741	Entity 2
+3742	Entity 1
+3743	Entity 1
+3744	Entity 1
+3745	Entity 1
+3746	Entity 1
+3747	Entity 1
+3748	Cause-Effect(e1,e2)
+3749	Entity 2
+3750	Entity 1
+3751	Entity 1
+3752	Entity 1
+3753	Entity 1
+3754	Entity 2
+3755	Entity 1
+3756	Entity 1
+3757	Entity 2
+3758	Entity 1
+3759	Entity 1
+3760	Entity 1
+3761	Entity 2
+3762	Cause-Effect(e1,e2)
+3763	Entity 1
+3764	Entity 1
+3765	Entity 1
+3766	Entity-Origin(e1,e2)
+3767	Entity 1
+3768	Entity 1
+3769	Entity 2
+3770	Entity 1
+3771	Entity 1
+3772	Entity 1
+3773	Entity 1
+3774	Entity 1
+3775	Entity 1
+3776	Entity 2
+3777	Entity 2
+3778	Entity 2
+3779	Entity 2
+3780	Entity 1
+3781	Cause-Effect(e1,e2)
+3782	Entity-Origin(e1,e2)
+3783	Entity-Origin(e1,e2)
+3784	Entity 1
+3785	Entity 1
+3786	Article
+3787	Entity 1
+3788	Entity 1
+3789	Entity 1
+3790	Entity 2
+3791	Entity 1
+3792	Entity 1
+3793	Entity 1
+3794	Entity 2
+3795	Entity 2
+3796	Entity 1
+3797	Entity 1
+3798	Entity 1
+3799	Entity 1
+3800	Entity 1
+3801	Cause-Effect(e1,e2)
+3802	Entity 1
+3803	Entity 2
+3804	Entity 1
+3805	Entity 1
+3806	Entity 1
+3807	Entity 1
+3808	Entity 2
+3809	Entity 1
+3810	Entity 1
+3811	Entity 1
+3812	Entity 1
+3813	Cause-Effect(e1,e2)
+3814	Entity 1
+3815	Entity 1
+3816	Entity 1
+3817	Entity 2
+3818	Entity 1
+3819	Entity 2
+3820	Entity 1
+3821	Entity 1
+3822	Entity 2
+3823	Entity 2
+3824	Entity 1
+3825	Cause-Effect(e1,e2)
+3826	Entity 1
+3827	Entity 1
+3828	Entity-Origin(e1,e2)
+3829	Entity 1
+3830	Entity 1
+3831	Cause-Effect(e1,e2)
+3832	Entity 2
+3833	Entity 1
+3834	Entity 2
+3835	Entity 1
+3836	Entity 1
+3837	Cause-Effect(e1,e2)
+3838	Entity 2
+3839	Entity 2
+3840	Entity 1
+3841	Entity 1
+3842	Entity 1
+3843	Cause-Effect(e1,e2)
+3844	Entity 1
+3845	Entity 1
+3846	Entity 1
+3847	Cause-Effect(e1,e2)
+3848	Entity 1
+3849	Cause-Effect(e1,e2)
+3850	Entity 1
+3851	Entity 2
+3852	Entity 2
+3853	Entity 1
+3854	Entity 2
+3855	Cause-Effect(e1,e2)
+3856	Entity 1
+3857	Entity 1
+3858	Entity 1
+3859	Entity 1
+3860	Entity 1
+3861	Entity 1
+3862	Entity 1
+3863	Entity 1
+3864	Entity 1
+3865	Entity 1
+3866	Entity 1
+3867	Entity 1
+3868	Entity 1
+3869	Entity 1
+3870	Entity 1
+3871	Entity 1
+3872	Entity 2
+3873	Message-Topic(e1,e2)
+3874	Entity-Origin(e1,e2)
+3875	Entity 1
+3876	Entity 1
+3877	
+3878	Entity 1
+3879	Entity 1
+3880	Entity 1
+3881	Entity 1
+3882	Entity 1
+3883	Entity 2
+3884	Entity 1
+3885	Entity 1
+3886	Entity 2
+3887	Entity 1
+3888	Entity 2
+3889	Entity 2
+3890	Entity 1
+3891	Entity 1
+3892	Entity 1
+3893	Entity 1
+3894	Entity 1
+3895	Entity 1
+3896	Entity 1
+3897	Entity 1
+3898	Entity 1
+3899	Entity 1
+3900	Entity 1
+3901	Entity 1
+3902	Entity 1
+3903	Entity 1
+3904	Entity 1
+3905	Entity 1
+3906	Entity 1
+3907	Entity 1
+3908	Entity 1
+3909	Entity 2
+3910	Entity 1
+3911	Entity 1
+3912	Entity 2
+3913	Entity 1
+3914	Entity 1
+3915	Entity 1
+3916	Entity 1
+3917	Entity 1
+3918	Cause-Effect(e1,e2)
+3919	Entity 1
+3920	Entity 1
+3921	Entity 1
+3922	Entity 2
+3923	Entity 1
+3924	Entity 2
+3925	Entity 1
+3926	Entity 1
+3927	Entity 1
+3928	Entity 1
+3929	Entity 1
+3930	Entity 1
+3931	Cause-Effect(e1,e2)
+3932	Entity 1
+3933	Entity 1
+3934	Entity 1
+3935	Entity 2
+3936	Cause-Effect(e1,e2)
+3937	Entity 1
+3938	Entity 1
+3939	Entity 1
+3940	Entity 1
+3941	Person
+3942	Entity 1
+3943	Entity 1
+3944	Entity 1
+3945	Entity 1
+3946	Entity 1
+3947	Entity 1
+3948	Cause-Effect(e1,e2)
+3949	Entity 1
+3950	Entity 1
+3951	Entity 1
+3952	Entity 1
+3953	Entity 1
+3954	Cause-Effect(e1,e2)
+3955	Entity 1
+3956	Entity 1
+3957	Entity 2
+3958	Entity 1
+3959	Entity 1
+3960	Entity 1
+3961	Entity 2
+3962	Entity 1
+3963	Entity 1
+3964	Entity 1
+3965	Entity 1
+3966	Entity 1
+3967	Entity 2
+3968	Entity 2
+3969	Entity 2
+3970	Entity 1
+3971	Entity 1
+3972	Entity 1
+3973	Entity 1
+3974	Entity 2
+3975	Entity 2
+3976	Entity 1
+3977	Rock and roll
+3978	Entity 2
+3979	Cause-Effect(e1,e2)
+3980	Entity 1
+3981	Entity 2
+3982	Officers
+3983	Entity 1
+3984	Entity 1
+3985	Entity 1
+3986	Cause-Effect(e1,e2)
+3987	Entity 2
+3988	Entity 1
+3989	Entity 2
+3990	Entity-Origin(e1,e2)
+3991	Entity 1
+3992	Entity 1
+3993	Entity 1
+3994	Entity 2
+3995	Entity 2
+3996	Entity 1
+3997	Entity 2
+3998	Entity 1
+3999	Entity 1
+4000	Article
+4001	Entity 1
+4002	Entity 2
+4003	Entity 1
+4004	Cause-Effect(e1,e2)
+4005	Entity 1
+4006	Entity 2
+4007	Entity 1
+4008	Entity 1
+4009	Entity 1
+4010	Entity 1
+4011	Entity-Origin(e1,e2)
+4012	Entity 1
+4013	Entity 1
+4014	Entity 1
+4015	Entity 1
+4016	Entity 2
+4017	Entity 1
+4018	Entity 2
+4019	Entity 1
+4020	List
+4021	Entity-Destination(e1,e2)
+4022	Entity 1
+4023	Cause-Effect(e1,e2)
+4024	Entity 1
+4025	Entity 2
+4026	Entity 1
+4027	Entity 1
+4028	Entity 2
+4029	Entity 1
+4030	Entity 1
+4031	Cause-Effect(e1,e2)
+4032	Entity 1
+4033	Entity 1
+4034	Entity 2
+4035	Entity 1
+4036	Entity 1
+4037	Entity 1
+4038	Entity 1
+4039	Entity 1
+4040	Entity 1
+4041	Entity 1
+4042	Entity 1
+4043	Entity 1
+4044	Entity 1
+4045	Entity 1
+4046	Entity 1
+4047	Entity 1
+4048	Entity 1
+4049	Cause-Effect(e1,e2)
+4050	Entity 1
+4051	Entity 2
+4052	Entity 2
+4053	Entity 1
+4054	Entity 1
+4055	Entity 1
+4056	Entity 1
+4057	Entity 2
+4058	Entity 1
+4059	Entity 1
+4060	Entity 2
+4061	Facility
+4062	Entity 2
+4063	Cause-Effect(e1,e2)
+4064	Entity 1
+4065	Entity 1
+4066	Entity 1
+4067	Entity 1
+4068	Entity 2
+4069	Entity 2
+4070	Entity 2
+4071	Entity 1
+4072	Member-Collection(e1,e2)
+4073	Entity 1
+4074	Entity 1
+4075	Entity 1
+4076	Entity 1
+4077	Cause-Effect(e1,e2)
+4078	Entity 2
+4079	Entity 2
+4080	Entity 1
+4081	Entity 1
+4082	Entity 1
+4083	Entity 1
+4084	Entity 2
+4085	Cause-Effect(e1,e2)
+4086	Entity 2
+4087	Entity 1
+4088	Entity 2
+4089	Entity 1
+4090	Entity 1
+4091	Entity 1
+4092	Entity 1
+4093	Entity 1
+4094	Entity 1
+4095	Cause-Effect(e1,e2)
+4096	Entity 2
+4097	Entity 1
+4098	Entity 1
+4099	Entity 1
+4100	Entity 1
+4101	Entity 1
+4102	Entity 2
+4103	Entity 1
+4104	Entity 1
+4105	Entity 2
+4106	Entity 1
+4107	Entity 1
+4108	Entity 2
+4109	Entity 2
+4110	Entity 1
+4111	Entity-Destination(e1,e2)
+4112	Entity 1
+4113	Entity 2
+4114	Entity 2
+4115	Entity-Origin(e1,e2)
+4116	Entity 2
+4117	Entity 1
+4118	Entity 1
+4119	Entity 1
+4120	Entity-Origin(e1,e2)
+4121	Entity 2
+4122	Entity 1
+4123	Entity 2
+4124	Men
+4125	Entity 1
+4126	Entity 1
+4127	Entity 1
+4128	Entity 1
+4129	Entity-Origin(e1,e2)
+4130	Entity 1
+4131	Cause-Effect(e1,e2)
+4132	Entity 2
+4133	Entity 2
+4134	Entity 1
+4135	Entity 2
+4136	Entity 1
+4137	Entity 1
+4138	Entity 2
+4139	Cause-Effect(e1,e2)
+4140	Entity 1
+4141	Entity 2
+4142	Entity 1
+4143	Entity 1
+4144	Entity 1
+4145	Entity 2
+4146	Entity 2
+4147	Entity 1
+4148	Entity 1
+4149	Cause-Effect(e1,e2)
+4150	Entity 1
+4151	Entity 1
+4152	Entity 2
+4153	Entity 2
+4154	Entity 1
+4155	Entity 1
+4156	Entity 1
+4157	Entity 1
+4158	Entity 1
+4159	Entity 1
+4160	Entity 2
+4161	Entity 2
+4162	Entity 1
+4163	Entity 2
+4164	Entity 1
+4165	Entity 2
+4166	Entity 1
+4167	Entity 1
+4168	Entity 1
+4169	Entity 1
+4170	Entity-Origin(e1,e2)
+4171	Entity 1
+4172	Entity 1
+4173	Entity 1
+4174	Entity 2
+4175	Cause-Effect(e1,e2)
+4176	Entity 1
+4177	Entity 1
+4178	Entity 1
+4179	Entity 1
+4180	Entity 1
+4181	Entity 1
+4182	Entity 1
+4183	Entity 1
+4184	Cause-Effect(e1,e2)
+4185	Entity 1
+4186	industry
+4187	Entity 2
+4188	Entity 1
+4189	Entity 1
+4190	Entity 1
+4191	Entity 2
+4192	Cause-Effect(e1,e2)
+4193	Entity 2
+4194	Entity 2
+4195	Entity 1
+4196	Entity 2
+4197	Entity 1
+4198	Entity 1
+4199	Entity 1
+4200	Entity 1
+4201	Cause-Effect(e1,e2)
+4202	Entity 1
+4203	Entity 2
+4204	Entity 1
+4205	Entity 1
+4206	Entity 1
+4207	case
+4208	Entity 2
+4209	Cause-Effect(e1,e2)
+4210	Entity 1
+4211	Entity 2
+4212	Entity 2
+4213	Entity 1
+4214	Entity 1
+4215	Entity 1
+4216	Entity 1
+4217	Entity 1
+4218	Cause-Effect(e1,e2)
+4219	Entity 1
+4220	Entity 1
+4221	Cause-Effect(e1,e2)
+4222	Entity 1
+4223	Entity 1
+4224	Instrument-Agency(e1,e2)
+4225	Entity 2
+4226	Entity 1
+4227	Entity 1
+4228	Entity 2
+4229	Entity 1
+4230	Entity 1
+4231	Entity 1
+4232	Entity 1
+4233	Entity 1
+4234	Cause-Effect(e1,e2)
+4235	Entity 1
+4236	Entity 1
+4237	Entity 1
+4238	Entity 1
+4239	Entity 1
+4240	Entity 1
+4241	Entity 1
+4242	Cause-Effect(e1,e2)
+4243	Entity 1
+4244	Entity 1
+4245	Entity 2
+4246	Entity 1
+4247	Entity 2
+4248	Entity 1
+4249	Entity 1
+4250	Entity 1
+4251	Entity 1
+4252	Entity 1
+4253	Entity 2
+4254	Entity 2
+4255	Entity-Origin(e1,e2)
+4256	Entity 1
+4257	Entity 2
+4258	Cause-Effect(e1,e2)
+4259	Entity 1
+4260	Entity 1
+4261	Entity 2
+4262	Entity 2
+4263	Entity 1
+4264	Entity 1
+4265	Entity 1
+4266	Cause-Effect(e1,e2)
+4267	Entity 1
+4268	Entity 1
+4269	Entity-Origin(e1,e2)
+4270	Entity 2
+4271	Entity 2
+4272	Entity 1
+4273	Entity 2
+4274	Entity 2
+4275	Entity 1
+4276	Entity 1
+4277	Entity 1
+4278	Entity 1
+4279	Instrument-Agency(e1,e2)
+4280	Entity 1
+4281	Entity 1
+4282	Entity 1
+4283	Entity 1
+4284	Entity 2
+4285	Cause-Effect(e1,e2)
+4286	Money
+4287	Entity 1
+4288	Entity 2
+4289	Entity 2
+4290	Entity 1
+4291	Entity 1
+4292	Entity 1
+4293	Entity 2
+4294	Entity 1
+4295	Entity 1
+4296	Entity 1
+4297	Entity 1
+4298	Entity 2
+4299	Cause-Effect(e1,e2)
+4300	Entity 2
+4301	Entity 2
+4302	Entity 1
+4303	Entity 2
+4304	Cause-Effect(e1,e2)
+4305	Entity 1
+4306	Entity 1
+4307	Entity 1
+4308	Entity 1
+4309	Entity 1
+4310	Entity 1
+4311	Entity 2
+4312	Entity 1
+4313	Entity 1
+4314	Entity 1
+4315	Entity 1
+4316	Entity 1
+4317	Entity 1
+4318	Entity 1
+4319	Entity 1
+4320	Entity 1
+4321	Entity 1
+4322	Entity 1
+4323	Entity 1
+4324	Entity 1
+4325	Entity 1
+4326	Entity 1
+4327	Entity 2
+4328	Entity 1
+4329	Entity 1
+4330	Entity 1
+4331	Entity 1
+4332	Cause-Effect(e1,e2)
+4333	Entity 1
+4334	Entity 1
+4335	Entity 2
+4336	Entity 1
+4337	Entity 1
+4338	Entity 1
+4339	Entity 1
+4340	Entity 2
+4341	Entity 1
+4342	Entity 2
+4343	Entity 1
+4344	Entity 1
+4345	Cause-Effect(e1,e2)
+4346	Entity 1
+4347	Entity 1
+4348	Entity 2
+4349	Entity 1
+4350	Entity 1
+4351	Cause-Effect(e1,e2)
+4352	Entity 1
+4353	Entity 1
+4354	Entity 2
+4355	Entity 1
+4356	Entity 1
+4357	Entity 1
+4358	Cause-Effect(e1,e2)
+4359	Entity 1
+4360	Entity 2
+4361	Entity 1
+4362	Entity 1
+4363	Entity 2
+4364	Entity 1
+4365	Entity 2
+4366	Entity-Origin(e1,e2)
+4367	Entity 1
+4368	Entity 1
+4369	Entity 1
+4370	Entity 1
+4371	Cause-Effect(e1,e2)
+4372	Entity 2
+4373	Entity 1
+4374	Entity 1
+4375	Entity 1
+4376	Entity 1
+4377	Cause-Effect(e1,e2)
+4378	Entity 1
+4379	Entity 2
+4380	Entity 1
+4381	Entity 1
+4382	Entity 1
+4383	Entity 1
+4384	Cause-Effect(e1,e2)
+4385	Entity 1
+4386	Entity 1
+4387	Entity 1
+4388	Entity 1
+4389	Entity 1
+4390	Entity 2
+4391	Entity-Origin(e1,e2)
+4392	Entity 1
+4393	Entity 1
+4394	Entity 1
+4395	Entity 2
+4396	Entity 1
+4397	Entity 1
+4398	Cause-Effect(e1,e2)
+4399	Entity 1
+4400	Entity 1
+4401	Entity 1
+4402	Stadium
+4403	Cause-Effect(e1,e2)
+4404	Entity 2
+4405	Entity 2
+4406	Entity 1
+4407	Policy
+4408	Entity 1
+4409	Entity 1
+4410	Cause-Effect(e1,e2)
+4411	Entity 2
+4412	Entity 2
+4413	Entity 1
+4414	Entity 1
+4415	Entity 1
+4416	Entity 1
+4417	Cause-Effect(e1,e2)
+4418	Entity 1
+4419	Entity 2
+4420	Entity 2
+4421	Entity 1
+4422	Entity 1
+4423	Entity 1
+4424	Entity 1
+4425	Entity 2
+4426	Entity-Origin(e1,e2)
+4427	Entity 1
+4428	Entity 1
+4429	Cause-Effect(e1,e2)
+4430	Entity 1
+4431	industry
+4432	Entity 1
+4433	Entity 1
+4434	Entity-Origin(e1,e2)
+4435	Entity 1
+4436	Cause-Effect(e1,e2)
+4437	Entity 1
+4438	Entity 2
+4439	Entity 1
+4440	Entity 1
+4441	Entity 1
+4442	Entity 1
+4443	Entity 2
+4444	Entity 1
+4445	Entity-Destination(e1,e2)
+4446	Entity 2
+4447	Entity 1
+4448	Entity 1
+4449	Cause-Effect(e1,e2)
+4450	Entity 1
+4451	Entity 2
+4452	List
+4453	Entity 1
+4454	Entity 1
+4455	Cause-Effect(e1,e2)
+4456	Entity 1
+4457	Entity 2
+4458	Entity 2
+4459	Entity 1
+4460	Entity 2
+4461	Entity 1
+4462	Entity 1
+4463	Entity 1
+4464	Entity 1
+4465	Entity 1
+4466	Entity 1
+4467	Entity 1
+4468	Entity 1
+4469	Entity 1
+4470	Entity 2
+4471	Entity 2
+4472	Entity 1
+4473	Entity 1
+4474	Entity 1
+4475	Cause-Effect(e1,e2)
+4476	Entity 1
+4477	Entity 1
+4478	Entity 1
+4479	Entity 1
+4480	Entity 1
+4481	Cause-Effect(e1,e2)
+4482	Entity 1
+4483	Entity 1
+4484	Entity 2
+4485	Entity 1
+4486	Entity 2
+4487	Entity 1
+4488	Cause-Effect(e1,e2)
+4489	Entity 1
+4490	Entity 1
+4491	Entity 1
+4492	Entity 1
+4493	Entity 1
+4494	Cause-Effect(e1,e2)
+4495	Entity 1
+4496	Entity 2
+4497	Entity 2
+4498	Entity 1
+4499	Entity 1
+4500	Entity 1
+4501	Cause-Effect(e1,e2)
+4502	Cause-Effect(e1,e2)
+4503	Entity 2
+4504	Entity 1
+4505	Entity 1
+4506	Entity 2
+4507	Cause-Effect(e1,e2)
+4508	Cause-Effect(e1,e2)
+4509	Entity 1
+4510	Entity 1
+4511	Entity 1
+4512	Entity 1
+4513	Entity 1
+4514	Entity 1
+4515	Engine
+4516	Entity 2
+4517	Entity 1
+4518	Entity 1
+4519	Entity 1
+4520	Cause-Effect(e1,e2)
+4521	Entity 1
+4522	Entity 2
+4523	Entity 1
+4524	Time
+4525	Entity 1
+4526	Entity 1
+4527	Entity 1
+4528	Entity 1
+4529	Entity 1
+4530	2
+4531	Entity 1
+4532	Entity 1
+4533	Cause-Effect(e1,e2)
+4534	Entity 1
+4535	Entity 1
+4536	Entity 2
+4537	Entity 1
+4538	Entity 1
+4539	Entity 1
+4540	Cause-Effect(e1,e2)
+4541	Entity 1
+4542	Entity 1
+4543	Entity 1
+4544	Entity 1
+4545	Entity 1
+4546	Entity 1
+4547	Entity 1
+4548	Entity 2
+4549	Entity 2
+4550	Entity 2
+4551	Entity 1
+4552	Entity 1
+4553	2
+4554	Entity 2
+4555	Message-Topic(e1,e2)
+4556	Entity 1
+4557	Cause-Effect(e1,e2)
+4558	Entity 1
+4559	Cause-Effect(e1,e2)
+4560	Handles
+4561	Entity 2
+4562	Entity 1
+4563	Entity 1
+4564	Entity 1
+4565	Entity 1
+4566	Entity 1
+4567	Entity 1
+4568	Entity 1
+4569	Entity 2
+4570	Entity 1
+4571	Entity 1
+4572	Entity 1
+4573	Entity 2
+4574	Cause-Effect(e1,e2)
+4575	Entity 1
+4576	Entity 1
+4577	Entity 1
+4578	Entity 1
+4579	Entity 1
+4580	Entity 2
+4581	Entity 2
+4582	Entity-Origin(e1,e2)
+4583	Entity 1
+4584	Entity 1
+4585	Entity 2
+4586	Entity 1
+4587	Entity 2
+4588	Entity 1
+4589	Entity 1
+4590	Entity 1
+4591	Entity 1
+4592	Cause-Effect(e1,e2)
+4593	Entity 1
+4594	Entity 1
+4595	Entity 2
+4596	Instrument-Agency(e1,e2)
+4597	Entity 1
+4598	Cause-Effect(e1,e2)
+4599	Entity 2
+4600	Entity 1
+4601	Entity 1
+4602	Entity 1
+4603	Entity 1
+4604	Cause-Effect(e1,e2)
+4605	Entity 1
+4606	Entity 1
+4607	Entity 2
+4608	Entity 1
+4609	Entity 1
+4610	Entity 1
+4611	Entity 1
+4612	Entity 1
+4613	Entity 2
+4614	Entity 1
+4615	Entity 1
+4616	Entity 1
+4617	Entity 1
+4618	Entity 2
+4619	Entity 2
+4620	Entity 2
+4621	Entity 1
+4622	Cause-Effect(e1,e2)
+4623	Entity 1
+4624	Entity 1
+4625	Entity 1
+4626	Entity 1
+4627	Entity 1
+4628	Cause-Effect(e1,e2)
+4629	Entity 1
+4630	Entity 2
+4631	Entity 1
+4632	Entity 1
+4633	Entity 1
+4634	Cause-Effect(e1,e2)
+4635	2
+4636	Entity 1
+4637	Entity 1
+4638	Entity 1
+4639	Entity 1
+4640	Cause-Effect(e1,e2)
+4641	Entity 1
+4642	Message-Topic(e1,e2)
+4643	Entity 1
+4644	Entity 2
+4645	Entity 1
+4646	Cause-Effect(e1,e2)
+4647	Instrument-Agency(e1,e2)
+4648	Entity 2
+4649	Entity 1
+4650	Entity 1
+4651	Entity 1
+4652	Cause-Effect(e1,e2)
+4653	Entity 1
+4654	Entity 1
+4655	Entity-Origin(e1,e2)
+4656	Entity 1
+4657	Entity 1
+4658	Cause-Effect(e1,e2)
+4659	Entity 1
+4660	Entity 1
+4661	Entity 1
+4662	Entity 1
+4663	Entity 1
+4664	Entity 1
+4665	Entity 1
+4666	Entity 1
+4667	Entity 1
+4668	Message-Topic(e1,e2)
+4669	Entity 1
+4670	Entity 1
+4671	Entity 1
+4672	Entity 1
+4673	Entity 1
+4674	Entity 1
+4675	Entity 1
+4676	Entity 2
+4677	Entity 2
+4678	Entity 1
+4679	Entity 1
+4680	Cause-Effect(e1,e2)
+4681	Entity 1
+4682	Entity 2
+4683	Entity 2
+4684	Entity 1
+4685	Entity 1
+4686	Cause-Effect(e1,e2)
+4687	Entity 1
+4688	Entity 2
+4689	Entity 1
+4690	Entity 1
+4691	Entity 2
+4692	Entity 2
+4693	Entity 2
+4694	Entity 2
+4695	Entity 1
+4696	Entity-Destination(e1,e2)
+4697	Cause-Effect(e1,e2)
+4698	Entity 2
+4699	Entity 1
+4700	Entity 1
+4701	Entity 1
+4702	Cause-Effect(e1,e2)
+4703	Entity 2
+4704	Entity 2
+4705	Entity 1
+4706	Entity 1
+4707	Entity 2
+4708	Cause-Effect(e1,e2)
+4709	Entity 1
+4710	Entity 1
+4711	Entity 1
+4712	Cause-Effect(e1,e2)
+4713	Entity 1
+4714	Entity 2
+4715	Entity 2
+4716	Entity 1
+4717	Entity 1
+4718	Entity 1
+4719	Entity 1
+4720	Entity 2
+4721	Entity 1
+4722	Entity 1
+4723	Entity 2
+4724	Entity-Origin(e1,e2)
+4725	Entity 1
+4726	Entity 1
+4727	Entity 2
+4728	Entity 1
+4729	Entity 1
+4730	Entity 1
+4731	Entity 1
+4732	Entity 1
+4733	Entity 1
+4734	Entity 1
+4735	Entity 1
+4736	Entity 1
+4737	Entity 1
+4738	Entity 1
+4739	Entity 1
+4740	Entity 2
+4741	Entity 2
+4742	Entity 1
+4743	Entity 1
+4744	Entity 1
+4745	Entity 1
+4746	Entity 1
+4747	Entity 1
+4748	Cause-Effect(e1,e2)
+4749	Entity 2
+4750	Entity 1
+4751	Entity 1
+4752	Entity 1
+4753	Entity 1
+4754	Entity 2
+4755	Entity 1
+4756	Entity 1
+4757	Entity 2
+4758	Entity 1
+4759	Entity 1
+4760	Entity 1
+4761	Entity 2
+4762	Cause-Effect(e1,e2)
+4763	Entity 1
+4764	Entity 1
+4765	Entity 1
+4766	Entity-Origin(e1,e2)
+4767	Entity 1
+4768	Entity 1
+4769	Entity 2
+4770	Entity 1
+4771	Entity 1
+4772	Entity 1
+4773	Entity 1
+4774	Entity 1
+4775	Entity 1
+4776	Entity 2
+4777	Entity 2
+4778	Entity 2
+4779	Entity 2
+4780	Entity 1
+4781	Cause-Effect(e1,e2)
+4782	Entity-Origin(e1,e2)
+4783	Entity-Origin(e1,e2)
+4784	Entity 1
+4785	Entity 1
+4786	Article
+4787	Entity 1
+4788	Entity 1
+4789	Entity 1
+4790	Entity 2
+4791	Entity 1
+4792	Entity 1
+4793	Entity 1
+4794	Entity 2
+4795	Entity 2
+4796	Entity 1
+4797	Entity 1
+4798	Entity 1
+4799	Entity 1
+4800	Entity 1
+4801	Cause-Effect(e1,e2)
+4802	Entity 1
+4803	Entity 2
+4804	Entity 1
+4805	Entity 1
+4806	Entity 1
+4807	Entity 1
+4808	Entity 2
+4809	Entity 1
+4810	Entity 1
+4811	Entity 1
+4812	Entity 1
+4813	Cause-Effect(e1,e2)
+4814	Entity 1
+4815	Entity 1
+4816	Entity 1
+4817	Entity 2
+4818	Entity 1
+4819	Entity 2
+4820	Entity 1
+4821	Entity 1
+4822	Entity 2
+4823	Entity 2
+4824	Entity 1
+4825	Cause-Effect(e1,e2)
+4826	Entity 1
+4827	Entity 1
+4828	Entity-Origin(e1,e2)
+4829	Entity 1
+4830	Entity 1
+4831	Cause-Effect(e1,e2)
+4832	Entity 2
+4833	Entity 1
+4834	Entity 2
+4835	Entity 1
+4836	Entity 1
+4837	Cause-Effect(e1,e2)
+4838	Entity 2
+4839	Entity 2
+4840	Entity 1
+4841	Entity 1
+4842	Entity 1
+4843	Cause-Effect(e1,e2)
+4844	Entity 1
+4845	Entity 1
+4846	Entity 1
+4847	Cause-Effect(e1,e2)
+4848	Entity 1
+4849	Cause-Effect(e1,e2)
+4850	Entity 1
+4851	Entity 2
+4852	Entity 2
+4853	Entity 1
+4854	Entity 2
+4855	Cause-Effect(e1,e2)
+4856	Entity 1
+4857	Entity 1
+4858	Entity 1
+4859	Entity 1
+4860	Entity 1
+4861	Entity 1
+4862	Entity 1
+4863	Entity 1
+4864	Entity 1
+4865	Entity 1
+4866	Entity 1
+4867	Entity 1
+4868	Entity 1
+4869	Entity 1
+4870	Entity 1
+4871	Entity 1
+4872	Entity 2
+4873	Message-Topic(e1,e2)
+4874	Entity-Origin(e1,e2)
+4875	Entity 1
+4876	Entity 1
+4877	
+4878	Entity 1
+4879	Entity 1
+4880	Entity 1
+4881	Entity 1
+4882	Entity 1
+4883	Entity 2
+4884	Entity 1
+4885	Entity 1
+4886	Entity 2
+4887	Entity 1
+4888	Entity 2
+4889	Entity 2
+4890	Entity 1
+4891	Entity 1
+4892	Entity 1
+4893	Entity 1
+4894	Entity 1
+4895	Entity 1
+4896	Entity 1
+4897	Entity 1
+4898	Entity 1
+4899	Entity 1
+4900	Entity 1
+4901	Entity 1
+4902	Entity 1
+4903	Entity 1
+4904	Entity 1
+4905	Entity 1
+4906	Entity 1
+4907	Entity 1
+4908	Entity 1
+4909	Entity 2
+4910	Entity 1
+4911	Entity 1
+4912	Entity 2
+4913	Entity 1
+4914	Entity 1
+4915	Entity 1
+4916	Entity 1
+4917	Entity 1
+4918	Cause-Effect(e1,e2)
+4919	Entity 1
+4920	Entity 1
+4921	Entity 1
+4922	Entity 2
+4923	Entity 1
+4924	Entity 2
+4925	Entity 1
+4926	Entity 1
+4927	Entity 1
+4928	Entity 1
+4929	Entity 1
+4930	Entity 1
+4931	Cause-Effect(e1,e2)
+4932	Entity 1
+4933	Entity 1
+4934	Entity 1
+4935	Entity 2
+4936	Cause-Effect(e1,e2)
+4937	Entity 1
+4938	Entity 1
+4939	Entity 1
+4940	Entity 1
+4941	Person
+4942	Entity 1
+4943	Entity 1
+4944	Entity 1
+4945	Entity 1
+4946	Entity 1
+4947	Entity 1
+4948	Cause-Effect(e1,e2)
+4949	Entity 1
+4950	Entity 1
+4951	Entity 1
+4952	Entity 1
+4953	Entity 1
+4954	Cause-Effect(e1,e2)
+4955	Entity 1
+4956	Entity 1
+4957	Entity 2
+4958	Entity 1
+4959	Entity 1
+4960	Entity 1
+4961	Entity 2
+4962	Entity 1
+4963	Entity 1
+4964	Entity 1
+4965	Entity 1
+4966	Entity 1
+4967	Entity 2
+4968	Entity 2
+4969	Entity 2
+4970	Entity 1
+4971	Entity 1
+4972	Entity 1
+4973	Entity 1
+4974	Entity 2
+4975	Entity 2
+4976	Entity 1
+4977	Rock and roll
+4978	Entity 2
+4979	Cause-Effect(e1,e2)
+4980	Entity 1
+4981	Entity 2
+4982	Officers
+4983	Entity 1
+4984	Entity 1
+4985	Entity 1
+4986	Cause-Effect(e1,e2)
+4987	Entity 2
+4988	Entity 1
+4989	Entity 2
+4990	Entity-Origin(e1,e2)
+4991	Entity 1
+4992	Entity 1
+4993	Entity 1
+4994	Entity 2
+4995	Entity 2
+4996	Entity 1
+4997	Entity 2
+4998	Entity 1
+4999	Entity 1

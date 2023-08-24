@@ -28,72 +28,85 @@ if __name__ == "__main__":
     Ins_RE = [None, "Involving a given sentence and two entities within it, your goal is to identify the relationship between the two entities using the provided sentence. Choose from the set of relationships provided below.",
               "You'll be working with a sentence that contains two entities. Your objective is to categorize the relationship between these entities using the provided sentence. Refer to the list of potential relationships provided.", "The challenge is to establish the relationship between two entities within a given sentence. Your task is to classify this relationship based on the sentence provided. Explore the list of possible relationships below."]
 
-    for i in range(len(Ins_QA)):
-        experiment.add_tasks_by_name(
+    experiment.add_tasks_by_name(
             task_name="RETACRED_QA",
             output_dir="./WizardLM-13B-V1.2/",
-            batch_size="8",
-            instruction=Ins_QA[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
-        experiment.add_tasks_by_name(
-            task_name="semeval_QA",
-            output_dir="./WizardLM-13B-V1.2/",
-            batch_size="8",
-            instruction=Ins_QA[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
-        experiment.add_tasks_by_name(
-            task_name="TACRED_QA",
-            output_dir="./WizardLM-13B-V1.2/",
-            batch_size="8",
-            instruction=Ins_QA[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
-        experiment.add_tasks_by_name(
-            task_name="TACREV_QA",
-            output_dir="./WizardLM-13B-V1.2/",
-            batch_size="8",
-            instruction=Ins_QA[i],
+            batch_size="1",
+            instruction=Ins_QA[0],
             shot_count="0",
             eval_by_logit=True,
         )
 
-    for i in range(len(Ins_RE)):
-        experiment.add_tasks_by_name(
-            task_name="RETACRED_RE",
-            output_dir="./WizardLM-13B-V1.2/",
-            batch_size="8",
-            instruction=Ins_RE[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
-        experiment.add_tasks_by_name(
-            task_name="semeval_RE",
-            output_dir="./WizardLM-13B-V1.2/",
-            batch_size="8",
-            instruction=Ins_RE[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
-        experiment.add_tasks_by_name(
-            task_name="TACRED_RE",
-            output_dir="./WizardLM-13B-V1.2/",
-            batch_size="8",
-            instruction=Ins_RE[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
-        experiment.add_tasks_by_name(
-            task_name="TACREV_RE",
-            output_dir="./WizardLM-13B-V1.2/",
-            batch_size="8",
-            instruction=Ins_RE[i],
-            shot_count="0",
-            eval_by_logit=True,
-        )
+    # for i in range(len(Ins_QA)):
+    # with open('./WizardLM-13B-V1.2/result.txt', 'a') as file:
+    #         file.write(f"-----------------QA Instruction: {i} -----------------\n")
+    #     experiment.add_tasks_by_name(
+    #         task_name="RETACRED_QA",
+    #         output_dir="./WizardLM-13B-V1.2/",
+    #         batch_size="1",
+    #         instruction=Ins_QA[i],
+    #         shot_count="0",
+    #         eval_by_logit=True,
+    #     )
+    #     experiment.add_tasks_by_name(
+    #         task_name="semeval_QA",
+    #         output_dir="./WizardLM-13B-V1.2/",
+    #         batch_size="1",
+    #         instruction=Ins_QA[i],
+    #         shot_count="0",
+    #         eval_by_logit=True,
+    #     )
+    #     experiment.add_tasks_by_name(
+    #         task_name="TACRED_QA",
+    #         output_dir="./WizardLM-13B-V1.2/",
+    #         batch_size="1",
+    #         instruction=Ins_QA[i],
+    #         shot_count="0",
+    #         eval_by_logit=True,
+    #     )
+    #     experiment.add_tasks_by_name(
+    #         task_name="TACREV_QA",
+    #         output_dir="./WizardLM-13B-V1.2/",
+    #         batch_size="1",
+    #         instruction=Ins_QA[i],
+    #         shot_count="0",
+    #         eval_by_logit=True,
+    #     )
+
+    # for i in range(len(Ins_RE)):
+    # with open('./WizardLM-13B-V1.2/result.txt', 'a') as file:
+    #         file.write(f"-----------------RE Instruction: {i} -----------------\n")    
+    #     experiment.add_tasks_by_name(
+    #         task_name="RETACRED_RE",
+    #         output_dir="./WizardLM-13B-V1.2/",
+    #         batch_size="1",
+    #         instruction=Ins_RE[i],
+    #         shot_count="0",
+    #         eval_by_logit=True,
+    #     )
+    #     experiment.add_tasks_by_name(
+    #         task_name="semeval_RE",
+    #         output_dir="./WizardLM-13B-V1.2/",
+    #         batch_size="1",
+    #         instruction=Ins_RE[i],
+    #         shot_count="0",
+    #         eval_by_logit=True,
+    #     )
+    #     experiment.add_tasks_by_name(
+    #         task_name="TACRED_RE",
+    #         output_dir="./WizardLM-13B-V1.2/",
+    #         batch_size="1",
+    #         instruction=Ins_RE[i],
+    #         shot_count="0",
+    #         eval_by_logit=True,
+    #     )
+    #     experiment.add_tasks_by_name(
+    #         task_name="TACREV_RE",
+    #         output_dir="./WizardLM-13B-V1.2/",
+    #         batch_size="1",
+    #         instruction=Ins_RE[i],
+    #         shot_count="0",
+    #         eval_by_logit=True,
+    #     )
 
     experiment.inference()

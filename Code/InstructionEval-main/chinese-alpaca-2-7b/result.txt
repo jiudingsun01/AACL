@@ -2,11 +2,7 @@ RETACRED_qa_chinese-alpaca-2-7b
 Precision: 0.0	Recall: 0.0	F1 Score: 0.0
 
 
-semeval_qa_chinese-alpaca-2-7b
-Precision: 0.0	Recall: 0.0	F1 Score: 0.0
-
-
-TACRED_qa_chinese-alpaca-2-7b
+RETACRED_qa_chinese-alpaca-2-7b
 Precision: 0.0	Recall: 0.0	F1 Score: 0.0
 
 

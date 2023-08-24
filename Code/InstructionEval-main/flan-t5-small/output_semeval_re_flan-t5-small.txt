@@ -1,0 +1,5000 @@
+0	Description
+1	Entity 1
+2	Entity 1 : fisherman
+3	The baby was brought into her home
+4	Science/Tech
+5	Entity 1 : mainspring
+6	Entity-Destination(e1,e2)
+7	Entity 1 : cat
+8	Contact
+9	Entity 1
+10	Entity 1 , powder
+11	Food
+12	Entity 1
+13	Entity-Destination
+14	Person
+15	Entity 1 - operator
+16	Entity 1 : Life
+17	Teacher
+18	Friends
+19	Entity-Destination(e1,e2)
+20	Entity 1
+21	Entity 1 : merchant
+22	Location
+23	Entity 1 : neck pain
+24	Entity-Destination
+25	Entity 1 : lines
+26	Entity 1
+27	Threatening
+28	Entity 1 : elements
+29	Entity-Destination
+30	Entity 1 : barley
+31	The weight of the concrete on the soft materials caused a second ground collapse on the following Sunday night
+32	Entity 1
+33	Food
+34	Person
+35	The impact of the floating body effect on noise is investigated in this work for the first time
+36	Animal
+37	Entity-Destination
+38	Entity 1
+39	Friends
+40	Entity-Destination
+41	Entity 1
+42	Entity-Destination
+43	Entity 1
+44	Entity
+45	Entity-Destination
+46	Entity-Destination
+47	Entity 1 : cognac
+48	Entity 1 : starch
+49	Cleanse
+50	Answer: method
+51	Entity 1 : toy
+52	Description
+53	Entity-Destination
+54	Entity 1 : surgeon
+55	Entity 1
+56	Entity 1 : potter
+57	Entity-Origin
+58	Entity-Destination
+59	Entity 1 - light
+60	Entity-Destination
+61	Approval of
+62	Entity 1 : sord
+63	Entity-Destination
+64	Entity 1
+65	Entity 1 - bottle
+66	Entity 1 : pipeline
+67	Entity 1
+68	Entity-Destination
+69	Food
+70	Entity 1 : brick
+71	Entity-Commission
+72	Entity 1 , member
+73	Entity 1
+74	Entity 1 : foundry
+75	The student visited the website of the student
+76	Location
+77	Entity-Origin
+78	Entity 1 : news paper
+79	Houses
+80	Location
+81	Entity 1 : stories
+82	Entity 1
+83	Customer
+84	Business
+85	Entity 1 : wind
+86	Arm
+87	Entity
+88	Entity
+89	Entity-Destination
+90	Entity 1
+91	Entity 1 : stories
+92	Entity 1
+93	Entity 1
+94	Entity 1
+95	Entity-Destination
+96	Entity 1 : lane
+97	Entity 1 , group
+98	Entity 1
+99	Entity-Destination
+100	Entity 1 : wine
+101	Box
+102	Food
+103	Infections
+104	Entity 1 : buzzard
+105	Entity 1
+106	Component-Whole(e1,e2)
+107	Entity-Origin
+108	Entity 1 : essays
+109	Entity-Government
+110	Entity-Origin
+111	Entity 1
+112	Entity-Destination
+113	Taste
+114	Entity 1
+115	Company
+116	Entity 1 : horses
+117	Entity 1 , trail
+118	Entity 1 : List
+119	Entity-Destination
+120	Entity-Destination
+121	Entity-Destination
+122	Food
+123	Entity 1
+124	Person
+125	Entity-Destination(e1,e2)
+126	Dean
+127	Entity 1
+128	Business
+129	The galileoscope
+130	Entity-Destination
+131	Entity 1 : Depression
+132	Entity 1 : heads
+133	Business
+134	Entity 1 : crush
+135	Entity 1 : glut
+136	Entity 1: acetoin
+137	Entity 1 : milk
+138	Food
+139	Entity 1
+140	The pendant with the bail measures 1 1/4 ''
+141	Location
+142	Product
+143	Entity 1
+144	Entity 1
+145	Entity-Destination
+146	Entity-Destination
+147	Entity-Origin
+148	Man
+149	Entity 1
+150	Handle
+151	Animal
+152	Animal
+153	Entity 1
+154	Entity-Destination
+155	Entity 1 - cup
+156	Entity 1
+157	Activities
+158	Entity-Destination
+159	The basket was full of furry orange-and-black faces -- kittens
+160	Building
+161	Entity 1 : science fiction
+162	Persona
+163	Entity 1
+164	Person
+165	Entity 1
+166	Entity 1
+167	Entity 1 : plasma
+168	Entity 1
+169	The designer is my wife
+170	Friends
+171	Entity-Destination
+172	Entity 1
+173	He
+174	Food
+175	Food
+176	Entity 1 : fuselage
+177	Entity 1 - Component-Whole(e1,e2)
+178	Entity-Destination
+179	Entity 1
+180	Entity-Destination
+181	Entity 1
+182	Entity 1 - Definition
+183	Entity 1 : bodies
+184	Entity 1
+185	Entity 1 : stem
+186	Entertainment
+187	Entity-Destination
+188	Entity 1 - Material
+189	Entity 1 - cell
+190	Entity-Destination
+191	Food
+192	Entity-Destination
+193	Description
+194	Entity 1 is file cabinet in Washington
+195	Entity-Destination
+196	Entity 1
+197	World Health Organization
+198	Entity-Destination
+199	Entity-Destination
+200	The snowdrifts
+201	Entity 1
+202	Car
+203	Entity 1 : youths
+204	Entity 1 : rookery
+205	Entity 1 : balm
+206	Entity-Destination
+207	The coin was enclosed in a protective plastic case
+208	Food
+209	Contact
+210	Entity 1
+211	Car
+212	Entity 1
+213	Entity 1
+214	Entity-Destination
+215	Entity 1 , builder
+216	Sports
+217	Entity 1
+218	Entity 1 : tonsillitis
+219	Entity 1 : lobe
+220	Entity-Destination
+221	Entity 1: workers
+222	Entity 1
+223	Entity-Destination
+224	Entity-Destination
+225	Entity 1 : cane
+226	Inhalation
+227	Entity 1 : dowel
+228	isopropanol
+229	Entity-Destination
+230	Entity 1 - Written by a student
+231	Entity 1
+232	Entity 1
+233	Friends
+234	Entity
+235	Entity 1
+236	Entity-Destination
+237	Entity 1 : exaltation
+238	Entity-Destination
+239	Entity 1 : electricity
+240	Entity 1 , medal
+241	Food
+242	Entity-Destination
+243	Entity 1
+244	Entity
+245	Entity-Destination
+246	Entity-Origin(e1,e2)
+247	Entity 1
+248	Entity 1
+249	Entity 1 : baby
+250	Entity 1
+251	The ribs
+252	Entity 1
+253	Entity 1 : clans
+254	The high pressure inside of acaisson presents health risks
+255	Location
+256	Entity-Destination
+257	Food
+258	Entity 1
+259	Entity 1 : rouleau
+260	Entity-Destination
+261	Documents
+262	Entity 1 - chapter
+263	Entity 1 - grandfather
+264	Entity 1 : staff
+265	Person
+266	Entity 1 - Cause-Effect(e1,e2)
+267	The handgrip of the micrometer is exactly 2 in
+268	Entity 1 - song
+269	Entity 1 - Written by Allen
+270	Entity-Destination
+271	Entity 1
+272	Entity-Destination
+273	Entity 1 : chains
+274	Entity-Destination
+275	Entity-Destination
+276	Entity 1
+277	Entity 1
+278	Entity 1
+279	The fitter
+280	The company
+281	Entity-Destination
+282	Entity 1
+283	Entity
+284	Description
+285	Relationship
+286	Money
+287	Entity-Destination
+288	The Valley
+289	Relationship
+290	Answer
+291	Entity-Destination
+292	Entity-Destination
+293	Entity-Destination
+294	Carpenters
+295	Entity 1
+296	Entity 1
+297	Entity 1 : valve
+298	Entity-Destination
+299	Entity-Destination
+300	Entity 1 : plurality
+301	Entity 1
+302	Food
+303	Entity 1
+304	Entity 1
+305	Location
+306	Entity-Destination
+307	Entity-Destination
+308	Entity 1 : sweetcorn
+309	Entity-Destination
+310	Entity 1 : fish
+311	Entity Name
+312	Entity 1 : padlock
+313	The Ministry
+314	Entity 1
+315	Entity-Destination
+316	Entity 1
+317	Entity 1
+318	Contact
+319	Entity-Destination
+320	Entity 1
+321	Contacts
+322	Company
+323	Entity 1
+324	Entity 1 : yachts
+325	Entity 1 : frustration
+326	Friends
+327	Entity-Destination
+328	Entity 1 : faction
+329	Entity 1
+330	Entity-Destination
+331	Entity 1
+332	Sports
+333	Entity-Destination
+334	Entity-Destination
+335	Entity-Destination(e1,e2)
+336	Fan
+337	Entity-Origin
+338	Entity-Destination
+339	Electroscope
+340	Entity 1 : posts
+341	Written by
+342	Entity-Destination(e1,e2)
+343	Friends
+344	Food
+345	Admit
+346	Entity 1 : dryer
+347	Entity 1 : page
+348	Entity 1
+349	He
+350	Entity 1 : pilots
+351	Entity 1 : crisis
+352	The foot
+353	Friends
+354	Entity 1 : parade
+355	Entity 1 - tongue
+356	The barrel
+357	Entity 1
+358	Entity-Destination
+359	The children
+360	Entity 1 : talk
+361	Answer
+362	Family
+363	Entity 1
+364	Entity-Destination
+365	Animals
+366	Entity 1 : candlestick Maker
+367	Entity 1 is staff
+368	Entity 1
+369	Science/Tech
+370	Entity 1
+371	Entity-Destination
+372	Entity-Destination
+373	Business
+374	Answer: question
+375	Player
+376	Entity 1
+377	Entity 1 : ulcer
+378	The Castle
+379	Friends
+380	Entity 1 : Lawyers
+381	Entity 1 : symposium
+382	Entity 1 : brandy
+383	Entity 1 : mummy
+384	Entity-Destination
+385	Entity 1 : study
+386	Entity
+387	Food
+388	Entity 1 : crew
+389	Entity 1
+390	Entity-Destination
+391	Entity 1 : cylinder
+392	Entity 1 : anecdotes
+393	Entity 1 : farrow
+394	Entity-Destination
+395	Entity 1 : ion
+396	Key
+397	Entity 1 : migrations
+398	Entity 1 : hand
+399	Entity-Destination
+400	Location
+401	Man
+402	Entity 1
+403	The drop was caused by the recession and the usual seasonal factors
+404	Answer: pin
+405	The design by the chicago architects Walter Burley Griffin and Mariahony Griffin was selected
+406	Entity 1 : belt
+407	Entity 1
+408	Entity 1
+409	Location
+410	Entity 1
+411	Entity 1 : cabinet
+412	Entity 1 : News
+413	Entity 1
+414	Entity 1 : waiters
+415	Product
+416	Entity 1 : interaction
+417	Entity 1
+418	Company
+419	Entity 1
+420	Entity 1 : basis
+421	Entity 1
+422	The deputy sheriff
+423	Entity-Destination
+424	Entity 1
+425	Entity 1 : report
+426	Entity 1 : stonework
+427	Father
+428	Water
+429	Entity 1 : acne
+430	The pin of the wheel raises the hour wheel lever
+431	Business
+432	Entity 1 : mouse
+433	Entity-Destination
+434	Entity 1
+435	Entity-Destination
+436	Entity-Destination
+437	Patient
+438	Entity-Destination
+439	Entity
+440	Entity-Destination
+441	Entity 1 : shuttles
+442	Entity 1
+443	Entity 1
+444	Business
+445	Entity-Destination
+446	Science/Tech
+447	Entity 1 : oil
+448	Entity 1
+449	Entity-Destination
+450	Entity 1
+451	Entity-Destination
+452	Entity 1
+453	Entity 1 : motor
+454	Air filter
+455	Entity 1
+456	Entity 1 : roof
+457	Company
+458	Entity 1 : corps
+459	Relationship
+460	Educational Institution
+461	The pizza was inside a trash bag and taped shut
+462	Entity 1
+463	Entity 1 : prostate
+464	Entity 1 - series
+465	Building
+466	Entity-Destination
+467	Business
+468	Entity-Destination
+469	Building
+470	Entity 1
+471	Persona
+472	Entity
+473	Friends
+474	Entity 1
+475	World
+476	The oven
+477	Entity-Books
+478	Entity 1
+479	Man
+480	Boy
+481	Entity
+482	Entity 1 : carriages
+483	Entity-Origin
+484	Entity-Origin
+485	Religion
+486	Entity 1 - language
+487	Entity 1
+488	Entity-Destination
+489	Entity 1
+490	Entity 1 : books
+491	Entity 1
+492	Science/Tech
+493	Entity 1 : skydivers
+494	Entity 1
+495	Friends
+496	Answer
+497	Entity-Destination
+498	Entity 1
+499	Plant
+500	Entity 1
+501	Entity 1 : caterpillars
+502	Entity 1 : tree
+503	Contact
+504	Entity 1 : ghostwriters
+505	Teacher
+506	Entity 1 : poems
+507	Entity-Destination
+508	Cargo
+509	Company
+510	Entity 1
+511	Entity 1 , port
+512	Entity 1
+513	The bag was contained in a secure locker inside the security office
+514	Contact
+515	Entity 1 : engine
+516	Entity-Destination
+517	Person
+518	Entity 1
+519	Entity 1
+520	Relationship
+521	Answer: steps
+522	Entity 1
+523	Entity 1 : swarm
+524	Entity 1
+525	Ship
+526	Food
+527	Entity-Destination
+528	Animal
+529	Entity-Destination
+530	Entity 1 : Women
+531	The Raven
+532	Entity 1
+533	Entity 1
+534	Building
+535	Company
+536	Person
+537	Description
+538	Entity 1 : satellite
+539	Entity 1 : wallet
+540	Contact
+541	The difference is great
+542	Entity-Destination
+543	Entity 1
+544	Answer: Driver
+545	Food
+546	Entity 1 - word
+547	Entity-Origin
+548	Album
+549	Entity 1
+550	Entity 1 : Software
+551	Ship
+552	Entity-Destination
+553	World
+554	Entity 1 : vehicles
+555	World
+556	Entity-Destination
+557	Man
+558	Bio-energetics
+559	Entity-Destination
+560	Hand brake
+561	Entity 1 : Theorie
+562	Entity 1 : Boars
+563	Sports
+564	Water
+565	Entity-Destination
+566	Entity 1
+567	Entity 1 : dashboard
+568	Entity 1
+569	Entity 1
+570	Entity 1 : Respondents
+571	Entity 1
+572	Entity-Destination
+573	Entity-Subject
+574	Entity 1 : herpes simplex virus
+575	Entity 1
+576	Entity 1
+577	Entity 1 , work
+578	The statue is in the box
+579	Entity 1
+580	Relationship
+581	Entity-Destination
+582	Entity 1
+583	Entity 1 : electricians
+584	Entity 1 : files
+585	Entity 1 : laughing
+586	Entity 1
+587	Entity 1 : discourse
+588	Entity 1
+589	Entity 1
+590	Location
+591	Entity-Destination
+592	Entity
+593	Entity 1
+594	Entity-Subject
+595	Entity-Destination(e1,e2)
+596	Doctor
+597	The catheter distally connects to the hepatic artery
+598	Entity 1
+599	Entity 1 : strings
+600	Friends
+601	Entity 1: closure
+602	Entity 1 : sweeper
+603	Remote
+604	Relationship
+605	Entity 1 : fish
+606	Entity-Destination
+607	Business
+608	Entity 1 : sailor
+609	Entity-Destination
+610	Entity 1
+611	Entity 1
+612	Relationship
+613	Animal
+614	Entity 1
+615	The skeleton is found in the tomb of a neolithic-age tomb
+616	Adequate
+617	Entity 1
+618	Entity 1
+619	Shops
+620	Entity-Destination
+621	The quartz tube
+622	Entity 1 : Resination
+623	Entity 1 : rudders
+624	Entity 1 : brotherhood
+625	Entity 1
+626	Entity 1
+627	Location
+628	Entity-Destination
+629	Entity 1 : program
+630	Entity 1 : Discussion
+631	Science/Tech
+632	Farmer
+633	Man
+634	Person
+635	The blouse I finished was sleeved
+636	Company
+637	Couple
+638	Entity 1 : students
+639	Entity 1 : Pieces
+640	Entity 1 - Distract
+641	Entity 1 , dishwasher
+642	Entity 1
+643	Entity 1
+644	Entity 1 : student
+645	Entity 1
+646	Entity 1: spill
+647	Entity 1 : valves
+648	Answer
+649	Entity-Origin
+650	Entity 1
+651	Location
+652	Food
+653	Entity 1
+654	Entity-Destination
+655	Entity 1 : brewer
+656	Entity 1 - Project
+657	Entity 1
+658	Entity-Origin
+659	Entity 1 : retina
+660	Entity 1 : Heroes
+661	Entity 1
+662	Entity-Destination(e1,e2)
+663	Entity-Destination(e1,e2)
+664	Contact
+665	Entity 1 : plant
+666	Entity-Destination
+667	Entity 1
+668	Contact
+669	Friends
+670	Entity 1
+671	Father
+672	Entity 1 : flower
+673	Entity 1
+674	Entity 1 : box cutter
+675	Entity 1 : incidents
+676	Entity 1
+677	Science/Tech
+678	Entity 1 : seniors
+679	Entity
+680	Entity 1 : flooding
+681	The ship
+682	Entity 1
+683	Entity 1 : chart
+684	Biosurfactant
+685	Location
+686	Entity-Destination
+687	Manufactured by
+688	Entity-Destination
+689	Entity 1 - Act
+690	Entity-Destination
+691	World Aids Day
+692	Entity-Origin
+693	Entity-Destination
+694	Entity 1
+695	Entity 1
+696	Carafe
+697	Entity 1 : irritants
+698	Food
+699	Entity-Destination
+700	Science
+701	Entity
+702	Entity-Destination
+703	Entity 1
+704	Entity 1 : alliance
+705	Entity 1
+706	Location
+707	Friends
+708	Entity 1 : heat
+709	The pillow of Western nations
+710	Entity-Destination
+711	Entity 1
+712	Entity 1 : rainbows
+713	The boy places the bell in the pocket of his robe and all the children watch as Santa takes off into the night for his annual deliveries 
+714	Entity 1
+715	Entity 1
+716	Animal
+717	Entity 1
+718	Entity 1 : course
+719	Entity-Destination
+720	Component-Whole(e1,e2)
+721	Entity 1 - joke
+722	Entity 1 : amphibians
+723	Entity 1 : squirrels
+724	Entity-Destination
+725	Entity 1
+726	The family money was in the jar and was also lost
+727	Description
+728	Entity 1
+729	Entity-Destination
+730	Entity 1 : scars
+731	Entity 1
+732	Entity 1 : rats
+733	Entity 1
+734	Entity-Destination
+735	Entity 1 : wine
+736	Entity 1 : journal
+737	Entity-Destination
+738	Test
+739	Entity 1 : Burns
+740	Refrigerator
+741	Entity 1
+742	Entity 1
+743	Answer
+744	Entity 1 : pens
+745	Component-Whole(e1,e2)
+746	Entity-Destination
+747	The boy
+748	Entity 1
+749	Entity-Destination
+750	The pyramid of champagne flutes
+751	Entity 1 - monitor
+752	Entity-Origin
+753	Carp
+754	Entity-Destination(e1,e2)
+755	Dr
+756	Entity 1
+757	Entity
+758	Entity 1
+759	The safest place in Korea was right behind a platoon of marines 
+760	Entity
+761	Company
+762	The camera was in a suitcase
+763	Entity 1 : tree
+764	Entity-Destination
+765	Food
+766	Entity 1 : germs
+767	Entity 1 : button
+768	Entity 1 : cultures
+769	Ingredients
+770	Entity 1
+771	Location
+772	Entity-Destination
+773	World
+774	Entity 1 - effect
+775	Entity 1 : bolt
+776	Entity 1 : troop
+777	World
+778	Entity 1 : formalism
+779	Religion
+780	The people who poured acid into their eyes
+781	Location
+782	Entity-Destination
+783	Entity-Destination
+784	Entity-Destination
+785	Entity 1 : Clip
+786	Science/Tech
+787	The ship Leaked oil into the brisbane river
+788	Entity-Destination
+789	Entity 1 : mainmast
+790	Entity 1: caravan
+791	Entity 1
+792	Entity 1 : wine
+793	Science fiction
+794	Business
+795	Entity 1
+796	Sports
+797	Entity-Destination
+798	Entity 1 : Hairstyles
+799	Entity 1 : seminar
+800	Stores
+801	Entity-Destination
+802	Entity 1 : sedge
+803	Food
+804	Entity 1 : moisture
+805	Relationship
+806	Entity 1
+807	Entity-Destination
+808	Entity 1
+809	Sci-Fi Channel
+810	Entity
+811	Ads
+812	Man
+813	Entity 1
+814	Entity-Destination
+815	Entity 1
+816	Entity 1
+817	Entity-Destination
+818	Entity 1
+819	Entity 1 : powertrain
+820	Entity 1 , cadre
+821	Entity-Destination
+822	The data is based upon the research of the Dominican Republic
+823	Entity-Destination
+824	Entity 1
+825	Person
+826	Entity 1 : menage
+827	Entity 1
+828	Entity 1
+829	Entity 1
+830	Entity-Destination
+831	Entity 1 : damage
+832	Entity 1
+833	Entity-Destination
+834	Entity-Destination
+835	Entity 1
+836	Entity 1
+837	Entity
+838	Entity 1 : stars
+839	Entity 1 : Character-compeers
+840	Entity 1
+841	Entity-Destination
+842	The celebrity
+843	Entity
+844	Entity 1 : stack
+845	Necklace
+846	Entity 1 - criminal
+847	Entity-Destination
+848	The bottle
+849	Entity 1 : sorrow
+850	Entity
+851	Entity-Origin
+852	Entity 1
+853	Entity 1
+854	The parent/families
+855	Entity-Destination
+856	Family
+857	Entity 1 : ham
+858	Plant
+859	Entity 1 : Advertising
+860	Entity 1 : tube
+861	Entity 1
+862	Entity 1
+863	Animal
+864	Entity 1 , squirrel
+865	Entity 1 : blogs
+866	Entity 1
+867	Musician
+868	Company
+869	Entity 1
+870	Entity 1 : talk
+871	Entity 1
+872	Entity 1 : bed
+873	Entity 1 : speech
+874	Entity-Destination(e1,e2)
+875	Entity 1 : Tutorial
+876	Entity 1
+877	Entity 1
+878	Answer
+879	Contact
+880	Animal
+881	Company
+882	Food
+883	Man
+884	Entity 1 : potatoes
+885	Entity 1
+886	Entity 1
+887	Entity-Origin
+888	Entity 1
+889	Location
+890	Friends
+891	The helmets
+892	Entity-Destination
+893	Contact
+894	Entity 1
+895	Entity-Destination
+896	Entity 1 : astronauts
+897	Account
+898	Entity 1 : tension
+899	Water
+900	Entity 1
+901	Entity 1
+902	Animal
+903	Entity-Destination
+904	Entity 1 : Compeers
+905	Entity 1
+906	Entity 1
+907	Food
+908	School
+909	Business
+910	Entity 1 : binder
+911	Entity-Destination
+912	Entity 1
+913	Country
+914	Entity 1
+915	Entity 1
+916	Office
+917	Entity 1
+918	Entity 1
+919	Location
+920	Sports
+921	Entity 1
+922	Entity-Destination
+923	Water
+924	Entity-Destination
+925	Food
+926	Entity 1 - Privacy
+927	Contact
+928	Entity 1
+929	Religion
+930	Entity 1 : scum
+931	Entity 1
+932	Entity-Destination
+933	Entity 1 : troops
+934	Entity 1 : Comedy Format
+935	Product
+936	Entity-Destination
+937	Food
+938	We
+939	Entity 1 : buns
+940	Entity 1 : borrowers
+941	Person
+942	Entity 1 - Pilots
+943	Entity 1 : coffee
+944	Entity 1 : personnel
+945	Entity-Destination
+946	Entity 1
+947	The technician
+948	Entity 1
+949	Person
+950	Friends
+951	Entity-Destination(e1,e2)
+952	Person
+953	Entity 1 : kitchen
+954	Person
+955	Entity 1
+956	Company
+957	Entity 1 : whirl
+958	Entity 1 : body
+959	Plant
+960	Entity-Destination
+961	Entity-Destination
+962	Entity 1 : treatment
+963	Entity 1 : dramas
+964	Adults
+965	Entity 1 : sample
+966	Entity 1 : opening
+967	Entity-Destination
+968	Entity-Origin
+969	Entity 1 : wheels
+970	Entity 1 : phagocytes
+971	Entity-Destination
+972	Entity 1
+973	Entity-Destination
+974	Entity 1 : high-wheelers
+975	Entity 1 : priests
+976	Company
+977	Entity 1
+978	Entity 1
+979	Entity 1
+980	Entity 1
+981	Business
+982	Entity 1 : Commissioner
+983	Entity 1 : files
+984	Entity 1
+985	Entity 1
+986	Entity-Destination
+987	Entity 1
+988	Entity 1 : quarrel
+989	Entity 1 : stones
+990	World
+991	Entity 1 : lines
+992	Entity-Destination
+993	Sports
+994	Person
+995	Science/Tech
+996	Entity-Origin
+997	Friends
+998	Entity 1 - party
+999	Entity 1 : study
+1000	Description
+1001	Entity 1
+1002	Entity 1 : fisherman
+1003	The baby was brought into her home
+1004	Science/Tech
+1005	Entity 1 : mainspring
+1006	Entity-Destination(e1,e2)
+1007	Entity 1 : cat
+1008	Contact
+1009	Entity 1
+1010	Entity 1 , powder
+1011	Food
+1012	Entity 1
+1013	Entity-Destination
+1014	Person
+1015	Entity 1 - operator
+1016	Entity 1 : Life
+1017	Teacher
+1018	Friends
+1019	Entity-Destination(e1,e2)
+1020	Entity 1
+1021	Entity 1 : merchant
+1022	Location
+1023	Entity 1 : neck pain
+1024	Entity-Destination
+1025	Entity 1 : lines
+1026	Entity 1
+1027	Threatening
+1028	Entity 1 : elements
+1029	Entity-Destination
+1030	Entity 1 : barley
+1031	The weight of the concrete on the soft materials caused a second ground collapse on the following Sunday night
+1032	Entity 1
+1033	Food
+1034	Person
+1035	The impact of the floating body effect on noise is investigated in this work for the first time
+1036	Animal
+1037	Entity-Destination
+1038	Entity 1
+1039	Friends
+1040	Entity-Destination
+1041	Entity 1
+1042	Entity-Destination
+1043	Entity 1
+1044	Entity
+1045	Entity-Destination
+1046	Entity-Destination
+1047	Entity 1 : cognac
+1048	Entity 1 : starch
+1049	Cleanse
+1050	Answer: method
+1051	Entity 1 : toy
+1052	Description
+1053	Entity-Destination
+1054	Entity 1 : surgeon
+1055	Entity 1
+1056	Entity 1 : potter
+1057	Entity-Origin
+1058	Entity-Destination
+1059	Entity 1 - light
+1060	Entity-Destination
+1061	Approval of
+1062	Entity 1 : sord
+1063	Entity-Destination
+1064	Entity 1
+1065	Entity 1 - bottle
+1066	Entity 1 : pipeline
+1067	Entity 1
+1068	Entity-Destination
+1069	Food
+1070	Entity 1 : brick
+1071	Entity-Commission
+1072	Entity 1 , member
+1073	Entity 1
+1074	Entity 1 : foundry
+1075	The student visited the website of the student
+1076	Location
+1077	Entity-Origin
+1078	Entity 1 : news paper
+1079	Houses
+1080	Location
+1081	Entity 1 : stories
+1082	Entity 1
+1083	Customer
+1084	Business
+1085	Entity 1 : wind
+1086	Arm
+1087	Entity
+1088	Entity
+1089	Entity-Destination
+1090	Entity 1
+1091	Entity 1 : stories
+1092	Entity 1
+1093	Entity 1
+1094	Entity 1
+1095	Entity-Destination
+1096	Entity 1 : lane
+1097	Entity 1 , group
+1098	Entity 1
+1099	Entity-Destination
+1100	Entity 1 : wine
+1101	Box
+1102	Food
+1103	Infections
+1104	Entity 1 : buzzard
+1105	Entity 1
+1106	Component-Whole(e1,e2)
+1107	Entity-Origin
+1108	Entity 1 : essays
+1109	Entity-Government
+1110	Entity-Origin
+1111	Entity 1
+1112	Entity-Destination
+1113	Taste
+1114	Entity 1
+1115	Company
+1116	Entity 1 : horses
+1117	Entity 1 , trail
+1118	Entity 1 : List
+1119	Entity-Destination
+1120	Entity-Destination
+1121	Entity-Destination
+1122	Food
+1123	Entity 1
+1124	Person
+1125	Entity-Destination(e1,e2)
+1126	Dean
+1127	Entity 1
+1128	Business
+1129	The galileoscope
+1130	Entity-Destination
+1131	Entity 1 : Depression
+1132	Entity 1 : heads
+1133	Business
+1134	Entity 1 : crush
+1135	Entity 1 : glut
+1136	Entity 1: acetoin
+1137	Entity 1 : milk
+1138	Food
+1139	Entity 1
+1140	The pendant with the bail measures 1 1/4 ''
+1141	Location
+1142	Product
+1143	Entity 1
+1144	Entity 1
+1145	Entity-Destination
+1146	Entity-Destination
+1147	Entity-Origin
+1148	Man
+1149	Entity 1
+1150	Handle
+1151	Animal
+1152	Animal
+1153	Entity 1
+1154	Entity-Destination
+1155	Entity 1 - cup
+1156	Entity 1
+1157	Activities
+1158	Entity-Destination
+1159	The basket was full of furry orange-and-black faces -- kittens
+1160	Building
+1161	Entity 1 : science fiction
+1162	Persona
+1163	Entity 1
+1164	Person
+1165	Entity 1
+1166	Entity 1
+1167	Entity 1 : plasma
+1168	Entity 1
+1169	The designer is my wife
+1170	Friends
+1171	Entity-Destination
+1172	Entity 1
+1173	He
+1174	Food
+1175	Food
+1176	Entity 1 : fuselage
+1177	Entity 1 - Component-Whole(e1,e2)
+1178	Entity-Destination
+1179	Entity 1
+1180	Entity-Destination
+1181	Entity 1
+1182	Entity 1 - Definition
+1183	Entity 1 : bodies
+1184	Entity 1
+1185	Entity 1 : stem
+1186	Entertainment
+1187	Entity-Destination
+1188	Entity 1 - Material
+1189	Entity 1 - cell
+1190	Entity-Destination
+1191	Food
+1192	Entity-Destination
+1193	Description
+1194	Entity 1 is file cabinet in Washington
+1195	Entity-Destination
+1196	Entity 1
+1197	World Health Organization
+1198	Entity-Destination
+1199	Entity-Destination
+1200	The snowdrifts
+1201	Entity 1
+1202	Car
+1203	Entity 1 : youths
+1204	Entity 1 : rookery
+1205	Entity 1 : balm
+1206	Entity-Destination
+1207	The coin was enclosed in a protective plastic case
+1208	Food
+1209	Contact
+1210	Entity 1
+1211	Car
+1212	Entity 1
+1213	Entity 1
+1214	Entity-Destination
+1215	Entity 1 , builder
+1216	Sports
+1217	Entity 1
+1218	Entity 1 : tonsillitis
+1219	Entity 1 : lobe
+1220	Entity-Destination
+1221	Entity 1: workers
+1222	Entity 1
+1223	Entity-Destination
+1224	Entity-Destination
+1225	Entity 1 : cane
+1226	Inhalation
+1227	Entity 1 : dowel
+1228	isopropanol
+1229	Entity-Destination
+1230	Entity 1 - Written by a student
+1231	Entity 1
+1232	Entity 1
+1233	Friends
+1234	Entity
+1235	Entity 1
+1236	Entity-Destination
+1237	Entity 1 : exaltation
+1238	Entity-Destination
+1239	Entity 1 : electricity
+1240	Entity 1 , medal
+1241	Food
+1242	Entity-Destination
+1243	Entity 1
+1244	Entity
+1245	Entity-Destination
+1246	Entity-Origin(e1,e2)
+1247	Entity 1
+1248	Entity 1
+1249	Entity 1 : baby
+1250	Entity 1
+1251	The ribs
+1252	Entity 1
+1253	Entity 1 : clans
+1254	The high pressure inside of acaisson presents health risks
+1255	Location
+1256	Entity-Destination
+1257	Food
+1258	Entity 1
+1259	Entity 1 : rouleau
+1260	Entity-Destination
+1261	Documents
+1262	Entity 1 - chapter
+1263	Entity 1 - grandfather
+1264	Entity 1 : staff
+1265	Person
+1266	Entity 1 - Cause-Effect(e1,e2)
+1267	The handgrip of the micrometer is exactly 2 in
+1268	Entity 1 - song
+1269	Entity 1 - Written by Allen
+1270	Entity-Destination
+1271	Entity 1
+1272	Entity-Destination
+1273	Entity 1 : chains
+1274	Entity-Destination
+1275	Entity-Destination
+1276	Entity 1
+1277	Entity 1
+1278	Entity 1
+1279	The fitter
+1280	The company
+1281	Entity-Destination
+1282	Entity 1
+1283	Entity
+1284	Description
+1285	Relationship
+1286	Money
+1287	Entity-Destination
+1288	The Valley
+1289	Relationship
+1290	Answer
+1291	Entity-Destination
+1292	Entity-Destination
+1293	Entity-Destination
+1294	Carpenters
+1295	Entity 1
+1296	Entity 1
+1297	Entity 1 : valve
+1298	Entity-Destination
+1299	Entity-Destination
+1300	Entity 1 : plurality
+1301	Entity 1
+1302	Food
+1303	Entity 1
+1304	Entity 1
+1305	Location
+1306	Entity-Destination
+1307	Entity-Destination
+1308	Entity 1 : sweetcorn
+1309	Entity-Destination
+1310	Entity 1 : fish
+1311	Entity Name
+1312	Entity 1 : padlock
+1313	The Ministry
+1314	Entity 1
+1315	Entity-Destination
+1316	Entity 1
+1317	Entity 1
+1318	Contact
+1319	Entity-Destination
+1320	Entity 1
+1321	Contacts
+1322	Company
+1323	Entity 1
+1324	Entity 1 : yachts
+1325	Entity 1 : frustration
+1326	Friends
+1327	Entity-Destination
+1328	Entity 1 : faction
+1329	Entity 1
+1330	Entity-Destination
+1331	Entity 1
+1332	Sports
+1333	Entity-Destination
+1334	Entity-Destination
+1335	Entity-Destination(e1,e2)
+1336	Fan
+1337	Entity-Origin
+1338	Entity-Destination
+1339	Electroscope
+1340	Entity 1 : posts
+1341	Written by
+1342	Entity-Destination(e1,e2)
+1343	Friends
+1344	Food
+1345	Admit
+1346	Entity 1 : dryer
+1347	Entity 1 : page
+1348	Entity 1
+1349	He
+1350	Entity 1 : pilots
+1351	Entity 1 : crisis
+1352	The foot
+1353	Friends
+1354	Entity 1 : parade
+1355	Entity 1 - tongue
+1356	The barrel
+1357	Entity 1
+1358	Entity-Destination
+1359	The children
+1360	Entity 1 : talk
+1361	Answer
+1362	Family
+1363	Entity 1
+1364	Entity-Destination
+1365	Animals
+1366	Entity 1 : candlestick Maker
+1367	Entity 1 is staff
+1368	Entity 1
+1369	Science/Tech
+1370	Entity 1
+1371	Entity-Destination
+1372	Entity-Destination
+1373	Business
+1374	Answer: question
+1375	Player
+1376	Entity 1
+1377	Entity 1 : ulcer
+1378	The Castle
+1379	Friends
+1380	Entity 1 : Lawyers
+1381	Entity 1 : symposium
+1382	Entity 1 : brandy
+1383	Entity 1 : mummy
+1384	Entity-Destination
+1385	Entity 1 : study
+1386	Entity
+1387	Food
+1388	Entity 1 : crew
+1389	Entity 1
+1390	Entity-Destination
+1391	Entity 1 : cylinder
+1392	Entity 1 : anecdotes
+1393	Entity 1 : farrow
+1394	Entity-Destination
+1395	Entity 1 : ion
+1396	Key
+1397	Entity 1 : migrations
+1398	Entity 1 : hand
+1399	Entity-Destination
+1400	Location
+1401	Man
+1402	Entity 1
+1403	The drop was caused by the recession and the usual seasonal factors
+1404	Answer: pin
+1405	The design by the chicago architects Walter Burley Griffin and Mariahony Griffin was selected
+1406	Entity 1 : belt
+1407	Entity 1
+1408	Entity 1
+1409	Location
+1410	Entity 1
+1411	Entity 1 : cabinet
+1412	Entity 1 : News
+1413	Entity 1
+1414	Entity 1 : waiters
+1415	Product
+1416	Entity 1 : interaction
+1417	Entity 1
+1418	Company
+1419	Entity 1
+1420	Entity 1 : basis
+1421	Entity 1
+1422	The deputy sheriff
+1423	Entity-Destination
+1424	Entity 1
+1425	Entity 1 : report
+1426	Entity 1 : stonework
+1427	Father
+1428	Water
+1429	Entity 1 : acne
+1430	The pin of the wheel raises the hour wheel lever
+1431	Business
+1432	Entity 1 : mouse
+1433	Entity-Destination
+1434	Entity 1
+1435	Entity-Destination
+1436	Entity-Destination
+1437	Patient
+1438	Entity-Destination
+1439	Entity
+1440	Entity-Destination
+1441	Entity 1 : shuttles
+1442	Entity 1
+1443	Entity 1
+1444	Business
+1445	Entity-Destination
+1446	Science/Tech
+1447	Entity 1 : oil
+1448	Entity 1
+1449	Entity-Destination
+1450	Entity 1
+1451	Entity-Destination
+1452	Entity 1
+1453	Entity 1 : motor
+1454	Air filter
+1455	Entity 1
+1456	Entity 1 : roof
+1457	Company
+1458	Entity 1 : corps
+1459	Relationship
+1460	Educational Institution
+1461	The pizza was inside a trash bag and taped shut
+1462	Entity 1
+1463	Entity 1 : prostate
+1464	Entity 1 - series
+1465	Building
+1466	Entity-Destination
+1467	Business
+1468	Entity-Destination
+1469	Building
+1470	Entity 1
+1471	Persona
+1472	Entity
+1473	Friends
+1474	Entity 1
+1475	World
+1476	The oven
+1477	Entity-Books
+1478	Entity 1
+1479	Man
+1480	Boy
+1481	Entity
+1482	Entity 1 : carriages
+1483	Entity-Origin
+1484	Entity-Origin
+1485	Religion
+1486	Entity 1 - language
+1487	Entity 1
+1488	Entity-Destination
+1489	Entity 1
+1490	Entity 1 : books
+1491	Entity 1
+1492	Science/Tech
+1493	Entity 1 : skydivers
+1494	Entity 1
+1495	Friends
+1496	Answer
+1497	Entity-Destination
+1498	Entity 1
+1499	Plant
+1500	Entity 1
+1501	Entity 1 : caterpillars
+1502	Entity 1 : tree
+1503	Contact
+1504	Entity 1 : ghostwriters
+1505	Teacher
+1506	Entity 1 : poems
+1507	Entity-Destination
+1508	Cargo
+1509	Company
+1510	Entity 1
+1511	Entity 1 , port
+1512	Entity 1
+1513	The bag was contained in a secure locker inside the security office
+1514	Contact
+1515	Entity 1 : engine
+1516	Entity-Destination
+1517	Person
+1518	Entity 1
+1519	Entity 1
+1520	Relationship
+1521	Answer: steps
+1522	Entity 1
+1523	Entity 1 : swarm
+1524	Entity 1
+1525	Ship
+1526	Food
+1527	Entity-Destination
+1528	Animal
+1529	Entity-Destination
+1530	Entity 1 : Women
+1531	The Raven
+1532	Entity 1
+1533	Entity 1
+1534	Building
+1535	Company
+1536	Person
+1537	Description
+1538	Entity 1 : satellite
+1539	Entity 1 : wallet
+1540	Contact
+1541	The difference is great
+1542	Entity-Destination
+1543	Entity 1
+1544	Answer: Driver
+1545	Food
+1546	Entity 1 - word
+1547	Entity-Origin
+1548	Album
+1549	Entity 1
+1550	Entity 1 : Software
+1551	Ship
+1552	Entity-Destination
+1553	World
+1554	Entity 1 : vehicles
+1555	World
+1556	Entity-Destination
+1557	Man
+1558	Bio-energetics
+1559	Entity-Destination
+1560	Hand brake
+1561	Entity 1 : Theorie
+1562	Entity 1 : Boars
+1563	Sports
+1564	Water
+1565	Entity-Destination
+1566	Entity 1
+1567	Entity 1 : dashboard
+1568	Entity 1
+1569	Entity 1
+1570	Entity 1 : Respondents
+1571	Entity 1
+1572	Entity-Destination
+1573	Entity-Subject
+1574	Entity 1 : herpes simplex virus
+1575	Entity 1
+1576	Entity 1
+1577	Entity 1 , work
+1578	The statue is in the box
+1579	Entity 1
+1580	Relationship
+1581	Entity-Destination
+1582	Entity 1
+1583	Entity 1 : electricians
+1584	Entity 1 : files
+1585	Entity 1 : laughing
+1586	Entity 1
+1587	Entity 1 : discourse
+1588	Entity 1
+1589	Entity 1
+1590	Location
+1591	Entity-Destination
+1592	Entity
+1593	Entity 1
+1594	Entity-Subject
+1595	Entity-Destination(e1,e2)
+1596	Doctor
+1597	The catheter distally connects to the hepatic artery
+1598	Entity 1
+1599	Entity 1 : strings
+1600	Friends
+1601	Entity 1: closure
+1602	Entity 1 : sweeper
+1603	Remote
+1604	Relationship
+1605	Entity 1 : fish
+1606	Entity-Destination
+1607	Business
+1608	Entity 1 : sailor
+1609	Entity-Destination
+1610	Entity 1
+1611	Entity 1
+1612	Relationship
+1613	Animal
+1614	Entity 1
+1615	The skeleton is found in the tomb of a neolithic-age tomb
+1616	Adequate
+1617	Entity 1
+1618	Entity 1
+1619	Shops
+1620	Entity-Destination
+1621	The quartz tube
+1622	Entity 1 : Resination
+1623	Entity 1 : rudders
+1624	Entity 1 : brotherhood
+1625	Entity 1
+1626	Entity 1
+1627	Location
+1628	Entity-Destination
+1629	Entity 1 : program
+1630	Entity 1 : Discussion
+1631	Science/Tech
+1632	Farmer
+1633	Man
+1634	Person
+1635	The blouse I finished was sleeved
+1636	Company
+1637	Couple
+1638	Entity 1 : students
+1639	Entity 1 : Pieces
+1640	Entity 1 - Distract
+1641	Entity 1 , dishwasher
+1642	Entity 1
+1643	Entity 1
+1644	Entity 1 : student
+1645	Entity 1
+1646	Entity 1: spill
+1647	Entity 1 : valves
+1648	Answer
+1649	Entity-Origin
+1650	Entity 1
+1651	Location
+1652	Food
+1653	Entity 1
+1654	Entity-Destination
+1655	Entity 1 : brewer
+1656	Entity 1 - Project
+1657	Entity 1
+1658	Entity-Origin
+1659	Entity 1 : retina
+1660	Entity 1 : Heroes
+1661	Entity 1
+1662	Entity-Destination(e1,e2)
+1663	Entity-Destination(e1,e2)
+1664	Contact
+1665	Entity 1 : plant
+1666	Entity-Destination
+1667	Entity 1
+1668	Contact
+1669	Friends
+1670	Entity 1
+1671	Father
+1672	Entity 1 : flower
+1673	Entity 1
+1674	Entity 1 : box cutter
+1675	Entity 1 : incidents
+1676	Entity 1
+1677	Science/Tech
+1678	Entity 1 : seniors
+1679	Entity
+1680	Entity 1 : flooding
+1681	The ship
+1682	Entity 1
+1683	Entity 1 : chart
+1684	Biosurfactant
+1685	Location
+1686	Entity-Destination
+1687	Manufactured by
+1688	Entity-Destination
+1689	Entity 1 - Act
+1690	Entity-Destination
+1691	World Aids Day
+1692	Entity-Origin
+1693	Entity-Destination
+1694	Entity 1
+1695	Entity 1
+1696	Carafe
+1697	Entity 1 : irritants
+1698	Food
+1699	Entity-Destination
+1700	Science
+1701	Entity
+1702	Entity-Destination
+1703	Entity 1
+1704	Entity 1 : alliance
+1705	Entity 1
+1706	Location
+1707	Friends
+1708	Entity 1 : heat
+1709	The pillow of Western nations
+1710	Entity-Destination
+1711	Entity 1
+1712	Entity 1 : rainbows
+1713	The boy places the bell in the pocket of his robe and all the children watch as Santa takes off into the night for his annual deliveries 
+1714	Entity 1
+1715	Entity 1
+1716	Animal
+1717	Entity 1
+1718	Entity 1 : course
+1719	Entity-Destination
+1720	Component-Whole(e1,e2)
+1721	Entity 1 - joke
+1722	Entity 1 : amphibians
+1723	Entity 1 : squirrels
+1724	Entity-Destination
+1725	Entity 1
+1726	The family money was in the jar and was also lost
+1727	Description
+1728	Entity 1
+1729	Entity-Destination
+1730	Entity 1 : scars
+1731	Entity 1
+1732	Entity 1 : rats
+1733	Entity 1
+1734	Entity-Destination
+1735	Entity 1 : wine
+1736	Entity 1 : journal
+1737	Entity-Destination
+1738	Test
+1739	Entity 1 : Burns
+1740	Refrigerator
+1741	Entity 1
+1742	Entity 1
+1743	Answer
+1744	Entity 1 : pens
+1745	Component-Whole(e1,e2)
+1746	Entity-Destination
+1747	The boy
+1748	Entity 1
+1749	Entity-Destination
+1750	The pyramid of champagne flutes
+1751	Entity 1 - monitor
+1752	Entity-Origin
+1753	Carp
+1754	Entity-Destination(e1,e2)
+1755	Dr
+1756	Entity 1
+1757	Entity
+1758	Entity 1
+1759	The safest place in Korea was right behind a platoon of marines 
+1760	Entity
+1761	Company
+1762	The camera was in a suitcase
+1763	Entity 1 : tree
+1764	Entity-Destination
+1765	Food
+1766	Entity 1 : germs
+1767	Entity 1 : button
+1768	Entity 1 : cultures
+1769	Ingredients
+1770	Entity 1
+1771	Location
+1772	Entity-Destination
+1773	World
+1774	Entity 1 - effect
+1775	Entity 1 : bolt
+1776	Entity 1 : troop
+1777	World
+1778	Entity 1 : formalism
+1779	Religion
+1780	The people who poured acid into their eyes
+1781	Location
+1782	Entity-Destination
+1783	Entity-Destination
+1784	Entity-Destination
+1785	Entity 1 : Clip
+1786	Science/Tech
+1787	The ship Leaked oil into the brisbane river
+1788	Entity-Destination
+1789	Entity 1 : mainmast
+1790	Entity 1: caravan
+1791	Entity 1
+1792	Entity 1 : wine
+1793	Science fiction
+1794	Business
+1795	Entity 1
+1796	Sports
+1797	Entity-Destination
+1798	Entity 1 : Hairstyles
+1799	Entity 1 : seminar
+1800	Stores
+1801	Entity-Destination
+1802	Entity 1 : sedge
+1803	Food
+1804	Entity 1 : moisture
+1805	Relationship
+1806	Entity 1
+1807	Entity-Destination
+1808	Entity 1
+1809	Sci-Fi Channel
+1810	Entity
+1811	Ads
+1812	Man
+1813	Entity 1
+1814	Entity-Destination
+1815	Entity 1
+1816	Entity 1
+1817	Entity-Destination
+1818	Entity 1
+1819	Entity 1 : powertrain
+1820	Entity 1 , cadre
+1821	Entity-Destination
+1822	The data is based upon the research of the Dominican Republic
+1823	Entity-Destination
+1824	Entity 1
+1825	Person
+1826	Entity 1 : menage
+1827	Entity 1
+1828	Entity 1
+1829	Entity 1
+1830	Entity-Destination
+1831	Entity 1 : damage
+1832	Entity 1
+1833	Entity-Destination
+1834	Entity-Destination
+1835	Entity 1
+1836	Entity 1
+1837	Entity
+1838	Entity 1 : stars
+1839	Entity 1 : Character-compeers
+1840	Entity 1
+1841	Entity-Destination
+1842	The celebrity
+1843	Entity
+1844	Entity 1 : stack
+1845	Necklace
+1846	Entity 1 - criminal
+1847	Entity-Destination
+1848	The bottle
+1849	Entity 1 : sorrow
+1850	Entity
+1851	Entity-Origin
+1852	Entity 1
+1853	Entity 1
+1854	The parent/families
+1855	Entity-Destination
+1856	Family
+1857	Entity 1 : ham
+1858	Plant
+1859	Entity 1 : Advertising
+1860	Entity 1 : tube
+1861	Entity 1
+1862	Entity 1
+1863	Animal
+1864	Entity 1 , squirrel
+1865	Entity 1 : blogs
+1866	Entity 1
+1867	Musician
+1868	Company
+1869	Entity 1
+1870	Entity 1 : talk
+1871	Entity 1
+1872	Entity 1 : bed
+1873	Entity 1 : speech
+1874	Entity-Destination(e1,e2)
+1875	Entity 1 : Tutorial
+1876	Entity 1
+1877	Entity 1
+1878	Answer
+1879	Contact
+1880	Animal
+1881	Company
+1882	Food
+1883	Man
+1884	Entity 1 : potatoes
+1885	Entity 1
+1886	Entity 1
+1887	Entity-Origin
+1888	Entity 1
+1889	Location
+1890	Friends
+1891	The helmets
+1892	Entity-Destination
+1893	Contact
+1894	Entity 1
+1895	Entity-Destination
+1896	Entity 1 : astronauts
+1897	Account
+1898	Entity 1 : tension
+1899	Water
+1900	Entity 1
+1901	Entity 1
+1902	Animal
+1903	Entity-Destination
+1904	Entity 1 : Compeers
+1905	Entity 1
+1906	Entity 1
+1907	Food
+1908	School
+1909	Business
+1910	Entity 1 : binder
+1911	Entity-Destination
+1912	Entity 1
+1913	Country
+1914	Entity 1
+1915	Entity 1
+1916	Office
+1917	Entity 1
+1918	Entity 1
+1919	Location
+1920	Sports
+1921	Entity 1
+1922	Entity-Destination
+1923	Water
+1924	Entity-Destination
+1925	Food
+1926	Entity 1 - Privacy
+1927	Contact
+1928	Entity 1
+1929	Religion
+1930	Entity 1 : scum
+1931	Entity 1
+1932	Entity-Destination
+1933	Entity 1 : troops
+1934	Entity 1 : Comedy Format
+1935	Product
+1936	Entity-Destination
+1937	Food
+1938	We
+1939	Entity 1 : buns
+1940	Entity 1 : borrowers
+1941	Person
+1942	Entity 1 - Pilots
+1943	Entity 1 : coffee
+1944	Entity 1 : personnel
+1945	Entity-Destination
+1946	Entity 1
+1947	The technician
+1948	Entity 1
+1949	Person
+1950	Friends
+1951	Entity-Destination(e1,e2)
+1952	Person
+1953	Entity 1 : kitchen
+1954	Person
+1955	Entity 1
+1956	Company
+1957	Entity 1 : whirl
+1958	Entity 1 : body
+1959	Plant
+1960	Entity-Destination
+1961	Entity-Destination
+1962	Entity 1 : treatment
+1963	Entity 1 : dramas
+1964	Adults
+1965	Entity 1 : sample
+1966	Entity 1 : opening
+1967	Entity-Destination
+1968	Entity-Origin
+1969	Entity 1 : wheels
+1970	Entity 1 : phagocytes
+1971	Entity-Destination
+1972	Entity 1
+1973	Entity-Destination
+1974	Entity 1 : high-wheelers
+1975	Entity 1 : priests
+1976	Company
+1977	Entity 1
+1978	Entity 1
+1979	Entity 1
+1980	Entity 1
+1981	Business
+1982	Entity 1 : Commissioner
+1983	Entity 1 : files
+1984	Entity 1
+1985	Entity 1
+1986	Entity-Destination
+1987	Entity 1
+1988	Entity 1 : quarrel
+1989	Entity 1 : stones
+1990	World
+1991	Entity 1 : lines
+1992	Entity-Destination
+1993	Sports
+1994	Person
+1995	Science/Tech
+1996	Entity-Origin
+1997	Friends
+1998	Entity 1 - party
+1999	Entity 1 : study
+2000	Description
+2001	Entity 1
+2002	Entity 1 : fisherman
+2003	The baby was brought into her home
+2004	Science/Tech
+2005	Entity 1 : mainspring
+2006	Entity-Destination(e1,e2)
+2007	Entity 1 : cat
+2008	Contact
+2009	Entity 1
+2010	Entity 1 , powder
+2011	Food
+2012	Entity 1
+2013	Entity-Destination
+2014	Person
+2015	Entity 1 - operator
+2016	Entity 1 : Life
+2017	Teacher
+2018	Friends
+2019	Entity-Destination(e1,e2)
+2020	Entity 1
+2021	Entity 1 : merchant
+2022	Location
+2023	Entity 1 : neck pain
+2024	Entity-Destination
+2025	Entity 1 : lines
+2026	Entity 1
+2027	Threatening
+2028	Entity 1 : elements
+2029	Entity-Destination
+2030	Entity 1 : barley
+2031	The weight of the concrete on the soft materials caused a second ground collapse on the following Sunday night
+2032	Entity 1
+2033	Food
+2034	Person
+2035	The impact of the floating body effect on noise is investigated in this work for the first time
+2036	Animal
+2037	Entity-Destination
+2038	Entity 1
+2039	Friends
+2040	Entity-Destination
+2041	Entity 1
+2042	Entity-Destination
+2043	Entity 1
+2044	Entity
+2045	Entity-Destination
+2046	Entity-Destination
+2047	Entity 1 : cognac
+2048	Entity 1 : starch
+2049	Cleanse
+2050	Answer: method
+2051	Entity 1 : toy
+2052	Description
+2053	Entity-Destination
+2054	Entity 1 : surgeon
+2055	Entity 1
+2056	Entity 1 : potter
+2057	Entity-Origin
+2058	Entity-Destination
+2059	Entity 1 - light
+2060	Entity-Destination
+2061	Approval of
+2062	Entity 1 : sord
+2063	Entity-Destination
+2064	Entity 1
+2065	Entity 1 - bottle
+2066	Entity 1 : pipeline
+2067	Entity 1
+2068	Entity-Destination
+2069	Food
+2070	Entity 1 : brick
+2071	Entity-Commission
+2072	Entity 1 , member
+2073	Entity 1
+2074	Entity 1 : foundry
+2075	The student visited the website of the student
+2076	Location
+2077	Entity-Origin
+2078	Entity 1 : news paper
+2079	Houses
+2080	Location
+2081	Entity 1 : stories
+2082	Entity 1
+2083	Customer
+2084	Business
+2085	Entity 1 : wind
+2086	Arm
+2087	Entity
+2088	Entity
+2089	Entity-Destination
+2090	Entity 1
+2091	Entity 1 : stories
+2092	Entity 1
+2093	Entity 1
+2094	Entity 1
+2095	Entity-Destination
+2096	Entity 1 : lane
+2097	Entity 1 , group
+2098	Entity 1
+2099	Entity-Destination
+2100	Entity 1 : wine
+2101	Box
+2102	Food
+2103	Infections
+2104	Entity 1 : buzzard
+2105	Entity 1
+2106	Component-Whole(e1,e2)
+2107	Entity-Origin
+2108	Entity 1 : essays
+2109	Entity-Government
+2110	Entity-Origin
+2111	Entity 1
+2112	Entity-Destination
+2113	Taste
+2114	Entity 1
+2115	Company
+2116	Entity 1 : horses
+2117	Entity 1 , trail
+2118	Entity 1 : List
+2119	Entity-Destination
+2120	Entity-Destination
+2121	Entity-Destination
+2122	Food
+2123	Entity 1
+2124	Person
+2125	Entity-Destination(e1,e2)
+2126	Dean
+2127	Entity 1
+2128	Business
+2129	The galileoscope
+2130	Entity-Destination
+2131	Entity 1 : Depression
+2132	Entity 1 : heads
+2133	Business
+2134	Entity 1 : crush
+2135	Entity 1 : glut
+2136	Entity 1: acetoin
+2137	Entity 1 : milk
+2138	Food
+2139	Entity 1
+2140	The pendant with the bail measures 1 1/4 ''
+2141	Location
+2142	Product
+2143	Entity 1
+2144	Entity 1
+2145	Entity-Destination
+2146	Entity-Destination
+2147	Entity-Origin
+2148	Man
+2149	Entity 1
+2150	Handle
+2151	Animal
+2152	Animal
+2153	Entity 1
+2154	Entity-Destination
+2155	Entity 1 - cup
+2156	Entity 1
+2157	Activities
+2158	Entity-Destination
+2159	The basket was full of furry orange-and-black faces -- kittens
+2160	Building
+2161	Entity 1 : science fiction
+2162	Persona
+2163	Entity 1
+2164	Person
+2165	Entity 1
+2166	Entity 1
+2167	Entity 1 : plasma
+2168	Entity 1
+2169	The designer is my wife
+2170	Friends
+2171	Entity-Destination
+2172	Entity 1
+2173	He
+2174	Food
+2175	Food
+2176	Entity 1 : fuselage
+2177	Entity 1 - Component-Whole(e1,e2)
+2178	Entity-Destination
+2179	Entity 1
+2180	Entity-Destination
+2181	Entity 1
+2182	Entity 1 - Definition
+2183	Entity 1 : bodies
+2184	Entity 1
+2185	Entity 1 : stem
+2186	Entertainment
+2187	Entity-Destination
+2188	Entity 1 - Material
+2189	Entity 1 - cell
+2190	Entity-Destination
+2191	Food
+2192	Entity-Destination
+2193	Description
+2194	Entity 1 is file cabinet in Washington
+2195	Entity-Destination
+2196	Entity 1
+2197	World Health Organization
+2198	Entity-Destination
+2199	Entity-Destination
+2200	The snowdrifts
+2201	Entity 1
+2202	Car
+2203	Entity 1 : youths
+2204	Entity 1 : rookery
+2205	Entity 1 : balm
+2206	Entity-Destination
+2207	The coin was enclosed in a protective plastic case
+2208	Food
+2209	Contact
+2210	Entity 1
+2211	Car
+2212	Entity 1
+2213	Entity 1
+2214	Entity-Destination
+2215	Entity 1 , builder
+2216	Sports
+2217	Entity 1
+2218	Entity 1 : tonsillitis
+2219	Entity 1 : lobe
+2220	Entity-Destination
+2221	Entity 1: workers
+2222	Entity 1
+2223	Entity-Destination
+2224	Entity-Destination
+2225	Entity 1 : cane
+2226	Inhalation
+2227	Entity 1 : dowel
+2228	isopropanol
+2229	Entity-Destination
+2230	Entity 1 - Written by a student
+2231	Entity 1
+2232	Entity 1
+2233	Friends
+2234	Entity
+2235	Entity 1
+2236	Entity-Destination
+2237	Entity 1 : exaltation
+2238	Entity-Destination
+2239	Entity 1 : electricity
+2240	Entity 1 , medal
+2241	Food
+2242	Entity-Destination
+2243	Entity 1
+2244	Entity
+2245	Entity-Destination
+2246	Entity-Origin(e1,e2)
+2247	Entity 1
+2248	Entity 1
+2249	Entity 1 : baby
+2250	Entity 1
+2251	The ribs
+2252	Entity 1
+2253	Entity 1 : clans
+2254	The high pressure inside of acaisson presents health risks
+2255	Location
+2256	Entity-Destination
+2257	Food
+2258	Entity 1
+2259	Entity 1 : rouleau
+2260	Entity-Destination
+2261	Documents
+2262	Entity 1 - chapter
+2263	Entity 1 - grandfather
+2264	Entity 1 : staff
+2265	Person
+2266	Entity 1 - Cause-Effect(e1,e2)
+2267	The handgrip of the micrometer is exactly 2 in
+2268	Entity 1 - song
+2269	Entity 1 - Written by Allen
+2270	Entity-Destination
+2271	Entity 1
+2272	Entity-Destination
+2273	Entity 1 : chains
+2274	Entity-Destination
+2275	Entity-Destination
+2276	Entity 1
+2277	Entity 1
+2278	Entity 1
+2279	The fitter
+2280	The company
+2281	Entity-Destination
+2282	Entity 1
+2283	Entity
+2284	Description
+2285	Relationship
+2286	Money
+2287	Entity-Destination
+2288	The Valley
+2289	Relationship
+2290	Answer
+2291	Entity-Destination
+2292	Entity-Destination
+2293	Entity-Destination
+2294	Carpenters
+2295	Entity 1
+2296	Entity 1
+2297	Entity 1 : valve
+2298	Entity-Destination
+2299	Entity-Destination
+2300	Entity 1 : plurality
+2301	Entity 1
+2302	Food
+2303	Entity 1
+2304	Entity 1
+2305	Location
+2306	Entity-Destination
+2307	Entity-Destination
+2308	Entity 1 : sweetcorn
+2309	Entity-Destination
+2310	Entity 1 : fish
+2311	Entity Name
+2312	Entity 1 : padlock
+2313	The Ministry
+2314	Entity 1
+2315	Entity-Destination
+2316	Entity 1
+2317	Entity 1
+2318	Contact
+2319	Entity-Destination
+2320	Entity 1
+2321	Contacts
+2322	Company
+2323	Entity 1
+2324	Entity 1 : yachts
+2325	Entity 1 : frustration
+2326	Friends
+2327	Entity-Destination
+2328	Entity 1 : faction
+2329	Entity 1
+2330	Entity-Destination
+2331	Entity 1
+2332	Sports
+2333	Entity-Destination
+2334	Entity-Destination
+2335	Entity-Destination(e1,e2)
+2336	Fan
+2337	Entity-Origin
+2338	Entity-Destination
+2339	Electroscope
+2340	Entity 1 : posts
+2341	Written by
+2342	Entity-Destination(e1,e2)
+2343	Friends
+2344	Food
+2345	Admit
+2346	Entity 1 : dryer
+2347	Entity 1 : page
+2348	Entity 1
+2349	He
+2350	Entity 1 : pilots
+2351	Entity 1 : crisis
+2352	The foot
+2353	Friends
+2354	Entity 1 : parade
+2355	Entity 1 - tongue
+2356	The barrel
+2357	Entity 1
+2358	Entity-Destination
+2359	The children
+2360	Entity 1 : talk
+2361	Answer
+2362	Family
+2363	Entity 1
+2364	Entity-Destination
+2365	Animals
+2366	Entity 1 : candlestick Maker
+2367	Entity 1 is staff
+2368	Entity 1
+2369	Science/Tech
+2370	Entity 1
+2371	Entity-Destination
+2372	Entity-Destination
+2373	Business
+2374	Answer: question
+2375	Player
+2376	Entity 1
+2377	Entity 1 : ulcer
+2378	The Castle
+2379	Friends
+2380	Entity 1 : Lawyers
+2381	Entity 1 : symposium
+2382	Entity 1 : brandy
+2383	Entity 1 : mummy
+2384	Entity-Destination
+2385	Entity 1 : study
+2386	Entity
+2387	Food
+2388	Entity 1 : crew
+2389	Entity 1
+2390	Entity-Destination
+2391	Entity 1 : cylinder
+2392	Entity 1 : anecdotes
+2393	Entity 1 : farrow
+2394	Entity-Destination
+2395	Entity 1 : ion
+2396	Key
+2397	Entity 1 : migrations
+2398	Entity 1 : hand
+2399	Entity-Destination
+2400	Location
+2401	Man
+2402	Entity 1
+2403	The drop was caused by the recession and the usual seasonal factors
+2404	Answer: pin
+2405	The design by the chicago architects Walter Burley Griffin and Mariahony Griffin was selected
+2406	Entity 1 : belt
+2407	Entity 1
+2408	Entity 1
+2409	Location
+2410	Entity 1
+2411	Entity 1 : cabinet
+2412	Entity 1 : News
+2413	Entity 1
+2414	Entity 1 : waiters
+2415	Product
+2416	Entity 1 : interaction
+2417	Entity 1
+2418	Company
+2419	Entity 1
+2420	Entity 1 : basis
+2421	Entity 1
+2422	The deputy sheriff
+2423	Entity-Destination
+2424	Entity 1
+2425	Entity 1 : report
+2426	Entity 1 : stonework
+2427	Father
+2428	Water
+2429	Entity 1 : acne
+2430	The pin of the wheel raises the hour wheel lever
+2431	Business
+2432	Entity 1 : mouse
+2433	Entity-Destination
+2434	Entity 1
+2435	Entity-Destination
+2436	Entity-Destination
+2437	Patient
+2438	Entity-Destination
+2439	Entity
+2440	Entity-Destination
+2441	Entity 1 : shuttles
+2442	Entity 1
+2443	Entity 1
+2444	Business
+2445	Entity-Destination
+2446	Science/Tech
+2447	Entity 1 : oil
+2448	Entity 1
+2449	Entity-Destination
+2450	Entity 1
+2451	Entity-Destination
+2452	Entity 1
+2453	Entity 1 : motor
+2454	Air filter
+2455	Entity 1
+2456	Entity 1 : roof
+2457	Company
+2458	Entity 1 : corps
+2459	Relationship
+2460	Educational Institution
+2461	The pizza was inside a trash bag and taped shut
+2462	Entity 1
+2463	Entity 1 : prostate
+2464	Entity 1 - series
+2465	Building
+2466	Entity-Destination
+2467	Business
+2468	Entity-Destination
+2469	Building
+2470	Entity 1
+2471	Persona
+2472	Entity
+2473	Friends
+2474	Entity 1
+2475	World
+2476	The oven
+2477	Entity-Books
+2478	Entity 1
+2479	Man
+2480	Boy
+2481	Entity
+2482	Entity 1 : carriages
+2483	Entity-Origin
+2484	Entity-Origin
+2485	Religion
+2486	Entity 1 - language
+2487	Entity 1
+2488	Entity-Destination
+2489	Entity 1
+2490	Entity 1 : books
+2491	Entity 1
+2492	Science/Tech
+2493	Entity 1 : skydivers
+2494	Entity 1
+2495	Friends
+2496	Answer
+2497	Entity-Destination
+2498	Entity 1
+2499	Plant
+2500	Entity 1
+2501	Entity 1 : caterpillars
+2502	Entity 1 : tree
+2503	Contact
+2504	Entity 1 : ghostwriters
+2505	Teacher
+2506	Entity 1 : poems
+2507	Entity-Destination
+2508	Cargo
+2509	Company
+2510	Entity 1
+2511	Entity 1 , port
+2512	Entity 1
+2513	The bag was contained in a secure locker inside the security office
+2514	Contact
+2515	Entity 1 : engine
+2516	Entity-Destination
+2517	Person
+2518	Entity 1
+2519	Entity 1
+2520	Relationship
+2521	Answer: steps
+2522	Entity 1
+2523	Entity 1 : swarm
+2524	Entity 1
+2525	Ship
+2526	Food
+2527	Entity-Destination
+2528	Animal
+2529	Entity-Destination
+2530	Entity 1 : Women
+2531	The Raven
+2532	Entity 1
+2533	Entity 1
+2534	Building
+2535	Company
+2536	Person
+2537	Description
+2538	Entity 1 : satellite
+2539	Entity 1 : wallet
+2540	Contact
+2541	The difference is great
+2542	Entity-Destination
+2543	Entity 1
+2544	Answer: Driver
+2545	Food
+2546	Entity 1 - word
+2547	Entity-Origin
+2548	Album
+2549	Entity 1
+2550	Entity 1 : Software
+2551	Ship
+2552	Entity-Destination
+2553	World
+2554	Entity 1 : vehicles
+2555	World
+2556	Entity-Destination
+2557	Man
+2558	Bio-energetics
+2559	Entity-Destination
+2560	Hand brake
+2561	Entity 1 : Theorie
+2562	Entity 1 : Boars
+2563	Sports
+2564	Water
+2565	Entity-Destination
+2566	Entity 1
+2567	Entity 1 : dashboard
+2568	Entity 1
+2569	Entity 1
+2570	Entity 1 : Respondents
+2571	Entity 1
+2572	Entity-Destination
+2573	Entity-Subject
+2574	Entity 1 : herpes simplex virus
+2575	Entity 1
+2576	Entity 1
+2577	Entity 1 , work
+2578	The statue is in the box
+2579	Entity 1
+2580	Relationship
+2581	Entity-Destination
+2582	Entity 1
+2583	Entity 1 : electricians
+2584	Entity 1 : files
+2585	Entity 1 : laughing
+2586	Entity 1
+2587	Entity 1 : discourse
+2588	Entity 1
+2589	Entity 1
+2590	Location
+2591	Entity-Destination
+2592	Entity
+2593	Entity 1
+2594	Entity-Subject
+2595	Entity-Destination(e1,e2)
+2596	Doctor
+2597	The catheter distally connects to the hepatic artery
+2598	Entity 1
+2599	Entity 1 : strings
+2600	Friends
+2601	Entity 1: closure
+2602	Entity 1 : sweeper
+2603	Remote
+2604	Relationship
+2605	Entity 1 : fish
+2606	Entity-Destination
+2607	Business
+2608	Entity 1 : sailor
+2609	Entity-Destination
+2610	Entity 1
+2611	Entity 1
+2612	Relationship
+2613	Animal
+2614	Entity 1
+2615	The skeleton is found in the tomb of a neolithic-age tomb
+2616	Adequate
+2617	Entity 1
+2618	Entity 1
+2619	Shops
+2620	Entity-Destination
+2621	The quartz tube
+2622	Entity 1 : Resination
+2623	Entity 1 : rudders
+2624	Entity 1 : brotherhood
+2625	Entity 1
+2626	Entity 1
+2627	Location
+2628	Entity-Destination
+2629	Entity 1 : program
+2630	Entity 1 : Discussion
+2631	Science/Tech
+2632	Farmer
+2633	Man
+2634	Person
+2635	The blouse I finished was sleeved
+2636	Company
+2637	Couple
+2638	Entity 1 : students
+2639	Entity 1 : Pieces
+2640	Entity 1 - Distract
+2641	Entity 1 , dishwasher
+2642	Entity 1
+2643	Entity 1
+2644	Entity 1 : student
+2645	Entity 1
+2646	Entity 1: spill
+2647	Entity 1 : valves
+2648	Answer
+2649	Entity-Origin
+2650	Entity 1
+2651	Location
+2652	Food
+2653	Entity 1
+2654	Entity-Destination
+2655	Entity 1 : brewer
+2656	Entity 1 - Project
+2657	Entity 1
+2658	Entity-Origin
+2659	Entity 1 : retina
+2660	Entity 1 : Heroes
+2661	Entity 1
+2662	Entity-Destination(e1,e2)
+2663	Entity-Destination(e1,e2)
+2664	Contact
+2665	Entity 1 : plant
+2666	Entity-Destination
+2667	Entity 1
+2668	Contact
+2669	Friends
+2670	Entity 1
+2671	Father
+2672	Entity 1 : flower
+2673	Entity 1
+2674	Entity 1 : box cutter
+2675	Entity 1 : incidents
+2676	Entity 1
+2677	Science/Tech
+2678	Entity 1 : seniors
+2679	Entity
+2680	Entity 1 : flooding
+2681	The ship
+2682	Entity 1
+2683	Entity 1 : chart
+2684	Biosurfactant
+2685	Location
+2686	Entity-Destination
+2687	Manufactured by
+2688	Entity-Destination
+2689	Entity 1 - Act
+2690	Entity-Destination
+2691	World Aids Day
+2692	Entity-Origin
+2693	Entity-Destination
+2694	Entity 1
+2695	Entity 1
+2696	Carafe
+2697	Entity 1 : irritants
+2698	Food
+2699	Entity-Destination
+2700	Science
+2701	Entity
+2702	Entity-Destination
+2703	Entity 1
+2704	Entity 1 : alliance
+2705	Entity 1
+2706	Location
+2707	Friends
+2708	Entity 1 : heat
+2709	The pillow of Western nations
+2710	Entity-Destination
+2711	Entity 1
+2712	Entity 1 : rainbows
+2713	The boy places the bell in the pocket of his robe and all the children watch as Santa takes off into the night for his annual deliveries 
+2714	Entity 1
+2715	Entity 1
+2716	Animal
+2717	Entity 1
+2718	Entity 1 : course
+2719	Entity-Destination
+2720	Component-Whole(e1,e2)
+2721	Entity 1 - joke
+2722	Entity 1 : amphibians
+2723	Entity 1 : squirrels
+2724	Entity-Destination
+2725	Entity 1
+2726	The family money was in the jar and was also lost
+2727	Description
+2728	Entity 1
+2729	Entity-Destination
+2730	Entity 1 : scars
+2731	Entity 1
+2732	Entity 1 : rats
+2733	Entity 1
+2734	Entity-Destination
+2735	Entity 1 : wine
+2736	Entity 1 : journal
+2737	Entity-Destination
+2738	Test
+2739	Entity 1 : Burns
+2740	Refrigerator
+2741	Entity 1
+2742	Entity 1
+2743	Answer
+2744	Entity 1 : pens
+2745	Component-Whole(e1,e2)
+2746	Entity-Destination
+2747	The boy
+2748	Entity 1
+2749	Entity-Destination
+2750	The pyramid of champagne flutes
+2751	Entity 1 - monitor
+2752	Entity-Origin
+2753	Carp
+2754	Entity-Destination(e1,e2)
+2755	Dr
+2756	Entity 1
+2757	Entity
+2758	Entity 1
+2759	The safest place in Korea was right behind a platoon of marines 
+2760	Entity
+2761	Company
+2762	The camera was in a suitcase
+2763	Entity 1 : tree
+2764	Entity-Destination
+2765	Food
+2766	Entity 1 : germs
+2767	Entity 1 : button
+2768	Entity 1 : cultures
+2769	Ingredients
+2770	Entity 1
+2771	Location
+2772	Entity-Destination
+2773	World
+2774	Entity 1 - effect
+2775	Entity 1 : bolt
+2776	Entity 1 : troop
+2777	World
+2778	Entity 1 : formalism
+2779	Religion
+2780	The people who poured acid into their eyes
+2781	Location
+2782	Entity-Destination
+2783	Entity-Destination
+2784	Entity-Destination
+2785	Entity 1 : Clip
+2786	Science/Tech
+2787	The ship Leaked oil into the brisbane river
+2788	Entity-Destination
+2789	Entity 1 : mainmast
+2790	Entity 1: caravan
+2791	Entity 1
+2792	Entity 1 : wine
+2793	Science fiction
+2794	Business
+2795	Entity 1
+2796	Sports
+2797	Entity-Destination
+2798	Entity 1 : Hairstyles
+2799	Entity 1 : seminar
+2800	Stores
+2801	Entity-Destination
+2802	Entity 1 : sedge
+2803	Food
+2804	Entity 1 : moisture
+2805	Relationship
+2806	Entity 1
+2807	Entity-Destination
+2808	Entity 1
+2809	Sci-Fi Channel
+2810	Entity
+2811	Ads
+2812	Man
+2813	Entity 1
+2814	Entity-Destination
+2815	Entity 1
+2816	Entity 1
+2817	Entity-Destination
+2818	Entity 1
+2819	Entity 1 : powertrain
+2820	Entity 1 , cadre
+2821	Entity-Destination
+2822	The data is based upon the research of the Dominican Republic
+2823	Entity-Destination
+2824	Entity 1
+2825	Person
+2826	Entity 1 : menage
+2827	Entity 1
+2828	Entity 1
+2829	Entity 1
+2830	Entity-Destination
+2831	Entity 1 : damage
+2832	Entity 1
+2833	Entity-Destination
+2834	Entity-Destination
+2835	Entity 1
+2836	Entity 1
+2837	Entity
+2838	Entity 1 : stars
+2839	Entity 1 : Character-compeers
+2840	Entity 1
+2841	Entity-Destination
+2842	The celebrity
+2843	Entity
+2844	Entity 1 : stack
+2845	Necklace
+2846	Entity 1 - criminal
+2847	Entity-Destination
+2848	The bottle
+2849	Entity 1 : sorrow
+2850	Entity
+2851	Entity-Origin
+2852	Entity 1
+2853	Entity 1
+2854	The parent/families
+2855	Entity-Destination
+2856	Family
+2857	Entity 1 : ham
+2858	Plant
+2859	Entity 1 : Advertising
+2860	Entity 1 : tube
+2861	Entity 1
+2862	Entity 1
+2863	Animal
+2864	Entity 1 , squirrel
+2865	Entity 1 : blogs
+2866	Entity 1
+2867	Musician
+2868	Company
+2869	Entity 1
+2870	Entity 1 : talk
+2871	Entity 1
+2872	Entity 1 : bed
+2873	Entity 1 : speech
+2874	Entity-Destination(e1,e2)
+2875	Entity 1 : Tutorial
+2876	Entity 1
+2877	Entity 1
+2878	Answer
+2879	Contact
+2880	Animal
+2881	Company
+2882	Food
+2883	Man
+2884	Entity 1 : potatoes
+2885	Entity 1
+2886	Entity 1
+2887	Entity-Origin
+2888	Entity 1
+2889	Location
+2890	Friends
+2891	The helmets
+2892	Entity-Destination
+2893	Contact
+2894	Entity 1
+2895	Entity-Destination
+2896	Entity 1 : astronauts
+2897	Account
+2898	Entity 1 : tension
+2899	Water
+2900	Entity 1
+2901	Entity 1
+2902	Animal
+2903	Entity-Destination
+2904	Entity 1 : Compeers
+2905	Entity 1
+2906	Entity 1
+2907	Food
+2908	School
+2909	Business
+2910	Entity 1 : binder
+2911	Entity-Destination
+2912	Entity 1
+2913	Country
+2914	Entity 1
+2915	Entity 1
+2916	Office
+2917	Entity 1
+2918	Entity 1
+2919	Location
+2920	Sports
+2921	Entity 1
+2922	Entity-Destination
+2923	Water
+2924	Entity-Destination
+2925	Food
+2926	Entity 1 - Privacy
+2927	Contact
+2928	Entity 1
+2929	Religion
+2930	Entity 1 : scum
+2931	Entity 1
+2932	Entity-Destination
+2933	Entity 1 : troops
+2934	Entity 1 : Comedy Format
+2935	Product
+2936	Entity-Destination
+2937	Food
+2938	We
+2939	Entity 1 : buns
+2940	Entity 1 : borrowers
+2941	Person
+2942	Entity 1 - Pilots
+2943	Entity 1 : coffee
+2944	Entity 1 : personnel
+2945	Entity-Destination
+2946	Entity 1
+2947	The technician
+2948	Entity 1
+2949	Person
+2950	Friends
+2951	Entity-Destination(e1,e2)
+2952	Person
+2953	Entity 1 : kitchen
+2954	Person
+2955	Entity 1
+2956	Company
+2957	Entity 1 : whirl
+2958	Entity 1 : body
+2959	Plant
+2960	Entity-Destination
+2961	Entity-Destination
+2962	Entity 1 : treatment
+2963	Entity 1 : dramas
+2964	Adults
+2965	Entity 1 : sample
+2966	Entity 1 : opening
+2967	Entity-Destination
+2968	Entity-Origin
+2969	Entity 1 : wheels
+2970	Entity 1 : phagocytes
+2971	Entity-Destination
+2972	Entity 1
+2973	Entity-Destination
+2974	Entity 1 : high-wheelers
+2975	Entity 1 : priests
+2976	Company
+2977	Entity 1
+2978	Entity 1
+2979	Entity 1
+2980	Entity 1
+2981	Business
+2982	Entity 1 : Commissioner
+2983	Entity 1 : files
+2984	Entity 1
+2985	Entity 1
+2986	Entity-Destination
+2987	Entity 1
+2988	Entity 1 : quarrel
+2989	Entity 1 : stones
+2990	World
+2991	Entity 1 : lines
+2992	Entity-Destination
+2993	Sports
+2994	Person
+2995	Science/Tech
+2996	Entity-Origin
+2997	Friends
+2998	Entity 1 - party
+2999	Entity 1 : study
+3000	Description
+3001	Entity 1
+3002	Entity 1 : fisherman
+3003	The baby was brought into her home
+3004	Science/Tech
+3005	Entity 1 : mainspring
+3006	Entity-Destination(e1,e2)
+3007	Entity 1 : cat
+3008	Contact
+3009	Entity 1
+3010	Entity 1 , powder
+3011	Food
+3012	Entity 1
+3013	Entity-Destination
+3014	Person
+3015	Entity 1 - operator
+3016	Entity 1 : Life
+3017	Teacher
+3018	Friends
+3019	Entity-Destination(e1,e2)
+3020	Entity 1
+3021	Entity 1 : merchant
+3022	Location
+3023	Entity 1 : neck pain
+3024	Entity-Destination
+3025	Entity 1 : lines
+3026	Entity 1
+3027	Threatening
+3028	Entity 1 : elements
+3029	Entity-Destination
+3030	Entity 1 : barley
+3031	The weight of the concrete on the soft materials caused a second ground collapse on the following Sunday night
+3032	Entity 1
+3033	Food
+3034	Person
+3035	The impact of the floating body effect on noise is investigated in this work for the first time
+3036	Animal
+3037	Entity-Destination
+3038	Entity 1
+3039	Friends
+3040	Entity-Destination
+3041	Entity 1
+3042	Entity-Destination
+3043	Entity 1
+3044	Entity
+3045	Entity-Destination
+3046	Entity-Destination
+3047	Entity 1 : cognac
+3048	Entity 1 : starch
+3049	Cleanse
+3050	Answer: method
+3051	Entity 1 : toy
+3052	Description
+3053	Entity-Destination
+3054	Entity 1 : surgeon
+3055	Entity 1
+3056	Entity 1 : potter
+3057	Entity-Origin
+3058	Entity-Destination
+3059	Entity 1 - light
+3060	Entity-Destination
+3061	Approval of
+3062	Entity 1 : sord
+3063	Entity-Destination
+3064	Entity 1
+3065	Entity 1 - bottle
+3066	Entity 1 : pipeline
+3067	Entity 1
+3068	Entity-Destination
+3069	Food
+3070	Entity 1 : brick
+3071	Entity-Commission
+3072	Entity 1 , member
+3073	Entity 1
+3074	Entity 1 : foundry
+3075	The student visited the website of the student
+3076	Location
+3077	Entity-Origin
+3078	Entity 1 : news paper
+3079	Houses
+3080	Location
+3081	Entity 1 : stories
+3082	Entity 1
+3083	Customer
+3084	Business
+3085	Entity 1 : wind
+3086	Arm
+3087	Entity
+3088	Entity
+3089	Entity-Destination
+3090	Entity 1
+3091	Entity 1 : stories
+3092	Entity 1
+3093	Entity 1
+3094	Entity 1
+3095	Entity-Destination
+3096	Entity 1 : lane
+3097	Entity 1 , group
+3098	Entity 1
+3099	Entity-Destination
+3100	Entity 1 : wine
+3101	Box
+3102	Food
+3103	Infections
+3104	Entity 1 : buzzard
+3105	Entity 1
+3106	Component-Whole(e1,e2)
+3107	Entity-Origin
+3108	Entity 1 : essays
+3109	Entity-Government
+3110	Entity-Origin
+3111	Entity 1
+3112	Entity-Destination
+3113	Taste
+3114	Entity 1
+3115	Company
+3116	Entity 1 : horses
+3117	Entity 1 , trail
+3118	Entity 1 : List
+3119	Entity-Destination
+3120	Entity-Destination
+3121	Entity-Destination
+3122	Food
+3123	Entity 1
+3124	Person
+3125	Entity-Destination(e1,e2)
+3126	Dean
+3127	Entity 1
+3128	Business
+3129	The galileoscope
+3130	Entity-Destination
+3131	Entity 1 : Depression
+3132	Entity 1 : heads
+3133	Business
+3134	Entity 1 : crush
+3135	Entity 1 : glut
+3136	Entity 1: acetoin
+3137	Entity 1 : milk
+3138	Food
+3139	Entity 1
+3140	The pendant with the bail measures 1 1/4 ''
+3141	Location
+3142	Product
+3143	Entity 1
+3144	Entity 1
+3145	Entity-Destination
+3146	Entity-Destination
+3147	Entity-Origin
+3148	Man
+3149	Entity 1
+3150	Handle
+3151	Animal
+3152	Animal
+3153	Entity 1
+3154	Entity-Destination
+3155	Entity 1 - cup
+3156	Entity 1
+3157	Activities
+3158	Entity-Destination
+3159	The basket was full of furry orange-and-black faces -- kittens
+3160	Building
+3161	Entity 1 : science fiction
+3162	Persona
+3163	Entity 1
+3164	Person
+3165	Entity 1
+3166	Entity 1
+3167	Entity 1 : plasma
+3168	Entity 1
+3169	The designer is my wife
+3170	Friends
+3171	Entity-Destination
+3172	Entity 1
+3173	He
+3174	Food
+3175	Food
+3176	Entity 1 : fuselage
+3177	Entity 1 - Component-Whole(e1,e2)
+3178	Entity-Destination
+3179	Entity 1
+3180	Entity-Destination
+3181	Entity 1
+3182	Entity 1 - Definition
+3183	Entity 1 : bodies
+3184	Entity 1
+3185	Entity 1 : stem
+3186	Entertainment
+3187	Entity-Destination
+3188	Entity 1 - Material
+3189	Entity 1 - cell
+3190	Entity-Destination
+3191	Food
+3192	Entity-Destination
+3193	Description
+3194	Entity 1 is file cabinet in Washington
+3195	Entity-Destination
+3196	Entity 1
+3197	World Health Organization
+3198	Entity-Destination
+3199	Entity-Destination
+3200	The snowdrifts
+3201	Entity 1
+3202	Car
+3203	Entity 1 : youths
+3204	Entity 1 : rookery
+3205	Entity 1 : balm
+3206	Entity-Destination
+3207	The coin was enclosed in a protective plastic case
+3208	Food
+3209	Contact
+3210	Entity 1
+3211	Car
+3212	Entity 1
+3213	Entity 1
+3214	Entity-Destination
+3215	Entity 1 , builder
+3216	Sports
+3217	Entity 1
+3218	Entity 1 : tonsillitis
+3219	Entity 1 : lobe
+3220	Entity-Destination
+3221	Entity 1: workers
+3222	Entity 1
+3223	Entity-Destination
+3224	Entity-Destination
+3225	Entity 1 : cane
+3226	Inhalation
+3227	Entity 1 : dowel
+3228	isopropanol
+3229	Entity-Destination
+3230	Entity 1 - Written by a student
+3231	Entity 1
+3232	Entity 1
+3233	Friends
+3234	Entity
+3235	Entity 1
+3236	Entity-Destination
+3237	Entity 1 : exaltation
+3238	Entity-Destination
+3239	Entity 1 : electricity
+3240	Entity 1 , medal
+3241	Food
+3242	Entity-Destination
+3243	Entity 1
+3244	Entity
+3245	Entity-Destination
+3246	Entity-Origin(e1,e2)
+3247	Entity 1
+3248	Entity 1
+3249	Entity 1 : baby
+3250	Entity 1
+3251	The ribs
+3252	Entity 1
+3253	Entity 1 : clans
+3254	The high pressure inside of acaisson presents health risks
+3255	Location
+3256	Entity-Destination
+3257	Food
+3258	Entity 1
+3259	Entity 1 : rouleau
+3260	Entity-Destination
+3261	Documents
+3262	Entity 1 - chapter
+3263	Entity 1 - grandfather
+3264	Entity 1 : staff
+3265	Person
+3266	Entity 1 - Cause-Effect(e1,e2)
+3267	The handgrip of the micrometer is exactly 2 in
+3268	Entity 1 - song
+3269	Entity 1 - Written by Allen
+3270	Entity-Destination
+3271	Entity 1
+3272	Entity-Destination
+3273	Entity 1 : chains
+3274	Entity-Destination
+3275	Entity-Destination
+3276	Entity 1
+3277	Entity 1
+3278	Entity 1
+3279	The fitter
+3280	The company
+3281	Entity-Destination
+3282	Entity 1
+3283	Entity
+3284	Description
+3285	Relationship
+3286	Money
+3287	Entity-Destination
+3288	The Valley
+3289	Relationship
+3290	Answer
+3291	Entity-Destination
+3292	Entity-Destination
+3293	Entity-Destination
+3294	Carpenters
+3295	Entity 1
+3296	Entity 1
+3297	Entity 1 : valve
+3298	Entity-Destination
+3299	Entity-Destination
+3300	Entity 1 : plurality
+3301	Entity 1
+3302	Food
+3303	Entity 1
+3304	Entity 1
+3305	Location
+3306	Entity-Destination
+3307	Entity-Destination
+3308	Entity 1 : sweetcorn
+3309	Entity-Destination
+3310	Entity 1 : fish
+3311	Entity Name
+3312	Entity 1 : padlock
+3313	The Ministry
+3314	Entity 1
+3315	Entity-Destination
+3316	Entity 1
+3317	Entity 1
+3318	Contact
+3319	Entity-Destination
+3320	Entity 1
+3321	Contacts
+3322	Company
+3323	Entity 1
+3324	Entity 1 : yachts
+3325	Entity 1 : frustration
+3326	Friends
+3327	Entity-Destination
+3328	Entity 1 : faction
+3329	Entity 1
+3330	Entity-Destination
+3331	Entity 1
+3332	Sports
+3333	Entity-Destination
+3334	Entity-Destination
+3335	Entity-Destination(e1,e2)
+3336	Fan
+3337	Entity-Origin
+3338	Entity-Destination
+3339	Electroscope
+3340	Entity 1 : posts
+3341	Written by
+3342	Entity-Destination(e1,e2)
+3343	Friends
+3344	Food
+3345	Admit
+3346	Entity 1 : dryer
+3347	Entity 1 : page
+3348	Entity 1
+3349	He
+3350	Entity 1 : pilots
+3351	Entity 1 : crisis
+3352	The foot
+3353	Friends
+3354	Entity 1 : parade
+3355	Entity 1 - tongue
+3356	The barrel
+3357	Entity 1
+3358	Entity-Destination
+3359	The children
+3360	Entity 1 : talk
+3361	Answer
+3362	Family
+3363	Entity 1
+3364	Entity-Destination
+3365	Animals
+3366	Entity 1 : candlestick Maker
+3367	Entity 1 is staff
+3368	Entity 1
+3369	Science/Tech
+3370	Entity 1
+3371	Entity-Destination
+3372	Entity-Destination
+3373	Business
+3374	Answer: question
+3375	Player
+3376	Entity 1
+3377	Entity 1 : ulcer
+3378	The Castle
+3379	Friends
+3380	Entity 1 : Lawyers
+3381	Entity 1 : symposium
+3382	Entity 1 : brandy
+3383	Entity 1 : mummy
+3384	Entity-Destination
+3385	Entity 1 : study
+3386	Entity
+3387	Food
+3388	Entity 1 : crew
+3389	Entity 1
+3390	Entity-Destination
+3391	Entity 1 : cylinder
+3392	Entity 1 : anecdotes
+3393	Entity 1 : farrow
+3394	Entity-Destination
+3395	Entity 1 : ion
+3396	Key
+3397	Entity 1 : migrations
+3398	Entity 1 : hand
+3399	Entity-Destination
+3400	Location
+3401	Man
+3402	Entity 1
+3403	The drop was caused by the recession and the usual seasonal factors
+3404	Answer: pin
+3405	The design by the chicago architects Walter Burley Griffin and Mariahony Griffin was selected
+3406	Entity 1 : belt
+3407	Entity 1
+3408	Entity 1
+3409	Location
+3410	Entity 1
+3411	Entity 1 : cabinet
+3412	Entity 1 : News
+3413	Entity 1
+3414	Entity 1 : waiters
+3415	Product
+3416	Entity 1 : interaction
+3417	Entity 1
+3418	Company
+3419	Entity 1
+3420	Entity 1 : basis
+3421	Entity 1
+3422	The deputy sheriff
+3423	Entity-Destination
+3424	Entity 1
+3425	Entity 1 : report
+3426	Entity 1 : stonework
+3427	Father
+3428	Water
+3429	Entity 1 : acne
+3430	The pin of the wheel raises the hour wheel lever
+3431	Business
+3432	Entity 1 : mouse
+3433	Entity-Destination
+3434	Entity 1
+3435	Entity-Destination
+3436	Entity-Destination
+3437	Patient
+3438	Entity-Destination
+3439	Entity
+3440	Entity-Destination
+3441	Entity 1 : shuttles
+3442	Entity 1
+3443	Entity 1
+3444	Business
+3445	Entity-Destination
+3446	Science/Tech
+3447	Entity 1 : oil
+3448	Entity 1
+3449	Entity-Destination
+3450	Entity 1
+3451	Entity-Destination
+3452	Entity 1
+3453	Entity 1 : motor
+3454	Air filter
+3455	Entity 1
+3456	Entity 1 : roof
+3457	Company
+3458	Entity 1 : corps
+3459	Relationship
+3460	Educational Institution
+3461	The pizza was inside a trash bag and taped shut
+3462	Entity 1
+3463	Entity 1 : prostate
+3464	Entity 1 - series
+3465	Building
+3466	Entity-Destination
+3467	Business
+3468	Entity-Destination
+3469	Building
+3470	Entity 1
+3471	Persona
+3472	Entity
+3473	Friends
+3474	Entity 1
+3475	World
+3476	The oven
+3477	Entity-Books
+3478	Entity 1
+3479	Man
+3480	Boy
+3481	Entity
+3482	Entity 1 : carriages
+3483	Entity-Origin
+3484	Entity-Origin
+3485	Religion
+3486	Entity 1 - language
+3487	Entity 1
+3488	Entity-Destination
+3489	Entity 1
+3490	Entity 1 : books
+3491	Entity 1
+3492	Science/Tech
+3493	Entity 1 : skydivers
+3494	Entity 1
+3495	Friends
+3496	Answer
+3497	Entity-Destination
+3498	Entity 1
+3499	Plant
+3500	Entity 1
+3501	Entity 1 : caterpillars
+3502	Entity 1 : tree
+3503	Contact
+3504	Entity 1 : ghostwriters
+3505	Teacher
+3506	Entity 1 : poems
+3507	Entity-Destination
+3508	Cargo
+3509	Company
+3510	Entity 1
+3511	Entity 1 , port
+3512	Entity 1
+3513	The bag was contained in a secure locker inside the security office
+3514	Contact
+3515	Entity 1 : engine
+3516	Entity-Destination
+3517	Person
+3518	Entity 1
+3519	Entity 1
+3520	Relationship
+3521	Answer: steps
+3522	Entity 1
+3523	Entity 1 : swarm
+3524	Entity 1
+3525	Ship
+3526	Food
+3527	Entity-Destination
+3528	Animal
+3529	Entity-Destination
+3530	Entity 1 : Women
+3531	The Raven
+3532	Entity 1
+3533	Entity 1
+3534	Building
+3535	Company
+3536	Person
+3537	Description
+3538	Entity 1 : satellite
+3539	Entity 1 : wallet
+3540	Contact
+3541	The difference is great
+3542	Entity-Destination
+3543	Entity 1
+3544	Answer: Driver
+3545	Food
+3546	Entity 1 - word
+3547	Entity-Origin
+3548	Album
+3549	Entity 1
+3550	Entity 1 : Software
+3551	Ship
+3552	Entity-Destination
+3553	World
+3554	Entity 1 : vehicles
+3555	World
+3556	Entity-Destination
+3557	Man
+3558	Bio-energetics
+3559	Entity-Destination
+3560	Hand brake
+3561	Entity 1 : Theorie
+3562	Entity 1 : Boars
+3563	Sports
+3564	Water
+3565	Entity-Destination
+3566	Entity 1
+3567	Entity 1 : dashboard
+3568	Entity 1
+3569	Entity 1
+3570	Entity 1 : Respondents
+3571	Entity 1
+3572	Entity-Destination
+3573	Entity-Subject
+3574	Entity 1 : herpes simplex virus
+3575	Entity 1
+3576	Entity 1
+3577	Entity 1 , work
+3578	The statue is in the box
+3579	Entity 1
+3580	Relationship
+3581	Entity-Destination
+3582	Entity 1
+3583	Entity 1 : electricians
+3584	Entity 1 : files
+3585	Entity 1 : laughing
+3586	Entity 1
+3587	Entity 1 : discourse
+3588	Entity 1
+3589	Entity 1
+3590	Location
+3591	Entity-Destination
+3592	Entity
+3593	Entity 1
+3594	Entity-Subject
+3595	Entity-Destination(e1,e2)
+3596	Doctor
+3597	The catheter distally connects to the hepatic artery
+3598	Entity 1
+3599	Entity 1 : strings
+3600	Friends
+3601	Entity 1: closure
+3602	Entity 1 : sweeper
+3603	Remote
+3604	Relationship
+3605	Entity 1 : fish
+3606	Entity-Destination
+3607	Business
+3608	Entity 1 : sailor
+3609	Entity-Destination
+3610	Entity 1
+3611	Entity 1
+3612	Relationship
+3613	Animal
+3614	Entity 1
+3615	The skeleton is found in the tomb of a neolithic-age tomb
+3616	Adequate
+3617	Entity 1
+3618	Entity 1
+3619	Shops
+3620	Entity-Destination
+3621	The quartz tube
+3622	Entity 1 : Resination
+3623	Entity 1 : rudders
+3624	Entity 1 : brotherhood
+3625	Entity 1
+3626	Entity 1
+3627	Location
+3628	Entity-Destination
+3629	Entity 1 : program
+3630	Entity 1 : Discussion
+3631	Science/Tech
+3632	Farmer
+3633	Man
+3634	Person
+3635	The blouse I finished was sleeved
+3636	Company
+3637	Couple
+3638	Entity 1 : students
+3639	Entity 1 : Pieces
+3640	Entity 1 - Distract
+3641	Entity 1 , dishwasher
+3642	Entity 1
+3643	Entity 1
+3644	Entity 1 : student
+3645	Entity 1
+3646	Entity 1: spill
+3647	Entity 1 : valves
+3648	Answer
+3649	Entity-Origin
+3650	Entity 1
+3651	Location
+3652	Food
+3653	Entity 1
+3654	Entity-Destination
+3655	Entity 1 : brewer
+3656	Entity 1 - Project
+3657	Entity 1
+3658	Entity-Origin
+3659	Entity 1 : retina
+3660	Entity 1 : Heroes
+3661	Entity 1
+3662	Entity-Destination(e1,e2)
+3663	Entity-Destination(e1,e2)
+3664	Contact
+3665	Entity 1 : plant
+3666	Entity-Destination
+3667	Entity 1
+3668	Contact
+3669	Friends
+3670	Entity 1
+3671	Father
+3672	Entity 1 : flower
+3673	Entity 1
+3674	Entity 1 : box cutter
+3675	Entity 1 : incidents
+3676	Entity 1
+3677	Science/Tech
+3678	Entity 1 : seniors
+3679	Entity
+3680	Entity 1 : flooding
+3681	The ship
+3682	Entity 1
+3683	Entity 1 : chart
+3684	Biosurfactant
+3685	Location
+3686	Entity-Destination
+3687	Manufactured by
+3688	Entity-Destination
+3689	Entity 1 - Act
+3690	Entity-Destination
+3691	World Aids Day
+3692	Entity-Origin
+3693	Entity-Destination
+3694	Entity 1
+3695	Entity 1
+3696	Carafe
+3697	Entity 1 : irritants
+3698	Food
+3699	Entity-Destination
+3700	Science
+3701	Entity
+3702	Entity-Destination
+3703	Entity 1
+3704	Entity 1 : alliance
+3705	Entity 1
+3706	Location
+3707	Friends
+3708	Entity 1 : heat
+3709	The pillow of Western nations
+3710	Entity-Destination
+3711	Entity 1
+3712	Entity 1 : rainbows
+3713	The boy places the bell in the pocket of his robe and all the children watch as Santa takes off into the night for his annual deliveries 
+3714	Entity 1
+3715	Entity 1
+3716	Animal
+3717	Entity 1
+3718	Entity 1 : course
+3719	Entity-Destination
+3720	Component-Whole(e1,e2)
+3721	Entity 1 - joke
+3722	Entity 1 : amphibians
+3723	Entity 1 : squirrels
+3724	Entity-Destination
+3725	Entity 1
+3726	The family money was in the jar and was also lost
+3727	Description
+3728	Entity 1
+3729	Entity-Destination
+3730	Entity 1 : scars
+3731	Entity 1
+3732	Entity 1 : rats
+3733	Entity 1
+3734	Entity-Destination
+3735	Entity 1 : wine
+3736	Entity 1 : journal
+3737	Entity-Destination
+3738	Test
+3739	Entity 1 : Burns
+3740	Refrigerator
+3741	Entity 1
+3742	Entity 1
+3743	Answer
+3744	Entity 1 : pens
+3745	Component-Whole(e1,e2)
+3746	Entity-Destination
+3747	The boy
+3748	Entity 1
+3749	Entity-Destination
+3750	The pyramid of champagne flutes
+3751	Entity 1 - monitor
+3752	Entity-Origin
+3753	Carp
+3754	Entity-Destination(e1,e2)
+3755	Dr
+3756	Entity 1
+3757	Entity
+3758	Entity 1
+3759	The safest place in Korea was right behind a platoon of marines 
+3760	Entity
+3761	Company
+3762	The camera was in a suitcase
+3763	Entity 1 : tree
+3764	Entity-Destination
+3765	Food
+3766	Entity 1 : germs
+3767	Entity 1 : button
+3768	Entity 1 : cultures
+3769	Ingredients
+3770	Entity 1
+3771	Location
+3772	Entity-Destination
+3773	World
+3774	Entity 1 - effect
+3775	Entity 1 : bolt
+3776	Entity 1 : troop
+3777	World
+3778	Entity 1 : formalism
+3779	Religion
+3780	The people who poured acid into their eyes
+3781	Location
+3782	Entity-Destination
+3783	Entity-Destination
+3784	Entity-Destination
+3785	Entity 1 : Clip
+3786	Science/Tech
+3787	The ship Leaked oil into the brisbane river
+3788	Entity-Destination
+3789	Entity 1 : mainmast
+3790	Entity 1: caravan
+3791	Entity 1
+3792	Entity 1 : wine
+3793	Science fiction
+3794	Business
+3795	Entity 1
+3796	Sports
+3797	Entity-Destination
+3798	Entity 1 : Hairstyles
+3799	Entity 1 : seminar
+3800	Stores
+3801	Entity-Destination
+3802	Entity 1 : sedge
+3803	Food
+3804	Entity 1 : moisture
+3805	Relationship
+3806	Entity 1
+3807	Entity-Destination
+3808	Entity 1
+3809	Sci-Fi Channel
+3810	Entity
+3811	Ads
+3812	Man
+3813	Entity 1
+3814	Entity-Destination
+3815	Entity 1
+3816	Entity 1
+3817	Entity-Destination
+3818	Entity 1
+3819	Entity 1 : powertrain
+3820	Entity 1 , cadre
+3821	Entity-Destination
+3822	The data is based upon the research of the Dominican Republic
+3823	Entity-Destination
+3824	Entity 1
+3825	Person
+3826	Entity 1 : menage
+3827	Entity 1
+3828	Entity 1
+3829	Entity 1
+3830	Entity-Destination
+3831	Entity 1 : damage
+3832	Entity 1
+3833	Entity-Destination
+3834	Entity-Destination
+3835	Entity 1
+3836	Entity 1
+3837	Entity
+3838	Entity 1 : stars
+3839	Entity 1 : Character-compeers
+3840	Entity 1
+3841	Entity-Destination
+3842	The celebrity
+3843	Entity
+3844	Entity 1 : stack
+3845	Necklace
+3846	Entity 1 - criminal
+3847	Entity-Destination
+3848	The bottle
+3849	Entity 1 : sorrow
+3850	Entity
+3851	Entity-Origin
+3852	Entity 1
+3853	Entity 1
+3854	The parent/families
+3855	Entity-Destination
+3856	Family
+3857	Entity 1 : ham
+3858	Plant
+3859	Entity 1 : Advertising
+3860	Entity 1 : tube
+3861	Entity 1
+3862	Entity 1
+3863	Animal
+3864	Entity 1 , squirrel
+3865	Entity 1 : blogs
+3866	Entity 1
+3867	Musician
+3868	Company
+3869	Entity 1
+3870	Entity 1 : talk
+3871	Entity 1
+3872	Entity 1 : bed
+3873	Entity 1 : speech
+3874	Entity-Destination(e1,e2)
+3875	Entity 1 : Tutorial
+3876	Entity 1
+3877	Entity 1
+3878	Answer
+3879	Contact
+3880	Animal
+3881	Company
+3882	Food
+3883	Man
+3884	Entity 1 : potatoes
+3885	Entity 1
+3886	Entity 1
+3887	Entity-Origin
+3888	Entity 1
+3889	Location
+3890	Friends
+3891	The helmets
+3892	Entity-Destination
+3893	Contact
+3894	Entity 1
+3895	Entity-Destination
+3896	Entity 1 : astronauts
+3897	Account
+3898	Entity 1 : tension
+3899	Water
+3900	Entity 1
+3901	Entity 1
+3902	Animal
+3903	Entity-Destination
+3904	Entity 1 : Compeers
+3905	Entity 1
+3906	Entity 1
+3907	Food
+3908	School
+3909	Business
+3910	Entity 1 : binder
+3911	Entity-Destination
+3912	Entity 1
+3913	Country
+3914	Entity 1
+3915	Entity 1
+3916	Office
+3917	Entity 1
+3918	Entity 1
+3919	Location
+3920	Sports
+3921	Entity 1
+3922	Entity-Destination
+3923	Water
+3924	Entity-Destination
+3925	Food
+3926	Entity 1 - Privacy
+3927	Contact
+3928	Entity 1
+3929	Religion
+3930	Entity 1 : scum
+3931	Entity 1
+3932	Entity-Destination
+3933	Entity 1 : troops
+3934	Entity 1 : Comedy Format
+3935	Product
+3936	Entity-Destination
+3937	Food
+3938	We
+3939	Entity 1 : buns
+3940	Entity 1 : borrowers
+3941	Person
+3942	Entity 1 - Pilots
+3943	Entity 1 : coffee
+3944	Entity 1 : personnel
+3945	Entity-Destination
+3946	Entity 1
+3947	The technician
+3948	Entity 1
+3949	Person
+3950	Friends
+3951	Entity-Destination(e1,e2)
+3952	Person
+3953	Entity 1 : kitchen
+3954	Person
+3955	Entity 1
+3956	Company
+3957	Entity 1 : whirl
+3958	Entity 1 : body
+3959	Plant
+3960	Entity-Destination
+3961	Entity-Destination
+3962	Entity 1 : treatment
+3963	Entity 1 : dramas
+3964	Adults
+3965	Entity 1 : sample
+3966	Entity 1 : opening
+3967	Entity-Destination
+3968	Entity-Origin
+3969	Entity 1 : wheels
+3970	Entity 1 : phagocytes
+3971	Entity-Destination
+3972	Entity 1
+3973	Entity-Destination
+3974	Entity 1 : high-wheelers
+3975	Entity 1 : priests
+3976	Company
+3977	Entity 1
+3978	Entity 1
+3979	Entity 1
+3980	Entity 1
+3981	Business
+3982	Entity 1 : Commissioner
+3983	Entity 1 : files
+3984	Entity 1
+3985	Entity 1
+3986	Entity-Destination
+3987	Entity 1
+3988	Entity 1 : quarrel
+3989	Entity 1 : stones
+3990	World
+3991	Entity 1 : lines
+3992	Entity-Destination
+3993	Sports
+3994	Person
+3995	Science/Tech
+3996	Entity-Origin
+3997	Friends
+3998	Entity 1 - party
+3999	Entity 1 : study
+4000	Description
+4001	Entity 1
+4002	Entity 1 : fisherman
+4003	The baby was brought into her home
+4004	Science/Tech
+4005	Entity 1 : mainspring
+4006	Entity-Destination(e1,e2)
+4007	Entity 1 : cat
+4008	Contact
+4009	Entity 1
+4010	Entity 1 , powder
+4011	Food
+4012	Entity 1
+4013	Entity-Destination
+4014	Person
+4015	Entity 1 - operator
+4016	Entity 1 : Life
+4017	Teacher
+4018	Friends
+4019	Entity-Destination(e1,e2)
+4020	Entity 1
+4021	Entity 1 : merchant
+4022	Location
+4023	Entity 1 : neck pain
+4024	Entity-Destination
+4025	Entity 1 : lines
+4026	Entity 1
+4027	Threatening
+4028	Entity 1 : elements
+4029	Entity-Destination
+4030	Entity 1 : barley
+4031	The weight of the concrete on the soft materials caused a second ground collapse on the following Sunday night
+4032	Entity 1
+4033	Food
+4034	Person
+4035	The impact of the floating body effect on noise is investigated in this work for the first time
+4036	Animal
+4037	Entity-Destination
+4038	Entity 1
+4039	Friends
+4040	Entity-Destination
+4041	Entity 1
+4042	Entity-Destination
+4043	Entity 1
+4044	Entity
+4045	Entity-Destination
+4046	Entity-Destination
+4047	Entity 1 : cognac
+4048	Entity 1 : starch
+4049	Cleanse
+4050	Answer: method
+4051	Entity 1 : toy
+4052	Description
+4053	Entity-Destination
+4054	Entity 1 : surgeon
+4055	Entity 1
+4056	Entity 1 : potter
+4057	Entity-Origin
+4058	Entity-Destination
+4059	Entity 1 - light
+4060	Entity-Destination
+4061	Approval of
+4062	Entity 1 : sord
+4063	Entity-Destination
+4064	Entity 1
+4065	Entity 1 - bottle
+4066	Entity 1 : pipeline
+4067	Entity 1
+4068	Entity-Destination
+4069	Food
+4070	Entity 1 : brick
+4071	Entity-Commission
+4072	Entity 1 , member
+4073	Entity 1
+4074	Entity 1 : foundry
+4075	The student visited the website of the student
+4076	Location
+4077	Entity-Origin
+4078	Entity 1 : news paper
+4079	Houses
+4080	Location
+4081	Entity 1 : stories
+4082	Entity 1
+4083	Customer
+4084	Business
+4085	Entity 1 : wind
+4086	Arm
+4087	Entity
+4088	Entity
+4089	Entity-Destination
+4090	Entity 1
+4091	Entity 1 : stories
+4092	Entity 1
+4093	Entity 1
+4094	Entity 1
+4095	Entity-Destination
+4096	Entity 1 : lane
+4097	Entity 1 , group
+4098	Entity 1
+4099	Entity-Destination
+4100	Entity 1 : wine
+4101	Box
+4102	Food
+4103	Infections
+4104	Entity 1 : buzzard
+4105	Entity 1
+4106	Component-Whole(e1,e2)
+4107	Entity-Origin
+4108	Entity 1 : essays
+4109	Entity-Government
+4110	Entity-Origin
+4111	Entity 1
+4112	Entity-Destination
+4113	Taste
+4114	Entity 1
+4115	Company
+4116	Entity 1 : horses
+4117	Entity 1 , trail
+4118	Entity 1 : List
+4119	Entity-Destination
+4120	Entity-Destination
+4121	Entity-Destination
+4122	Food
+4123	Entity 1
+4124	Person
+4125	Entity-Destination(e1,e2)
+4126	Dean
+4127	Entity 1
+4128	Business
+4129	The galileoscope
+4130	Entity-Destination
+4131	Entity 1 : Depression
+4132	Entity 1 : heads
+4133	Business
+4134	Entity 1 : crush
+4135	Entity 1 : glut
+4136	Entity 1: acetoin
+4137	Entity 1 : milk
+4138	Food
+4139	Entity 1
+4140	The pendant with the bail measures 1 1/4 ''
+4141	Location
+4142	Product
+4143	Entity 1
+4144	Entity 1
+4145	Entity-Destination
+4146	Entity-Destination
+4147	Entity-Origin
+4148	Man
+4149	Entity 1
+4150	Handle
+4151	Animal
+4152	Animal
+4153	Entity 1
+4154	Entity-Destination
+4155	Entity 1 - cup
+4156	Entity 1
+4157	Activities
+4158	Entity-Destination
+4159	The basket was full of furry orange-and-black faces -- kittens
+4160	Building
+4161	Entity 1 : science fiction
+4162	Persona
+4163	Entity 1
+4164	Person
+4165	Entity 1
+4166	Entity 1
+4167	Entity 1 : plasma
+4168	Entity 1
+4169	The designer is my wife
+4170	Friends
+4171	Entity-Destination
+4172	Entity 1
+4173	He
+4174	Food
+4175	Food
+4176	Entity 1 : fuselage
+4177	Entity 1 - Component-Whole(e1,e2)
+4178	Entity-Destination
+4179	Entity 1
+4180	Entity-Destination
+4181	Entity 1
+4182	Entity 1 - Definition
+4183	Entity 1 : bodies
+4184	Entity 1
+4185	Entity 1 : stem
+4186	Entertainment
+4187	Entity-Destination
+4188	Entity 1 - Material
+4189	Entity 1 - cell
+4190	Entity-Destination
+4191	Food
+4192	Entity-Destination
+4193	Description
+4194	Entity 1 is file cabinet in Washington
+4195	Entity-Destination
+4196	Entity 1
+4197	World Health Organization
+4198	Entity-Destination
+4199	Entity-Destination
+4200	The snowdrifts
+4201	Entity 1
+4202	Car
+4203	Entity 1 : youths
+4204	Entity 1 : rookery
+4205	Entity 1 : balm
+4206	Entity-Destination
+4207	The coin was enclosed in a protective plastic case
+4208	Food
+4209	Contact
+4210	Entity 1
+4211	Car
+4212	Entity 1
+4213	Entity 1
+4214	Entity-Destination
+4215	Entity 1 , builder
+4216	Sports
+4217	Entity 1
+4218	Entity 1 : tonsillitis
+4219	Entity 1 : lobe
+4220	Entity-Destination
+4221	Entity 1: workers
+4222	Entity 1
+4223	Entity-Destination
+4224	Entity-Destination
+4225	Entity 1 : cane
+4226	Inhalation
+4227	Entity 1 : dowel
+4228	isopropanol
+4229	Entity-Destination
+4230	Entity 1 - Written by a student
+4231	Entity 1
+4232	Entity 1
+4233	Friends
+4234	Entity
+4235	Entity 1
+4236	Entity-Destination
+4237	Entity 1 : exaltation
+4238	Entity-Destination
+4239	Entity 1 : electricity
+4240	Entity 1 , medal
+4241	Food
+4242	Entity-Destination
+4243	Entity 1
+4244	Entity
+4245	Entity-Destination
+4246	Entity-Origin(e1,e2)
+4247	Entity 1
+4248	Entity 1
+4249	Entity 1 : baby
+4250	Entity 1
+4251	The ribs
+4252	Entity 1
+4253	Entity 1 : clans
+4254	The high pressure inside of acaisson presents health risks
+4255	Location
+4256	Entity-Destination
+4257	Food
+4258	Entity 1
+4259	Entity 1 : rouleau
+4260	Entity-Destination
+4261	Documents
+4262	Entity 1 - chapter
+4263	Entity 1 - grandfather
+4264	Entity 1 : staff
+4265	Person
+4266	Entity 1 - Cause-Effect(e1,e2)
+4267	The handgrip of the micrometer is exactly 2 in
+4268	Entity 1 - song
+4269	Entity 1 - Written by Allen
+4270	Entity-Destination
+4271	Entity 1
+4272	Entity-Destination
+4273	Entity 1 : chains
+4274	Entity-Destination
+4275	Entity-Destination
+4276	Entity 1
+4277	Entity 1
+4278	Entity 1
+4279	The fitter
+4280	The company
+4281	Entity-Destination
+4282	Entity 1
+4283	Entity
+4284	Description
+4285	Relationship
+4286	Money
+4287	Entity-Destination
+4288	The Valley
+4289	Relationship
+4290	Answer
+4291	Entity-Destination
+4292	Entity-Destination
+4293	Entity-Destination
+4294	Carpenters
+4295	Entity 1
+4296	Entity 1
+4297	Entity 1 : valve
+4298	Entity-Destination
+4299	Entity-Destination
+4300	Entity 1 : plurality
+4301	Entity 1
+4302	Food
+4303	Entity 1
+4304	Entity 1
+4305	Location
+4306	Entity-Destination
+4307	Entity-Destination
+4308	Entity 1 : sweetcorn
+4309	Entity-Destination
+4310	Entity 1 : fish
+4311	Entity Name
+4312	Entity 1 : padlock
+4313	The Ministry
+4314	Entity 1
+4315	Entity-Destination
+4316	Entity 1
+4317	Entity 1
+4318	Contact
+4319	Entity-Destination
+4320	Entity 1
+4321	Contacts
+4322	Company
+4323	Entity 1
+4324	Entity 1 : yachts
+4325	Entity 1 : frustration
+4326	Friends
+4327	Entity-Destination
+4328	Entity 1 : faction
+4329	Entity 1
+4330	Entity-Destination
+4331	Entity 1
+4332	Sports
+4333	Entity-Destination
+4334	Entity-Destination
+4335	Entity-Destination(e1,e2)
+4336	Fan
+4337	Entity-Origin
+4338	Entity-Destination
+4339	Electroscope
+4340	Entity 1 : posts
+4341	Written by
+4342	Entity-Destination(e1,e2)
+4343	Friends
+4344	Food
+4345	Admit
+4346	Entity 1 : dryer
+4347	Entity 1 : page
+4348	Entity 1
+4349	He
+4350	Entity 1 : pilots
+4351	Entity 1 : crisis
+4352	The foot
+4353	Friends
+4354	Entity 1 : parade
+4355	Entity 1 - tongue
+4356	The barrel
+4357	Entity 1
+4358	Entity-Destination
+4359	The children
+4360	Entity 1 : talk
+4361	Answer
+4362	Family
+4363	Entity 1
+4364	Entity-Destination
+4365	Animals
+4366	Entity 1 : candlestick Maker
+4367	Entity 1 is staff
+4368	Entity 1
+4369	Science/Tech
+4370	Entity 1
+4371	Entity-Destination
+4372	Entity-Destination
+4373	Business
+4374	Answer: question
+4375	Player
+4376	Entity 1
+4377	Entity 1 : ulcer
+4378	The Castle
+4379	Friends
+4380	Entity 1 : Lawyers
+4381	Entity 1 : symposium
+4382	Entity 1 : brandy
+4383	Entity 1 : mummy
+4384	Entity-Destination
+4385	Entity 1 : study
+4386	Entity
+4387	Food
+4388	Entity 1 : crew
+4389	Entity 1
+4390	Entity-Destination
+4391	Entity 1 : cylinder
+4392	Entity 1 : anecdotes
+4393	Entity 1 : farrow
+4394	Entity-Destination
+4395	Entity 1 : ion
+4396	Key
+4397	Entity 1 : migrations
+4398	Entity 1 : hand
+4399	Entity-Destination
+4400	Location
+4401	Man
+4402	Entity 1
+4403	The drop was caused by the recession and the usual seasonal factors
+4404	Answer: pin
+4405	The design by the chicago architects Walter Burley Griffin and Mariahony Griffin was selected
+4406	Entity 1 : belt
+4407	Entity 1
+4408	Entity 1
+4409	Location
+4410	Entity 1
+4411	Entity 1 : cabinet
+4412	Entity 1 : News
+4413	Entity 1
+4414	Entity 1 : waiters
+4415	Product
+4416	Entity 1 : interaction
+4417	Entity 1
+4418	Company
+4419	Entity 1
+4420	Entity 1 : basis
+4421	Entity 1
+4422	The deputy sheriff
+4423	Entity-Destination
+4424	Entity 1
+4425	Entity 1 : report
+4426	Entity 1 : stonework
+4427	Father
+4428	Water
+4429	Entity 1 : acne
+4430	The pin of the wheel raises the hour wheel lever
+4431	Business
+4432	Entity 1 : mouse
+4433	Entity-Destination
+4434	Entity 1
+4435	Entity-Destination
+4436	Entity-Destination
+4437	Patient
+4438	Entity-Destination
+4439	Entity
+4440	Entity-Destination
+4441	Entity 1 : shuttles
+4442	Entity 1
+4443	Entity 1
+4444	Business
+4445	Entity-Destination
+4446	Science/Tech
+4447	Entity 1 : oil
+4448	Entity 1
+4449	Entity-Destination
+4450	Entity 1
+4451	Entity-Destination
+4452	Entity 1
+4453	Entity 1 : motor
+4454	Air filter
+4455	Entity 1
+4456	Entity 1 : roof
+4457	Company
+4458	Entity 1 : corps
+4459	Relationship
+4460	Educational Institution
+4461	The pizza was inside a trash bag and taped shut
+4462	Entity 1
+4463	Entity 1 : prostate
+4464	Entity 1 - series
+4465	Building
+4466	Entity-Destination
+4467	Business
+4468	Entity-Destination
+4469	Building
+4470	Entity 1
+4471	Persona
+4472	Entity
+4473	Friends
+4474	Entity 1
+4475	World
+4476	The oven
+4477	Entity-Books
+4478	Entity 1
+4479	Man
+4480	Boy
+4481	Entity
+4482	Entity 1 : carriages
+4483	Entity-Origin
+4484	Entity-Origin
+4485	Religion
+4486	Entity 1 - language
+4487	Entity 1
+4488	Entity-Destination
+4489	Entity 1
+4490	Entity 1 : books
+4491	Entity 1
+4492	Science/Tech
+4493	Entity 1 : skydivers
+4494	Entity 1
+4495	Friends
+4496	Answer
+4497	Entity-Destination
+4498	Entity 1
+4499	Plant
+4500	Entity 1
+4501	Entity 1 : caterpillars
+4502	Entity 1 : tree
+4503	Contact
+4504	Entity 1 : ghostwriters
+4505	Teacher
+4506	Entity 1 : poems
+4507	Entity-Destination
+4508	Cargo
+4509	Company
+4510	Entity 1
+4511	Entity 1 , port
+4512	Entity 1
+4513	The bag was contained in a secure locker inside the security office
+4514	Contact
+4515	Entity 1 : engine
+4516	Entity-Destination
+4517	Person
+4518	Entity 1
+4519	Entity 1
+4520	Relationship
+4521	Answer: steps
+4522	Entity 1
+4523	Entity 1 : swarm
+4524	Entity 1
+4525	Ship
+4526	Food
+4527	Entity-Destination
+4528	Animal
+4529	Entity-Destination
+4530	Entity 1 : Women
+4531	The Raven
+4532	Entity 1
+4533	Entity 1
+4534	Building
+4535	Company
+4536	Person
+4537	Description
+4538	Entity 1 : satellite
+4539	Entity 1 : wallet
+4540	Contact
+4541	The difference is great
+4542	Entity-Destination
+4543	Entity 1
+4544	Answer: Driver
+4545	Food
+4546	Entity 1 - word
+4547	Entity-Origin
+4548	Album
+4549	Entity 1
+4550	Entity 1 : Software
+4551	Ship
+4552	Entity-Destination
+4553	World
+4554	Entity 1 : vehicles
+4555	World
+4556	Entity-Destination
+4557	Man
+4558	Bio-energetics
+4559	Entity-Destination
+4560	Hand brake
+4561	Entity 1 : Theorie
+4562	Entity 1 : Boars
+4563	Sports
+4564	Water
+4565	Entity-Destination
+4566	Entity 1
+4567	Entity 1 : dashboard
+4568	Entity 1
+4569	Entity 1
+4570	Entity 1 : Respondents
+4571	Entity 1
+4572	Entity-Destination
+4573	Entity-Subject
+4574	Entity 1 : herpes simplex virus
+4575	Entity 1
+4576	Entity 1
+4577	Entity 1 , work
+4578	The statue is in the box
+4579	Entity 1
+4580	Relationship
+4581	Entity-Destination
+4582	Entity 1
+4583	Entity 1 : electricians
+4584	Entity 1 : files
+4585	Entity 1 : laughing
+4586	Entity 1
+4587	Entity 1 : discourse
+4588	Entity 1
+4589	Entity 1
+4590	Location
+4591	Entity-Destination
+4592	Entity
+4593	Entity 1
+4594	Entity-Subject
+4595	Entity-Destination(e1,e2)
+4596	Doctor
+4597	The catheter distally connects to the hepatic artery
+4598	Entity 1
+4599	Entity 1 : strings
+4600	Friends
+4601	Entity 1: closure
+4602	Entity 1 : sweeper
+4603	Remote
+4604	Relationship
+4605	Entity 1 : fish
+4606	Entity-Destination
+4607	Business
+4608	Entity 1 : sailor
+4609	Entity-Destination
+4610	Entity 1
+4611	Entity 1
+4612	Relationship
+4613	Animal
+4614	Entity 1
+4615	The skeleton is found in the tomb of a neolithic-age tomb
+4616	Adequate
+4617	Entity 1
+4618	Entity 1
+4619	Shops
+4620	Entity-Destination
+4621	The quartz tube
+4622	Entity 1 : Resination
+4623	Entity 1 : rudders
+4624	Entity 1 : brotherhood
+4625	Entity 1
+4626	Entity 1
+4627	Location
+4628	Entity-Destination
+4629	Entity 1 : program
+4630	Entity 1 : Discussion
+4631	Science/Tech
+4632	Farmer
+4633	Man
+4634	Person
+4635	The blouse I finished was sleeved
+4636	Company
+4637	Couple
+4638	Entity 1 : students
+4639	Entity 1 : Pieces
+4640	Entity 1 - Distract
+4641	Entity 1 , dishwasher
+4642	Entity 1
+4643	Entity 1
+4644	Entity 1 : student
+4645	Entity 1
+4646	Entity 1: spill
+4647	Entity 1 : valves
+4648	Answer
+4649	Entity-Origin
+4650	Entity 1
+4651	Location
+4652	Food
+4653	Entity 1
+4654	Entity-Destination
+4655	Entity 1 : brewer
+4656	Entity 1 - Project
+4657	Entity 1
+4658	Entity-Origin
+4659	Entity 1 : retina
+4660	Entity 1 : Heroes
+4661	Entity 1
+4662	Entity-Destination(e1,e2)
+4663	Entity-Destination(e1,e2)
+4664	Contact
+4665	Entity 1 : plant
+4666	Entity-Destination
+4667	Entity 1
+4668	Contact
+4669	Friends
+4670	Entity 1
+4671	Father
+4672	Entity 1 : flower
+4673	Entity 1
+4674	Entity 1 : box cutter
+4675	Entity 1 : incidents
+4676	Entity 1
+4677	Science/Tech
+4678	Entity 1 : seniors
+4679	Entity
+4680	Entity 1 : flooding
+4681	The ship
+4682	Entity 1
+4683	Entity 1 : chart
+4684	Biosurfactant
+4685	Location
+4686	Entity-Destination
+4687	Manufactured by
+4688	Entity-Destination
+4689	Entity 1 - Act
+4690	Entity-Destination
+4691	World Aids Day
+4692	Entity-Origin
+4693	Entity-Destination
+4694	Entity 1
+4695	Entity 1
+4696	Carafe
+4697	Entity 1 : irritants
+4698	Food
+4699	Entity-Destination
+4700	Science
+4701	Entity
+4702	Entity-Destination
+4703	Entity 1
+4704	Entity 1 : alliance
+4705	Entity 1
+4706	Location
+4707	Friends
+4708	Entity 1 : heat
+4709	The pillow of Western nations
+4710	Entity-Destination
+4711	Entity 1
+4712	Entity 1 : rainbows
+4713	The boy places the bell in the pocket of his robe and all the children watch as Santa takes off into the night for his annual deliveries 
+4714	Entity 1
+4715	Entity 1
+4716	Animal
+4717	Entity 1
+4718	Entity 1 : course
+4719	Entity-Destination
+4720	Component-Whole(e1,e2)
+4721	Entity 1 - joke
+4722	Entity 1 : amphibians
+4723	Entity 1 : squirrels
+4724	Entity-Destination
+4725	Entity 1
+4726	The family money was in the jar and was also lost
+4727	Description
+4728	Entity 1
+4729	Entity-Destination
+4730	Entity 1 : scars
+4731	Entity 1
+4732	Entity 1 : rats
+4733	Entity 1
+4734	Entity-Destination
+4735	Entity 1 : wine
+4736	Entity 1 : journal
+4737	Entity-Destination
+4738	Test
+4739	Entity 1 : Burns
+4740	Refrigerator
+4741	Entity 1
+4742	Entity 1
+4743	Answer
+4744	Entity 1 : pens
+4745	Component-Whole(e1,e2)
+4746	Entity-Destination
+4747	The boy
+4748	Entity 1
+4749	Entity-Destination
+4750	The pyramid of champagne flutes
+4751	Entity 1 - monitor
+4752	Entity-Origin
+4753	Carp
+4754	Entity-Destination(e1,e2)
+4755	Dr
+4756	Entity 1
+4757	Entity
+4758	Entity 1
+4759	The safest place in Korea was right behind a platoon of marines 
+4760	Entity
+4761	Company
+4762	The camera was in a suitcase
+4763	Entity 1 : tree
+4764	Entity-Destination
+4765	Food
+4766	Entity 1 : germs
+4767	Entity 1 : button
+4768	Entity 1 : cultures
+4769	Ingredients
+4770	Entity 1
+4771	Location
+4772	Entity-Destination
+4773	World
+4774	Entity 1 - effect
+4775	Entity 1 : bolt
+4776	Entity 1 : troop
+4777	World
+4778	Entity 1 : formalism
+4779	Religion
+4780	The people who poured acid into their eyes
+4781	Location
+4782	Entity-Destination
+4783	Entity-Destination
+4784	Entity-Destination
+4785	Entity 1 : Clip
+4786	Science/Tech
+4787	The ship Leaked oil into the brisbane river
+4788	Entity-Destination
+4789	Entity 1 : mainmast
+4790	Entity 1: caravan
+4791	Entity 1
+4792	Entity 1 : wine
+4793	Science fiction
+4794	Business
+4795	Entity 1
+4796	Sports
+4797	Entity-Destination
+4798	Entity 1 : Hairstyles
+4799	Entity 1 : seminar
+4800	Stores
+4801	Entity-Destination
+4802	Entity 1 : sedge
+4803	Food
+4804	Entity 1 : moisture
+4805	Relationship
+4806	Entity 1
+4807	Entity-Destination
+4808	Entity 1
+4809	Sci-Fi Channel
+4810	Entity
+4811	Ads
+4812	Man
+4813	Entity 1
+4814	Entity-Destination
+4815	Entity 1
+4816	Entity 1
+4817	Entity-Destination
+4818	Entity 1
+4819	Entity 1 : powertrain
+4820	Entity 1 , cadre
+4821	Entity-Destination
+4822	The data is based upon the research of the Dominican Republic
+4823	Entity-Destination
+4824	Entity 1
+4825	Person
+4826	Entity 1 : menage
+4827	Entity 1
+4828	Entity 1
+4829	Entity 1
+4830	Entity-Destination
+4831	Entity 1 : damage
+4832	Entity 1
+4833	Entity-Destination
+4834	Entity-Destination
+4835	Entity 1
+4836	Entity 1
+4837	Entity
+4838	Entity 1 : stars
+4839	Entity 1 : Character-compeers
+4840	Entity 1
+4841	Entity-Destination
+4842	The celebrity
+4843	Entity
+4844	Entity 1 : stack
+4845	Necklace
+4846	Entity 1 - criminal
+4847	Entity-Destination
+4848	The bottle
+4849	Entity 1 : sorrow
+4850	Entity
+4851	Entity-Origin
+4852	Entity 1
+4853	Entity 1
+4854	The parent/families
+4855	Entity-Destination
+4856	Family
+4857	Entity 1 : ham
+4858	Plant
+4859	Entity 1 : Advertising
+4860	Entity 1 : tube
+4861	Entity 1
+4862	Entity 1
+4863	Animal
+4864	Entity 1 , squirrel
+4865	Entity 1 : blogs
+4866	Entity 1
+4867	Musician
+4868	Company
+4869	Entity 1
+4870	Entity 1 : talk
+4871	Entity 1
+4872	Entity 1 : bed
+4873	Entity 1 : speech
+4874	Entity-Destination(e1,e2)
+4875	Entity 1 : Tutorial
+4876	Entity 1
+4877	Entity 1
+4878	Answer
+4879	Contact
+4880	Animal
+4881	Company
+4882	Food
+4883	Man
+4884	Entity 1 : potatoes
+4885	Entity 1
+4886	Entity 1
+4887	Entity-Origin
+4888	Entity 1
+4889	Location
+4890	Friends
+4891	The helmets
+4892	Entity-Destination
+4893	Contact
+4894	Entity 1
+4895	Entity-Destination
+4896	Entity 1 : astronauts
+4897	Account
+4898	Entity 1 : tension
+4899	Water
+4900	Entity 1
+4901	Entity 1
+4902	Animal
+4903	Entity-Destination
+4904	Entity 1 : Compeers
+4905	Entity 1
+4906	Entity 1
+4907	Food
+4908	School
+4909	Business
+4910	Entity 1 : binder
+4911	Entity-Destination
+4912	Entity 1
+4913	Country
+4914	Entity 1
+4915	Entity 1
+4916	Office
+4917	Entity 1
+4918	Entity 1
+4919	Location
+4920	Sports
+4921	Entity 1
+4922	Entity-Destination
+4923	Water
+4924	Entity-Destination
+4925	Food
+4926	Entity 1 - Privacy
+4927	Contact
+4928	Entity 1
+4929	Religion
+4930	Entity 1 : scum
+4931	Entity 1
+4932	Entity-Destination
+4933	Entity 1 : troops
+4934	Entity 1 : Comedy Format
+4935	Product
+4936	Entity-Destination
+4937	Food
+4938	We
+4939	Entity 1 : buns
+4940	Entity 1 : borrowers
+4941	Person
+4942	Entity 1 - Pilots
+4943	Entity 1 : coffee
+4944	Entity 1 : personnel
+4945	Entity-Destination
+4946	Entity 1
+4947	The technician
+4948	Entity 1
+4949	Person
+4950	Friends
+4951	Entity-Destination(e1,e2)
+4952	Person
+4953	Entity 1 : kitchen
+4954	Person
+4955	Entity 1
+4956	Company
+4957	Entity 1 : whirl
+4958	Entity 1 : body
+4959	Plant
+4960	Entity-Destination
+4961	Entity-Destination
+4962	Entity 1 : treatment
+4963	Entity 1 : dramas
+4964	Adults
+4965	Entity 1 : sample
+4966	Entity 1 : opening
+4967	Entity-Destination
+4968	Entity-Origin
+4969	Entity 1 : wheels
+4970	Entity 1 : phagocytes
+4971	Entity-Destination
+4972	Entity 1
+4973	Entity-Destination
+4974	Entity 1 : high-wheelers
+4975	Entity 1 : priests
+4976	Company
+4977	Entity 1
+4978	Entity 1
+4979	Entity 1
+4980	Entity 1
+4981	Business
+4982	Entity 1 : Commissioner
+4983	Entity 1 : files
+4984	Entity 1
+4985	Entity 1
+4986	Entity-Destination
+4987	Entity 1
+4988	Entity 1 : quarrel
+4989	Entity 1 : stones
+4990	World
+4991	Entity 1 : lines
+4992	Entity-Destination
+4993	Sports
+4994	Person
+4995	Science/Tech
+4996	Entity-Origin
+4997	Friends
+4998	Entity 1 - party
+4999	Entity 1 : study
