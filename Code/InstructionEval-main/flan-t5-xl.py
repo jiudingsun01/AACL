@@ -34,7 +34,7 @@ if __name__ == "__main__":
     #         experiment.add_tasks_by_name(
     #             task_name="RETACRED_QA",
     #             output_dir="./flan-t5-xl/",
-    #             batch_size="1",
+    #             batch_size="8",
     #             instruction=Ins_QA[i],
     #             shot_count="0",
     #             eval_by_logit=True,
@@ -42,7 +42,7 @@ if __name__ == "__main__":
     #         experiment.add_tasks_by_name(
     #             task_name="semeval_QA",
     #             output_dir="./flan-t5-xl/",
-    #             batch_size="1",
+    #             batch_size="8",
     #             instruction=Ins_QA[i],
     #             shot_count="0",
     #             eval_by_logit=True,
@@ -50,7 +50,7 @@ if __name__ == "__main__":
     #         experiment.add_tasks_by_name(
     #             task_name="TACRED_QA",
     #             output_dir="./flan-t5-xl/",
-    #             batch_size="1",
+    #             batch_size="8",
     #             instruction=Ins_QA[i],
     #             shot_count="0",
     #             eval_by_logit=True,
@@ -58,7 +58,7 @@ if __name__ == "__main__":
     #         experiment.add_tasks_by_name(
     #             task_name="TACREV_QA",
     #             output_dir="./flan-t5-xl/",
-    #             batch_size="1",
+    #             batch_size="8",
     #             instruction=Ins_QA[i],
     #             shot_count="0",
     #             eval_by_logit=True,
@@ -71,7 +71,7 @@ if __name__ == "__main__":
         # experiment.add_tasks_by_name(
         #     task_name="RETACRED_RE",
         #     output_dir="./flan-t5-xl/",
-        #     batch_size="1",
+        #     batch_size="8",
         #     instruction=Ins_RE[i],
         #     shot_count="0",
         #     eval_by_logit=True,
@@ -79,7 +79,7 @@ if __name__ == "__main__":
         experiment.add_tasks_by_name(
             task_name="semeval_RE",
             output_dir="./flan-t5-xl/",
-            batch_size="1",
+            batch_size="8",
             instruction=Ins_RE[i],
             shot_count="0",
             eval_by_logit=True,
@@ -87,7 +87,7 @@ if __name__ == "__main__":
         experiment.add_tasks_by_name(
             task_name="TACRED_RE",
             output_dir="./flan-t5-xl/",
-            batch_size="1",
+            batch_size="8",
             instruction=Ins_RE[i],
             shot_count="0",
             eval_by_logit=True,
@@ -95,7 +95,7 @@ if __name__ == "__main__":
         experiment.add_tasks_by_name(
             task_name="TACREV_RE",
             output_dir="./flan-t5-xl/",
-            batch_size="1",
+            batch_size="8",
             instruction=Ins_RE[i],
             shot_count="0",
             eval_by_logit=True,
@@ -104,7 +104,7 @@ if __name__ == "__main__":
     # experiment.add_tasks_by_name(
     #     task_name="RETACRED_QA",
     #     output_dir="./test/",
-    #     batch_size="1",
+    #     batch_size="8",
     #     instruction=None,
     #     # instruction="You are given a multi-choice question answering task, given the question and mutliple answer options, select the option that can be reasonably derived from the sentence's context and content.",
     #     shot_count="0",
@@ -113,7 +113,7 @@ if __name__ == "__main__":
     # experiment.add_tasks_by_name(
     #     task_name="semeval_QA",
     #     output_dir="./test/",
-    #     batch_size="1",
+    #     batch_size="8",
     #     instruction=None,
     #     # instruction="You are given a multi-choice question answering task, given the question and mutliple answer options, select the option that can be reasonably derived from the sentence's context and content.",
     #     shot_count="0",
@@ -122,7 +122,7 @@ if __name__ == "__main__":
     # experiment.add_tasks_by_name(
     #     task_name="TACRED_QA",
     #     output_dir="./test/",
-    #     batch_size="1",
+    #     batch_size="8",
     #     instruction=None,
     #     # instruction="You are given a multi-choice question answering task, given the question and mutliple answer options, select the option that can be reasonably derived from the sentence's context and content.",
     #     shot_count="0",
@@ -131,7 +131,7 @@ if __name__ == "__main__":
     # experiment.add_tasks_by_name(
     #     task_name="TACREV_QA",
     #     output_dir="./test/",
-    #     batch_size="1",
+    #     batch_size="8",
     #     instruction=None,
     #     # instruction="You are given a multi-choice question answering task, given the question and mutliple answer options, select the option that can be reasonably derived from the sentence's context and content.",
     #     shot_count="0",
